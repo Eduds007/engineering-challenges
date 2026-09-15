@@ -3,10 +3,13 @@
 Task: Rebuild the capital composition of ARCHEAN TECHNOLOGIES (SIREN 480489707) over its
 whole life, from its filings, with every change grounded in the document it came from.
 
+## Time spent:
+
+around 10 hours
+
 ## Screen recording
 
-<!-- TODO: record ~3 min walking through the approach and reasoning, upload to Loom, put
-the link here before submitting. -->
+https://youtu.be/W6lRL8Q7-lo
 
 ## What's here
 
@@ -77,15 +80,6 @@ effectively zero API cost. What's left (attendance-sheet rows, loose free-text m
 goes through a sequential LLM pass, one page at a time, cropped to the paragraph around the
 matched keyword rather than the whole page.
 
-Real chain found: **AIR SYSTEM SERVICE → HADEAN → ARCHEAN TECHNOLOGIES →
-{ARCHEAN LABS, ARCHEAN MOTION}** (three hops), none of it visible from ARCHEAN's own filings
-alone (HADEAN's ownership of ARCHEAN only shows up in HADEAN's *own* annual filing, and AIR
-SYSTEM SERVICE's stake in HADEAN only in a 2008 HADEAN acte and a 2019 attendance sheet,
-never in anything ARCHEAN itself filed). Plus a few unrelated small clusters (BERNACHON and
-its two subsidiaries, LESUEUR, CEROV, JACQUES BOCKEL) that turned out to have nothing to do
-with ARCHEAN, which is the point of the exercise: most of the 20 aren't connected to
-anything. Names that don't match one of the 20 known companies are left `resolved: false`
-with no guessed SIREN (e.g. `CHANGE BY FIDSO`, `HOLDING CEROV`, `SK2R SAS`).
 
 <a id="ai-tools"></a>
 ## How I used AI
