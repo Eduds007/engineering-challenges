@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Group ownership graph</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface-0:      #f7f7f5;
+    --surface-1:      #fcfcfb;
+    --surface-2:      #ffffff;
+    --border:         #e4e3de;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #85837c;
+    --series-1:       #2a78d6;
+    --series-2:       #eb6834;
+    --series-3:       #1baf7a;
+    --series-4:       #eda100;
+    --series-5:       #e87ba4;
+    --series-6:       #008300;
+    --series-7:       #4a3aa7;
+    --series-8:       #e34948;
+    --series-unknown: #9a9890;
+    --grid:           #e4e3de;
+    --accent:         #2a78d6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --surface-0:      #141413;
+      --surface-1:      #1a1a19;
+      --surface-2:      #202020;
+      --border:         #34332f;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #8f8d84;
+      --series-1:       #3987e5;
+      --series-2:       #d95926;
+      --series-3:       #199e70;
+      --series-4:       #c98500;
+      --series-5:       #d55181;
+      --series-6:       #008300;
+      --series-7:       #9085e9;
+      --series-8:       #e66767;
+      --series-unknown: #6b6a63;
+      --grid:           #34332f;
+      --accent:         #3987e5;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface-0:      #141413;
+    --surface-1:      #1a1a19;
+    --surface-2:      #202020;
+    --border:         #34332f;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #8f8d84;
+    --series-1:       #3987e5;
+    --series-2:       #d95926;
+    --series-3:       #199e70;
+    --series-4:       #c98500;
+    --series-5:       #d55181;
+    --series-6:       #008300;
+    --series-7:       #9085e9;
+    --series-8:       #e66767;
+    --series-unknown: #6b6a63;
+    --grid:           #34332f;
+    --accent:         #3987e5;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--surface-0);
+    color: var(--text-primary);
+    font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    padding-block: 32px;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; padding-inline: 20px; }
+
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .subtitle { color: var(--text-secondary); font-size: 13px; margin: 0 0 28px; }
+  .subtitle code { background: var(--surface-2); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; }
+
+  .card {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 22px 22px;
+    margin-bottom: 22px;
+  }
+  .card.graph-card { overflow: hidden; }
+  .card h2 { font-size: 14px; margin: 0 0 2px; }
+  .card .desc { color: var(--text-muted); font-size: 12px; margin: 0 0 16px; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 14px; margin: 10px 0 4px; font-size: 12px; color: var(--text-secondary); }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .swatch { width: 10px; height: 10px; border-radius: 999px; flex: none; }
+  .swatch.dashed { border: 1.5px dashed var(--series-unknown); background: none; }
+
+  svg { display: block; font: 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .graph-svg { width: 100%; display: block; }
+  .node circle { stroke: var(--surface-1); stroke-width: 2px; cursor: pointer; }
+  .node.unresolved circle { stroke-dasharray: 3 2; }
+  .node text { fill: var(--text-primary); font-weight: 600; pointer-events: none; paint-order: stroke; stroke: var(--surface-1); stroke-width: 3px; }
+  .node.unresolved text { fill: var(--text-muted); font-weight: 400; font-style: italic; }
+  .node.dim circle { opacity: .28; }
+  .node.dim text { opacity: .28; }
+  .link { stroke-width: 1.8px; fill: none; }
+  .link-glow { stroke-width: 6px; fill: none; opacity: 0; }
+
+  .controls {
+    display: flex; align-items: center; gap: 14px; margin-top: 18px;
+    padding-top: 16px; border-top: 1px solid var(--border);
+  }
+  .play-btn {
+    flex: none; width: 34px; height: 34px; border-radius: 999px; border: 1px solid var(--border);
+    background: var(--accent); color: #fff; cursor: pointer; font-size: 14px;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .play-btn:hover { filter: brightness(1.08); }
+  .scrubber-wrap { flex: 1; position: relative; }
+  .scrubber { width: 100%; accent-color: var(--accent); }
+  .scrubber-date { font-size: 12px; color: var(--text-secondary); text-align: center; margin-top: 4px; }
+  .scrubber-date b { color: var(--text-primary); font-variant-numeric: tabular-nums; }
+  .reset-btn {
+    flex: none; border: 1px solid var(--border); background: var(--surface-2); color: var(--text-secondary);
+    border-radius: 6px; padding: 6px 10px; font-size: 12px; cursor: pointer;
+  }
+  .reset-btn:hover { color: var(--text-primary); }
+
+  .tooltip {
+    position: fixed; pointer-events: none; background: var(--surface-2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 9px 12px; font-size: 12px; box-shadow: 0 4px 16px rgba(0,0,0,.12);
+    z-index: 10; display: none; max-width: 300px;
+  }
+  .tooltip .t-title { font-weight: 600; margin-bottom: 3px; }
+  .tooltip .t-row { color: var(--text-secondary); }
+  .tooltip .t-snippet { color: var(--text-muted); font-style: italic; margin-top: 5px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--text-muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .02em; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  tr:last-child td { border-bottom: none; }
+  tr.future { opacity: .35; }
+  .pill { display: inline-block; padding: 1px 7px; border-radius: 999px; font-size: 10.5px; background: var(--surface-2); border: 1px solid var(--border); color: var(--text-secondary); }
+  .snippet { color: var(--text-muted); font-style: italic; }
+  .empty-state { color: var(--text-muted); padding: 20px 0; }
+  .table-wrap { overflow-x: auto; }
+  .nav { font-size: 12.5px; margin: 0 0 14px; }
+  .nav a { color: var(--text-secondary); }
+  .nav a:hover { color: var(--text-primary); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="nav"><a href="../index.html">← home</a> · <a href="index.html">capital timeline →</a></p>
+  <h1>Group ownership graph</h1>
+  <p class="subtitle">Every proven cross-company relation found in the corpus — press play and watch them appear in the order they were recorded. Pass <code>?results=&lt;path&gt;</code> to view a different <code>build_results.py</code> output (default <code>../results.json</code>).</p>
+
+  <div class="card graph-card">
+    <h2>Connections across companies</h2>
+    <p class="desc">A shareholder sits above the company it holds; companies with no relation to a given tree stand in their own column beside it. Solid nodes are resolved to a known SIREN; dashed/italic nodes are named but unresolved. Drag the scrubber (or press play) to reveal edges as of that date. Hover a node or edge for its source.</p>
+    <div id="legend" class="legend"></div>
+    <svg id="graph" class="graph-svg"></svg>
+    <div id="empty-graph" class="empty-state" style="display:none">No group edges in this results file yet.</div>
+    <div id="controls" class="controls" style="display:none">
+      <button id="play-btn" class="play-btn" title="Play">▶</button>
+      <div class="scrubber-wrap">
+        <input id="scrubber" class="scrubber" type="range" min="0" max="0" value="0" step="1">
+        <div class="scrubber-date">as of <b id="scrubber-date">—</b> · <span id="scrubber-count">0/0 edges</span></div>
+      </div>
+      <button id="reset-btn" class="reset-btn">Reset</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Edges</h2>
+    <p class="desc">Every <code>group.edges[]</code> entry, in date order. Rows past the current scrubber position are dimmed.</p>
+    <div id="edges-wrap" class="table-wrap"></div>
+  </div>
+</div>
+
+<div id="tooltip" class="tooltip"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+const COLOR_SLOTS = ["var(--series-1)", "var(--series-2)", "var(--series-3)", "var(--series-4)",
+                      "var(--series-5)", "var(--series-6)", "var(--series-7)", "var(--series-8)"];
+
+const tooltip = document.getElementById("tooltip");
+function showTip(evt, html) {
+  tooltip.innerHTML = html;
+  tooltip.style.display = "block";
+  const pad = 14;
+  tooltip.style.left = Math.min(evt.clientX + pad, window.innerWidth - 320) + "px";
+  tooltip.style.top = (evt.clientY + pad) + "px";
+}
+function hideTip() { tooltip.style.display = "none"; }
+function fmtPct(n) { return (n === null || n === undefined) ? "—" : `${n}%`; }
+function edgeTip(e) {
+  return `
+    <div class="t-title">${e.from} → ${e.to}</div>
+    <div class="t-row">${e.relation}${e.pct != null ? ` · ${fmtPct(e.pct)}` : ""} · ${e.as_of || "undated"}</div>
+    ${e.source && e.source.inpi_id ? `<div class="t-row">doc ${e.source.inpi_id}, page ${e.source.page ?? "?"}</div>` : ""}
+    ${e.source && e.source.snippet ? `<div class="t-snippet">"${e.source.snippet.slice(0, 160)}${e.source.snippet.length > 160 ? "…" : ""}"</div>` : ""}
+    ${e.note ? `<div class="t-row">${e.note}</div>` : ""}
+  `;
+}
+function nodeTip(n, degree) {
+  return `<div class="t-title">${n.name}</div>
+    <div class="t-row">${n.resolved ? `SIREN ${n.siren}` : "unresolved — no SIREN guessed"}</div>
+    <div class="t-row">${degree} connection${degree === 1 ? "" : "s"}</div>`;
+}
+
+async function main() {
+  const resultsPath = new URLSearchParams(location.search).get("results") || "../results.json";
+  const resp = await fetch(resultsPath, { cache: "no-store" });
+  if (!resp.ok) throw new Error(`${resultsPath}: HTTP ${resp.status}`);
+  const data = await resp.json();
+
+  const group = data.group || { nodes: [], edges: [] };
+  const nodesRaw = group.nodes || [];
+  const edgesAll = (group.edges || []).slice().sort((a, b) => (a.as_of || "").localeCompare(b.as_of || ""));
+
+  renderEdgesTable(edgesAll, null);
+
+  if (!nodesRaw.length || !edgesAll.length) {
+    document.getElementById("empty-graph").style.display = "block";
+    return;
+  }
+
+  // Color: resolved nodes get a distinct series color in first-appearance order;
+  // unresolved nodes are always the muted "unknown" tone (matches viz/index.html's convention).
+  const colorFor = {};
+  let colorIdx = 0;
+  for (const n of nodesRaw) {
+    colorFor[n.name] = n.resolved ? COLOR_SLOTS[colorIdx++ % COLOR_SLOTS.length] : "var(--series-unknown)";
+  }
+
+  const nodeById = new Map(nodesRaw.map(n => [n.name, { id: n.name, ...n }]));
+  const treeNodes = Array.from(nodeById.values());
+
+  const uniqueDates = [...new Set(edgesAll.map(e => e.as_of).filter(Boolean))].sort();
+  document.getElementById("controls").style.display = uniqueDates.length ? "flex" : "none";
+
+  renderLegend(treeNodes, colorFor);
+
+  const degree = {};
+  for (const e of edgesAll) {
+    degree[e.from] = (degree[e.from] || 0) + 1;
+    degree[e.to] = (degree[e.to] || 0) + 1;
+  }
+
+  // --- hierarchy layout: whoever is a shareholder sits above the company it holds,
+  // companies with no relation to a given tree sit in their own column beside it -----
+  // 1. connected components (undirected) — each becomes its own side-by-side tree.
+  const uf = new Map(treeNodes.map(n => [n.id, n.id]));
+  function find(x) { while (uf.get(x) !== x) x = uf.get(x); return x; }
+  function union(a, b) { const ra = find(a), rb = find(b); if (ra !== rb) uf.set(ra, rb); }
+  for (const e of edgesAll) union(e.from, e.to);
+
+  // 2. depth = longest path from a root (a node nothing points TO within its
+  // component) — standard DAG layering, and it naturally handles a node with more
+  // than one shareholder (e.g. HADEAN has two): depth is only finalized once every
+  // parent has been processed, so it reflects the deepest parent, not just the first.
+  const outEdges = new Map(treeNodes.map(n => [n.id, []]));
+  const inDeg = new Map(treeNodes.map(n => [n.id, 0]));
+  for (const e of edgesAll) {
+    outEdges.get(e.from).push(e.to);
+    inDeg.set(e.to, inDeg.get(e.to) + 1);
+  }
+  const depth = new Map(treeNodes.map(n => [n.id, 0]));
+  const remainingInDeg = new Map(inDeg);
+  let queue = treeNodes.filter(n => remainingInDeg.get(n.id) === 0).map(n => n.id);
+  const visited = new Set(queue);
+  for (let qi = 0; qi < queue.length; qi++) {
+    const u = queue[qi];
+    for (const v of outEdges.get(u)) {
+      depth.set(v, Math.max(depth.get(v), depth.get(u) + 1));
+      remainingInDeg.set(v, remainingInDeg.get(v) - 1);
+      if (remainingInDeg.get(v) === 0 && !visited.has(v)) { visited.add(v); queue.push(v); }
+    }
+  }
+  // any node a cycle kept out of the queue (shouldn't happen in ownership data, but
+  // don't hang the layout on it) — treat as its own root at depth 0.
+  for (const n of treeNodes) if (!visited.has(n.id)) depth.set(n.id, 0);
+
+  // 3. group by component, then by depth within it; components ordered largest first.
+  const compOf = new Map(treeNodes.map(n => [n.id, find(n.id)]));
+  const components = new Map();
+  for (const n of treeNodes) {
+    const c = compOf.get(n.id);
+    if (!components.has(c)) components.set(c, []);
+    components.get(c).push(n.id);
+  }
+  const compList = Array.from(components.values()).sort((a, b) => b.length - a.length);
+
+  const svg = d3.select("#graph");
+  const bbox = svg.node().getBoundingClientRect();
+  const levelH = 92, nodeW = 132, topMargin = 40, compGap = 50;
+  let cursorX = 40;
+  const pos = new Map();
+  let maxLevels = 1;
+  for (const comp of compList) {
+    const byDepth = new Map();
+    for (const id of comp) {
+      const d = depth.get(id);
+      if (!byDepth.has(d)) byDepth.set(d, []);
+      byDepth.get(d).push(id);
+    }
+    maxLevels = Math.max(maxLevels, ...Array.from(byDepth.keys()).map(d => d + 1));
+    const compWidth = Math.max(...Array.from(byDepth.values()).map(l => l.length)) * nodeW;
+    for (const [d, ids] of byDepth) {
+      ids.forEach((id, i) => {
+        const levelWidth = ids.length * nodeW;
+        const x = cursorX + (compWidth - levelWidth) / 2 + i * nodeW + nodeW / 2;
+        pos.set(id, { x, y: topMargin + d * levelH });
+      });
+    }
+    cursorX += compWidth + compGap;
+  }
+  const width = Math.max(bbox.width || 1000, cursorX);
+  const height = topMargin + maxLevels * levelH + 30;
+  svg.attr("viewBox", `0 0 ${width} ${height}`).attr("height", height);
+
+  // vertical S-curve connector, parent-to-child — standard org-chart look
+  function linkPath(e) {
+    const p = pos.get(e.from), c = pos.get(e.to);
+    const my = (p.y + c.y) / 2;
+    return `M ${p.x} ${p.y + 15} C ${p.x} ${my}, ${c.x} ${my}, ${c.x} ${c.y - 15}`;
+  }
+
+  const linkSel = svg.append("g").attr("class", "links")
+    .selectAll("path").data(edgesAll).join("path")
+    .attr("class", "link")
+    .attr("d", linkPath)
+    .attr("stroke", d => colorFor[d.from] || "var(--series-unknown)")
+    .attr("opacity", 0)
+    .on("mousemove", (evt, d) => showTip(evt, edgeTip(d)))
+    .on("mouseleave", hideTip);
+
+  const nodeSel = svg.append("g").attr("class", "nodes")
+    .selectAll("g").data(treeNodes).join("g")
+    .attr("class", d => "node" + (d.resolved ? "" : " unresolved") + " dim")
+    .attr("transform", d => `translate(${pos.get(d.id).x},${pos.get(d.id).y})`);
+
+  nodeSel.append("circle")
+    .attr("r", d => 8 + Math.min(degree[d.id] || 0, 6) * 1.6)
+    .attr("fill", d => d.resolved ? colorFor[d.id] : "var(--surface-2)")
+    .attr("stroke", d => d.resolved ? colorFor[d.id] : "var(--series-unknown)");
+
+  nodeSel.append("text")
+    .attr("dy", d => 11 + Math.min(degree[d.id] || 0, 6) * 1.6 + 12)
+    .attr("text-anchor", "middle")
+    .text(d => d.id.length > 20 ? d.id.slice(0, 18) + "…" : d.id);
+
+  nodeSel
+    .on("mousemove", (evt, d) => showTip(evt, nodeTip(d, degree[d.id] || 0)))
+    .on("mouseleave", hideTip);
+
+  // --- timeline reveal -----------------------------------------------------
+  const scrubber = document.getElementById("scrubber");
+  const dateLabel = document.getElementById("scrubber-date");
+  const countLabel = document.getElementById("scrubber-count");
+  scrubber.max = String(uniqueDates.length - 1);
+
+  function activeEdgesUpTo(idx) {
+    if (idx < 0) return new Set();
+    const cutoff = uniqueDates[idx];
+    const set = new Set();
+    edgesAll.forEach((e, i) => { if (e.as_of && e.as_of <= cutoff) set.add(i); });
+    return set;
+  }
+
+  function applyRevealState(idx) {
+    const active = activeEdgesUpTo(idx);
+    const touchedNodes = new Set();
+    edgesAll.forEach((e, i) => { if (active.has(i)) { touchedNodes.add(e.from); touchedNodes.add(e.to); } });
+    linkSel
+      .transition().duration(280)
+      .attr("opacity", (d, i) => active.has(i) ? 0.85 : 0);
+    nodeSel.classed("dim", d => !touchedNodes.has(d.id));
+
+    dateLabel.textContent = idx < 0 ? "—" : uniqueDates[idx];
+    countLabel.textContent = `${active.size}/${edgesAll.length} edges`;
+    renderEdgesTable(edgesAll, idx < 0 ? null : uniqueDates[idx]);
+  }
+
+  scrubber.value = "0";
+  scrubber.addEventListener("input", () => applyRevealState(+scrubber.value));
+  applyRevealState(-1);
+  // start from nothing revealed, one tick after layout, so the very first frame
+  // shown is "no connections yet" rather than everything already drawn
+  setTimeout(() => applyRevealState(-1), 50);
+
+  let playing = false, playTimer = null;
+  const playBtn = document.getElementById("play-btn");
+  function stopPlay() {
+    playing = false;
+    clearInterval(playTimer);
+    playBtn.textContent = "▶";
+  }
+  playBtn.addEventListener("click", () => {
+    if (playing) { stopPlay(); return; }
+    if (+scrubber.value >= +scrubber.max) { scrubber.value = "-1"; applyRevealState(-1); }
+    playing = true;
+    playBtn.textContent = "⏸";
+    playTimer = setInterval(() => {
+      const next = +scrubber.value + 1;
+      if (next > +scrubber.max) { stopPlay(); return; }
+      scrubber.value = String(next);
+      applyRevealState(next);
+    }, 1100);
+  });
+  document.getElementById("reset-btn").addEventListener("click", () => {
+    stopPlay();
+    scrubber.value = "-1";
+    applyRevealState(-1);
+  });
+}
+
+function renderLegend(nodes, colorFor) {
+  const el = document.getElementById("legend");
+  el.innerHTML = "";
+  const resolved = nodes.filter(n => n.resolved);
+  const unresolvedCount = nodes.length - resolved.length;
+  for (const n of resolved) {
+    const item = document.createElement("div");
+    item.className = "legend-item";
+    const sw = document.createElement("div");
+    sw.className = "swatch";
+    sw.style.background = colorFor[n.id];
+    item.appendChild(sw);
+    const label = document.createElement("span");
+    label.textContent = `${n.id} (${n.siren})`;
+    item.appendChild(label);
+    el.appendChild(item);
+  }
+  if (unresolvedCount) {
+    const item = document.createElement("div");
+    item.className = "legend-item";
+    const sw = document.createElement("div");
+    sw.className = "swatch dashed";
+    item.appendChild(sw);
+    const label = document.createElement("span");
+    label.textContent = `${unresolvedCount} unresolved name${unresolvedCount === 1 ? "" : "s"}`;
+    item.appendChild(label);
+    el.appendChild(item);
+  }
+}
+
+function renderEdgesTable(edges, cutoffDate) {
+  const wrap = document.getElementById("edges-wrap");
+  if (!edges.length) {
+    wrap.innerHTML = `<div class="empty-state">No group edges yet.</div>`;
+    return;
+  }
+  const rows = edges.map(e => {
+    const future = cutoffDate !== null && cutoffDate !== undefined && (!e.as_of || e.as_of > cutoffDate);
+    return `
+    <tr class="${future ? "future" : ""}">
+      <td>${e.as_of || "—"}</td>
+      <td>${e.from}</td>
+      <td>${e.to}</td>
+      <td><span class="pill">${e.relation}</span></td>
+      <td class="num">${fmtPct(e.pct)}</td>
+      <td>
+        ${e.source && e.source.inpi_id ? `doc ${e.source.inpi_id}, p.${e.source.page ?? "?"}` : "—"}
+        ${e.source && e.source.snippet ? `<div class="snippet">"${e.source.snippet.slice(0, 140)}${e.source.snippet.length > 140 ? "…" : ""}"</div>` : ""}
+        ${e.note ? `<div class="snippet">${e.note}</div>` : ""}
+      </td>
+    </tr>
+  `;
+  }).join("");
+  wrap.innerHTML = `
+    <table>
+      <thead><tr><th>Date</th><th>From</th><th>To</th><th>Relation</th><th class="num">%</th><th>Evidence</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  `;
+}
+
+main().catch(err => {
+  document.querySelector(".wrap").innerHTML = `<p style="color:#e34948">Failed to load: ${err.message}</p>`;
+});
+</script>
+</body>
+</html>

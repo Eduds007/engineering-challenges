@@ -1,0 +1,408 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ARCHEAN TECHNOLOGIES — capital timeline</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface-0:      #f7f7f5;
+    --surface-1:      #fcfcfb;
+    --surface-2:      #ffffff;
+    --border:         #e4e3de;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #85837c;
+    --series-1:       #2a78d6; /* blue */
+    --series-2:       #eb6834; /* orange */
+    --series-3:       #1baf7a; /* aqua */
+    --series-4:       #eda100; /* yellow */
+    --series-5:       #e87ba4; /* magenta */
+    --series-6:       #008300; /* green */
+    --series-7:       #4a3aa7; /* violet */
+    --series-8:       #e34948; /* red */
+    --series-unknown: #9a9890; /* unallocated / unknown holder */
+    --grid:            #e4e3de;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --surface-0:      #141413;
+      --surface-1:      #1a1a19;
+      --surface-2:      #202020;
+      --border:         #34332f;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #8f8d84;
+      --series-1:       #3987e5;
+      --series-2:       #d95926;
+      --series-3:       #199e70;
+      --series-4:       #c98500;
+      --series-5:       #d55181;
+      --series-6:       #008300;
+      --series-7:       #9085e9;
+      --series-8:       #e66767;
+      --series-unknown: #6b6a63;
+      --grid:            #34332f;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface-0:      #141413;
+    --surface-1:      #1a1a19;
+    --surface-2:      #202020;
+    --border:         #34332f;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #8f8d84;
+    --series-1:       #3987e5;
+    --series-2:       #d95926;
+    --series-3:       #199e70;
+    --series-4:       #c98500;
+    --series-unknown: #6b6a63;
+    --grid:            #34332f;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--surface-0);
+    color: var(--text-primary);
+    font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    padding-block: 32px;
+  }
+  .wrap { max-width: 1040px; margin: 0 auto; padding-inline: 20px; }
+
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .subtitle { color: var(--text-secondary); font-size: 13px; margin: 0 0 28px; }
+  .subtitle code { background: var(--surface-2); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; }
+
+  .card {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 22px 22px;
+    margin-bottom: 22px;
+  }
+  .card h2 { font-size: 14px; margin: 0 0 2px; }
+  .card .desc { color: var(--text-muted); font-size: 12px; margin: 0 0 16px; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 14px; margin: 10px 0 4px; font-size: 12px; color: var(--text-secondary); }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .swatch { width: 10px; height: 10px; border-radius: 2px; flex: none; }
+
+  svg { display: block; overflow: visible; font: 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .axis-label { fill: var(--text-muted); }
+  .grid-line { stroke: var(--grid); stroke-width: 1; }
+  .bar-seg { stroke: var(--surface-1); stroke-width: 2; }
+  .bar-seg:hover { filter: brightness(1.08); cursor: pointer; }
+  .cap-bar { fill: var(--series-1); }
+  .cap-bar:hover { filter: brightness(1.1); cursor: pointer; }
+  .date-label { fill: var(--text-secondary); text-anchor: middle; }
+  .value-label { fill: var(--text-primary); text-anchor: middle; font-weight: 600; }
+
+  .tooltip {
+    position: fixed;
+    pointer-events: none;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 11px;
+    font-size: 12px;
+    box-shadow: 0 4px 16px rgba(0,0,0,.12);
+    z-index: 10;
+    display: none;
+    max-width: 260px;
+  }
+  .tooltip .t-title { font-weight: 600; margin-bottom: 2px; }
+  .tooltip .t-row { color: var(--text-secondary); }
+
+  table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--text-muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .02em; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  tr:last-child td { border-bottom: none; }
+  .pill { display: inline-block; padding: 1px 7px; border-radius: 999px; font-size: 10.5px; background: var(--surface-2); border: 1px solid var(--border); color: var(--text-secondary); }
+  .notes-row td { color: var(--text-secondary); font-size: 12px; background: var(--surface-0); }
+  .notes-row ul { margin: 2px 0 0; padding-left: 18px; }
+  details { margin-top: 6px; }
+  summary { cursor: pointer; color: var(--text-secondary); font-size: 12px; }
+  .snippet { color: var(--text-muted); font-style: italic; }
+  .empty-state { color: var(--text-muted); padding: 20px 0; }
+  .nav { font-size: 12.5px; margin: 0 0 14px; }
+  .nav a { color: var(--text-secondary); }
+  .nav a:hover { color: var(--text-primary); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="nav"><a href="../index.html">← home</a> · <a href="group_timeline.html">group ownership graph →</a></p>
+  <h1 id="page-title">Capital reconstruction</h1>
+  <p class="subtitle">SIREN <span id="siren-label"><code>480489707</code></span> · rendered live from the loaded results file — pass <code>?results=&lt;path&gt;</code> to view a different one</p>
+
+  <div class="card">
+    <h2>Ownership composition over time</h2>
+    <p class="desc">% of shares held, after each dated capital-table change. Gray = unallocated tranche (subscriber not identified in the corpus).</p>
+    <div id="legend" class="legend"></div>
+    <svg id="ownership-chart" width="1000" height="340"></svg>
+  </div>
+
+  <div class="card">
+    <h2>Share capital over time</h2>
+    <p class="desc">Nominal share capital (€) after each event.</p>
+    <svg id="capital-chart" width="1000" height="220"></svg>
+  </div>
+
+  <div class="card">
+    <h2>Snapshot detail</h2>
+    <p class="desc">Every row is one <code>capital_timeline</code> entry — the state after that date's event(s).</p>
+    <div id="table-wrap"></div>
+  </div>
+
+  <div class="card">
+    <h2>Events</h2>
+    <p class="desc">The grounded events that drove the timeline above — <code>events[]</code> in the pipeline output.</p>
+    <div id="events-wrap"></div>
+  </div>
+
+  <div class="card">
+    <h2>Notes</h2>
+    <p class="desc">The submission's own <code>notes</code> field — contradictions, gaps, and what's not yet resolved.</p>
+    <div id="notes-wrap"></div>
+  </div>
+</div>
+
+<div id="tooltip" class="tooltip"></div>
+
+<script>
+const HOLDER_COLORS = {}; // assigned in order of first appearance
+const COLOR_SLOTS = ["var(--series-1)", "var(--series-2)", "var(--series-3)", "var(--series-4)",
+                      "var(--series-5)", "var(--series-6)", "var(--series-7)", "var(--series-8)"];
+function colorFor(name) {
+  if (name.startsWith("UNKNOWN")) return "var(--series-unknown)";
+  if (!(name in HOLDER_COLORS)) {
+    HOLDER_COLORS[name] = COLOR_SLOTS[Object.keys(HOLDER_COLORS).length % COLOR_SLOTS.length];
+  }
+  return HOLDER_COLORS[name];
+}
+function shortName(name) {
+  return name.startsWith("UNKNOWN") ? "Unallocated" : name;
+}
+
+const tooltip = document.getElementById("tooltip");
+function showTip(evt, html) {
+  tooltip.innerHTML = html;
+  tooltip.style.display = "block";
+  const pad = 14;
+  tooltip.style.left = Math.min(evt.clientX + pad, window.innerWidth - 280) + "px";
+  tooltip.style.top = (evt.clientY + pad) + "px";
+}
+function hideTip() { tooltip.style.display = "none"; }
+
+function fmtEur(n) {
+  if (n === null || n === undefined) return "—";
+  return n.toLocaleString("en-US", {maximumFractionDigits: 0}) + " €";
+}
+function fmtNum(n) {
+  if (n === null || n === undefined) return "—";
+  return n.toLocaleString("en-US", {maximumFractionDigits: 0});
+}
+
+async function main() {
+  // Defaults to the challenge submission (../results.json). Pass ?results=<path> to
+  // view any other build_results.py output instead, e.g.:
+  //   viz/index.html?results=../output/499979540/results.json
+  const resultsPath = new URLSearchParams(location.search).get("results") || "../results.json";
+  const resp = await fetch(resultsPath, { cache: "no-store" });
+  if (!resp.ok) throw new Error(`${resultsPath}: HTTP ${resp.status}`);
+  const data = await resp.json();
+
+  const timeline = data.capital_timeline || [];
+  const KNOWN_DENOMINATIONS = {
+    "480489707": "ARCHEAN TECHNOLOGIES", "499979540": "HADEAN", "843071218": "ARCHEAN LABS",
+  };
+  const label = KNOWN_DENOMINATIONS[data.siren] || `SIREN ${data.siren ?? "?"}`;
+  document.getElementById("page-title").textContent = `${label} — capital reconstruction`;
+  document.getElementById("siren-label").innerHTML = `<code>${data.siren ?? "?"}</code>`;
+  document.title = `${label} — capital reconstruction`;
+
+  // pre-assign colors in first-appearance order across the whole timeline, so a
+  // holder's color never changes between snapshots (color follows the entity)
+  for (const snap of timeline) {
+    for (const h of snap.holders) colorFor(h.name);
+  }
+
+  renderOwnershipChart(timeline);
+  renderCapitalChart(timeline);
+  renderTable(timeline);
+  renderEvents(data.events || []);
+  renderNotes(data.notes);
+}
+
+function renderNotes(notes) {
+  const wrap = document.getElementById("notes-wrap");
+  if (!notes) {
+    wrap.innerHTML = `<p class="empty-state">No notes field in results.json.</p>`;
+    return;
+  }
+  const pre = document.createElement("pre");
+  pre.style.whiteSpace = "pre-wrap";
+  pre.style.font = "12.5px/1.6 -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
+  pre.style.color = "var(--text-secondary)";
+  pre.style.margin = "0";
+  pre.textContent = notes;
+  wrap.appendChild(pre);
+}
+
+function renderOwnershipChart(timeline) {
+  const svg = document.getElementById("ownership-chart");
+  const W = 1000, H = 340;
+  const marginL = 44, marginR = 12, marginT = 10, marginB = 46;
+  const plotW = W - marginL - marginR, plotH = H - marginT - marginB;
+  const n = timeline.length;
+  const bw = Math.min(56, plotW / n * 0.62);
+  const gap = plotW / n;
+
+  let svgContent = "";
+  // gridlines at 0/25/50/75/100%
+  for (let p = 0; p <= 100; p += 25) {
+    const y = marginT + plotH - (p / 100) * plotH;
+    svgContent += `<line class="grid-line" x1="${marginL}" x2="${W - marginR}" y1="${y}" y2="${y}" />`;
+    svgContent += `<text class="axis-label" x="${marginL - 8}" y="${y + 3}" text-anchor="end">${p}%</text>`;
+  }
+
+  timeline.forEach((snap, i) => {
+    const cx = marginL + gap * i + gap / 2;
+    const x0 = cx - bw / 2;
+    const total = snap.holders.reduce((s, h) => s + (h.pct || 0), 0);
+    let yCursor = marginT + plotH;
+    if (!snap.holders.length || total === 0) {
+      svgContent += `<text class="axis-label" x="${cx}" y="${marginT + plotH / 2}" text-anchor="middle">no data</text>`;
+    } else {
+      // stack in fixed legend order so adjacent segments keep the validated color order
+      const ordered = [...snap.holders].sort((a, b) => {
+        const ai = a.name.startsWith("UNKNOWN") ? 999 : Object.keys(HOLDER_COLORS).indexOf(a.name);
+        const bi = b.name.startsWith("UNKNOWN") ? 999 : Object.keys(HOLDER_COLORS).indexOf(b.name);
+        return ai - bi;
+      });
+      ordered.forEach(h => {
+        const pct = h.pct || 0;
+        const segH = (pct / 100) * plotH;
+        const y = yCursor - segH;
+        svgContent += `<rect class="bar-seg" data-name="${shortName(h.name)}" data-shares="${fmtNum(h.shares)}" data-pct="${pct.toFixed(2)}" data-date="${snap.as_of}"
+          x="${x0}" y="${y}" width="${bw}" height="${Math.max(segH, 0)}" rx="2" fill="${colorFor(h.name)}" />`;
+        yCursor = y;
+      });
+    }
+    svgContent += `<text class="date-label" x="${cx}" y="${H - marginB + 18}">${snap.as_of}</text>`;
+  });
+
+  svg.innerHTML = svgContent;
+  svg.querySelectorAll(".bar-seg").forEach(el => {
+    el.addEventListener("mousemove", (evt) => {
+      showTip(evt, `<div class="t-title">${el.dataset.name}</div>
+        <div class="t-row">${el.dataset.date}</div>
+        <div class="t-row">${el.dataset.shares} shares · ${el.dataset.pct}%</div>`);
+    });
+    el.addEventListener("mouseleave", hideTip);
+  });
+
+  // legend
+  const legend = document.getElementById("legend");
+  legend.innerHTML = Object.keys(HOLDER_COLORS).map(name =>
+    `<div class="legend-item"><span class="swatch" style="background:${colorFor(name)}"></span>${name}</div>`
+  ).join("") + `<div class="legend-item"><span class="swatch" style="background:var(--series-unknown)"></span>Unallocated (unknown holder)</div>`;
+}
+
+function renderCapitalChart(timeline) {
+  const svg = document.getElementById("capital-chart");
+  const W = 1000, H = 220;
+  const marginL = 64, marginR = 12, marginT = 10, marginB = 46;
+  const plotW = W - marginL - marginR, plotH = H - marginT - marginB;
+  const n = timeline.length;
+  const gap = plotW / n;
+  const bw = Math.min(48, gap * 0.6);
+
+  const values = timeline.map(s => s.capital_eur).filter(v => v !== null && v !== undefined);
+  const maxV = Math.max(...values, 1);
+  const niceMax = Math.ceil(maxV / 100000) * 100000;
+
+  let svgContent = "";
+  for (let f = 0; f <= 1; f += 0.25) {
+    const y = marginT + plotH - f * plotH;
+    svgContent += `<line class="grid-line" x1="${marginL}" x2="${W - marginR}" y1="${y}" y2="${y}" />`;
+    svgContent += `<text class="axis-label" x="${marginL - 8}" y="${y + 3}" text-anchor="end">${fmtEur(Math.round(niceMax * f))}</text>`;
+  }
+
+  timeline.forEach((snap, i) => {
+    const cx = marginL + gap * i + gap / 2;
+    const x0 = cx - bw / 2;
+    if (snap.capital_eur === null || snap.capital_eur === undefined) {
+      svgContent += `<text class="axis-label" x="${cx}" y="${marginT + plotH - 4}" text-anchor="middle">?</text>`;
+    } else {
+      const h = (snap.capital_eur / niceMax) * plotH;
+      svgContent += `<rect class="cap-bar bar-seg" data-date="${snap.as_of}" data-cap="${fmtEur(snap.capital_eur)}"
+        x="${x0}" y="${marginT + plotH - h}" width="${bw}" height="${h}" rx="3" />`;
+    }
+    svgContent += `<text class="date-label" x="${cx}" y="${H - marginB + 18}">${snap.as_of}</text>`;
+  });
+
+  svg.innerHTML = svgContent;
+  svg.querySelectorAll(".cap-bar").forEach(el => {
+    el.addEventListener("mousemove", (evt) => {
+      showTip(evt, `<div class="t-title">${el.dataset.date}</div><div class="t-row">${el.dataset.cap}</div>`);
+    });
+    el.addEventListener("mouseleave", hideTip);
+  });
+}
+
+function renderTable(timeline) {
+  const wrap = document.getElementById("table-wrap");
+  let rows = "";
+  timeline.forEach(snap => {
+    const holdersStr = snap.holders.length
+      ? snap.holders.map(h => `${shortName(h.name)} <span class="pill">${fmtNum(h.shares)} · ${h.pct !== null ? h.pct.toFixed(1) + "%" : "—"}</span>`).join("<br>")
+      : "<span class=\"empty-state\">no holders recorded</span>";
+    rows += `<tr>
+      <td>${snap.as_of}</td>
+      <td class="num">${fmtEur(snap.capital_eur)}</td>
+      <td class="num">${fmtNum(snap.shares_total)}</td>
+      <td class="num">${snap.nominal_eur ?? "—"}</td>
+      <td>${holdersStr}</td>
+    </tr>`;
+    if (snap.notes && snap.notes.length) {
+      rows += `<tr class="notes-row"><td></td><td colspan="4"><ul>${snap.notes.map(n => `<li>${n}</li>`).join("")}</ul></td></tr>`;
+    }
+  });
+  wrap.innerHTML = `<table>
+    <thead><tr><th>As of</th><th class="num">Capital</th><th class="num">Shares</th><th class="num">Nominal €</th><th>Holders</th></tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+}
+
+function renderEvents(events) {
+  const wrap = document.getElementById("events-wrap");
+  const sorted = [...events].sort((a, b) => (a.event_date || "") < (b.event_date || "") ? -1 : 1);
+  let rows = sorted.map(e => `<tr>
+      <td>${e.event_date || "—"}</td>
+      <td><span class="pill">${e.event_code}</span></td>
+      <td>${Object.entries(e.payload).filter(([k]) => !["conflicting_amount_alternates","amount_eur_source_text","description"].includes(k)).map(([k,v]) => `${k}: ${v}`).join(", ")}</td>
+      <td>
+        <div class="snippet">"${(e.source.snippet || "").slice(0, 140)}${(e.source.snippet||"").length > 140 ? "…" : ""}"</div>
+        <details><summary>source</summary>doc ${e.source.inpi_id} · page ${e.source.page} · bbox [${e.source.bbox.map(x=>x.toFixed(3)).join(", ")}]</details>
+      </td>
+    </tr>`).join("");
+  wrap.innerHTML = `<table>
+    <thead><tr><th>Date</th><th>Code</th><th>Payload</th><th>Grounding</th></tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+}
+
+main().catch(err => {
+  document.querySelector(".wrap").innerHTML += `<div class="card"><p class="empty-state">Failed to load data: ${err}. Make sure you're serving this over HTTP (not file://) from the repo root, and that results.json exists at the repo root (run scripts/build_results.py).</p></div>`;
+  console.error(err);
+});
+</script>
+</body>
+</html>

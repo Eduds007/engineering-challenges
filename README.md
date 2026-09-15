@@ -1,138 +1,134 @@
-# Takeovers — engineering challenges
+# Actes challenge — ARCHEAN TECHNOLOGIES capital reconstruction
 
-Thousands of French companies change hands every year. The record of who owns them and
-what they signed is public, and close to unusable. We make it usable, and we take the
-deal from first contact to signature. France is only where we start.
+Task: Rebuild the capital composition of ARCHEAN TECHNOLOGIES (SIREN 4804897) over its
+whole life, from its filings, with every change grounded in the document it came from.
 
-This repository holds the take-home challenges for our two engineering tracks. Pick the
-one for the role you applied to, and inside the Data track, pick **one** of the two
-challenges — not both.
+## Screen recording
 
-| track | challenge | what it is |
-|---|---|---|
-| **Data / ML Engineer** | [**Bilan**](challenges/bilan/BRIEF.md) | Extract 12 financial fields from 15 French annual filings, and defend the cost/accuracy trade-off you chose. |
-| **Data / ML Engineer** | [**Actes**](challenges/actes/BRIEF.md) | Reconstruct twenty years of a company's capital composition from its filed legal documents. |
-| **Full Stack Engineer** | [**Full stack**](challenges/fullstack/BRIEF.md) | Build a deal pipeline and document vault: headless passwordless auth, a stage machine, idempotent uploads. |
+<!-- TODO: record ~3 min walking through the approach and reasoning, upload to Loom, put
+the link here before submitting. -->
 
-The full-stack brief is self-contained and carries its own instructions. Everything below
-applies to the **two data challenges**.
+## What's here
 
----
+- `results.json` — the graded output: `events[]`, `capital_timeline[]`, and the optional
+  `group.nodes`/`group.edges`.
+- `main.py` — single entry point for the whole pipeline, any of the 20 companies.
+- `scripts/` — the pipeline: OCR reconstruction, rule-based extraction, LLM
+  validator/fallback, deterministic graph replay, group-relation extraction.
+- `viz/index.html` — capital/ownership timeline for one company, reads any `results.json`.
+- `viz/group_timeline.html` — the group bonus as a cross-company timeline.
+- `output/<siren>/` — same pipeline run against the other 19 companies (exploratory, not
+  the graded deliverable — see [Scope](#scope) below).
 
-## Ground rules
-
-**Time.** Aim for **6–8 hours** of work, within **7 days** of receiving the brief. If you
-run short, cut scope and say so — that is a better outcome than a wide, half-wired
-submission.
-
-**The scope is bigger than the time budget. This is deliberate.** We know it cannot all
-be done in a day. What you choose to do first, what you decide to leave, and how clearly
-you say which is which, is a large part of what we read. Please do not grind for a week;
-we would rather see six good hours and an honest README.
-
-**The documents are in French.** You are not expected to know French, or French corporate
-law. Closing that gap is part of the task, and how you go about it is interesting to us.
-
-**Use any source you like.** These documents are public. You may look companies up in
-public registries, read the gazette, search the web, or open your own free account at
-[data.inpi.fr](https://data.inpi.fr) and pull documents we did not give you.
-Cross-checking one source against another sometimes helps, and sometimes tells you the
-sources disagree — which is itself a finding worth reporting.
-
-**There is no answer key**, and we are not hiding one. For work like this the answer is
-frequently contested; deciding what is true from the evidence in front of you *is* the
-job. We score submissions ourselves, afterwards.
-
-<a id="ai-tools"></a>
-## AI tools
-
-**Use them.** Claude, Cursor, Copilot, whatever you work best with. We use them daily and
-we are not interested in a test of whether you can avoid them.
-
-We do ask one thing: a section in your `README.md`, headed **"How I used AI"**, saying
-what you delegated, what you checked yourself, and anywhere the tool led you somewhere
-wrong. A short, honest paragraph is worth more to us than a long one.
-
-## Grounding
-
-Both data challenges require every extracted value to carry the place it came from: the
-document, the page, and a bounding box. This is not busywork — a number without a
-provenance is not something we can sell, defend to a client, or debug six months later.
-
-Boxes you submit are **`[x0, y0, x1, y1]`, normalized 0–1** against page width and height,
-origin top-left, with pages **1-indexed**.
-
-The OCR we ship uses a different convention — **pixels at 300 dpi** — so there is a
-conversion to do. It is a few lines, and it is on purpose.
-
-### `tools/bbox_viewer.py`
-
-The one piece of code we give you. It draws OCR boxes and your own boxes onto a page, and
-it can tell you the normalized box of any line of text.
+## How to run it
 
 ```bash
-pip install pymupdf pillow
-
-# where does a phrase sit on the page, in submittable coordinates?
-python tools/bbox_viewer.py \
-  --pdf  data/<siren>/actes/pdf/<file>.pdf \
-  --page 3 \
-  --ocr  data/<siren>/actes/ocr/<doc_id> \
-  --grep "capital social"
-
-# render a page with the OCR in grey and your own box in red
-python tools/bbox_viewer.py --pdf <pdf> --page 3 --ocr <ocr_dir> \
-  --bbox 0.116,0.610,0.920,0.626 -o check.png
-
-# no --ocr and no --grep: just tells you the page size and how to render it
-python tools/bbox_viewer.py --pdf <pdf> --page 1
+pip install -r requirements.txt
+cp .env.example .env   # fill in a key for at least one provider — see below
+python3 main.py                    # full pipeline for ARCHEAN TECHNOLOGIES, writes results.json
+python3 main.py --no-llm           # rules only, no API calls, for a fast sanity check
+python3 main.py --siren <other>    # same pipeline against any of the other 19 companies
+python3 scripts/extract_group.py --llm   # group bonus: regex + LLM fallback, all 20 companies
+python3 scripts/build_results.py         # merge group.json into results.json + validate schema
 ```
 
-## The data
+To view:
 
-One shared corpus at `data/`, used by both data challenges: twenty French companies, each
-with the legal documents they have filed and their annual accounts, plus our OCR where we
-have it.
-
-```
-data/<siren>/actes/{pdf,meta,ocr}/
-data/<siren>/bilans/{pdf,meta,ocr}/
+```bash
+python3 -m http.server 8000
+# open http://localhost:8000/viz/index.html
+# open http://localhost:8000/viz/group_timeline.html
 ```
 
-Real filings, downloaded from the French Registre National des Entreprises. Nothing has
-been staged, cleaned or simplified. Some scans are crooked, some OCR is wrong, some
-documents contradict each other, and OCR coverage is uneven — a few companies have none
-at all, because they have never been through our pipeline.
+`.env.example` lists every variable the pipeline reads. Nothing is hardcoded to one
+provider — `LLM_PROVIDER` picks Groq or OpenRouter, and if every model on that provider
+fails (I hit OpenRouter's 50-request/day free cap partway through this build), the
+pipeline falls through one more time to this machine's own `claude -p` CLI, so a stalled
+free tier doesn't stall the whole run. If you have neither a Groq/OpenRouter key nor
+Claude Code installed, `--no-llm` still gives you the full rule-based pass.
 
-That is what the job looks like.
+## Approach
 
-## Submitting
+**Rules first, LLM as validator and safety net — not as the extractor.** `scripts/rules.py`
+is a set of regexes calibrated against this corpus's actual phrasing (recap tables,
+"décide d'augmenter le capital...", répartition tables, buyback lists, sole-holder
+transitions). Every rule match carries an exact character offset, which maps straight back
+to an OCR line's bounding box — that's what makes an event "grounded" rather than merely
+plausible.
 
-1. Put your work in a repository of your own and open a pull request against it.
-2. Invite **`@YassineBouderbala`** and **`@AleBastos25`** as reviewers.
-3. `results.json` goes at the **root** of the repository, matching the schema for your
-   challenge. It is how we read your output — a submission we cannot parse is a
-   submission we cannot score.
-4. Include a **`.env.example`** listing every environment variable your code reads —
-   API keys, tokens, model names, endpoints — with the **names only and no values**:
+The LLM only runs where rules can't: (1) as a **validator** over low-confidence rule
+candidates, and (2) as a **fallback reader** for documents where rules found nothing. Before
+either call, the pipeline replays everything extracted so far (chronologically, by
+`dateDepot`) into a compact summary of the known state — capital, holders, share counts —
+and injects it as context, so the model isn't reading each document blind.
 
-   ```dotenv
-   # .env.example — names only, never commit real keys
-   OPENROUTER_API_KEY=
-   ```
+`capital_timeline[]` is never generated by the LLM narrating an answer. It's a deterministic
+chronological replay (`scripts/graph.py`) of the extracted events over a small in-memory
+graph — the same events feed both `events[]` and the timeline, so the two can't disagree.
 
-   We need to know which keys to set to run your pipeline, and which providers it talks
-   to. **Never commit a real key, a token or a `.env` file** — add `.env` to your
-   `.gitignore`. If you commit a live credential we will tell you so you can revoke it,
-   and it counts against you.
 
-   If your submission needs no keys at all, say so in the README — that is a legitimate
-   and interesting answer.
-5. Your `README.md` covers: how to run it, the trade-offs you made, **how you used AI**,
-   and what you left undone.
+## The group bonus
 
-Questions: **contact@takeovers.ai**.
+`results.json.group` — built from `scripts/extract_group.py`. Structured data (the DGFiP
+Cerfa "filiales et participations" / "capital détenu par les personnes morales" tax-form
+template, byte-identical across every company's annual filing) is pulled with regex, at
+effectively zero API cost. What's left — attendance-sheet rows, loose free-text mentions —
+goes through a sequential LLM pass, one page at a time, cropped to the paragraph around the
+matched keyword rather than the whole page.
 
----
+Real chain found: **AIR SYSTEM SERVICE → HADEAN → ARCHEAN TECHNOLOGIES →
+{ARCHEAN LABS, ARCHEAN MOTION}** — three hops, none of it visible from ARCHEAN's own filings
+alone (HADEAN's ownership of ARCHEAN only shows up in HADEAN's *own* annual filing, and AIR
+SYSTEM SERVICE's stake in HADEAN only in a 2008 HADEAN acte and a 2019 attendance sheet —
+never in anything ARCHEAN itself filed). Plus a few unrelated small clusters (BERNACHON and
+its two subsidiaries, LESUEUR, CEROV, JACQUES BOCKEL) that turned out to have nothing to do
+with ARCHEAN, which is the point of the exercise — most of the 20 aren't connected to
+anything. Names that don't match one of the 20 known companies are left `resolved: false`
+with no guessed SIREN (e.g. `CHANGE BY FIDSO`, `HOLDING CEROV`, `SK2R SAS`).
 
-Takeovers SAS · 144 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine
+<a id="ai-tools"></a>
+## How I used AI
+
+I used Claude Code for essentially all of the implementation — the OCR-to-bbox pipeline,
+the regex calibration, the LLM validator/fallback wiring, the graph replay, the group
+extraction, the visualizations. I drove the design decisions (regex-first with LLM only as
+a safety net, in-memory graph over a database, sequential-only API calls, what counts as
+"resolved" for the group bonus) and steered scope; the agent wrote and iterated on the code
+against those constraints, and I reviewed the diffs and the reasoning behind them rather
+than just the final output.
+
+
+## What I'm not confident about
+
+I manually reviewed ARCHEAN TECHNOLOGIES' documents myself to check whether the model was
+getting the right information. I built a ground truth by hand to validate the approach, and
+can share it if useful. The real problem is validating this at all. Even though I don't
+speak French, I was able to follow the movements described in the meeting minutes — but
+some of these minutes appear to be appendices to earlier ones, and when that happens I'm
+not sure the extracted data is correct. For example: at ARCHEAN TECHNOLOGIES' founding, the
+first snapshot defines the number of shares but not the share capital, while the following
+event mentions the share capital but not the number of shares. I don't know whether I can
+merge those two directly, since I don't understand the legal documents deeply enough, so I
+left it as is rather than guessing. Another thing I'm not fully sure about is exactly how
+the venture capital firm Galia Venture and other partners entered — the document only
+mentions them when they're leaving.
+
+## What I'd do next
+
+With a better understanding of the documents' structure, I believe it's possible to be much
+more selective about what gets sent to the LLM and what doesn't — producing far more result
+for far fewer tokens. Beyond that, I'd want to dig into these edge cases to get a more
+robust timeline.
+
+## Token usage
+
+
+
+| Source | Calls | Input | Cache write | Cache read | Output | Cost |
+|---|---:|---:|---:|---:|---:|---:|
+| Claude Code CLI (`claude -p`, last-resort fallback ) | 401 (measured) | 3,992 | 1,415,691 | 2,014,131 | 832,111 | ~$7.20 notional (Haiku 4.5 list pricing) — billed against my own Claude Code subscription usage, not a separate charge |
+| OpenRouter (`poolside/laguna-s-2.1:free`, primary provider) | ~50–80 (estimated) | ~40,000 (estimated) | — | — | ~15,000 (estimated) | $0 (free tier) |
+
+
+
+
