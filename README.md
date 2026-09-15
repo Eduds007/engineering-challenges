@@ -5,7 +5,7 @@ whole life, from its filings, with every change grounded in the document it came
 
 ## Time spent:
 
-around 10 hours
+around 10 hours (8hrs problem solving + 2hrs presentations, review and writting)
 
 ## Screen recording
 
