@@ -1,0 +1,259 @@
+{
+  "siren": "015551401",
+  "mode": "chronological_context_aware",
+  "n_documents": 6,
+  "n_raw_candidates": 4,
+  "n_events": 4,
+  "events": [
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2b",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 12153.06,
+        "capital_after_eur": 21294,
+        "method": "incorporation de réserve spéciale"
+      },
+      "event_date": "2001-09-07",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "La collectivité des associés décident d'incorporer au capital social la réserve spéciale constituée par fractions de résultats soumis au taux réduit d'impôt sur les sociétés pour un montant de 79 682 francs. Le capital s'élèvera ainsi à 139 682 francs et sera toujours divisé en 600 parts sociales.",
+      "bbox_norm": [
+        0.1611,
+        0.5889,
+        0.9015,
+        0.6812
+      ],
+      "llm_valid": true,
+      "llm_note": "Incorporates special reserve into capital; first document so no external prior state, but internal numbers consistent",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2b",
+        "page": 3,
+        "bbox": [
+          0.1611,
+          0.5889,
+          0.9015,
+          0.6812
+        ],
+        "snippet": "La collectivité des associés décident d'incorporer au capital social la réserve spéciale constituée par fractions de résultats soumis au taux réduit d'impôt sur les sociétés pour un montant de 79 682 francs. Le capital s'élèvera ainsi à 139 682 francs et sera toujours divisé en 600 parts sociales."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Conversion du capital en euros "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2b",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 306,
+        "capital_after_eur": 21600,
+        "method": "incorporation de réserve"
+      },
+      "event_date": "2001-09-07",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "La collectivité des associés décide en conséquence d'augmenter le capital social de 306 euros pour le porter de 21 294 euros à 21 600 euros par incorporation de pareille somme de 306 euros (2 007,23 francs) prélevée sur les réserves disponibles « autres réserves ».",
+      "bbox_norm": [
+        0.1611,
+        0.1826,
+        0.9022,
+        0.2452
+      ],
+      "llm_valid": true,
+      "llm_note": "Incorporates other reserves into capital; reconciles with prior v0 (21,294 + 306 = 21,600)",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2b",
+        "page": 4,
+        "bbox": [
+          0.1611,
+          0.1826,
+          0.9022,
+          0.2452
+        ],
+        "snippet": "La collectivité des associés décide en conséquence d'augmenter le capital social de 306 euros pour le porter de 21 294 euros à 21 600 euros par incorporation de pareille somme de 306 euros (2 007,23 francs) prélevée sur les réserves disponibles « autres réserves »."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Conversion du capital en euros "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2d",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Cédric MUGNIER",
+        "to_name": "Cyril MUGNIER",
+        "shares": 134,
+        "price_eur": null
+      },
+      "event_date": "2022-01-26",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "ensuite de la régularisation ce jour d'un acte de cession de 134 parts sociales de la Société entre M. Cédric MUGNIER et M. Cyril MUGNIER",
+      "bbox_norm": [
+        0.1196,
+        0.579,
+        0.8832,
+        0.6275
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid shareholder transfer event; not a capital change, so no reconciliation required. 134 shares transferred from Cédric to Cyril MUGNIER on 2022-01-26.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2d",
+        "page": 3,
+        "bbox": [
+          0.1196,
+          0.579,
+          0.8832,
+          0.6275
+        ],
+        "snippet": "ensuite de la régularisation ce jour d'un acte de cession de 134 parts sociales de la Société entre M. Cédric MUGNIER et M. Cyril MUGNIER"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "entre M Cédric MUGNIER et M Cyril MUGNIER "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée générale ordinaire",
+          "decision": "Démission de co-gérant "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2d",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Cédric MUGNIER",
+        "holder_siren": null,
+        "shares": 134
+      },
+      "event_date": "2022-01-26",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Seuls associés de la Société depuis ce jour ensuite de la régularisation ce jour d'un acte de cession de 134 parts sociales de la Société entre M. Cédric MUGNIER et M. Cyril MUGNIER",
+      "bbox_norm": [
+        0.1196,
+        0.579,
+        0.8832,
+        0.6275
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid shareholder exit event; Cédric MUGNIER's shareholding ended on 2022-01-26 following the transfer, leaving Cyril MUGNIER as sole shareholder. Consistent with v0.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_04",
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2d",
+        "page": 3,
+        "bbox": [
+          0.1196,
+          0.579,
+          0.8832,
+          0.6275
+        ],
+        "snippet": "Seuls associés de la Société depuis ce jour ensuite de la régularisation ce jour d'un acte de cession de 134 parts sociales de la Société entre M. Cédric MUGNIER et M. Cyril MUGNIER"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "entre M Cédric MUGNIER et M Cyril MUGNIER "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée générale ordinaire",
+          "decision": "Démission de co-gérant "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2b",
+      "dateDepot": "2001-11-06",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "63e3428fd0f29b5aaa0ced28",
+      "dateDepot": "2009-02-03",
+      "context_given": "Known state as of 2001-09-07 (from 2 events found in earlier-filed documents):\n- Capital social (total share capital): 21600 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced29",
+      "dateDepot": "2009-10-05",
+      "context_given": "Known state as of 2001-09-07 (from 2 events found in earlier-filed documents):\n- Capital social (total share capital): 21600 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2a",
+      "dateDepot": "2009-10-05",
+      "context_given": "Known state as of 2001-09-07 (from 2 events found in earlier-filed documents):\n- Capital social (total share capital): 21600 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2c",
+      "dateDepot": "2018-11-23",
+      "context_given": "Known state as of 2001-09-07 (from 2 events found in earlier-filed documents):\n- Capital social (total share capital): 21600 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e34290d0f29b5aaa0ced2d",
+      "dateDepot": "2022-03-08",
+      "context_given": "Known state as of 2001-09-07 (from 2 events found in earlier-filed documents):\n- Capital social (total share capital): 21600 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "siren": "360500011",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_DECREASE",
+      "event_date": "1996-12-30",
+      "payload": {
+        "amount_eur": 1432500,
+        "capital_after_eur": 736875,
+        "method": "Annulation d'actions"
+      },
+      "source": {
+        "inpi_id": "63f1035e3f2ad069a6132806",
+        "page": 3,
+        "bbox": [
+          0.1142,
+          0.4155,
+          0.8886,
+          0.4802
+        ],
+        "snippet": "l'assemblée générale décide d'annuler les 3.820 actions susvisées et de réduire le capital d'une somme de 1 432 500 francs correspondant à la valeur des actions annulées; le capital social de LESUEUR & Cie se trouvant ainsi ramené de 2.169.375 francs à 736 875 francs"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Capital decrease explicitly stated in snippet: 'ramené de 2.169.375 francs à 736 875 francs'. Reconciliation confirmed: 2,169,375 - 1,432,500 = 736,875."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "1996-12-30",
+      "payload": {
+        "amount_eur": 1338750,
+        "capital_after_eur": 2075625,
+        "method": "Incorporation de réserves"
+      },
+      "source": {
+        "inpi_id": "63f1035e3f2ad069a6132806",
+        "page": 4,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "l'assemblée générale, sur proposition du conseil d'administration, décide d'augmenter le capital social s'élevant après les augmentation et réduction de capital objet des résolutions précédentes, à 736.875 francs, d'une somme de 1.338.750 francs pour le porter à 2.075.625 francs, par voie d'incorporation de pareille somme prélevée sur les réserves, et création de 3.570 actions nouvelles de valeur "
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Incorporation de réserves is a valid capital increase. Capital after prior changes explicitly stated as 736,875 in snippet. Reconciliation confirmed: 736,875 + 1,338,750 = 2,075,625."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "1996-12-30",
+      "capital_eur": 2075625,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "1432500-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot.",
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 360500011 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

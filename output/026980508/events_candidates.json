@@ -1,0 +1,99 @@
+{
+  "siren": "026980508",
+  "mode": "chronological_context_aware",
+  "n_documents": 12,
+  "n_raw_candidates": 0,
+  "n_events": 0,
+  "events": [],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63ebd01c95e7fbcd5f03d1f1",
+      "dateDepot": "1995-01-13",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01c95e7fbcd5f03d1ed",
+      "dateDepot": "1995-03-10",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01d95e7fbcd5f03d1f4",
+      "dateDepot": "2000-11-24",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01c95e7fbcd5f03d1ef",
+      "dateDepot": "2001-06-01",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01b95e7fbcd5f03d1ec",
+      "dateDepot": "2006-06-06",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01c95e7fbcd5f03d1f0",
+      "dateDepot": "2007-07-09",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01c95e7fbcd5f03d1f3",
+      "dateDepot": "2010-07-06",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01a95e7fbcd5f03d1e6",
+      "dateDepot": "2016-07-07",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01b95e7fbcd5f03d1e7",
+      "dateDepot": "2016-08-04",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01b95e7fbcd5f03d1ea",
+      "dateDepot": "2018-03-16",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd01b95e7fbcd5f03d1eb",
+      "dateDepot": "2018-05-07",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "66dbba77e6f9674f07096860",
+      "dateDepot": "2024-08-30",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

@@ -1,3 +1,23 @@
+# OS / editor
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+env/
+
+# secrets — never commit a real key or token
+.env
+
+# pipeline-generated, safe to regenerate
+.llm_cache/
+logs/
+
+# tools/bbox_viewer.py debug output (e.g. `-o check.png`)
+check.png

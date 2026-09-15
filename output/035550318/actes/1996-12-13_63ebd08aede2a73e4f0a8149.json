@@ -1,0 +1,1430 @@
+{
+  "doc_id": "63ebd08aede2a73e4f0a8149",
+  "pdf": "acte_1996-12-13_63ebd08aede2a73e4f0a8149.pdf",
+  "n_pages": 6,
+  "pages": [
+    {
+      "page": 1,
+      "text": "GREFFE\nDU\nTRiBUNAL DE COMMeRCe\nDE DOLE\nRECEPISSEDEDEPO T\n39 RUE DES ARENES\n39100 DOLE\nTEL. 03 84 72 24 09\nMINITEL 24H/24 : 08 36 29 22 22\nREVISION ET FINANCE\n103 AVENUE EISENHOWER\n39100 DOLE\nV/REF : JPF/FBP-1881\nN/REF : 55 B 31 / A-400\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DOLE CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 13/12/96, SOUS LE NUMERO A-400,\nRAPPORT DU COMMISSAIRE A LA FUSION\nCONCERNANT LA SOCIETE\nORTELLI ET CIE\nSOCIETE ANONYME\n39100 BREVANS\nR.C.S DOLE B 035 550 318 (55 B 31)\nLE GREFFIER\nE T 1+ +",
+      "lines": [
+        {
+          "text": "GREFFE",
+          "bbox_norm": [
+            0.1019,
+            0.0547,
+            0.1474,
+            0.067
+          ]
+        },
+        {
+          "text": "DU",
+          "bbox_norm": [
+            0.1148,
+            0.0684,
+            0.1346,
+            0.0806
+          ]
+        },
+        {
+          "text": "TRiBUNAL DE COMMeRCe",
+          "bbox_norm": [
+            0.0537,
+            0.0826,
+            0.1937,
+            0.0928
+          ]
+        },
+        {
+          "text": "DE DOLE",
+          "bbox_norm": [
+            0.0944,
+            0.0962,
+            0.1481,
+            0.1098
+          ]
+        },
+        {
+          "text": "RECEPISSEDEDEPO T",
+          "bbox_norm": [
+            0.4124,
+            0.1113,
+            0.8369,
+            0.1231
+          ]
+        },
+        {
+          "text": "39 RUE DES ARENES",
+          "bbox_norm": [
+            0.04,
+            0.126,
+            0.1603,
+            0.1378
+          ]
+        },
+        {
+          "text": "39100 DOLE",
+          "bbox_norm": [
+            0.0395,
+            0.1401,
+            0.1121,
+            0.1523
+          ]
+        },
+        {
+          "text": "TEL. 03 84 72 24 09",
+          "bbox_norm": [
+            0.0408,
+            0.1558,
+            0.1746,
+            0.1661
+          ]
+        },
+        {
+          "text": "MINITEL 24H/24 : 08 36 29 22 22",
+          "bbox_norm": [
+            0.04,
+            0.169,
+            0.2588,
+            0.1807
+          ]
+        },
+        {
+          "text": "REVISION ET FINANCE",
+          "bbox_norm": [
+            0.534,
+            0.2418,
+            0.7657,
+            0.2529
+          ]
+        },
+        {
+          "text": "103 AVENUE EISENHOWER",
+          "bbox_norm": [
+            0.5353,
+            0.271,
+            0.7895,
+            0.2827
+          ]
+        },
+        {
+          "text": "39100 DOLE",
+          "bbox_norm": [
+            0.5326,
+            0.2988,
+            0.6577,
+            0.3131
+          ]
+        },
+        {
+          "text": "V/REF : JPF/FBP-1881",
+          "bbox_norm": [
+            0.2439,
+            0.3277,
+            0.4864,
+            0.3409
+          ]
+        },
+        {
+          "text": "N/REF : 55 B 31 / A-400",
+          "bbox_norm": [
+            0.2439,
+            0.3428,
+            0.5244,
+            0.356
+          ]
+        },
+        {
+          "text": "LE GREFFIER DU TRIBUNAL DE COMMERCE DE DOLE CERTIFIE",
+          "bbox_norm": [
+            0.0869,
+            0.3872,
+            0.7174,
+            0.399
+          ]
+        },
+        {
+          "text": "QU'IL LUI A ETE DEPOSE A LA DATE DU 13/12/96, SOUS LE NUMERO A-400,",
+          "bbox_norm": [
+            0.0862,
+            0.3994,
+            0.8961,
+            0.4155
+          ]
+        },
+        {
+          "text": "RAPPORT DU COMMISSAIRE A LA FUSION",
+          "bbox_norm": [
+            0.0869,
+            0.4302,
+            0.4994,
+            0.4424
+          ]
+        },
+        {
+          "text": "CONCERNANT LA SOCIETE",
+          "bbox_norm": [
+            0.1366,
+            0.4742,
+            0.392,
+            0.4854
+          ]
+        },
+        {
+          "text": "ORTELLI ET CIE",
+          "bbox_norm": [
+            0.1474,
+            0.4883,
+            0.3194,
+            0.5
+          ]
+        },
+        {
+          "text": "SOCIETE ANONYME",
+          "bbox_norm": [
+            0.1481,
+            0.503,
+            0.3309,
+            0.5143
+          ]
+        },
+        {
+          "text": "39100 BREVANS",
+          "bbox_norm": [
+            0.1467,
+            0.5171,
+            0.3064,
+            0.5294
+          ]
+        },
+        {
+          "text": "R.C.S",
+          "bbox_norm": [
+            0.1481,
+            0.5464,
+            0.2126,
+            0.5586
+          ]
+        },
+        {
+          "text": "DOLE B 035 550 318 (55 B 31)",
+          "bbox_norm": [
+            0.2297,
+            0.5445,
+            0.608,
+            0.5601
+          ]
+        },
+        {
+          "text": "LE GREFFIER",
+          "bbox_norm": [
+            0.6319,
+            0.5904,
+            0.7663,
+            0.6021
+          ]
+        },
+        {
+          "text": "E",
+          "bbox_norm": [
+            0.2643,
+            0.981,
+            0.269,
+            0.9835
+          ]
+        },
+        {
+          "text": "T",
+          "bbox_norm": [
+            0.2827,
+            0.981,
+            0.2873,
+            0.9835
+          ]
+        },
+        {
+          "text": "1+",
+          "bbox_norm": [
+            0.6067,
+            0.9816,
+            0.6108,
+            0.9839
+          ]
+        },
+        {
+          "text": "+",
+          "bbox_norm": [
+            0.7785,
+            0.9816,
+            0.7847,
+            0.9845
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "SA ORTELLI & Cie\nSiège social : 7 Rue des Vignes\n39100 - BREVANS\n***\nRAPPORT DU COMMISSAIRE A LA FUSION",
+      "lines": [
+        {
+          "text": "SA ORTELLI & Cie",
+          "bbox_norm": [
+            0.3437,
+            0.146,
+            0.5674,
+            0.1656
+          ]
+        },
+        {
+          "text": "Siège social : 7 Rue des Vignes",
+          "bbox_norm": [
+            0.3233,
+            0.1762,
+            0.587,
+            0.1959
+          ]
+        },
+        {
+          "text": "39100 - BREVANS",
+          "bbox_norm": [
+            0.3708,
+            0.205,
+            0.5381,
+            0.2232
+          ]
+        },
+        {
+          "text": "***",
+          "bbox_norm": [
+            0.43,
+            0.2373,
+            0.4797,
+            0.248
+          ]
+        },
+        {
+          "text": "RAPPORT DU COMMISSAIRE A LA FUSION",
+          "bbox_norm": [
+            0.2703,
+            0.4722,
+            0.6271,
+            0.4889
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "CABINET Alain ARTAUD & ASSOCIES\nSociété d'expertise comptable\nTableau de l'Ordre de Dijon\nSociété de Commissariat aux Comptes\nCompagnie Régionale de Besançon\nAlain ARTAUD\nExpert-Comptable SA ORTELLI & Cie\nTableau de l'Ordre de Dijon\nCommissaire aux Comptes 7 Rue des Vignes 39100 BREVANS\nCompagnie Régionale de Besançon\n*\nRAPPORT DU COMMISSAIRE A LA FUSION\nSUR LA REMUNERATION DES APPORTS EFFECTUES\nPAR LA SOCIETE CIVILE \"LES VIGNES\" A LA SOCIETE ANONYME\n\"ORTELLI & Cie\"\nEn exécution de la mission de Commissaire à la fusion qui m'a été confiée\npar ordonnance de Monsieur le Président du Tribunal de Commerce de DOLE, en date du\n18 novembre 1996, dans le cadre de la fusion par absorption de la société \"Les Vignes\" par\nla société OrtELli, je vous présente mon rapport sur la pertinence des valeurs relatives\nattribuées aux actions et sur l'équité du rapport d'échange.\nI - DESCRIPTION DE L'OPERATION\n- SOCIETES cONceRNEES :\n- La société OrrELLI est une société anonyme au capital de 1.000 000 Francs,\ncomposé de 10.000 actions de 100 Francs, entièrement libérées. Son objet social porte\nessentiellement sur l'exploitation de tous établissements concernant l'entreprise de travaux\npublics, et en général toutes opérations s'y rattachant.\n- La société Les Vignes est une société civile, au capital de 188.100 F, composé de\n3.762 parts de 50 F, entièrement libérées. Son objet social porte essentiellement sur\nl'acquisition et la gestion de toutes parts, actions ou titres de sociétés.\nESPACE WILSON - 36 Boulevard Wilson - 39100 DOLE - Tél. 03 84 82 28 50 - Fax. 03 84 72 70 31\nSociété Anonyme au Capital de 250 000 F • RCS Dole B 378 910 350 - Domiciliation BPFC Dole 00021254222\nAeter Graphique 2tf Foucherns",
+      "lines": [
+        {
+          "text": "CABINET Alain ARTAUD & ASSOCIES",
+          "bbox_norm": [
+            0.2486,
+            0.022,
+            0.6903,
+            0.0439
+          ]
+        },
+        {
+          "text": "Société d'expertise comptable",
+          "bbox_norm": [
+            0.358,
+            0.0498,
+            0.5789,
+            0.0664
+          ]
+        },
+        {
+          "text": "Tableau de l'Ordre de Dijon",
+          "bbox_norm": [
+            0.3633,
+            0.0643,
+            0.5728,
+            0.0811
+          ]
+        },
+        {
+          "text": "Société de Commissariat aux Comptes",
+          "bbox_norm": [
+            0.324,
+            0.0937,
+            0.6115,
+            0.1094
+          ]
+        },
+        {
+          "text": "Compagnie Régionale de Besançon",
+          "bbox_norm": [
+            0.3342,
+            0.1088,
+            0.6013,
+            0.1245
+          ]
+        },
+        {
+          "text": "Alain ARTAUD",
+          "bbox_norm": [
+            0.0564,
+            0.1489,
+            0.2291,
+            0.17
+          ]
+        },
+        {
+          "text": "Expert-Comptable",
+          "bbox_norm": [
+            0.076,
+            0.1772,
+            0.2113,
+            0.191
+          ]
+        },
+        {
+          "text": "SA ORTELLI & Cie",
+          "bbox_norm": [
+            0.5733,
+            0.1752,
+            0.7589,
+            0.1915
+          ]
+        },
+        {
+          "text": "Tableau de l'Ordre de Dijon",
+          "bbox_norm": [
+            0.04,
+            0.1938,
+            0.2474,
+            0.2105
+          ]
+        },
+        {
+          "text": "Commissaire aux Comptes",
+          "bbox_norm": [
+            0.0427,
+            0.2133,
+            0.2433,
+            0.2291
+          ]
+        },
+        {
+          "text": "7 Rue des Vignes",
+          "bbox_norm": [
+            0.5726,
+            0.2036,
+            0.7229,
+            0.2218
+          ]
+        },
+        {
+          "text": "39100 BREVANS",
+          "bbox_norm": [
+            0.5741,
+            0.2182,
+            0.7257,
+            0.234
+          ]
+        },
+        {
+          "text": "Compagnie Régionale de Besançon",
+          "bbox_norm": [
+            0.0102,
+            0.2324,
+            0.2758,
+            0.2486
+          ]
+        },
+        {
+          "text": "*",
+          "bbox_norm": [
+            0.3941,
+            0.2823,
+            0.4002,
+            0.2861
+          ]
+        },
+        {
+          "text": "RAPPORT DU COMMISSAIRE A LA FUSION",
+          "bbox_norm": [
+            0.2208,
+            0.3969,
+            0.7201,
+            0.4166
+          ]
+        },
+        {
+          "text": "SUR LA REMUNERATION DES APPORTS EFFECTUES",
+          "bbox_norm": [
+            0.2078,
+            0.4126,
+            0.7331,
+            0.4317
+          ]
+        },
+        {
+          "text": "PAR LA SOCIETE CIVILE \"LES VIGNES\" A LA SOCIETE ANONYME",
+          "bbox_norm": [
+            0.14,
+            0.4277,
+            0.8017,
+            0.4464
+          ]
+        },
+        {
+          "text": "\"ORTELLI & Cie\"",
+          "bbox_norm": [
+            0.3845,
+            0.4428,
+            0.5572,
+            0.4601
+          ]
+        },
+        {
+          "text": "En exécution de la mission de Commissaire à la fusion qui m'a été confiée",
+          "bbox_norm": [
+            0.218,
+            0.5498,
+            0.8547,
+            0.57
+          ]
+        },
+        {
+          "text": "par ordonnance de Monsieur le Président du Tribunal de Commerce de DOLE, en date du",
+          "bbox_norm": [
+            0.0855,
+            0.565,
+            0.8534,
+            0.5845
+          ]
+        },
+        {
+          "text": "18 novembre 1996, dans le cadre de la fusion par absorption de la société \"Les Vignes\" par",
+          "bbox_norm": [
+            0.0855,
+            0.5786,
+            0.8547,
+            0.6002
+          ]
+        },
+        {
+          "text": "la société OrtELli, je vous présente mon rapport sur la pertinence des valeurs relatives",
+          "bbox_norm": [
+            0.0842,
+            0.5933,
+            0.8541,
+            0.6148
+          ]
+        },
+        {
+          "text": "attribuées aux actions et sur l'équité du rapport d'échange.",
+          "bbox_norm": [
+            0.0849,
+            0.6084,
+            0.5701,
+            0.627
+          ]
+        },
+        {
+          "text": "I - DESCRIPTION DE L'OPERATION",
+          "bbox_norm": [
+            0.0849,
+            0.6958,
+            0.4654,
+            0.713
+          ]
+        },
+        {
+          "text": "- SOCIETES cONceRNEES :",
+          "bbox_norm": [
+            0.0842,
+            0.7554,
+            0.299,
+            0.7711
+          ]
+        },
+        {
+          "text": "- La société OrrELLI est une société anonyme au capital de 1.000 000 Francs,",
+          "bbox_norm": [
+            0.1555,
+            0.7837,
+            0.8514,
+            0.8053
+          ]
+        },
+        {
+          "text": "composé de 10.000 actions de 100 Francs, entièrement libérées. Son objet social porte",
+          "bbox_norm": [
+            0.0829,
+            0.7984,
+            0.8527,
+            0.82
+          ]
+        },
+        {
+          "text": "essentiellement sur l'exploitation de tous établissements concernant l'entreprise de travaux",
+          "bbox_norm": [
+            0.0829,
+            0.813,
+            0.8521,
+            0.8336
+          ]
+        },
+        {
+          "text": "publics, et en général toutes opérations s'y rattachant.",
+          "bbox_norm": [
+            0.0834,
+            0.8282,
+            0.53,
+            0.8463
+          ]
+        },
+        {
+          "text": "- La société Les Vignes est une société civile, au capital de 188.100 F, composé de",
+          "bbox_norm": [
+            0.1555,
+            0.8565,
+            0.8521,
+            0.8771
+          ]
+        },
+        {
+          "text": "3.762 parts de 50 F, entièrement libérées. Son objet social porte essentiellement sur",
+          "bbox_norm": [
+            0.0829,
+            0.8701,
+            0.8527,
+            0.8922
+          ]
+        },
+        {
+          "text": "l'acquisition et la gestion de toutes parts, actions ou titres de sociétés.",
+          "bbox_norm": [
+            0.0821,
+            0.8848,
+            0.6604,
+            0.9059
+          ]
+        },
+        {
+          "text": "ESPACE WILSON - 36 Boulevard Wilson - 39100 DOLE - Tél. 03 84 82 28 50 - Fax. 03 84 72 70 31",
+          "bbox_norm": [
+            0.1644,
+            0.9522,
+            0.7576,
+            0.9674
+          ]
+        },
+        {
+          "text": "Société Anonyme au Capital de 250 000 F • RCS Dole B 378 910 350 - Domiciliation BPFC Dole 00021254222",
+          "bbox_norm": [
+            0.1318,
+            0.9664,
+            0.7915,
+            0.9816
+          ]
+        },
+        {
+          "text": "Aeter Graphique 2tf Foucherns",
+          "bbox_norm": [
+            0.8648,
+            0.9923,
+            0.9478,
+            1.0001
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "- BUT De L'OPERATIOn\nLa société civile \"Les Vignes\" détient 99,9 % de la SA OrTELLı & Cie. La fusion\ns'inscrit dans une politique de restructuration interne dont l'objectif est la réalisation\nd'économies, notamment sur le plan administratif.\n- BASES DE LA FUSION\nPour établir les conditions de la fusion, il a été décidé de retenir les comptes\nannuels de chacune des sociétés, arrêtés au 30 juin 1996, approuvés par leurs assemblées\ngénérales ordinaires.\n- PROPRIETE, JOUISSANCE ET CONDITIONS\nLes biens et droits apportés seront pris dans l'état où ils se trouvent, et la société\nOrtELLı devra exécuter les traités consentis et contrats intervenus entre la société LEs\nVignEs et les tiers jusqu'à la date de la réalisation définitive de la fusion. Elle sera tenue de\nprendre les lieu et place de la société Les Vignes vis à vis de tout le personnel en activité.\nSur le plan fiscal et en matière d'impôts sur les sociétés, les représentants de\nchaque société se sont engagés à soumettre l'opération de fusion au régime résultant de\nl'article 210-A du Code Général des Impôts.\nA défaut de la réalisation définitive de l'opération de fusion avant le 31 décembre\n1997, la convention de fusion sera considérée comme nulle et non avenue.\n- REMUNERATION DES APPORTS ET AUGMENTATION DE CAPITAL\nEn contrepartie de l'apport évalué à 895.257 Francs, il sera attribué 7 actions de la\nsociété ORtELLI pour 4 parts de la société Les ViGnES.\nLa société OrtELLI procédera donc à la création de 6.584 actions de 100 Francs,\nsoit une augmentation de capital de 658.400 Francs.\nSuite à cet apport, la Sa OrtELLı & Cie disposera dans son actif de 9.994 actions\npropres ; en conséquence, elle procédera à une réduction de capital concomitante de\n999.400 Francs, afin d'annuler ces actions.\nEn outre, elle constatera une prime de fusion d'un montant de 236.857 Francs.\nL'annulation par la SA OrTELLi de 9.994 de ses actions s'effectuera outre la\nréduction de capital, par prélèvement de 359.784 Francs sur les réserves.\n†",
+      "lines": [
+        {
+          "text": "- BUT De L'OPERATIOn",
+          "bbox_norm": [
+            0.1005,
+            0.1538,
+            0.2908,
+            0.1695
+          ]
+        },
+        {
+          "text": "La société civile \"Les Vignes\" détient 99,9 % de la SA OrTELLı & Cie. La fusion",
+          "bbox_norm": [
+            0.1718,
+            0.1826,
+            0.8703,
+            0.2002
+          ]
+        },
+        {
+          "text": "s'inscrit dans une politique de restructuration interne dont l'objectif est la réalisation",
+          "bbox_norm": [
+            0.0992,
+            0.1968,
+            0.8703,
+            0.2149
+          ]
+        },
+        {
+          "text": "d'économies, notamment sur le plan administratif.",
+          "bbox_norm": [
+            0.0998,
+            0.2114,
+            0.5198,
+            0.2281
+          ]
+        },
+        {
+          "text": "- BASES DE LA FUSION",
+          "bbox_norm": [
+            0.0992,
+            0.2685,
+            0.2821,
+            0.2848
+          ]
+        },
+        {
+          "text": "Pour établir les conditions de la fusion, il a été décidé de retenir les comptes",
+          "bbox_norm": [
+            0.1705,
+            0.2979,
+            0.8703,
+            0.316
+          ]
+        },
+        {
+          "text": "annuels de chacune des sociétés, arrêtés au 30 juin 1996, approuvés par leurs assemblées",
+          "bbox_norm": [
+            0.0992,
+            0.3121,
+            0.8697,
+            0.3306
+          ]
+        },
+        {
+          "text": "générales ordinaires.",
+          "bbox_norm": [
+            0.1005,
+            0.3277,
+            0.2738,
+            0.3428
+          ]
+        },
+        {
+          "text": "- PROPRIETE, JOUISSANCE ET CONDITIONS",
+          "bbox_norm": [
+            0.0992,
+            0.3843,
+            0.4443,
+            0.4015
+          ]
+        },
+        {
+          "text": "Les biens et droits apportés seront pris dans l'état où ils se trouvent, et la société",
+          "bbox_norm": [
+            0.1705,
+            0.413,
+            0.871,
+            0.4317
+          ]
+        },
+        {
+          "text": "OrtELLı devra exécuter les traités consentis et contrats intervenus entre la société LEs",
+          "bbox_norm": [
+            0.0984,
+            0.4277,
+            0.8703,
+            0.4458
+          ]
+        },
+        {
+          "text": "VignEs et les tiers jusqu'à la date de la réalisation définitive de la fusion. Elle sera tenue de",
+          "bbox_norm": [
+            0.0984,
+            0.4419,
+            0.8703,
+            0.4605
+          ]
+        },
+        {
+          "text": "prendre les lieu et place de la société Les Vignes vis à vis de tout le personnel en activité.",
+          "bbox_norm": [
+            0.0984,
+            0.4566,
+            0.8486,
+            0.4752
+          ]
+        },
+        {
+          "text": "Sur le plan fiscal et en matière d'impôts sur les sociétés, les représentants de",
+          "bbox_norm": [
+            0.1705,
+            0.4854,
+            0.8697,
+            0.5035
+          ]
+        },
+        {
+          "text": "chaque société se sont engagés à soumettre l'opération de fusion au régime résultant de",
+          "bbox_norm": [
+            0.0984,
+            0.5,
+            0.8697,
+            0.5186
+          ]
+        },
+        {
+          "text": "l'article 210-A du Code Général des Impôts.",
+          "bbox_norm": [
+            0.0977,
+            0.5136,
+            0.4702,
+            0.5313
+          ]
+        },
+        {
+          "text": "A défaut de la réalisation définitive de l'opération de fusion avant le 31 décembre",
+          "bbox_norm": [
+            0.1705,
+            0.542,
+            0.8703,
+            0.5616
+          ]
+        },
+        {
+          "text": "1997, la convention de fusion sera considérée comme nulle et non avenue.",
+          "bbox_norm": [
+            0.1005,
+            0.5566,
+            0.7188,
+            0.5758
+          ]
+        },
+        {
+          "text": "- REMUNERATION DES APPORTS ET AUGMENTATION DE CAPITAL",
+          "bbox_norm": [
+            0.0977,
+            0.6147,
+            0.6135,
+            0.6334
+          ]
+        },
+        {
+          "text": "En contrepartie de l'apport évalué à 895.257 Francs, il sera attribué 7 actions de la",
+          "bbox_norm": [
+            0.1698,
+            0.6441,
+            0.8697,
+            0.6631
+          ]
+        },
+        {
+          "text": "société ORtELLI pour 4 parts de la société Les ViGnES.",
+          "bbox_norm": [
+            0.0984,
+            0.6583,
+            0.5517,
+            0.6773
+          ]
+        },
+        {
+          "text": "La société OrtELLI procédera donc à la création de 6.584 actions de 100 Francs,",
+          "bbox_norm": [
+            0.1691,
+            0.687,
+            0.8677,
+            0.7087
+          ]
+        },
+        {
+          "text": "soit une augmentation de capital de 658.400 Francs.",
+          "bbox_norm": [
+            0.0984,
+            0.7031,
+            0.5333,
+            0.7203
+          ]
+        },
+        {
+          "text": "Suite à cet apport, la Sa OrtELLı & Cie disposera dans son actif de 9.994 actions",
+          "bbox_norm": [
+            0.1691,
+            0.7315,
+            0.8697,
+            0.7515
+          ]
+        },
+        {
+          "text": "propres ; en conséquence, elle procédera à une réduction de capital concomitante de",
+          "bbox_norm": [
+            0.0964,
+            0.7467,
+            0.8697,
+            0.7657
+          ]
+        },
+        {
+          "text": "999.400 Francs, afin d'annuler ces actions.",
+          "bbox_norm": [
+            0.097,
+            0.7598,
+            0.4587,
+            0.7784
+          ]
+        },
+        {
+          "text": "En outre, elle constatera une prime de fusion d'un montant de 236.857 Francs.",
+          "bbox_norm": [
+            0.1691,
+            0.7891,
+            0.8295,
+            0.8092
+          ]
+        },
+        {
+          "text": "L'annulation par la SA OrTELLi de 9.994 de ses actions s'effectuera outre la",
+          "bbox_norm": [
+            0.1691,
+            0.8184,
+            0.8683,
+            0.838
+          ]
+        },
+        {
+          "text": "réduction de capital, par prélèvement de 359.784 Francs sur les réserves.",
+          "bbox_norm": [
+            0.0977,
+            0.8331,
+            0.7073,
+            0.8521
+          ]
+        },
+        {
+          "text": "†",
+          "bbox_norm": [
+            0.0469,
+            0.9899,
+            0.055,
+            0.9972
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "II - METHODES D'EVALUATION ET RAPPORT D'ECHANGE\nLa détermination du rapport d'échange résulte d'une évaluation des deux sociétés\nen retenant les critères suivants :\n- Actif net pour la SA ORTELLI,\n- Actif net corrigé pour la SC Les ViGNEs\nLes valeurs ainsi obtenues font ressortir une valeur de 136 Francs par action de la\nsociété OrtELLI, et 238 Francs par part de la société LEs ViGNEs, soit un rapport de sept à\nquatre.\nLa fusion donnera lieu à une augmentation de capital déterminée de la manière\nsuivante :\n- Nombre de parts SC LEs ViGNEs 3.762\n- Nombre d'actions donnant lieu à rémunération 3.762\nConformément au rapport d'échange déterminé ci-dessus, le nombre d'actions à\ncréer est de :\n3.762 x 7/4 = 6.584\nLa prime de fusion est déterminée de la façon suivante :\n- Valeur des apports 895.257\n- Valeur nominale des actions créées (6.584 x 100) (658.400)\n- Prime de fusion 236.857\nANNULATION DES ACTIONS PROPRES ET REDUCTION DE CAPITAL\nDu fait de la fusion, la SA OrTELLI détient 9.994 de ses propres actions. Il est\ndonc nécessaire d'annuler lesdites actions et de réduire en conséquence le capital :\n- Valeur des 9.994 actions apportées 1.359.184\n- Réduction de capital - 999.400\n= Prélèvement à effectuer sur les réserves 359.784\nL'imputation sur les réserves se fera de la manière suivante :\n- Prime de fusion 236.857\n- Réserve légale 34.100\n- Réserve statutaire 88.000\n- Report à nouveau 827",
+      "lines": [
+        {
+          "text": "II - METHODES D'EVALUATION ET RAPPORT D'ECHANGE",
+          "bbox_norm": [
+            0.1012,
+            0.1191,
+            0.7338,
+            0.1363
+          ]
+        },
+        {
+          "text": "La détermination du rapport d'échange résulte d'une évaluation des deux sociétés",
+          "bbox_norm": [
+            0.1732,
+            0.1767,
+            0.8703,
+            0.1973
+          ]
+        },
+        {
+          "text": "en retenant les critères suivants :",
+          "bbox_norm": [
+            0.1012,
+            0.1928,
+            0.3757,
+            0.208
+          ]
+        },
+        {
+          "text": "- Actif net pour la SA ORTELLI,",
+          "bbox_norm": [
+            0.1739,
+            0.2065,
+            0.4389,
+            0.2242
+          ]
+        },
+        {
+          "text": "- Actif net corrigé pour la SC Les ViGNEs",
+          "bbox_norm": [
+            0.1739,
+            0.2348,
+            0.5225,
+            0.253
+          ]
+        },
+        {
+          "text": "Les valeurs ainsi obtenues font ressortir une valeur de 136 Francs par action de la",
+          "bbox_norm": [
+            0.1726,
+            0.2631,
+            0.8697,
+            0.2833
+          ]
+        },
+        {
+          "text": "société OrtELLI, et 238 Francs par part de la société LEs ViGNEs, soit un rapport de sept à",
+          "bbox_norm": [
+            0.1012,
+            0.2778,
+            0.8697,
+            0.2979
+          ]
+        },
+        {
+          "text": "quatre.",
+          "bbox_norm": [
+            0.1005,
+            0.2945,
+            0.1617,
+            0.3106
+          ]
+        },
+        {
+          "text": "La fusion donnera lieu à une augmentation de capital déterminée de la manière",
+          "bbox_norm": [
+            0.1718,
+            0.3359,
+            0.869,
+            0.3556
+          ]
+        },
+        {
+          "text": "suivante :",
+          "bbox_norm": [
+            0.1005,
+            0.3501,
+            0.185,
+            0.3668
+          ]
+        },
+        {
+          "text": "- Nombre de parts SC LEs ViGNEs",
+          "bbox_norm": [
+            0.1746,
+            0.3798,
+            0.458,
+            0.3966
+          ]
+        },
+        {
+          "text": "3.762",
+          "bbox_norm": [
+            0.7433,
+            0.3819,
+            0.7962,
+            0.3985
+          ]
+        },
+        {
+          "text": "- Nombre d'actions donnant lieu à rémunération",
+          "bbox_norm": [
+            0.1732,
+            0.4087,
+            0.5735,
+            0.4259
+          ]
+        },
+        {
+          "text": "3.762",
+          "bbox_norm": [
+            0.7426,
+            0.4107,
+            0.7976,
+            0.4283
+          ]
+        },
+        {
+          "text": "Conformément au rapport d'échange déterminé ci-dessus, le nombre d'actions à",
+          "bbox_norm": [
+            0.1718,
+            0.4506,
+            0.8697,
+            0.4723
+          ]
+        },
+        {
+          "text": "créer est de :",
+          "bbox_norm": [
+            0.099,
+            0.4657,
+            0.2115,
+            0.4826
+          ]
+        },
+        {
+          "text": "3.762 x 7/4 = 6.584",
+          "bbox_norm": [
+            0.4321,
+            0.482,
+            0.6082,
+            0.4981
+          ]
+        },
+        {
+          "text": "La prime de fusion est déterminée de la façon suivante :",
+          "bbox_norm": [
+            0.1726,
+            0.5245,
+            0.638,
+            0.5415
+          ]
+        },
+        {
+          "text": "- Valeur des apports",
+          "bbox_norm": [
+            0.1724,
+            0.5527,
+            0.344,
+            0.5705
+          ]
+        },
+        {
+          "text": "895.257",
+          "bbox_norm": [
+            0.7229,
+            0.5557,
+            0.7962,
+            0.5713
+          ]
+        },
+        {
+          "text": "- Valeur nominale des actions créées (6.584 x 100)",
+          "bbox_norm": [
+            0.1726,
+            0.5679,
+            0.5857,
+            0.5845
+          ]
+        },
+        {
+          "text": "(658.400)",
+          "bbox_norm": [
+            0.7107,
+            0.5699,
+            0.7949,
+            0.5875
+          ]
+        },
+        {
+          "text": "- Prime de fusion",
+          "bbox_norm": [
+            0.1718,
+            0.5962,
+            0.3268,
+            0.6124
+          ]
+        },
+        {
+          "text": "236.857",
+          "bbox_norm": [
+            0.7213,
+            0.5981,
+            0.795,
+            0.6154
+          ]
+        },
+        {
+          "text": "ANNULATION DES ACTIONS PROPRES ET REDUCTION DE CAPITAL",
+          "bbox_norm": [
+            0.0992,
+            0.6538,
+            0.6128,
+            0.6729
+          ]
+        },
+        {
+          "text": "Du fait de la fusion, la SA OrTELLI détient 9.994 de ses propres actions. Il est",
+          "bbox_norm": [
+            0.1698,
+            0.6826,
+            0.8669,
+            0.7027
+          ]
+        },
+        {
+          "text": "donc nécessaire d'annuler lesdites actions et de réduire en conséquence le capital :",
+          "bbox_norm": [
+            0.0984,
+            0.6973,
+            0.7793,
+            0.7169
+          ]
+        },
+        {
+          "text": "- Valeur des 9.994 actions apportées",
+          "bbox_norm": [
+            0.1704,
+            0.7266,
+            0.4756,
+            0.7448
+          ]
+        },
+        {
+          "text": "1.359.184",
+          "bbox_norm": [
+            0.7057,
+            0.729,
+            0.7937,
+            0.7457
+          ]
+        },
+        {
+          "text": "- Réduction de capital",
+          "bbox_norm": [
+            0.1704,
+            0.7417,
+            0.3553,
+            0.7579
+          ]
+        },
+        {
+          "text": "- 999.400",
+          "bbox_norm": [
+            0.7086,
+            0.7447,
+            0.7941,
+            0.7603
+          ]
+        },
+        {
+          "text": "= Prélèvement à effectuer sur les réserves",
+          "bbox_norm": [
+            0.1724,
+            0.7701,
+            0.5429,
+            0.7882
+          ]
+        },
+        {
+          "text": "359.784",
+          "bbox_norm": [
+            0.7215,
+            0.7735,
+            0.7941,
+            0.7891
+          ]
+        },
+        {
+          "text": "L'imputation sur les réserves se fera de la manière suivante :",
+          "bbox_norm": [
+            0.1691,
+            0.8135,
+            0.6767,
+            0.8327
+          ]
+        },
+        {
+          "text": "- Prime de fusion",
+          "bbox_norm": [
+            0.1698,
+            0.8422,
+            0.3188,
+            0.859
+          ]
+        },
+        {
+          "text": "236.857",
+          "bbox_norm": [
+            0.7209,
+            0.8458,
+            0.7941,
+            0.8609
+          ]
+        },
+        {
+          "text": "- Réserve légale",
+          "bbox_norm": [
+            0.1691,
+            0.8559,
+            0.3079,
+            0.8747
+          ]
+        },
+        {
+          "text": "34.100",
+          "bbox_norm": [
+            0.7303,
+            0.8605,
+            0.7935,
+            0.8761
+          ]
+        },
+        {
+          "text": "- Réserve statutaire",
+          "bbox_norm": [
+            0.1698,
+            0.8716,
+            0.3331,
+            0.8878
+          ]
+        },
+        {
+          "text": "88.000",
+          "bbox_norm": [
+            0.7302,
+            0.874,
+            0.7937,
+            0.8909
+          ]
+        },
+        {
+          "text": "- Report à nouveau",
+          "bbox_norm": [
+            0.1704,
+            0.8857,
+            0.331,
+            0.904
+          ]
+        },
+        {
+          "text": "827",
+          "bbox_norm": [
+            0.7566,
+            0.8886,
+            0.7946,
+            0.9055
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "J'ai effectué les diligences que j'ai estimées nécessaires selon les normes de la\nCompagnie Nationale des Commissaires aux Comptes pour :\n- vérifier que les valeurs relatives, attribuées aux actions des sociétés participant à\nl'opération, sont pertinentes et que le rapport d'échange est équitable ;\n- m'assurer que les événements intervenus pendant la période de rétroactivité\nn'étaient pas de nature à mettre en cause l'équité du rapport d'échange.\nIII - CONCLUSION\nJe n'ai pas d'observation à formuler sur la pertinence des valeurs relatives\nattribuées aux actions des sociétés participant à l'opération, ni sur le caractère équitable du\nrapport d'échange.\nFait à DOLE,\nLe 4 décembre 1996\nLe Commissaire à la Fusion\nAlain ARTAUD",
+      "lines": [
+        {
+          "text": "J'ai effectué les diligences que j'ai estimées nécessaires selon les normes de la",
+          "bbox_norm": [
+            0.1644,
+            0.1406,
+            0.8608,
+            0.1577
+          ]
+        },
+        {
+          "text": "Compagnie Nationale des Commissaires aux Comptes pour :",
+          "bbox_norm": [
+            0.0931,
+            0.1558,
+            0.598,
+            0.1734
+          ]
+        },
+        {
+          "text": "- vérifier que les valeurs relatives, attribuées aux actions des sociétés participant à",
+          "bbox_norm": [
+            0.165,
+            0.1821,
+            0.8621,
+            0.2013
+          ]
+        },
+        {
+          "text": "l'opération, sont pertinentes et que le rapport d'échange est équitable ;",
+          "bbox_norm": [
+            0.0923,
+            0.1977,
+            0.6788,
+            0.2169
+          ]
+        },
+        {
+          "text": "- m'assurer que les événements intervenus pendant la période de rétroactivité",
+          "bbox_norm": [
+            0.165,
+            0.2251,
+            0.8629,
+            0.2452
+          ]
+        },
+        {
+          "text": "n'étaient pas de nature à mettre en cause l'équité du rapport d'échange.",
+          "bbox_norm": [
+            0.0938,
+            0.2422,
+            0.6855,
+            0.2588
+          ]
+        },
+        {
+          "text": "III - CONCLUSION",
+          "bbox_norm": [
+            0.0951,
+            0.3164,
+            0.2914,
+            0.3315
+          ]
+        },
+        {
+          "text": "Je n'ai pas d'observation à formuler sur la pertinence des valeurs relatives",
+          "bbox_norm": [
+            0.165,
+            0.3569,
+            0.8636,
+            0.3761
+          ]
+        },
+        {
+          "text": "attribuées aux actions des sociétés participant à l'opération, ni sur le caractère équitable du",
+          "bbox_norm": [
+            0.0944,
+            0.3716,
+            0.8636,
+            0.3912
+          ]
+        },
+        {
+          "text": "rapport d'échange.",
+          "bbox_norm": [
+            0.0958,
+            0.3907,
+            0.2514,
+            0.4058
+          ]
+        },
+        {
+          "text": "Fait à DOLE,",
+          "bbox_norm": [
+            0.6421,
+            0.4595,
+            0.7602,
+            0.4747
+          ]
+        },
+        {
+          "text": "Le 4 décembre 1996",
+          "bbox_norm": [
+            0.6412,
+            0.4736,
+            0.816,
+            0.4894
+          ]
+        },
+        {
+          "text": "Le Commissaire à la Fusion",
+          "bbox_norm": [
+            0.6419,
+            0.5025,
+            0.8601,
+            0.5186
+          ]
+        },
+        {
+          "text": "Alain ARTAUD",
+          "bbox_norm": [
+            0.6427,
+            0.5601,
+            0.7828,
+            0.5758
+          ]
+        }
+      ]
+    }
+  ],
+  "full_text": "[PAGE 1]\nGREFFE\nDU\nTRiBUNAL DE COMMeRCe\nDE DOLE\nRECEPISSEDEDEPO T\n39 RUE DES ARENES\n39100 DOLE\nTEL. 03 84 72 24 09\nMINITEL 24H/24 : 08 36 29 22 22\nREVISION ET FINANCE\n103 AVENUE EISENHOWER\n39100 DOLE\nV/REF : JPF/FBP-1881\nN/REF : 55 B 31 / A-400\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DOLE CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 13/12/96, SOUS LE NUMERO A-400,\nRAPPORT DU COMMISSAIRE A LA FUSION\nCONCERNANT LA SOCIETE\nORTELLI ET CIE\nSOCIETE ANONYME\n39100 BREVANS\nR.C.S DOLE B 035 550 318 (55 B 31)\nLE GREFFIER\nE T 1+ +\n\n[PAGE 2]\nSA ORTELLI & Cie\nSiège social : 7 Rue des Vignes\n39100 - BREVANS\n***\nRAPPORT DU COMMISSAIRE A LA FUSION\n\n[PAGE 3]\nCABINET Alain ARTAUD & ASSOCIES\nSociété d'expertise comptable\nTableau de l'Ordre de Dijon\nSociété de Commissariat aux Comptes\nCompagnie Régionale de Besançon\nAlain ARTAUD\nExpert-Comptable SA ORTELLI & Cie\nTableau de l'Ordre de Dijon\nCommissaire aux Comptes 7 Rue des Vignes 39100 BREVANS\nCompagnie Régionale de Besançon\n*\nRAPPORT DU COMMISSAIRE A LA FUSION\nSUR LA REMUNERATION DES APPORTS EFFECTUES\nPAR LA SOCIETE CIVILE \"LES VIGNES\" A LA SOCIETE ANONYME\n\"ORTELLI & Cie\"\nEn exécution de la mission de Commissaire à la fusion qui m'a été confiée\npar ordonnance de Monsieur le Président du Tribunal de Commerce de DOLE, en date du\n18 novembre 1996, dans le cadre de la fusion par absorption de la société \"Les Vignes\" par\nla société OrtELli, je vous présente mon rapport sur la pertinence des valeurs relatives\nattribuées aux actions et sur l'équité du rapport d'échange.\nI - DESCRIPTION DE L'OPERATION\n- SOCIETES cONceRNEES :\n- La société OrrELLI est une société anonyme au capital de 1.000 000 Francs,\ncomposé de 10.000 actions de 100 Francs, entièrement libérées. Son objet social porte\nessentiellement sur l'exploitation de tous établissements concernant l'entreprise de travaux\npublics, et en général toutes opérations s'y rattachant.\n- La société Les Vignes est une société civile, au capital de 188.100 F, composé de\n3.762 parts de 50 F, entièrement libérées. Son objet social porte essentiellement sur\nl'acquisition et la gestion de toutes parts, actions ou titres de sociétés.\nESPACE WILSON - 36 Boulevard Wilson - 39100 DOLE - Tél. 03 84 82 28 50 - Fax. 03 84 72 70 31\nSociété Anonyme au Capital de 250 000 F • RCS Dole B 378 910 350 - Domiciliation BPFC Dole 00021254222\nAeter Graphique 2tf Foucherns\n\n[PAGE 4]\n- BUT De L'OPERATIOn\nLa société civile \"Les Vignes\" détient 99,9 % de la SA OrTELLı & Cie. La fusion\ns'inscrit dans une politique de restructuration interne dont l'objectif est la réalisation\nd'économies, notamment sur le plan administratif.\n- BASES DE LA FUSION\nPour établir les conditions de la fusion, il a été décidé de retenir les comptes\nannuels de chacune des sociétés, arrêtés au 30 juin 1996, approuvés par leurs assemblées\ngénérales ordinaires.\n- PROPRIETE, JOUISSANCE ET CONDITIONS\nLes biens et droits apportés seront pris dans l'état où ils se trouvent, et la société\nOrtELLı devra exécuter les traités consentis et contrats intervenus entre la société LEs\nVignEs et les tiers jusqu'à la date de la réalisation définitive de la fusion. Elle sera tenue de\nprendre les lieu et place de la société Les Vignes vis à vis de tout le personnel en activité.\nSur le plan fiscal et en matière d'impôts sur les sociétés, les représentants de\nchaque société se sont engagés à soumettre l'opération de fusion au régime résultant de\nl'article 210-A du Code Général des Impôts.\nA défaut de la réalisation définitive de l'opération de fusion avant le 31 décembre\n1997, la convention de fusion sera considérée comme nulle et non avenue.\n- REMUNERATION DES APPORTS ET AUGMENTATION DE CAPITAL\nEn contrepartie de l'apport évalué à 895.257 Francs, il sera attribué 7 actions de la\nsociété ORtELLI pour 4 parts de la société Les ViGnES.\nLa société OrtELLI procédera donc à la création de 6.584 actions de 100 Francs,\nsoit une augmentation de capital de 658.400 Francs.\nSuite à cet apport, la Sa OrtELLı & Cie disposera dans son actif de 9.994 actions\npropres ; en conséquence, elle procédera à une réduction de capital concomitante de\n999.400 Francs, afin d'annuler ces actions.\nEn outre, elle constatera une prime de fusion d'un montant de 236.857 Francs.\nL'annulation par la SA OrTELLi de 9.994 de ses actions s'effectuera outre la\nréduction de capital, par prélèvement de 359.784 Francs sur les réserves.\n†\n\n[PAGE 5]\nII - METHODES D'EVALUATION ET RAPPORT D'ECHANGE\nLa détermination du rapport d'échange résulte d'une évaluation des deux sociétés\nen retenant les critères suivants :\n- Actif net pour la SA ORTELLI,\n- Actif net corrigé pour la SC Les ViGNEs\nLes valeurs ainsi obtenues font ressortir une valeur de 136 Francs par action de la\nsociété OrtELLI, et 238 Francs par part de la société LEs ViGNEs, soit un rapport de sept à\nquatre.\nLa fusion donnera lieu à une augmentation de capital déterminée de la manière\nsuivante :\n- Nombre de parts SC LEs ViGNEs 3.762\n- Nombre d'actions donnant lieu à rémunération 3.762\nConformément au rapport d'échange déterminé ci-dessus, le nombre d'actions à\ncréer est de :\n3.762 x 7/4 = 6.584\nLa prime de fusion est déterminée de la façon suivante :\n- Valeur des apports 895.257\n- Valeur nominale des actions créées (6.584 x 100) (658.400)\n- Prime de fusion 236.857\nANNULATION DES ACTIONS PROPRES ET REDUCTION DE CAPITAL\nDu fait de la fusion, la SA OrTELLI détient 9.994 de ses propres actions. Il est\ndonc nécessaire d'annuler lesdites actions et de réduire en conséquence le capital :\n- Valeur des 9.994 actions apportées 1.359.184\n- Réduction de capital - 999.400\n= Prélèvement à effectuer sur les réserves 359.784\nL'imputation sur les réserves se fera de la manière suivante :\n- Prime de fusion 236.857\n- Réserve légale 34.100\n- Réserve statutaire 88.000\n- Report à nouveau 827\n\n[PAGE 6]\nJ'ai effectué les diligences que j'ai estimées nécessaires selon les normes de la\nCompagnie Nationale des Commissaires aux Comptes pour :\n- vérifier que les valeurs relatives, attribuées aux actions des sociétés participant à\nl'opération, sont pertinentes et que le rapport d'échange est équitable ;\n- m'assurer que les événements intervenus pendant la période de rétroactivité\nn'étaient pas de nature à mettre en cause l'équité du rapport d'échange.\nIII - CONCLUSION\nJe n'ai pas d'observation à formuler sur la pertinence des valeurs relatives\nattribuées aux actions des sociétés participant à l'opération, ni sur le caractère équitable du\nrapport d'échange.\nFait à DOLE,\nLe 4 décembre 1996\nLe Commissaire à la Fusion\nAlain ARTAUD"
+}

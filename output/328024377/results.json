@@ -1,0 +1,44 @@
+{
+  "siren": "328024377",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "1995-06-28",
+      "payload": {
+        "amount_eur": 750000.0,
+        "capital_after_eur": 1000000.0,
+        "method": "incorporation de réserves"
+      },
+      "source": {
+        "inpi_id": "63e8ebb854febda17c19ee6c",
+        "page": 4,
+        "bbox": [
+          0.182,
+          0.7256,
+          0.9585,
+          0.7691
+        ],
+        "snippet": "Aux termes d'une délibération de l'Assemblée Générale Extraordinaire en date du 28 Juin 1995, le capital social a été porté à la somme de 1.000.000 Francs par incorporation de réserves pour un montant de 750.000 Francs."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Incorporation de réserves is a real capital increase. Internal math reconciles: implied capital_before (250,000 EUR) + incorporation amount (750,000 EUR) = capital_after (1,000,000 EUR). First document establishes initial capital state."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "1995-06-28",
+      "capital_eur": 1000000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 328024377 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

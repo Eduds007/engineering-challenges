@@ -1,0 +1,75 @@
+{
+  "siren": "843071218",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2019-07-29",
+      "payload": {
+        "amount_eur": 1000.0,
+        "capital_after_eur": 1000.0,
+        "method": "apport en numéraire"
+      },
+      "source": {
+        "inpi_id": "63e00901f1cd45aa671d5287",
+        "page": 7,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Le capital social est fixé à la somme de mille euros (1 000 euros). Il est divisé en 1 000 actions de 1 euro chacune, entièrement libérées correspondant à des apports en numéraire exclusivement."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Establishes the initial share capital at €1,000, divided into 1,000 fully-paid cash shares of €1 each. This is the foundational capital setting, not a subsequent increase; reconciles correctly with the known prior state (no prior capital) and the shareholder entry in v0."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2019-07-29",
+      "payload": {
+        "holder_name": "ARCHEAN TECHNOLOGIES",
+        "holder_siren": "480 489 707",
+        "shares": 1000.0
+      },
+      "source": {
+        "inpi_id": "63e00901f1cd45aa671d5287",
+        "page": 6,
+        "bbox": [
+          0.1186,
+          0.1103,
+          0.8838,
+          0.1568
+        ],
+        "snippet": "Lors de la constitution, la soussignée ARCHEAN TECHNOLOGIES apporte à la Société, une somme en numéraire de mille euros (1 000 €) correspondant à 1 000 actions de numéraire, d'une valeur nominale d'un euro (1 €) chacune, souscrites en totalité et intégralement libérées."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Initial shareholder entry at company incorporation; 1,000 fully-paid shares of €1 each contributed in cash by ARCHEAN TECHNOLOGIES. Consistent with the company's founding capital."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2019-07-29",
+      "capital_eur": 1000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "ARCHEAN TECHNOLOGIES",
+          "kind": "COMPANY",
+          "shares": 1000.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 843071218 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

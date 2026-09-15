@@ -1,0 +1,217 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2007-09-07",
+      "capital_eur": null,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": null
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ]
+    },
+    {
+      "as_of": "2007-09-18",
+      "capital_eur": null,
+      "shares_total": 18906.0,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": 90.2676
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 9.7324
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069135:p6"
+      ]
+    },
+    {
+      "as_of": "2008-04-02",
+      "capital_eur": 472650.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": null
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 2396.0,
+          "pct": null
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_03",
+        "evt_04"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2008-04-30",
+      "capital_eur": 578450.0,
+      "shares_total": 2252,
+      "nominal_eur": 256.875,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 81.7052
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_05, 2008-04-30)",
+          "kind": "UNKNOWN",
+          "shares": 412.0,
+          "pct": 18.2948
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069137:p5",
+        "snapshot:63f0a89c7a07a2434c069137:p6",
+        "evt_05"
+      ],
+      "notes": [
+        "412 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_05, 2008-04-30)'."
+      ]
+    },
+    {
+      "as_of": "2018-11-16",
+      "capital_eur": 1051100.0,
+      "shares_total": 4092,
+      "nominal_eur": 256.875,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": 417.0577
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 44.9658
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_06, 2018-11-16)",
+          "kind": "UNKNOWN",
+          "shares": 1840,
+          "pct": 44.9658
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_05, 2008-04-30)",
+          "kind": "UNKNOWN",
+          "shares": 412.0,
+          "pct": 10.0684
+        }
+      ],
+      "caused_by": [
+        "evt_06",
+        "evt_07"
+      ],
+      "notes": [
+        "1840 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_06, 2018-11-16)'."
+      ]
+    },
+    {
+      "as_of": "2019-01-14",
+      "capital_eur": 1051100.0,
+      "shares_total": 1840.0,
+      "nominal_eur": 571.25,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 100.0
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069133:p6",
+        "snapshot:63f0a89c7a07a2434c069133:p7",
+        "snapshot:63f0a89c7a07a2434c069134:p8",
+        "snapshot:63f0a89c7a07a2434c069134:p9"
+      ]
+    },
+    {
+      "as_of": "2022-04-06",
+      "capital_eur": 518550.0,
+      "shares_total": 908,
+      "nominal_eur": 571.25,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 202.6432
+        }
+      ],
+      "caused_by": [
+        "evt_08",
+        "evt_09"
+      ],
+      "notes": [
+        "932-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot."
+      ]
+    },
+    {
+      "as_of": "2022-07-01",
+      "capital_eur": 518550.0,
+      "shares_total": 1840.0,
+      "nominal_eur": 281.8207,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 100.0
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069138:p8"
+      ]
+    }
+  ],
+  "notes": [
+    "2008-04-02: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+    "2008-04-30: 412 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_05, 2008-04-30)'.",
+    "2018-11-16: 1840 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_06, 2018-11-16)'.",
+    "2022-04-06: 932-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot."
+  ],
+  "graph_nodes": 5,
+  "graph_edges": 4
+}

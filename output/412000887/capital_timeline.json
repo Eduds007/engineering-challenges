@@ -1,0 +1,90 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2001-09-17",
+      "capital_eur": 8000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2002-03-06",
+      "capital_eur": 8000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Sylvie RAMBAUD",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Christophe PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Sébastien PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_02",
+        "evt_03",
+        "evt_04",
+        "evt_05"
+      ]
+    },
+    {
+      "as_of": "2015-03-17",
+      "capital_eur": 8000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Sylvie RAMBAUD",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Christophe PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Sébastien PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "HOLDING CEROV",
+          "kind": "COMPANY",
+          "shares": 2.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_06",
+        "evt_07"
+      ]
+    }
+  ],
+  "notes": [
+    "2001-09-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+  ],
+  "graph_nodes": 5,
+  "graph_edges": 4
+}

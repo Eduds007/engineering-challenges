@@ -1,0 +1,436 @@
+{
+  "siren": "499979540",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2007-09-07",
+      "payload": {
+        "holder_name": "Xavier AUMONT",
+        "shares": 17066.0
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069135",
+        "page": 5,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Monsieur Xavier AUMONT se voit attribuer 17066 actions d'apports d'un montant de 25 € chacune, dont la valeur correspond au montant de l'évaluation de son apport."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Legitimate founding shareholder contribution: 17,066 actions d'apports at 25€/share (426,650€ total). Snippet clearly states capital contribution, not profit allocation."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2007-09-07",
+      "payload": {
+        "holder_name": "Franck GICQUEL",
+        "shares": 1840.0
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069135",
+        "page": 6,
+        "bbox": [
+          0.1188,
+          0.5958,
+          0.8862,
+          0.6427
+        ],
+        "snippet": "Monsieur Franck GICQUEL se voit attribuer 1840 actions d'apports d'un montant de 25 euros chacune, dont la valeur correspond au montant de l'évaluation de son apport."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Legitimate founding shareholder contribution: 1,840 actions d'apports at 25€/share (46,000€ total). Snippet clearly states capital contribution, not profit allocation."
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2008-04-02",
+      "payload": {
+        "amount_eur": 532550.0,
+        "capital_after_eur": 472650.0,
+        "method": "apport en nature",
+        "amount_eur_source_text": 59900.0
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069136",
+        "page": 4,
+        "bbox": [
+          0.2704,
+          0.1772,
+          0.8773,
+          0.2222
+        ],
+        "snippet": "soit une augmentation de capital de 59 900 euros, assortie d'une prime d'apport de 69 475 euros"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real capital increase (not profit allocation); increase amount 59900€ correct (2396 shares × 25€/share); capital_after should be 532550 (21302 total shares × 25€) not 472650"
+    },
+    {
+      "event_id": "evt_04",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2008-04-02",
+      "payload": {
+        "holder_name": "Michel CAPGRAS",
+        "holder_siren": null,
+        "shares": 2396.0
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069136",
+        "page": 4,
+        "bbox": [
+          0.2689,
+          0.1451,
+          0.8773,
+          0.1753
+        ],
+        "snippet": "Il sera attribué à Monsieur Michel CAPGRAS, en rémunération de son apport, 2 396 actions de la société HADEAN de 25 euros chacune"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder entry; 2396 shares align with v0 capital increase"
+    },
+    {
+      "event_id": "evt_05",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2008-04-30",
+      "payload": {
+        "amount_eur": 105800.0,
+        "capital_after_eur": 578450.0,
+        "method": "apport en nature et apport en numéraire"
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069137",
+        "page": 7,
+        "bbox": [
+          0.1146,
+          0.3448,
+          0.9202,
+          0.5084
+        ],
+        "snippet": "Lors de l'augmentation de capital décidée par l'assemblée générale extraordinaire du 30 avril 2008: - le capital social a été augmenté de 59 900 euros par voie d'apport en nature, - le capital social a été concomitantly augmenté de 45 900 euros par voie d'apport en numéraire."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real capital increase by EGM decision. Reconciliation perfect: 472650 + 105800 = 578450. Components verified: 59900 (apport en nature) + 45900 (apport en numéraire) = 105800."
+    },
+    {
+      "event_id": "evt_06",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2018-11-16",
+      "payload": {
+        "amount_eur": 472650.0,
+        "capital_after_eur": 1051100.0,
+        "method": "Apport en nature (in-kind contribution of ARCHEAN TECHNOLOGIES shares)"
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069134",
+        "page": 8,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Les apports qui précédent prennent effet à compter de ce jour. La Société bénéficiaire acquiert donc la pleine propriété et la jouissance des titres de la société ARCHEAN TECHNOLOGIES apportés par Monsieur Xavier AUMONT, Monsieur Franck GICQUEL à compter de ce jour."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real capital increase via in-kind contribution of ARCHEAN TECHNOLOGIES shares. Reconciliation exact: 578,450 EUR + 472,650 EUR = 1,051,100 EUR ✓"
+    },
+    {
+      "event_id": "evt_07",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2018-11-16",
+      "payload": {
+        "holder_name": "Xavier AUMONT",
+        "holder_siren": null,
+        "shares": 17066.0
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069134",
+        "page": 8,
+        "bbox": [
+          0.1194,
+          0.6046,
+          0.8692,
+          0.6542
+        ],
+        "snippet": "Monsieur Xavier AUMONT se voit attribuer 17066 actions d'apports d'un montant de 25 € chacune, dont la valeur correspond au montant de l'évaluation de son apport."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real shareholder entry. Xavier AUMONT attributed 17,066 shares at 25 EUR nominal (426,650 EUR), consistent with part of the 472,650 EUR capital increase."
+    },
+    {
+      "event_id": "evt_08",
+      "event_code": "CAPITAL_DECREASE",
+      "event_date": "2022-04-06",
+      "payload": {
+        "amount_eur": 59900.0,
+        "capital_after_eur": 518550.0,
+        "method": "rachat et annulation de 2 396 actions de 25 euros chacune",
+        "buyback_shares": 2396.0,
+        "buyback_price_eur": 27.13
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069138",
+        "page": 3,
+        "bbox": [
+          0.1145,
+          0.2465,
+          0.8779,
+          0.3349
+        ],
+        "snippet": "le Président constate que le capital de la Société se trouve réduit à la somme de 518 550 euros et que l'opération est devenue définitive."
+      },
+      "n_corroborations": 2,
+      "alternate_sources": [
+        {
+          "doc_id": "63f0a89c7a07a2434c069139",
+          "page": 3,
+          "event_date": "2022-03-09",
+          "source_kind": "llm_fallback_contextual"
+        }
+      ],
+      "extraction_note": "Confirmed capital decrease by buyback and cancellation of 2,396 shares (25 EUR/share); amount correctly calculated (2,396 × 25 = 59,900 EUR)"
+    },
+    {
+      "event_id": "evt_09",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2022-04-06",
+      "payload": {
+        "holder_name": "Michel CAPGRAS",
+        "shares": 2396.0
+      },
+      "source": {
+        "inpi_id": "63f0a89c7a07a2434c069138",
+        "page": 3,
+        "bbox": [
+          0.1141,
+          0.0972,
+          0.8763,
+          0.1559
+        ],
+        "snippet": "le Président procède au rachat des 2 396 actions d'une valeur nominale de 25 euros chacune en vue de leur annulation appartenant à Monsieur Michel CAPGRAS, décédé"
+      },
+      "n_corroborations": 2,
+      "alternate_sources": [
+        {
+          "doc_id": "63f0a89c7a07a2434c069139",
+          "page": 3,
+          "event_date": "2022-03-09",
+          "source_kind": "llm_fallback_contextual"
+        }
+      ],
+      "extraction_note": "Confirmed shareholder exit: Michel CAPGRAS's 2,396 shares buyback and cancellation following his death"
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2007-09-07",
+      "capital_eur": null,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": null
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ]
+    },
+    {
+      "as_of": "2007-09-18",
+      "capital_eur": null,
+      "shares_total": 18906.0,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": 90.2676
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 9.7324
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069135:p6"
+      ]
+    },
+    {
+      "as_of": "2008-04-02",
+      "capital_eur": 472650.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": null
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 2396.0,
+          "pct": null
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_03",
+        "evt_04"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2008-04-30",
+      "capital_eur": 578450.0,
+      "shares_total": 2252,
+      "nominal_eur": 256.875,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 81.7052
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_05, 2008-04-30)",
+          "kind": "UNKNOWN",
+          "shares": 412.0,
+          "pct": 18.2948
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069137:p5",
+        "snapshot:63f0a89c7a07a2434c069137:p6",
+        "evt_05"
+      ],
+      "notes": [
+        "412 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_05, 2008-04-30)'."
+      ]
+    },
+    {
+      "as_of": "2018-11-16",
+      "capital_eur": 1051100.0,
+      "shares_total": 4092,
+      "nominal_eur": 256.875,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 17066.0,
+          "pct": 417.0577
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 44.9658
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_06, 2018-11-16)",
+          "kind": "UNKNOWN",
+          "shares": 1840,
+          "pct": 44.9658
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_05, 2008-04-30)",
+          "kind": "UNKNOWN",
+          "shares": 412.0,
+          "pct": 10.0684
+        }
+      ],
+      "caused_by": [
+        "evt_06",
+        "evt_07"
+      ],
+      "notes": [
+        "1840 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_06, 2018-11-16)'."
+      ]
+    },
+    {
+      "as_of": "2019-01-14",
+      "capital_eur": 1051100.0,
+      "shares_total": 1840.0,
+      "nominal_eur": 571.25,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 100.0
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069133:p6",
+        "snapshot:63f0a89c7a07a2434c069133:p7",
+        "snapshot:63f0a89c7a07a2434c069134:p8",
+        "snapshot:63f0a89c7a07a2434c069134:p9"
+      ]
+    },
+    {
+      "as_of": "2022-04-06",
+      "capital_eur": 518550.0,
+      "shares_total": 908,
+      "nominal_eur": 571.25,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 202.6432
+        }
+      ],
+      "caused_by": [
+        "evt_08",
+        "evt_09"
+      ],
+      "notes": [
+        "932-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot."
+      ]
+    },
+    {
+      "as_of": "2022-07-01",
+      "capital_eur": 518550.0,
+      "shares_total": 1840.0,
+      "nominal_eur": 281.8207,
+      "holders": [
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 1840.0,
+          "pct": 100.0
+        }
+      ],
+      "caused_by": [
+        "snapshot:63f0a89c7a07a2434c069138:p8"
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 499979540 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

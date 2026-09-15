@@ -1,0 +1,671 @@
+{
+  "siren": "445070311",
+  "mode": "chronological_context_aware",
+  "n_documents": 12,
+  "n_raw_candidates": 15,
+  "n_events": 11,
+  "events": [
+    {
+      "doc_id": "63e2481a916269756a095420",
+      "page": 18,
+      "pattern": "decide_increase",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 150000.0,
+        "capital_after_eur": 300000.0,
+        "capital_before_eur": 150000.0,
+        "method": "création de 2000 parts nouvelles par prélèvement sur le compte de report à nouveau"
+      },
+      "event_date": "1984-05-15",
+      "source_kind": "resolution",
+      "snippet": "la gérance, décide d'augmenter le capital social d'une somme de 150 000 euros pour le porter de 150 000 euros à 300 000 euros par création de 200",
+      "bbox_norm": [
+        0.1034,
+        0.1972,
+        0.8894,
+        0.2232
+      ],
+      "date_confidence": "inferred_from_pv_header",
+      "llm_valid": true,
+      "llm_note": "Real capital increase decision: 'augmenter le capital social' confirmed in snippet; internal reconciliation correct (150k + 150k = 300k); date 1984 predates known state, likely historical reference in current document",
+      "n_corroborations": 3,
+      "alternate_sources": [
+        {
+          "doc_id": "63e2481b916269756a095426",
+          "page": 3,
+          "event_date": "2013-06-20",
+          "source_kind": "resolution"
+        },
+        {
+          "doc_id": "63e2481b916269756a095426",
+          "page": 3,
+          "event_date": "2013-06-20",
+          "source_kind": "llm_fallback_contextual"
+        }
+      ],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63e2481a916269756a095420",
+        "page": 18,
+        "bbox": [
+          0.1034,
+          0.1972,
+          0.8894,
+          0.2232
+        ],
+        "snippet": "la gérance, décide d'augmenter le capital social d'une somme de 150 000 euros pour le porter de 150 000 euros à 300 000 euros par création de 200"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée générale extraordinaire",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "BOCKEL JACQUES / BOCKEL JEREMY ET DOMENEGHETTY MATHIEU "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / SCHOTT VERONIQUE "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / DOMENEGHETTY MATHIEU "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e24819916269756a09541e",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 7500.0,
+        "capital_after_eur": 7500.0,
+        "method": "apports en numéraire"
+      },
+      "event_date": "2003-01-29",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Les apports en numéraire, intégralement libérés d'un montant égal au total du capital social de 7 500 euros, divisé en 100 parts sociales de 75 euros chacune, donnent lieu aux attributions ci-après de parts sociales",
+      "bbox_norm": null,
+      "llm_valid": true,
+      "llm_note": "Genuine capital creation at founding via cash contributions (apports en numéraire). Reconciliation: 0 (no prior capital) + 7,500 = 7,500 ✓. Not routine profit allocation.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63e24819916269756a09541e",
+        "page": 4,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Les apports en numéraire, intégralement libérés d'un montant égal au total du capital social de 7 500 euros, divisé en 100 parts sociales de 75 euros chacune, donnent lieu aux attributions ci-après de parts sociales"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte de nomination d'organe(s) de gestion, direction, administration, surveillance ou contrôle"
+        },
+        {
+          "typeActe": "Attestation de dépôt des fonds et liste des souscripteurs"
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e24819916269756a09541e",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Jacques BOCKEL",
+        "shares": 10.0
+      },
+      "event_date": "2003-01-29",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Monsieur Jacques BOCKEL fait apport de la somme de 750 euros représentés par 10 parts sociales numérotées de 1 à 10",
+      "bbox_norm": null,
+      "llm_valid": true,
+      "llm_note": "Shareholder entry consistent with capital structure: 750 euros ÷ 10 shares = 75 euros/share (matches v0). Share numbering 1–10 within 100-share total.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63e24819916269756a09541e",
+        "page": 4,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Monsieur Jacques BOCKEL fait apport de la somme de 750 euros représentés par 10 parts sociales numérotées de 1 à 10"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte de nomination d'organe(s) de gestion, direction, administration, surveillance ou contrôle"
+        },
+        {
+          "typeActe": "Attestation de dépôt des fonds et liste des souscripteurs"
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e24819916269756a09541e",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Jérémy BOCKEL",
+        "shares": 90.0
+      },
+      "event_date": "2003-01-29",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Monsieur Jérémy BOCKEL fait apport de la somme de 6 750 euros représentés par 90 parts sociales numérotées de 11 à 100",
+      "bbox_norm": null,
+      "llm_valid": true,
+      "llm_note": "Shareholder entry consistent with capital structure: 6,750 euros ÷ 90 shares = 75 euros/share (matches v0). Share numbering 11–100 completes the 100 shares; total contributions 750 + 6,750 = 7,500 ✓.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_04",
+      "source": {
+        "inpi_id": "63e24819916269756a09541e",
+        "page": 4,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Monsieur Jérémy BOCKEL fait apport de la somme de 6 750 euros représentés par 90 parts sociales numérotées de 11 à 100"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte de nomination d'organe(s) de gestion, direction, administration, surveillance ou contrôle"
+        },
+        {
+          "typeActe": "Attestation de dépôt des fonds et liste des souscripteurs"
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e24819916269756a09541d",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 132450.0,
+        "capital_after_eur": 139950.0,
+        "method": "apport en nature"
+      },
+      "event_date": "2003-08-05",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "d'augmenter le capital de la société, antérieurement de 7.500,00 euros en l'élevant à 139.950,00 euros par la création de 1766 parts de 75 euros chacune, entièrement libérées et correspondant à la valeur de l'apport",
+      "bbox_norm": [
+        0.1582,
+        0.0933,
+        0.9162,
+        0.1363
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital increase via apport en nature; reconciles (7500 + 132450 = 139950 EUR); 1766 shares at 75 EUR",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_05",
+      "source": {
+        "inpi_id": "63e24819916269756a09541d",
+        "page": 3,
+        "bbox": [
+          0.1582,
+          0.0933,
+          0.9162,
+          0.1363
+        ],
+        "snippet": "d'augmenter le capital de la société, antérieurement de 7.500,00 euros en l'élevant à 139.950,00 euros par la création de 1766 parts de 75 euros chacune, entièrement libérées et correspondant à la valeur de l'apport"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Rapport du commissaire aux apports",
+          "decision": " Augmentation de capital"
+        },
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": " Augmentation de capital"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": " Augmentation de capital"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e24819916269756a09541d",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 10050.0,
+        "capital_after_eur": 150000.0,
+        "method": "apport en numéraire"
+      },
+      "event_date": "2003-08-05",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "décide d'augmenter le capital social d'une somme de 10.050,00 euros pour le porter de 139.950,00 euros à 150.oo0,00 euros par création de 134 parts nouvelles de 75 euros nominal chacune, émises au pair et à libérer intégralement en numéraire",
+      "bbox_norm": [
+        0.0936,
+        0.2856,
+        0.914,
+        0.3297
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital increase via apport en numéraire; reconciles (139950 + 10050 = 150000 EUR); 134 shares at 75 EUR",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_06",
+      "source": {
+        "inpi_id": "63e24819916269756a09541d",
+        "page": 3,
+        "bbox": [
+          0.0936,
+          0.2856,
+          0.914,
+          0.3297
+        ],
+        "snippet": "décide d'augmenter le capital social d'une somme de 10.050,00 euros pour le porter de 139.950,00 euros à 150.oo0,00 euros par création de 134 parts nouvelles de 75 euros nominal chacune, émises au pair et à libérer intégralement en numéraire"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Rapport du commissaire aux apports",
+          "decision": " Augmentation de capital"
+        },
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": " Augmentation de capital"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": " Augmentation de capital"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e24819916269756a09541d",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Véronique SCHOTT",
+        "holder_siren": null,
+        "shares": 134.0
+      },
+      "event_date": "2003-08-05",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "L'assemblée des associés agrée Mme Véronique ScHotT en tant que nouveaux associés",
+      "bbox_norm": [
+        0.0888,
+        0.6181,
+        0.78,
+        0.6378
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder entry; Véronique Schott accepted as associate, aligns with 134-share contribution in v1",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_07",
+      "source": {
+        "inpi_id": "63e24819916269756a09541d",
+        "page": 3,
+        "bbox": [
+          0.0888,
+          0.6181,
+          0.78,
+          0.6378
+        ],
+        "snippet": "L'assemblée des associés agrée Mme Véronique ScHotT en tant que nouveaux associés"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Rapport du commissaire aux apports",
+          "decision": " Augmentation de capital"
+        },
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": " Augmentation de capital"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": " Augmentation de capital"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e2481a916269756a095420",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Jacques BOCKEL",
+        "to_name": "Mathieu DOMENEGHETTY",
+        "shares": 76.0,
+        "price_eur": 5700.0
+      },
+      "event_date": "2007-08-07",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Le cessionnaire aura la propriété des parts cédées à compter du 07 août 2007.",
+      "bbox_norm": [
+        0.135,
+        0.4092,
+        0.8654,
+        0.4229
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder transfer: 'le cessionnaire aura la propriété' confirmed; date 2007-08-07 stated in snippet; Jacques BOCKEL to Mathieu DOMENEGHETTY, 76 shares",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_08",
+      "source": {
+        "inpi_id": "63e2481a916269756a095420",
+        "page": 4,
+        "bbox": [
+          0.135,
+          0.4092,
+          0.8654,
+          0.4229
+        ],
+        "snippet": "Le cessionnaire aura la propriété des parts cédées à compter du 07 août 2007."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée générale extraordinaire",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "BOCKEL JACQUES / BOCKEL JEREMY ET DOMENEGHETTY MATHIEU "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / SCHOTT VERONIQUE "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / DOMENEGHETTY MATHIEU "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e2481a916269756a095420",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Mathieu DOMENEGHETTY",
+        "shares": 76.0
+      },
+      "event_date": "2007-08-07",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Monsieur Jacques Bockel, Mme Véronique SCHOTT et Mr Jérémy BOCKEL ici présents, représentants plus de trois quarts des parts sociales, déclarent donner leur consentement à la présente cession de parts sociales.",
+      "bbox_norm": [
+        0.1338,
+        0.1782,
+        0.8634,
+        0.2065
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder entry: 'cession de parts sociales' confirmed; corresponds to v1 transfer, Mathieu DOMENEGHETTY receives 76 shares on 2007-08-07",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_09",
+      "source": {
+        "inpi_id": "63e2481a916269756a095420",
+        "page": 4,
+        "bbox": [
+          0.1338,
+          0.1782,
+          0.8634,
+          0.2065
+        ],
+        "snippet": "Monsieur Jacques Bockel, Mme Véronique SCHOTT et Mr Jérémy BOCKEL ici présents, représentants plus de trois quarts des parts sociales, déclarent donner leur consentement à la présente cession de parts sociales."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée générale extraordinaire",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "BOCKEL JACQUES / BOCKEL JEREMY ET DOMENEGHETTY MATHIEU "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / SCHOTT VERONIQUE "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / DOMENEGHETTY MATHIEU "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e2481a916269756a095421",
+      "page": 5,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 132500.0,
+        "capital_after_eur": 140000.0,
+        "method": "apport de fonds de commerce"
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "La valeur totale de l'apport de Monsieur Jacques BOCKEL s'élève à 132 500 €. En contrepartie de la valeur nette de cet apport et s'agissant d'un bien propre à Monsieur Jacques BOCKEL, il sera attribué à Monsieur Jacques BOCKEL 1766 parts nouvelles entièrement libérées de nominal 75 euros au titre de l'augmentation de capital de la SàRL JACQUES BOCKEL.",
+      "bbox_norm": [
+        0.1363,
+        0.794,
+        0.9063,
+        0.8946
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital increase via apport de fonds de commerce. Reconciliation checks: 7500 + 132500 = 140000 EUR ✓. New shares: 1766 × 75 EUR/share = 132500 EUR ✓.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_10",
+      "source": {
+        "inpi_id": "63e2481a916269756a095421",
+        "page": 5,
+        "bbox": [
+          0.1363,
+          0.794,
+          0.9063,
+          0.8946
+        ],
+        "snippet": "La valeur totale de l'apport de Monsieur Jacques BOCKEL s'élève à 132 500 €. En contrepartie de la valeur nette de cet apport et s'agissant d'un bien propre à Monsieur Jacques BOCKEL, il sera attribué à Monsieur Jacques BOCKEL 1766 parts nouvelles entièrement libérées de nominal 75 euros au titre de l'augmentation de capital de la SàRL JACQUES BOCKEL."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Rapport du commissaire aux apports"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e2481a916269756a095420",
+      "page": 10,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Jacques BOCKEL",
+        "to_name": "Véronique SCHOTT",
+        "shares": 106.0
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Le cédant cède et transporte, sous les garanties ordinaires de fait et de droit, au cessionnaire qui accepte, 5,30% du capital social soit 106 parts sociales",
+      "bbox_norm": [
+        0.137,
+        0.2755,
+        0.865,
+        0.3009
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder transfer: 'le cédant cède et transporte' confirmed; Jacques BOCKEL to Véronique SCHOTT, 106 shares; event_date null (no date extractable from snippet); snippet states '5,30% du capital social' implying 2000 total shares, inconsistent with known state (234 shares), but transfer itself is real",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_11",
+      "source": {
+        "inpi_id": "63e2481a916269756a095420",
+        "page": 10,
+        "bbox": [
+          0.137,
+          0.2755,
+          0.865,
+          0.3009
+        ],
+        "snippet": "Le cédant cède et transporte, sous les garanties ordinaires de fait et de droit, au cessionnaire qui accepte, 5,30% du capital social soit 106 parts sociales"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée générale extraordinaire",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "BOCKEL JACQUES / BOCKEL JEREMY ET DOMENEGHETTY MATHIEU "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / SCHOTT VERONIQUE "
+        },
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "JACQUES BOCKEL / DOMENEGHETTY MATHIEU "
+        }
+      ]
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63e24819916269756a09541e",
+      "dateDepot": "2003-02-19",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 3
+    },
+    {
+      "doc_id": "63e2481a916269756a095421",
+      "dateDepot": "2003-07-25",
+      "context_given": "Known state as of 2003-01-29 (from 3 events found in earlier-filed documents):\n- Capital social (total share capital): 7500.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Jérémy BOCKEL (PERSON, 90.0 shares, None%); Jacques BOCKEL (PERSON, 10.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-01-29: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 1
+    },
+    {
+      "doc_id": "63e24819916269756a09541d",
+      "dateDepot": "2003-10-21",
+      "context_given": "Known state as of 2003-01-29 (from 4 events found in earlier-filed documents):\n- Capital social (total share capital): 7500.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Jérémy BOCKEL (PERSON, 90.0 shares, None%); Jacques BOCKEL (PERSON, 10.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-01-29: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 3
+    },
+    {
+      "doc_id": "63e2481a916269756a095420",
+      "dateDepot": "2013-11-04",
+      "context_given": "Known state as of 2003-08-05 (from 7 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Jacques BOCKEL (PERSON, 10.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-01-29: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 1,
+      "n_llm_fallback": 3
+    },
+    {
+      "doc_id": "63e2481b916269756a095426",
+      "dateDepot": "2013-11-04",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 1,
+      "n_llm_fallback": 1
+    },
+    {
+      "doc_id": "63e24819916269756a09541a",
+      "dateDepot": "2016-07-07",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e24819916269756a09541b",
+      "dateDepot": "2017-11-15",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e2481a916269756a095423",
+      "dateDepot": "2017-11-15",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e24819916269756a09541c",
+      "dateDepot": "2017-12-01",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e2481a916269756a095424",
+      "dateDepot": "2017-12-01",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e24819916269756a09541f",
+      "dateDepot": "2017-12-20",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e2481b916269756a095425",
+      "dateDepot": "2017-12-20",
+      "context_given": "Known state as of 2007-08-07 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Véronique SCHOTT (PERSON, 134.0 shares, None%); Jérémy BOCKEL (PERSON, 90.0 shares, None%); Mathieu DOMENEGHETTY (PERSON, 76.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2003-08-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2007-08-07: Jacques BOCKEL reached -66 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

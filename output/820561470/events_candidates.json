@@ -1,0 +1,165 @@
+{
+  "siren": "820561470",
+  "mode": "chronological_context_aware",
+  "n_documents": 3,
+  "n_raw_candidates": 3,
+  "n_events": 3,
+  "events": [
+    {
+      "doc_id": "63e1f90fd0f29b5aaa069b71",
+      "page": 6,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Jonathan PAUTET",
+        "shares": 510.0
+      },
+      "event_date": "2016-05-18",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "à Monsieur Jonathan PAUTET,\nà concurrence de CINQ CENT DIX parts sociales, ci.. 510 parts\nnumérotées de 1 à 510",
+      "bbox_norm": null,
+      "llm_valid": true,
+      "llm_note": "Le texte attribue explicitement 510 parts sociales, numérotées de 1 à 510, à Jonathan PAUTET.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63e1f90fd0f29b5aaa069b71",
+        "page": 6,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "à Monsieur Jonathan PAUTET,\nà concurrence de CINQ CENT DIX parts sociales, ci.. 510 parts\nnumérotées de 1 à 510"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "Constitution "
+        },
+        {
+          "typeActe": "Acte de nomination d'organe(s) de gestion, direction, administration, surveillance ou contrôle",
+          "decision": "Nomination(s) de gérant(s) "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e1f90fd0f29b5aaa069b71",
+      "page": 6,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Sara HAPP",
+        "shares": 490.0
+      },
+      "event_date": "2016-05-18",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "à Madame Sara HAPP\nà concurrence de QUATRE CENT QUATRE-VINGT-DIX parts sociales, ci... 490 parts\nnumérotées de 511 à 1000",
+      "bbox_norm": null,
+      "llm_valid": true,
+      "llm_note": "Le texte attribue explicitement 490 parts sociales, numérotées de 511 à 1000, à Sara HAPP.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63e1f90fd0f29b5aaa069b71",
+        "page": 6,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "à Madame Sara HAPP\nà concurrence de QUATRE CENT QUATRE-VINGT-DIX parts sociales, ci... 490 parts\nnumérotées de 511 à 1000"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "Constitution "
+        },
+        {
+          "typeActe": "Acte de nomination d'organe(s) de gestion, direction, administration, surveillance ou contrôle",
+          "decision": "Nomination(s) de gérant(s) "
+        }
+      ]
+    },
+    {
+      "doc_id": "63e1f90fd0f29b5aaa069b72",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 140000.0,
+        "capital_after_eur": 150000.0,
+        "method": "Incorporation directe de réserves"
+      },
+      "event_date": "2022-01-20",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "décide d'augmenter le capital d'une somme de 140 000,00 euros pour le porter de 10 000,00 euros à 150 000,00 euros par incorporation directe de pareille somme prélevée sur le compte \"Autres réserves\".",
+      "bbox_norm": [
+        0.1168,
+        0.3013,
+        0.882,
+        0.3452
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid capital increase: snippet explicitly states 'décide d'augmenter le capital' and 'incorporation directe de réserves', which is a real capitalizing of reserves into new shares. Reconciliation: capital_before (100,000) + amount_eur (140,000) = 150,000 = capital_after_eur. Matches known prior capital of 100,000 EUR (510 + 490 shares at 100 EUR/share). No correction needed.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63e1f90fd0f29b5aaa069b72",
+        "page": 3,
+        "bbox": [
+          0.1168,
+          0.3013,
+          0.882,
+          0.3452
+        ],
+        "snippet": "décide d'augmenter le capital d'une somme de 140 000,00 euros pour le porter de 10 000,00 euros à 150 000,00 euros par incorporation directe de pareille somme prélevée sur le compte \"Autres réserves\"."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée générale extraordinaire",
+          "decision": "Augmentation du capital social "
+        }
+      ]
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63e1f90fd0f29b5aaa069b71",
+      "dateDepot": "2016-06-01",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "63e1f90ed0f29b5aaa069b70",
+      "dateDepot": "2016-09-23",
+      "context_given": "Known state as of 2016-05-18 (from 2 events found in earlier-filed documents):\n- Capital social: not yet established\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Jonathan PAUTET (PERSON, 510.0 shares, None%); Sara HAPP (PERSON, 490.0 shares, None%)",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e1f90fd0f29b5aaa069b72",
+      "dateDepot": "2022-02-04",
+      "context_given": "Known state as of 2016-05-18 (from 2 events found in earlier-filed documents):\n- Capital social: not yet established\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Jonathan PAUTET (PERSON, 510.0 shares, None%); Sara HAPP (PERSON, 490.0 shares, None%)",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 1
+    }
+  ]
+}

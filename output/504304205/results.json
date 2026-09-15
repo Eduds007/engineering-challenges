@@ -1,0 +1,74 @@
+{
+  "siren": "504304205",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2008-05-29",
+      "payload": {
+        "amount_eur": 1000000.0,
+        "capital_after_eur": 1000000.0,
+        "method": "apport en nature"
+      },
+      "source": {
+        "inpi_id": "63e13942526e1f30cd100db2",
+        "page": 1,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Le capital social est fixé à la somme de 1.000.000 euros. Il est divisé en 1.000 parts de 1.000 euros chacune, numérotées de 1 à 1.000, attribuées en totalité à Monsieur MARTORANA Francesco entièrement libérées."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Initial capital was validly set at €1,000,000, matching the stated capital after the event."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2008-05-29",
+      "payload": {
+        "holder_name": "MARTORANA Francesco",
+        "shares": 1000.0
+      },
+      "source": {
+        "inpi_id": "63e13942526e1f30cd100db2",
+        "page": 1,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Ces 1.000 parts sont attribuées à l'associé unique : à concurrence de 1.000 parts numérotées de 1 à 1.000 en rémunération de son apport de son apport en nature."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "The 1,000 shares were expressly attributed to the sole shareholder in consideration of his contribution in kind."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2008-05-29",
+      "capital_eur": 1000000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "MARTORANA Francesco",
+          "kind": "PERSON",
+          "shares": 1000.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 504304205 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

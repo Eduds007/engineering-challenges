@@ -1,0 +1,4463 @@
+{
+  "doc_id": "63e13942526e1f30cd100db2",
+  "pdf": "acte_2008-05-29_63e13942526e1f30cd100db2.pdf",
+  "n_pages": 12,
+  "pages": [
+    {
+      "page": 1,
+      "text": "** 2 9 MAI 2008\n7762\n\") SO.ME.PROD 08B293\nSociété à responsabilité limitée\nau capital de 1.000.000 euros\nSiège social : 15 Rue des Vignerons 13006 Marseille\nSTATUTS\nLe soussigné:\nMonsieur MARTORANA Francesco Fausto\nDemeurant 41 Rue du Montparnasse 75014 Paris\nNé 9 mai 1949 à Sousse (Tunisie)\nDivorcé\nA établi ainsi qu'il suit les statuts d'une Société à responsabilité limitée qu'il a décidé d’instituer.\nTITRE IFORME - OBJET - DENOMINATION - SIEGE - DUREE - EXERCICE - GERANCE\nARTICLE 1 - Forme\nLa Société est une Société à responsabilité limitée. Elle est régie par les dispositions du livre deuxième\ndu Code de commerce, par toutes autres dispositions légales et réglementaires en vigueur et par les\nprésents statuts.\nElle fonctionne indifféremment sous la même forme avec un ou plusieurs associés.\nARTICLE 2 - Objet\nLa Société a pour objet :\nFabrication et commercialisation de cacao, chocolat et produits de confiserie, chocolatier.\nToutes opérations industrielles, commerciales et financières, mobilières et immobilières pouvant se\nrattacher directement ou indirectement à l'objet social et à tous objets similaires ou connexes ;\nLa participation de la Société, par tous moyens, à toutes entreprises ou sociétés créées ou à créer,\npouvant se rattacher à l’objet social, notamment par voie de création de sociétés nouvelles, d'apport,\ncommandite, souscription ou rachat de titres ou droits sociaux, fusion, alliance ou association en\nparticipation ou groupement d’intérêt économique ou de location gérance.\nARTICLE 3 - Dénomination\nLa dénomination de la Société est :\nSO.ME.PROD\nTous les actes et documents émanant de la Société et destinés aux tiers et notamment les lettres,\nfactures, annonces et publications diverses, doivent indiquer la dénomination sociale précédée ou\nsuivie immédiatement des mots “Société à responsabilité limitée\" ou de l'abréviation “SARL\", de\nl'énonciation du capital social ainsi que du numéro d'immatriculation de la Société au Registre du\nCommerce et des Sociétés.\nARTICLE 4 - Siège social\nLe siège social est fixé 15 Rue des Vignerons 13006 Marseille.\nIl pourra être transféré en tout autre endroit du même département par simple décision de la gérance, et\nen tout autre lieu suivant décision de l’associé unique ou décision collective extraordinaire des\nassociés. hy",
+      "lines": [
+        {
+          "text": "**",
+          "bbox_norm": [
+            0.1736,
+            0.0178,
+            0.1841,
+            0.0246
+          ]
+        },
+        {
+          "text": "2 9 MAI 2008",
+          "bbox_norm": [
+            0.8303,
+            0.0121,
+            0.96,
+            0.0359
+          ]
+        },
+        {
+          "text": "7762",
+          "bbox_norm": [
+            0.8527,
+            0.0379,
+            0.9517,
+            0.068
+          ]
+        },
+        {
+          "text": "\")",
+          "bbox_norm": [
+            0.1215,
+            0.0762,
+            0.1278,
+            0.082
+          ]
+        },
+        {
+          "text": "SO.ME.PROD",
+          "bbox_norm": [
+            0.4347,
+            0.0894,
+            0.5639,
+            0.1031
+          ]
+        },
+        {
+          "text": "08B293",
+          "bbox_norm": [
+            0.8081,
+            0.0687,
+            0.9558,
+            0.1037
+          ]
+        },
+        {
+          "text": "Société à responsabilité limitée",
+          "bbox_norm": [
+            0.366,
+            0.105,
+            0.6327,
+            0.1211
+          ]
+        },
+        {
+          "text": "au capital de 1.000.000 euros",
+          "bbox_norm": [
+            0.3736,
+            0.122,
+            0.6245,
+            0.1387
+          ]
+        },
+        {
+          "text": "Siège social : 15 Rue des Vignerons 13006 Marseille",
+          "bbox_norm": [
+            0.277,
+            0.1386,
+            0.7216,
+            0.1544
+          ]
+        },
+        {
+          "text": "STATUTS",
+          "bbox_norm": [
+            0.4563,
+            0.187,
+            0.5432,
+            0.1998
+          ]
+        },
+        {
+          "text": "Le soussigné:",
+          "bbox_norm": [
+            0.1173,
+            0.2319,
+            0.2258,
+            0.2456
+          ]
+        },
+        {
+          "text": "Monsieur MARTORANA Francesco Fausto",
+          "bbox_norm": [
+            0.1173,
+            0.2617,
+            0.4479,
+            0.2749
+          ]
+        },
+        {
+          "text": "Demeurant 41 Rue du Montparnasse 75014 Paris",
+          "bbox_norm": [
+            0.1173,
+            0.2774,
+            0.4833,
+            0.2906
+          ]
+        },
+        {
+          "text": "Né 9 mai 1949 à Sousse (Tunisie)",
+          "bbox_norm": [
+            0.1173,
+            0.2925,
+            0.3702,
+            0.3057
+          ]
+        },
+        {
+          "text": "Divorcé",
+          "bbox_norm": [
+            0.1173,
+            0.3062,
+            0.1806,
+            0.3204
+          ]
+        },
+        {
+          "text": "A établi ainsi qu'il suit les statuts d'une Société à responsabilité limitée qu'il a décidé d’instituer.",
+          "bbox_norm": [
+            0.118,
+            0.3526,
+            0.8362,
+            0.3658
+          ]
+        },
+        {
+          "text": "TITRE IFORME - OBJET - DENOMINATION - SIEGE - DUREE - EXERCICE - GERANCE",
+          "bbox_norm": [
+            0.1173,
+            0.3828,
+            0.8716,
+            0.396
+          ]
+        },
+        {
+          "text": "ARTICLE 1 - Forme",
+          "bbox_norm": [
+            0.1166,
+            0.3974,
+            0.2869,
+            0.4117
+          ]
+        },
+        {
+          "text": "La Société est une Société à responsabilité limitée. Elle est régie par les dispositions du livre deuxième",
+          "bbox_norm": [
+            0.1173,
+            0.4131,
+            0.8799,
+            0.4263
+          ]
+        },
+        {
+          "text": "du Code de commerce, par toutes autres dispositions légales et réglementaires en vigueur et par les",
+          "bbox_norm": [
+            0.1167,
+            0.4273,
+            0.8806,
+            0.4424
+          ]
+        },
+        {
+          "text": "présents statuts.",
+          "bbox_norm": [
+            0.1173,
+            0.4434,
+            0.2383,
+            0.4585
+          ]
+        },
+        {
+          "text": "Elle fonctionne indifféremment sous la même forme avec un ou plusieurs associés.",
+          "bbox_norm": [
+            0.118,
+            0.4585,
+            0.7313,
+            0.4717
+          ]
+        },
+        {
+          "text": "ARTICLE 2 - Objet",
+          "bbox_norm": [
+            0.1173,
+            0.4883,
+            0.2805,
+            0.5029
+          ]
+        },
+        {
+          "text": "La Société a pour objet :",
+          "bbox_norm": [
+            0.1173,
+            0.5034,
+            0.3007,
+            0.5166
+          ]
+        },
+        {
+          "text": "Fabrication et commercialisation de cacao, chocolat et produits de confiserie, chocolatier.",
+          "bbox_norm": [
+            0.1173,
+            0.5181,
+            0.7952,
+            0.5313
+          ]
+        },
+        {
+          "text": "Toutes opérations industrielles, commerciales et financières, mobilières et immobilières pouvant se",
+          "bbox_norm": [
+            0.116,
+            0.5327,
+            0.8813,
+            0.5479
+          ]
+        },
+        {
+          "text": "rattacher directement ou indirectement à l'objet social et à tous objets similaires ou connexes ;",
+          "bbox_norm": [
+            0.1167,
+            0.5483,
+            0.816,
+            0.562
+          ]
+        },
+        {
+          "text": "La participation de la Société, par tous moyens, à toutes entreprises ou sociétés créées ou à créer,",
+          "bbox_norm": [
+            0.118,
+            0.5635,
+            0.8793,
+            0.5767
+          ]
+        },
+        {
+          "text": "pouvant se rattacher à l’objet social, notamment par voie de création de sociétés nouvelles, d'apport,",
+          "bbox_norm": [
+            0.1167,
+            0.5776,
+            0.88,
+            0.5938
+          ]
+        },
+        {
+          "text": "commandite, souscription ou rachat de titres ou droits sociaux, fusion, alliance ou association en",
+          "bbox_norm": [
+            0.1173,
+            0.5937,
+            0.88,
+            0.6074
+          ]
+        },
+        {
+          "text": "participation ou groupement d’intérêt économique ou de location gérance.",
+          "bbox_norm": [
+            0.118,
+            0.6099,
+            0.6667,
+            0.6231
+          ]
+        },
+        {
+          "text": "ARTICLE 3 - Dénomination",
+          "bbox_norm": [
+            0.118,
+            0.6401,
+            0.3451,
+            0.6519
+          ]
+        },
+        {
+          "text": "La dénomination de la Société est :",
+          "bbox_norm": [
+            0.1188,
+            0.6548,
+            0.3785,
+            0.6665
+          ]
+        },
+        {
+          "text": "SO.ME.PROD",
+          "bbox_norm": [
+            0.4404,
+            0.6689,
+            0.5584,
+            0.6822
+          ]
+        },
+        {
+          "text": "Tous les actes et documents émanant de la Société et destinés aux tiers et notamment les lettres,",
+          "bbox_norm": [
+            0.1167,
+            0.6836,
+            0.88,
+            0.6978
+          ]
+        },
+        {
+          "text": "factures, annonces et publications diverses, doivent indiquer la dénomination sociale précédée ou",
+          "bbox_norm": [
+            0.118,
+            0.6997,
+            0.8806,
+            0.7129
+          ]
+        },
+        {
+          "text": "suivie immédiatement des mots “Société à responsabilité limitée\" ou de l'abréviation “SARL\", de",
+          "bbox_norm": [
+            0.118,
+            0.7144,
+            0.8806,
+            0.7276
+          ]
+        },
+        {
+          "text": "l'énonciation du capital social ainsi que du numéro d'immatriculation de la Société au Registre du",
+          "bbox_norm": [
+            0.118,
+            0.729,
+            0.8793,
+            0.7422
+          ]
+        },
+        {
+          "text": "Commerce et des Sociétés.",
+          "bbox_norm": [
+            0.1188,
+            0.7451,
+            0.3181,
+            0.7569
+          ]
+        },
+        {
+          "text": "ARTICLE 4 - Siège social",
+          "bbox_norm": [
+            0.118,
+            0.79,
+            0.3236,
+            0.8032
+          ]
+        },
+        {
+          "text": "Le siège social est fixé 15 Rue des Vignerons 13006 Marseille.",
+          "bbox_norm": [
+            0.1166,
+            0.8032,
+            0.5869,
+            0.8189
+          ]
+        },
+        {
+          "text": "Il pourra être transféré en tout autre endroit du même département par simple décision de la gérance, et",
+          "bbox_norm": [
+            0.118,
+            0.8198,
+            0.8806,
+            0.833
+          ]
+        },
+        {
+          "text": "en tout autre lieu suivant décision de l’associé unique ou décision collective extraordinaire des",
+          "bbox_norm": [
+            0.1167,
+            0.834,
+            0.8806,
+            0.8482
+          ]
+        },
+        {
+          "text": "associés.",
+          "bbox_norm": [
+            0.1173,
+            0.8506,
+            0.1854,
+            0.8628
+          ]
+        },
+        {
+          "text": "hy",
+          "bbox_norm": [
+            0.338,
+            0.8524,
+            0.4142,
+            0.8816
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "+\nI\nC\nARTICLE 5 - Durée\nLa durée de la Société est fixée à 99 années à compter de son immatriculation au Registre du\nCommerce et des Sociétés. Cette durée viendra done à expiration en 2.107, sauf les cas de prorogation\nou de dissolution anticipée.\nARTICLE 6 - Exercice social\nL’exercice social commence le 1ª janvier et se termine le 31 décembre de chaque année.\nLe premier exercice social sera clos le 31 décembre 2008.\nARTICLE 7 - Gérance\nMonsieur MARTORANA Franscesco Fausto associé unique, exerce la gérance de la Société sans\nlimitation de durée.\nLa gérance exercera ses fonctions dans les conditions prévues au titre III des présents statuts.\nTITRE ILAPPORTS - CAPITAL - PARTS SOCIALES\nARTICLE 8 - Apports\nAux termes d'un contrat d'apport en date du 4 avril 2008 ci-annexé, Monsieur MARTORANA\nFrancesco apporteur a fait apport sous les garanties ordinaires de fait et de droit à la Société, de\nl'ensemble des éléments corporels et incorporels d’un fonds de commerce ayant pour activité la\nfabrication et la commercialisation de cacao, chocolat et produits de confiserie sis et exploité 15 Rue\ndes Vignerons 13006 Marseille.\nEn rémunération de cet apport évalué à un million euros (1.000.000 euros) par Monsieur BREDILLET\nSerge, commissaire aux apports, dans son rapport en date du 4 avril 2008, Monsieur MARTORANA\nFrancesco se voit attribuer 1.000 parts de mille euros chacune, intégralement libérées.\nMonsieur MARTORANA Francesco apporteur susvisé, s'engage, conformément aux dispositions de\nl'article 810 III du Code général des impôts, à conserver pendant un délai de trois ans à compter de la\ndate de la réalisation définitive de l’apport les 1.000 parts de la Société bénéficiaire qui lui seront\nattribuées en rémunération de son apport.\nDe plus, Monsieur MARTORANA Francesco déclare avoir été uniquement rémunéré par des droits\nsociaux.\nMonsieur MARTORANA Francesco déclare opter pour le régime spécial des plus-values prévu à\nl'article 151 octies du Code général des impôts. Il s’engage à respecter les règles prévues à l’article\n151 octies et notamment l’ensemble des obligations déclaratives prévues par ce texte.\nRécapitulation des apports\n- Apports d'un fonds de commerce : 1.000.000 euros\nMonsieur MARTORANA Francesco Fausto\nDemeurant 41 Rue du Montparnasse 75014 Paris\nNé 9 mai 1949 à Sousse (Tunisie)\nCélibataire, déclare ne pas être lié par un pacte civil de solidarité.\nARTICLE 9 - Capital social\nLe capital social est fixé à la somme de 1.000.000 euros.\nIl est divisé en 1.000 parts de 1.000 euros chacune, numérotées de 1 à 1.000, attribuées en totalité à\nMonsieur MARTORANA Francesco entièrement libérées.\nCes 1.000 parts sont attribuées à l'associé unique :\n- à concurrence de 1.000 parts numérotées de 1 à 1.000 en rémunération de son apport de son apport\nen nature. fo",
+      "lines": [
+        {
+          "text": "+",
+          "bbox_norm": [
+            0.8924,
+            0.0234,
+            0.9008,
+            0.0274
+          ]
+        },
+        {
+          "text": "I",
+          "bbox_norm": [
+            0.9043,
+            0.0279,
+            0.9112,
+            0.0332
+          ]
+        },
+        {
+          "text": "C",
+          "bbox_norm": [
+            0.8966,
+            0.0332,
+            0.9036,
+            0.0386
+          ]
+        },
+        {
+          "text": "ARTICLE 5 - Durée",
+          "bbox_norm": [
+            0.118,
+            0.0894,
+            0.2813,
+            0.1011
+          ]
+        },
+        {
+          "text": "La durée de la Société est fixée à 99 années à compter de son immatriculation au Registre du",
+          "bbox_norm": [
+            0.1188,
+            0.1044,
+            0.8793,
+            0.1177
+          ]
+        },
+        {
+          "text": "Commerce et des Sociétés. Cette durée viendra done à expiration en 2.107, sauf les cas de prorogation",
+          "bbox_norm": [
+            0.118,
+            0.1202,
+            0.8786,
+            0.1333
+          ]
+        },
+        {
+          "text": "ou de dissolution anticipée.",
+          "bbox_norm": [
+            0.1188,
+            0.1352,
+            0.3216,
+            0.1484
+          ]
+        },
+        {
+          "text": "ARTICLE 6 - Exercice social",
+          "bbox_norm": [
+            0.1195,
+            0.1666,
+            0.3493,
+            0.1777
+          ]
+        },
+        {
+          "text": "L’exercice social commence le 1ª janvier et se termine le 31 décembre de chaque année.",
+          "bbox_norm": [
+            0.118,
+            0.1806,
+            0.7736,
+            0.1938
+          ]
+        },
+        {
+          "text": "Le premier exercice social sera clos le 31 décembre 2008.",
+          "bbox_norm": [
+            0.118,
+            0.1953,
+            0.5466,
+            0.2095
+          ]
+        },
+        {
+          "text": "ARTICLE 7 - Gérance",
+          "bbox_norm": [
+            0.1173,
+            0.2261,
+            0.3,
+            0.2393
+          ]
+        },
+        {
+          "text": "Monsieur MARTORANA Franscesco Fausto associé unique, exerce la gérance de la Société sans",
+          "bbox_norm": [
+            0.118,
+            0.2412,
+            0.8793,
+            0.2544
+          ]
+        },
+        {
+          "text": "limitation de durée.",
+          "bbox_norm": [
+            0.118,
+            0.2559,
+            0.2646,
+            0.2691
+          ]
+        },
+        {
+          "text": "La gérance exercera ses fonctions dans les conditions prévues au titre III des présents statuts.",
+          "bbox_norm": [
+            0.1167,
+            0.27,
+            0.805,
+            0.2862
+          ]
+        },
+        {
+          "text": "TITRE ILAPPORTS - CAPITAL - PARTS SOCIALES",
+          "bbox_norm": [
+            0.1188,
+            0.3022,
+            0.5536,
+            0.314
+          ]
+        },
+        {
+          "text": "ARTICLE 8 - Apports",
+          "bbox_norm": [
+            0.1173,
+            0.3164,
+            0.2987,
+            0.3326
+          ]
+        },
+        {
+          "text": "Aux termes d'un contrat d'apport en date du 4 avril 2008 ci-annexé, Monsieur MARTORANA",
+          "bbox_norm": [
+            0.1167,
+            0.3379,
+            0.8786,
+            0.3526
+          ]
+        },
+        {
+          "text": "Francesco apporteur a fait apport sous les garanties ordinaires de fait et de droit à la Société, de",
+          "bbox_norm": [
+            0.1173,
+            0.3531,
+            0.8793,
+            0.3682
+          ]
+        },
+        {
+          "text": "l'ensemble des éléments corporels et incorporels d’un fonds de commerce ayant pour activité la",
+          "bbox_norm": [
+            0.116,
+            0.3682,
+            0.8799,
+            0.3834
+          ]
+        },
+        {
+          "text": "fabrication et la commercialisation de cacao, chocolat et produits de confiserie sis et exploité 15 Rue",
+          "bbox_norm": [
+            0.1167,
+            0.3834,
+            0.8793,
+            0.3974
+          ]
+        },
+        {
+          "text": "des Vignerons 13006 Marseille.",
+          "bbox_norm": [
+            0.1166,
+            0.3979,
+            0.3557,
+            0.4141
+          ]
+        },
+        {
+          "text": "En rémunération de cet apport évalué à un million euros (1.000.000 euros) par Monsieur BREDILLET",
+          "bbox_norm": [
+            0.116,
+            0.4199,
+            0.88,
+            0.4355
+          ]
+        },
+        {
+          "text": "Serge, commissaire aux apports, dans son rapport en date du 4 avril 2008, Monsieur MARTORANA",
+          "bbox_norm": [
+            0.1167,
+            0.435,
+            0.8786,
+            0.4512
+          ]
+        },
+        {
+          "text": "Francesco se voit attribuer 1.000 parts de mille euros chacune, intégralement libérées.",
+          "bbox_norm": [
+            0.1167,
+            0.4512,
+            0.7515,
+            0.4658
+          ]
+        },
+        {
+          "text": "Monsieur MARTORANA Francesco apporteur susvisé, s'engage, conformément aux dispositions de",
+          "bbox_norm": [
+            0.1167,
+            0.4809,
+            0.8799,
+            0.4961
+          ]
+        },
+        {
+          "text": "l'article 810 III du Code général des impôts, à conserver pendant un délai de trois ans à compter de la",
+          "bbox_norm": [
+            0.118,
+            0.4971,
+            0.8793,
+            0.5103
+          ]
+        },
+        {
+          "text": "date de la réalisation définitive de l’apport les 1.000 parts de la Société bénéficiaire qui lui seront",
+          "bbox_norm": [
+            0.1173,
+            0.5122,
+            0.8793,
+            0.5254
+          ]
+        },
+        {
+          "text": "attribuées en rémunération de son apport.",
+          "bbox_norm": [
+            0.1173,
+            0.5264,
+            0.4243,
+            0.5411
+          ]
+        },
+        {
+          "text": "De plus, Monsieur MARTORANA Francesco déclare avoir été uniquement rémunéré par des droits",
+          "bbox_norm": [
+            0.1173,
+            0.5567,
+            0.8793,
+            0.5713
+          ]
+        },
+        {
+          "text": "sociaux.",
+          "bbox_norm": [
+            0.1173,
+            0.5732,
+            0.1813,
+            0.585
+          ]
+        },
+        {
+          "text": "Monsieur MARTORANA Francesco déclare opter pour le régime spécial des plus-values prévu à",
+          "bbox_norm": [
+            0.1167,
+            0.6006,
+            0.8799,
+            0.6158
+          ]
+        },
+        {
+          "text": "l'article 151 octies du Code général des impôts. Il s’engage à respecter les règles prévues à l’article",
+          "bbox_norm": [
+            0.116,
+            0.6152,
+            0.8793,
+            0.6308
+          ]
+        },
+        {
+          "text": "151 octies et notamment l’ensemble des obligations déclaratives prévues par ce texte.",
+          "bbox_norm": [
+            0.1188,
+            0.6324,
+            0.7494,
+            0.6455
+          ]
+        },
+        {
+          "text": "Récapitulation des apports",
+          "bbox_norm": [
+            0.1167,
+            0.6611,
+            0.3168,
+            0.6758
+          ]
+        },
+        {
+          "text": "- Apports d'un fonds de commerce : 1.000.000 euros",
+          "bbox_norm": [
+            0.1166,
+            0.6826,
+            0.5105,
+            0.6983
+          ]
+        },
+        {
+          "text": "Monsieur MARTORANA Francesco Fausto",
+          "bbox_norm": [
+            0.118,
+            0.7143,
+            0.4458,
+            0.7261
+          ]
+        },
+        {
+          "text": "Demeurant 41 Rue du Montparnasse 75014 Paris",
+          "bbox_norm": [
+            0.118,
+            0.7295,
+            0.4813,
+            0.7412
+          ]
+        },
+        {
+          "text": "Né 9 mai 1949 à Sousse (Tunisie)",
+          "bbox_norm": [
+            0.1166,
+            0.7432,
+            0.3702,
+            0.7579
+          ]
+        },
+        {
+          "text": "Célibataire, déclare ne pas être lié par un pacte civil de solidarité.",
+          "bbox_norm": [
+            0.1167,
+            0.7578,
+            0.6015,
+            0.773
+          ]
+        },
+        {
+          "text": "ARTICLE 9 - Capital social",
+          "bbox_norm": [
+            0.118,
+            0.7891,
+            0.341,
+            0.8023
+          ]
+        },
+        {
+          "text": "Le capital social est fixé à la somme de 1.000.000 euros.",
+          "bbox_norm": [
+            0.1173,
+            0.8037,
+            0.5361,
+            0.817
+          ]
+        },
+        {
+          "text": "Il est divisé en 1.000 parts de 1.000 euros chacune, numérotées de 1 à 1.000, attribuées en totalité à",
+          "bbox_norm": [
+            0.1173,
+            0.8189,
+            0.8793,
+            0.832
+          ]
+        },
+        {
+          "text": "Monsieur MARTORANA Francesco entièrement libérées.",
+          "bbox_norm": [
+            0.1173,
+            0.834,
+            0.5508,
+            0.8471
+          ]
+        },
+        {
+          "text": "Ces 1.000 parts sont attribuées à l'associé unique :",
+          "bbox_norm": [
+            0.1173,
+            0.8492,
+            0.4918,
+            0.8623
+          ]
+        },
+        {
+          "text": "- à concurrence de 1.000 parts numérotées de 1 à 1.000 en rémunération de son apport de son apport",
+          "bbox_norm": [
+            0.1173,
+            0.8643,
+            0.8786,
+            0.8774
+          ]
+        },
+        {
+          "text": "en nature.",
+          "bbox_norm": [
+            0.1173,
+            0.8804,
+            0.1923,
+            0.8921
+          ]
+        },
+        {
+          "text": "fo",
+          "bbox_norm": [
+            0.3431,
+            0.8838,
+            0.4431,
+            0.9146
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "i-; T t\nARTICLE 10 - Modification du capital social\nI - Augmentation du capital\nModalités de l'augmentation du capital\nLe capital social peut, en vertu d'une décision de l’associé unique ou décision collective extraordinaire\ndes associés être augmenté, en une ou plusieurs fois, en représentation d’apports en nature ou en\nnuméraire, ou par incorporation de tout ou partie des bénéfices ou réserves disponibles, au moyen de\nla création de parts sociales nouvelles ou de l’élévation de la valeur nominale des parts existantes.\nII - Réduction du capital social\n1 - Le capital social peut être réduit, pour quelque cause et de quelque manière que ce soit, par\ndécision de l’associé unique ou par décision collective extraordinaire des associés.\n2 - Si, du fait de pertes constatées dans les documents comptables, le montant des capitaux propres de\nla Société devient inférieur à la moitié du capital social, l'associé unique ou, en cas de pluralité\nd’associés, l’assemblée générale extraordinaire des associés, décident dans les quatre mois qui suivent\nl’approbation des comptes ayant fait apparaître ces pertes, s'il y a lieu de prononcer la dissolution\nanticipée de la Société.\nSi la dissolution n'est pas prononcée, la Société est tenue, au plus tard à la clôture du deuxième\nexercice suivant celui au cours duquel la constatation des pertes est intervenue, et sous réserve des\ndispositions relatives au montant minimum du capital, de réduire son capital d'un montant au moins\négal à celui des pertes qui n’ont pu être imputées sur les réserves si, dans ce délai, les capitaux propres\nn'ont pu être reconstitués à concurrence d’une valeur au moins égale à la moitié du capital.\nLa réduction du capital à un montant inférieur au minimum prévu par la loi ne peut être décidé que\nsous la condition suspensive d'une augmentation de capital ayant pour effet de le porter à ce\nminimum.\nEn cas d'inobservation des prescriptions ci-dessus, tout intéressé peut demander en justice la\ndissolution de la Société. Il en est de même si les associés n'ont pu valablement délibérer.\nToutefois, le Tribunal ne peut prononcer la dissolution de la Société, si au jour où il statue la\nrégularisation a été effectuée.\nARTICLE 11 - Représentation des parts sociales\nLes parts sociales ne peuvent être représentées par des titres négociables. Les droits de l’associé dans\nla Société résultent seulement des présents statuts, des actes modificatifs ultérieurs et des cessions de\nparts régulièrement notifiés et publiés.\nARTICLE 12 - Cession et transmission des parts sociales\n1 - Les cessions de parts doivent être constatées par écrit.\nLa cession n'est opposable à la Société que dans les formes prévues par l'article 1690 du Code civil ou\npar le dépôt d’un original de l'acte de cession au siège social contre remise par le Gérant d'une\nattestation de ce dépôt.\nElle n’est opposable aux tiers qu'après accomplissement de cette formalité et, en outre, après publicité\nau Greffe du Tribunal de commerce.\n2 - Les cessions ou transmissions sous quelque forme que ce soit des parts sociales appartenant à\nl’associé unique sont libres.\n3 - En cas de pluralité d’associés, seules les cessions de parts au profit de tiers étrangers à la Société\nautres que le conjoint, les ascendants ou descendants d’un associé, sont soumises à agrément dans les\nconditions prévues par les dispositions de la loi et du décret sur les sociétés commerciales.\n4 - En cas de décès de l’associé unique, la Société continue de plein droit entre ses ayants droit ou\nhéritiers, et, le cas échéant, son conjoint survivant.\n5 - En cas de dissolution de la communauté de biens existant entre l’associé unique et son conjoint, la\nSociété continue soit avec un associé unique, si les parts sociales sont attribuées en totalité à l’un des\népoux, soit avec deux associés si lesdites parts sont partagées entre les époux.\nARTICLE 13 - Indivisibilité des parts sociales\nEn cas de pluralité d’associés, les copropriétaires de parts sociales indivises sont tenus de désigner l’un\nd’entre eux pour les représenter auprès de la Société ; à défaut d’entente, il appartient à l’indivisaire le\nplus diligent de faire désigner par justice un mandataire chargé de les représenter.\nFO",
+      "lines": [
+        {
+          "text": "i-;",
+          "bbox_norm": [
+            0.05,
+            0.0298,
+            0.0667,
+            0.0371
+          ]
+        },
+        {
+          "text": "T",
+          "bbox_norm": [
+            0.0909,
+            0.0288,
+            0.0986,
+            0.0337
+          ]
+        },
+        {
+          "text": "t",
+          "bbox_norm": [
+            0.0965,
+            0.0347,
+            0.1029,
+            0.0391
+          ]
+        },
+        {
+          "text": "ARTICLE 10 - Modification du capital social",
+          "bbox_norm": [
+            0.1187,
+            0.0908,
+            0.4743,
+            0.1025
+          ]
+        },
+        {
+          "text": "I - Augmentation du capital",
+          "bbox_norm": [
+            0.1159,
+            0.1045,
+            0.3237,
+            0.1202
+          ]
+        },
+        {
+          "text": "Modalités de l'augmentation du capital",
+          "bbox_norm": [
+            0.1174,
+            0.1207,
+            0.4091,
+            0.1338
+          ]
+        },
+        {
+          "text": "Le capital social peut, en vertu d'une décision de l’associé unique ou décision collective extraordinaire",
+          "bbox_norm": [
+            0.1174,
+            0.1338,
+            0.88,
+            0.1494
+          ]
+        },
+        {
+          "text": "des associés être augmenté, en une ou plusieurs fois, en représentation d’apports en nature ou en",
+          "bbox_norm": [
+            0.1167,
+            0.1499,
+            0.8807,
+            0.1646
+          ]
+        },
+        {
+          "text": "numéraire, ou par incorporation de tout ou partie des bénéfices ou réserves disponibles, au moyen de",
+          "bbox_norm": [
+            0.1167,
+            0.1641,
+            0.8807,
+            0.1802
+          ]
+        },
+        {
+          "text": "la création de parts sociales nouvelles ou de l’élévation de la valeur nominale des parts existantes.",
+          "bbox_norm": [
+            0.1167,
+            0.1802,
+            0.8425,
+            0.1949
+          ]
+        },
+        {
+          "text": "II - Réduction du capital social",
+          "bbox_norm": [
+            0.1167,
+            0.1958,
+            0.3479,
+            0.21
+          ]
+        },
+        {
+          "text": "1 - Le capital social peut être réduit, pour quelque cause et de quelque manière que ce soit, par",
+          "bbox_norm": [
+            0.1174,
+            0.2099,
+            0.882,
+            0.2256
+          ]
+        },
+        {
+          "text": "décision de l’associé unique ou par décision collective extraordinaire des associés.",
+          "bbox_norm": [
+            0.1174,
+            0.2256,
+            0.7278,
+            0.2403
+          ]
+        },
+        {
+          "text": "2 - Si, du fait de pertes constatées dans les documents comptables, le montant des capitaux propres de",
+          "bbox_norm": [
+            0.1159,
+            0.2402,
+            0.8814,
+            0.2559
+          ]
+        },
+        {
+          "text": "la Société devient inférieur à la moitié du capital social, l'associé unique ou, en cas de pluralité",
+          "bbox_norm": [
+            0.1174,
+            0.2569,
+            0.8807,
+            0.2701
+          ]
+        },
+        {
+          "text": "d’associés, l’assemblée générale extraordinaire des associés, décident dans les quatre mois qui suivent",
+          "bbox_norm": [
+            0.1167,
+            0.271,
+            0.882,
+            0.2862
+          ]
+        },
+        {
+          "text": "l’approbation des comptes ayant fait apparaître ces pertes, s'il y a lieu de prononcer la dissolution",
+          "bbox_norm": [
+            0.1167,
+            0.2862,
+            0.8814,
+            0.3023
+          ]
+        },
+        {
+          "text": "anticipée de la Société.",
+          "bbox_norm": [
+            0.1167,
+            0.3017,
+            0.291,
+            0.3179
+          ]
+        },
+        {
+          "text": "Si la dissolution n'est pas prononcée, la Société est tenue, au plus tard à la clôture du deuxième",
+          "bbox_norm": [
+            0.1167,
+            0.3159,
+            0.882,
+            0.3321
+          ]
+        },
+        {
+          "text": "exercice suivant celui au cours duquel la constatation des pertes est intervenue, et sous réserve des",
+          "bbox_norm": [
+            0.1174,
+            0.3315,
+            0.8814,
+            0.3467
+          ]
+        },
+        {
+          "text": "dispositions relatives au montant minimum du capital, de réduire son capital d'un montant au moins",
+          "bbox_norm": [
+            0.1174,
+            0.3462,
+            0.882,
+            0.3624
+          ]
+        },
+        {
+          "text": "égal à celui des pertes qui n’ont pu être imputées sur les réserves si, dans ce délai, les capitaux propres",
+          "bbox_norm": [
+            0.1167,
+            0.3619,
+            0.882,
+            0.3775
+          ]
+        },
+        {
+          "text": "n'ont pu être reconstitués à concurrence d’une valeur au moins égale à la moitié du capital.",
+          "bbox_norm": [
+            0.1167,
+            0.3775,
+            0.791,
+            0.3916
+          ]
+        },
+        {
+          "text": "La réduction du capital à un montant inférieur au minimum prévu par la loi ne peut être décidé que",
+          "bbox_norm": [
+            0.1174,
+            0.3921,
+            0.8807,
+            0.4068
+          ]
+        },
+        {
+          "text": "sous la condition suspensive d'une augmentation de capital ayant pour effet de le porter à ce",
+          "bbox_norm": [
+            0.1159,
+            0.4067,
+            0.882,
+            0.4224
+          ]
+        },
+        {
+          "text": "minimum.",
+          "bbox_norm": [
+            0.1167,
+            0.4234,
+            0.1973,
+            0.4371
+          ]
+        },
+        {
+          "text": "En cas d'inobservation des prescriptions ci-dessus, tout intéressé peut demander en justice la",
+          "bbox_norm": [
+            0.1167,
+            0.4371,
+            0.8814,
+            0.4517
+          ]
+        },
+        {
+          "text": "dissolution de la Société. Il en est de même si les associés n'ont pu valablement délibérer.",
+          "bbox_norm": [
+            0.1174,
+            0.4522,
+            0.7841,
+            0.4663
+          ]
+        },
+        {
+          "text": "Toutefois, le Tribunal ne peut prononcer la dissolution de la Société, si au jour où il statue la",
+          "bbox_norm": [
+            0.1167,
+            0.4668,
+            0.882,
+            0.4824
+          ]
+        },
+        {
+          "text": "régularisation a été effectuée.",
+          "bbox_norm": [
+            0.1172,
+            0.4824,
+            0.3376,
+            0.4991
+          ]
+        },
+        {
+          "text": "ARTICLE 11 - Représentation des parts sociales",
+          "bbox_norm": [
+            0.1181,
+            0.5132,
+            0.5028,
+            0.5274
+          ]
+        },
+        {
+          "text": "Les parts sociales ne peuvent être représentées par des titres négociables. Les droits de l’associé dans",
+          "bbox_norm": [
+            0.1174,
+            0.5264,
+            0.8827,
+            0.5431
+          ]
+        },
+        {
+          "text": "la Société résultent seulement des présents statuts, des actes modificatifs ultérieurs et des cessions de",
+          "bbox_norm": [
+            0.1174,
+            0.5415,
+            0.8827,
+            0.5576
+          ]
+        },
+        {
+          "text": "parts régulièrement notifiés et publiés.",
+          "bbox_norm": [
+            0.118,
+            0.5576,
+            0.4049,
+            0.5738
+          ]
+        },
+        {
+          "text": "ARTICLE 12 - Cession et transmission des parts sociales",
+          "bbox_norm": [
+            0.1181,
+            0.5879,
+            0.5682,
+            0.6021
+          ]
+        },
+        {
+          "text": "1 - Les cessions de parts doivent être constatées par écrit.",
+          "bbox_norm": [
+            0.1187,
+            0.6031,
+            0.5438,
+            0.6173
+          ]
+        },
+        {
+          "text": "La cession n'est opposable à la Société que dans les formes prévues par l'article 1690 du Code civil ou",
+          "bbox_norm": [
+            0.1181,
+            0.6168,
+            0.8827,
+            0.6334
+          ]
+        },
+        {
+          "text": "par le dépôt d’un original de l'acte de cession au siège social contre remise par le Gérant d'une",
+          "bbox_norm": [
+            0.1174,
+            0.6313,
+            0.8827,
+            0.649
+          ]
+        },
+        {
+          "text": "attestation de ce dépôt.",
+          "bbox_norm": [
+            0.1187,
+            0.6494,
+            0.2903,
+            0.6626
+          ]
+        },
+        {
+          "text": "Elle n’est opposable aux tiers qu'après accomplissement de cette formalité et, en outre, après publicité",
+          "bbox_norm": [
+            0.1174,
+            0.6622,
+            0.8827,
+            0.6783
+          ]
+        },
+        {
+          "text": "au Greffe du Tribunal de commerce.",
+          "bbox_norm": [
+            0.1181,
+            0.6792,
+            0.3896,
+            0.6909
+          ]
+        },
+        {
+          "text": "2 - Les cessions ou transmissions sous quelque forme que ce soit des parts sociales appartenant à",
+          "bbox_norm": [
+            0.1159,
+            0.6915,
+            0.8849,
+            0.7096
+          ]
+        },
+        {
+          "text": "l’associé unique sont libres.",
+          "bbox_norm": [
+            0.1187,
+            0.7096,
+            0.3264,
+            0.7227
+          ]
+        },
+        {
+          "text": "3 - En cas de pluralité d’associés, seules les cessions de parts au profit de tiers étrangers à la Société",
+          "bbox_norm": [
+            0.1174,
+            0.7217,
+            0.8834,
+            0.7388
+          ]
+        },
+        {
+          "text": "autres que le conjoint, les ascendants ou descendants d’un associé, sont soumises à agrément dans les",
+          "bbox_norm": [
+            0.1181,
+            0.7373,
+            0.8834,
+            0.754
+          ]
+        },
+        {
+          "text": "conditions prévues par les dispositions de la loi et du décret sur les sociétés commerciales.",
+          "bbox_norm": [
+            0.118,
+            0.752,
+            0.7897,
+            0.7687
+          ]
+        },
+        {
+          "text": "4 - En cas de décès de l’associé unique, la Société continue de plein droit entre ses ayants droit ou",
+          "bbox_norm": [
+            0.1181,
+            0.7677,
+            0.8827,
+            0.7833
+          ]
+        },
+        {
+          "text": "héritiers, et, le cas échéant, son conjoint survivant.",
+          "bbox_norm": [
+            0.1187,
+            0.7838,
+            0.4945,
+            0.7979
+          ]
+        },
+        {
+          "text": "5 - En cas de dissolution de la communauté de biens existant entre l’associé unique et son conjoint, la",
+          "bbox_norm": [
+            0.1181,
+            0.7974,
+            0.8834,
+            0.8135
+          ]
+        },
+        {
+          "text": "Société continue soit avec un associé unique, si les parts sociales sont attribuées en totalité à l’un des",
+          "bbox_norm": [
+            0.1187,
+            0.813,
+            0.8827,
+            0.8282
+          ]
+        },
+        {
+          "text": "époux, soit avec deux associés si lesdites parts sont partagées entre les époux.",
+          "bbox_norm": [
+            0.1187,
+            0.8282,
+            0.6959,
+            0.8443
+          ]
+        },
+        {
+          "text": "ARTICLE 13 - Indivisibilité des parts sociales",
+          "bbox_norm": [
+            0.1209,
+            0.8604,
+            0.4841,
+            0.8721
+          ]
+        },
+        {
+          "text": "En cas de pluralité d’associés, les copropriétaires de parts sociales indivises sont tenus de désigner l’un",
+          "bbox_norm": [
+            0.1201,
+            0.8732,
+            0.8827,
+            0.8887
+          ]
+        },
+        {
+          "text": "d’entre eux pour les représenter auprès de la Société ; à défaut d’entente, il appartient à l’indivisaire le",
+          "bbox_norm": [
+            0.1187,
+            0.8877,
+            0.8834,
+            0.9044
+          ]
+        },
+        {
+          "text": "plus diligent de faire désigner par justice un mandataire chargé de les représenter.",
+          "bbox_norm": [
+            0.1201,
+            0.9034,
+            0.7244,
+            0.9195
+          ]
+        },
+        {
+          "text": "FO",
+          "bbox_norm": [
+            0.3716,
+            0.9171,
+            0.4723,
+            0.9454
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "r\n\"1\nLorsque des parts sociales sont grevées d’usufruit, le droit de vote appartient au nu-propriétaire pour\ntoutes les décisions collectives autres que celles relatives à l'affectation des résultats sociaux.\nARTICLE 14 - Décès ou incapacité d'un associé\nLa Société n'est pas dissoute par le décès ou l'incapacité frappant l'associé unique ou l’un des\nassociés.\nTITRE IIGERANCE\nARTICLE 15 - Pouvoirs de la gérance\nLa Société est gérée et administrée par un ou plusieurs Gérants, personnes physiques, associés ou non,\nnommés avec ou sans limitation de durée.\nLe ou les Gérants sont nommés par l’associé unique ou, en cas de pluralité d’associés, par les associés\nreprésentant plus de la moitié des parts sociales.\nEn cas de pluralité de Gérants, chacun d'eux peut faire tous actes de gestion dans l’intérêt de la Société\net dispose des mêmes pouvoirs que s'il était Gérant unique : l’opposition formée par l'un d’eux aux\nactes de son ou de ses collègues est sans effet à l'égard des tiers, à moins qu'il ne soit établi que ces\nderniers ont eu connaissance de celle-ci.\nLe Gérant, ou chacun des Gérants s’ils sont plusieurs, a la signature sociale, donnée par les mots “Pour\nla Société - Le Gérant\", suivis de la signature du Gérant.\nDans ses rapports avec les tiers, le Gérant est investi des pouvoirs les plus étendus pour représenter la\nSociété et agir en son nom en toute circonstance, sans avoir à justifier de pouvoirs spéciaux.\nLe Gérant est tenu de consacrer tout le temps et les soins nécessaires aux affaires sociales ; il peut,\nsous sa responsabilité personnelle, déléguer temporairement ses pouvoirs à toute personne de son\nchoix pour un ou plusieurs objets spéciaux et limités.\nARTICLE 16 - Cessation des fonctions des Gérants\nLe ou les Gérants sont révocables par décision de l’associé unique ou par une décision collective des\nassociés représentant plus de la moitié des parts sociales. Si la révocation est décidée sans juste motif,\nelle peut donner lieu à des dommages-intérêts. Enfin, en cas de pluralité d’associés, un Gérant peut\nêtre révoqué par le Président du Tribunal de commerce, pour cause légitime, à la demande de tout\nassocié.\nLes fonctions du ou des Gérants cessent par décès, interdiction, déconfiture, faillite personnelle,\nincompatibilité de fonctions ou révocation. Le Gérant peut également résilier ses fonctions mais\nseulement en prévenant l’associé unique ou, en cas de pluralité d’associés, chacun des associés trois\nmois à l'avance.\nLa cessation des fonctions du ou des Gérants n'entraîne pas dissolution de la Société.\nARTICLE 17 - Rémunération de la gérance\nChacun des Gérants a droit, en rémunération de ses fonctions, à un traitement fixe ou proportionnel,\nou à la fois fixe et proportionnel à passer par frais généraux.\nLes modalités d’attribution de cette rémunération, ainsi que son montant, sont fixés par décision de\nl’associé unique ou décision ordinaire des associés. La gérance a droit, en outre, au remboursement de\nses frais de représentation et de déplacements.\nARTICLE 18 - Conventions entre la Société et la gérance ou un associé\n1 - Les conventions, autres que celles portant sur des opérations courantes conclues à des conditions\nnormales, qui interviennent directement ou par personne interposée entre la Société et l'un de ses\nGérants ou associés, sont soumises à la procédure d’approbation prévue par la loi.\nCes dispositions s’appliquent aux conventions passées avec une Société dont un associé indéfiniment\nresponsable, un Gérant, un administrateur, un Directeur général, un membre du Directoire ou un\nmembre du Conseil de surveillance, est également associé ou Gérant de la S.A.R.L.\n2 - Lorsque la Société n'est pas pourvue de Commissaire aux comptes, les conventions conclues par le\nGérant non associé sont soumises à l'approbation préalable de l'associé unique ou de la collectivité\ndes associés. wy",
+      "lines": [
+        {
+          "text": "r",
+          "bbox_norm": [
+            0.9323,
+            0.0285,
+            0.9498,
+            0.0374
+          ]
+        },
+        {
+          "text": "\"1",
+          "bbox_norm": [
+            0.898,
+            0.0351,
+            0.905,
+            0.0406
+          ]
+        },
+        {
+          "text": "Lorsque des parts sociales sont grevées d’usufruit, le droit de vote appartient au nu-propriétaire pour",
+          "bbox_norm": [
+            0.1208,
+            0.0904,
+            0.8806,
+            0.1035
+          ]
+        },
+        {
+          "text": "toutes les décisions collectives autres que celles relatives à l'affectation des résultats sociaux.",
+          "bbox_norm": [
+            0.1208,
+            0.1059,
+            0.8062,
+            0.1177
+          ]
+        },
+        {
+          "text": "ARTICLE 14 - Décès ou incapacité d'un associé",
+          "bbox_norm": [
+            0.1208,
+            0.1358,
+            0.498,
+            0.1489
+          ]
+        },
+        {
+          "text": "La Société n'est pas dissoute par le décès ou l'incapacité frappant l'associé unique ou l’un des",
+          "bbox_norm": [
+            0.1202,
+            0.1509,
+            0.8799,
+            0.1641
+          ]
+        },
+        {
+          "text": "associés.",
+          "bbox_norm": [
+            0.1195,
+            0.167,
+            0.1876,
+            0.1792
+          ]
+        },
+        {
+          "text": "TITRE IIGERANCE",
+          "bbox_norm": [
+            0.1208,
+            0.1968,
+            0.2959,
+            0.2085
+          ]
+        },
+        {
+          "text": "ARTICLE 15 - Pouvoirs de la gérance",
+          "bbox_norm": [
+            0.1202,
+            0.2124,
+            0.4209,
+            0.2241
+          ]
+        },
+        {
+          "text": "La Société est gérée et administrée par un ou plusieurs Gérants, personnes physiques, associés ou non,",
+          "bbox_norm": [
+            0.1195,
+            0.2261,
+            0.8799,
+            0.2407
+          ]
+        },
+        {
+          "text": "nommés avec ou sans limitation de durée.",
+          "bbox_norm": [
+            0.1188,
+            0.2407,
+            0.4292,
+            0.2545
+          ]
+        },
+        {
+          "text": "Le ou les Gérants sont nommés par l’associé unique ou, en cas de pluralité d’associés, par les associés",
+          "bbox_norm": [
+            0.1195,
+            0.2569,
+            0.8799,
+            0.2701
+          ]
+        },
+        {
+          "text": "représentant plus de la moitié des parts sociales.",
+          "bbox_norm": [
+            0.118,
+            0.271,
+            0.4751,
+            0.2861
+          ]
+        },
+        {
+          "text": "En cas de pluralité de Gérants, chacun d'eux peut faire tous actes de gestion dans l’intérêt de la Société",
+          "bbox_norm": [
+            0.1188,
+            0.2856,
+            0.8806,
+            0.3013
+          ]
+        },
+        {
+          "text": "et dispose des mêmes pouvoirs que s'il était Gérant unique : l’opposition formée par l'un d’eux aux",
+          "bbox_norm": [
+            0.118,
+            0.3013,
+            0.8806,
+            0.3164
+          ]
+        },
+        {
+          "text": "actes de son ou de ses collègues est sans effet à l'égard des tiers, à moins qu'il ne soit établi que ces",
+          "bbox_norm": [
+            0.1188,
+            0.3169,
+            0.88,
+            0.3311
+          ]
+        },
+        {
+          "text": "derniers ont eu connaissance de celle-ci.",
+          "bbox_norm": [
+            0.1195,
+            0.333,
+            0.4181,
+            0.3447
+          ]
+        },
+        {
+          "text": "Le Gérant, ou chacun des Gérants s’ils sont plusieurs, a la signature sociale, donnée par les mots “Pour",
+          "bbox_norm": [
+            0.1195,
+            0.3477,
+            0.8799,
+            0.3609
+          ]
+        },
+        {
+          "text": "la Société - Le Gérant\", suivis de la signature du Gérant.",
+          "bbox_norm": [
+            0.1195,
+            0.3633,
+            0.5362,
+            0.375
+          ]
+        },
+        {
+          "text": "Dans ses rapports avec les tiers, le Gérant est investi des pouvoirs les plus étendus pour représenter la",
+          "bbox_norm": [
+            0.1188,
+            0.377,
+            0.88,
+            0.3912
+          ]
+        },
+        {
+          "text": "Société et agir en son nom en toute circonstance, sans avoir à justifier de pouvoirs spéciaux.",
+          "bbox_norm": [
+            0.1202,
+            0.3931,
+            0.7972,
+            0.4062
+          ]
+        },
+        {
+          "text": "Le Gérant est tenu de consacrer tout le temps et les soins nécessaires aux affaires sociales ; il peut,",
+          "bbox_norm": [
+            0.1188,
+            0.4228,
+            0.8793,
+            0.4361
+          ]
+        },
+        {
+          "text": "sous sa responsabilité personnelle, déléguer temporairement ses pouvoirs à toute personne de son",
+          "bbox_norm": [
+            0.1173,
+            0.437,
+            0.8806,
+            0.4522
+          ]
+        },
+        {
+          "text": "choix pour un ou plusieurs objets spéciaux et limités.",
+          "bbox_norm": [
+            0.1195,
+            0.4532,
+            0.5125,
+            0.4663
+          ]
+        },
+        {
+          "text": "ARTICLE 16 - Cessation des fonctions des Gérants",
+          "bbox_norm": [
+            0.1208,
+            0.4834,
+            0.5237,
+            0.4952
+          ]
+        },
+        {
+          "text": "Le ou les Gérants sont révocables par décision de l’associé unique ou par une décision collective des",
+          "bbox_norm": [
+            0.1195,
+            0.4976,
+            0.8799,
+            0.5108
+          ]
+        },
+        {
+          "text": "associés représentant plus de la moitié des parts sociales. Si la révocation est décidée sans juste motif,",
+          "bbox_norm": [
+            0.1195,
+            0.5132,
+            0.8793,
+            0.5264
+          ]
+        },
+        {
+          "text": "elle peut donner lieu à des dommages-intérêts. Enfin, en cas de pluralité d’associés, un Gérant peut",
+          "bbox_norm": [
+            0.1188,
+            0.5284,
+            0.8793,
+            0.5415
+          ]
+        },
+        {
+          "text": "être révoqué par le Président du Tribunal de commerce, pour cause légitime, à la demande de tout",
+          "bbox_norm": [
+            0.118,
+            0.5425,
+            0.8799,
+            0.5572
+          ]
+        },
+        {
+          "text": "associé.",
+          "bbox_norm": [
+            0.1166,
+            0.558,
+            0.1793,
+            0.5715
+          ]
+        },
+        {
+          "text": "Les fonctions du ou des Gérants cessent par décès, interdiction, déconfiture, faillite personnelle,",
+          "bbox_norm": [
+            0.118,
+            0.5728,
+            0.8793,
+            0.5859
+          ]
+        },
+        {
+          "text": "incompatibilité de fonctions ou révocation. Le Gérant peut également résilier ses fonctions mais",
+          "bbox_norm": [
+            0.1188,
+            0.5875,
+            0.88,
+            0.6016
+          ]
+        },
+        {
+          "text": "seulement en prévenant l’associé unique ou, en cas de pluralité d’associés, chacun des associés trois",
+          "bbox_norm": [
+            0.1173,
+            0.6016,
+            0.8806,
+            0.6167
+          ]
+        },
+        {
+          "text": "mois à l'avance.",
+          "bbox_norm": [
+            0.1188,
+            0.6182,
+            0.241,
+            0.6314
+          ]
+        },
+        {
+          "text": "La cessation des fonctions du ou des Gérants n'entraîne pas dissolution de la Société.",
+          "bbox_norm": [
+            0.1188,
+            0.6329,
+            0.748,
+            0.646
+          ]
+        },
+        {
+          "text": "ARTICLE 17 - Rémunération de la gérance",
+          "bbox_norm": [
+            0.118,
+            0.6626,
+            0.4646,
+            0.6768
+          ]
+        },
+        {
+          "text": "Chacun des Gérants a droit, en rémunération de ses fonctions, à un traitement fixe ou proportionnel,",
+          "bbox_norm": [
+            0.118,
+            0.6773,
+            0.8785,
+            0.6915
+          ]
+        },
+        {
+          "text": "ou à la fois fixe et proportionnel à passer par frais généraux.",
+          "bbox_norm": [
+            0.118,
+            0.6924,
+            0.5626,
+            0.7066
+          ]
+        },
+        {
+          "text": "Les modalités d’attribution de cette rémunération, ainsi que son montant, sont fixés par décision de",
+          "bbox_norm": [
+            0.1167,
+            0.7065,
+            0.88,
+            0.7222
+          ]
+        },
+        {
+          "text": "l’associé unique ou décision ordinaire des associés. La gérance a droit, en outre, au remboursement de",
+          "bbox_norm": [
+            0.118,
+            0.7232,
+            0.8793,
+            0.7364
+          ]
+        },
+        {
+          "text": "ses frais de représentation et de déplacements.",
+          "bbox_norm": [
+            0.1188,
+            0.7383,
+            0.4604,
+            0.7515
+          ]
+        },
+        {
+          "text": "ARTICLE 18 - Conventions entre la Société et la gérance ou un associé",
+          "bbox_norm": [
+            0.118,
+            0.7677,
+            0.6772,
+            0.7813
+          ]
+        },
+        {
+          "text": "1 - Les conventions, autres que celles portant sur des opérations courantes conclues à des conditions",
+          "bbox_norm": [
+            0.1195,
+            0.7832,
+            0.8793,
+            0.7964
+          ]
+        },
+        {
+          "text": "normales, qui interviennent directement ou par personne interposée entre la Société et l'un de ses",
+          "bbox_norm": [
+            0.1188,
+            0.7984,
+            0.8793,
+            0.8116
+          ]
+        },
+        {
+          "text": "Gérants ou associés, sont soumises à la procédure d’approbation prévue par la loi.",
+          "bbox_norm": [
+            0.1167,
+            0.8121,
+            0.7244,
+            0.8273
+          ]
+        },
+        {
+          "text": "Ces dispositions s’appliquent aux conventions passées avec une Société dont un associé indéfiniment",
+          "bbox_norm": [
+            0.118,
+            0.8277,
+            0.8793,
+            0.8418
+          ]
+        },
+        {
+          "text": "responsable, un Gérant, un administrateur, un Directeur général, un membre du Directoire ou un",
+          "bbox_norm": [
+            0.118,
+            0.8433,
+            0.8793,
+            0.8575
+          ]
+        },
+        {
+          "text": "membre du Conseil de surveillance, est également associé ou Gérant de la S.A.R.L.",
+          "bbox_norm": [
+            0.1188,
+            0.8584,
+            0.7348,
+            0.8717
+          ]
+        },
+        {
+          "text": "2 - Lorsque la Société n'est pas pourvue de Commissaire aux comptes, les conventions conclues par le",
+          "bbox_norm": [
+            0.1188,
+            0.8736,
+            0.8793,
+            0.8867
+          ]
+        },
+        {
+          "text": "Gérant non associé sont soumises à l'approbation préalable de l'associé unique ou de la collectivité",
+          "bbox_norm": [
+            0.118,
+            0.8878,
+            0.8793,
+            0.9024
+          ]
+        },
+        {
+          "text": "des associés.",
+          "bbox_norm": [
+            0.1173,
+            0.9018,
+            0.2155,
+            0.9166
+          ]
+        },
+        {
+          "text": "wy",
+          "bbox_norm": [
+            0.4285,
+            0.9004,
+            0.5327,
+            0.9522
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "1 -1\n3 - La procédure d'approbation et de contrôle prévue par la loi ne s’applique pas aux conventions\nconclues par l’associé unique, Gérant ou non. Toutefois, le Gérant non associé ou le Commissaire aux\ncomptes, s’il en existe un, doivent établir un rapport spécial.\n4 - Les conventions conclues par l’associé unique ou par le Gérant non associé doivent être\nrépertoriées dans le registre des décisions de l’associé unique.\n5 - A peine de nullité du contrat, il est interdit aux Gérants ou aux associés autres que les personnes\nmorales de contracter, sous quelque forme que ce soit, des emprunts auprès de la Société, de se faire\nconsentir par elle des découverts en compte courant ou autrement, ainsi que de faire cautionner ou\navaliser par elle leurs engagements envers des tiers.\nCette interdiction s'applique également aux représentants légaux des personnes morales associées, aux\nconjoints, ascendants et descendants des Gérants ou associés personnes physiques, ainsi qu'à toute\npersonne interposée.\nTITRE IVDECISIONS DE L'ASSOCIE UNIQUE OU DES ASSOCIES\nARTICLE 19 - Décisions de l’associé unique ou des associés\n1 - L'associé unique exerce les pouvoirs qui sont dévolus par la loi aux associés réunis en assemblée\ngénérale. Il ne peut déléguer ses pouvoirs.\n2 - Les décisions de l’associé unique sont constatées dans un registre côté et paraphé dans les mêmes\nconditions que le registre des procès-verbaux des assemblées.\n3 - En cas de pluralité d'associés, tout associé a le droit de participer aux décisions collectives et\ndispose d'un nombre de voix égal à celui des parts sociales qu'il possède. Dans l’exercice de son droit\nde participer aux décisions collectives, chaque associé a le droit de se faire représenter par un autre\nassocié, sauf si les associés sont au nombre de deux, ou par son conjoint à moins que la Société ne\ncomprenne que les deux époux, ou par toute autre personne de son choix.\n4 - Les décisions collectives des associés sont prises en assemblées. Ces assemblées sont convoquées\net délibèrent conformément aux dispositions légales et réglementaires en vigueur.\nARTICLE 20 - Information de l'associé unique ou des associés\n1 - L'associé unique non Gérant, indépendamment de son droit d'information préalable à\nl'approbation annuelle des comptes, peut à toute époque, prendre connaissance au siège social des\ndocuments prévus par la loi et relatifs aux trois derniers exercices sociaux.\n2 - Lorsque la Société comporte plusieurs associés, l’étendue et les modalités de leurs droits\nd’information et de communication sont déterminées par les dispositions légales et réglementaires en\nvigueur.\nTITRE VCONTROLE DE LA SOCIETE\nARTICLE 21 - Commissaires aux comptes\nLa nomination d’un Commissaire aux comptes titulaire et d'un Commissaire aux comptes suppléant\nest obligatoire dans les cas prévus par la loi et les règlements. Elle est facultative dans les autres cas.\nEn cas de pluralité d'associés, la nomination d'un Commissaire aux comptes peut également être\ndécidée par décision ordinaire des associés. Elle peut aussi être demandée en justice par un ou\nplusieurs associés représentant au moins le dixième du capital.\nLe Commissaire aux comptes exerce ses fonctions dans les conditions prévues par la loi\nTITRE VICOMPTES SOCIAUX - BENEFICES - DIVIDENDES\nARTICLE 22 - Comptes sociaux\nIl est tenu une comptabilité régulière des opérations sociales, conformément à la loi et aux usages du\ncommerce.\nA la clôture de chaque exercice, la gérance dresse l'inventaire des divers éléments de l'actif et du\npassif existant à cette date. Elle dresse également le bilan, le compte de résultat et l’annexe, en se\nconformant aux dispositions légales et réglementaires.\nElle établit également un rapport de gestion exposant la situation de la Société durant l'exercice\nécoulé, l'évolution prévisible de cette situation, les événements importants intervenus entre la date de\nclôture de l’exercice et la date d’établissement du rapport et enfin les activités en matière de recherche\net de développement.",
+      "lines": [
+        {
+          "text": "1 -1",
+          "bbox_norm": [
+            0.052,
+            0.027,
+            0.0667,
+            0.0346
+          ]
+        },
+        {
+          "text": "3 - La procédure d'approbation et de contrôle prévue par la loi ne s’applique pas aux conventions",
+          "bbox_norm": [
+            0.1187,
+            0.0889,
+            0.882,
+            0.1021
+          ]
+        },
+        {
+          "text": "conclues par l’associé unique, Gérant ou non. Toutefois, le Gérant non associé ou le Commissaire aux",
+          "bbox_norm": [
+            0.1181,
+            0.1035,
+            0.882,
+            0.1177
+          ]
+        },
+        {
+          "text": "comptes, s’il en existe un, doivent établir un rapport spécial.",
+          "bbox_norm": [
+            0.1174,
+            0.1191,
+            0.5654,
+            0.1333
+          ]
+        },
+        {
+          "text": "4 - Les conventions conclues par l’associé unique ou par le Gérant non associé doivent être",
+          "bbox_norm": [
+            0.1174,
+            0.1333,
+            0.882,
+            0.149
+          ]
+        },
+        {
+          "text": "répertoriées dans le registre des décisions de l’associé unique.",
+          "bbox_norm": [
+            0.1187,
+            0.1494,
+            0.5772,
+            0.1636
+          ]
+        },
+        {
+          "text": "5 - A peine de nullité du contrat, il est interdit aux Gérants ou aux associés autres que les personnes",
+          "bbox_norm": [
+            0.1187,
+            0.165,
+            0.882,
+            0.1782
+          ]
+        },
+        {
+          "text": "morales de contracter, sous quelque forme que ce soit, des emprunts auprès de la Société, de se faire",
+          "bbox_norm": [
+            0.1174,
+            0.1792,
+            0.8827,
+            0.1943
+          ]
+        },
+        {
+          "text": "consentir par elle des découverts en compte courant ou autrement, ainsi que de faire cautionner ou",
+          "bbox_norm": [
+            0.1174,
+            0.1953,
+            0.882,
+            0.209
+          ]
+        },
+        {
+          "text": "avaliser par elle leurs engagements envers des tiers.",
+          "bbox_norm": [
+            0.1187,
+            0.2115,
+            0.5028,
+            0.2247
+          ]
+        },
+        {
+          "text": "Cette interdiction s'applique également aux représentants légaux des personnes morales associées, aux",
+          "bbox_norm": [
+            0.1187,
+            0.2256,
+            0.882,
+            0.2398
+          ]
+        },
+        {
+          "text": "conjoints, ascendants et descendants des Gérants ou associés personnes physiques, ainsi qu'à toute",
+          "bbox_norm": [
+            0.1181,
+            0.2402,
+            0.8827,
+            0.2559
+          ]
+        },
+        {
+          "text": "personne interposée.",
+          "bbox_norm": [
+            0.1172,
+            0.2553,
+            0.2723,
+            0.2716
+          ]
+        },
+        {
+          "text": "TITRE IVDECISIONS DE L'ASSOCIE UNIQUE OU DES ASSOCIES",
+          "bbox_norm": [
+            0.1181,
+            0.2852,
+            0.6869,
+            0.3008
+          ]
+        },
+        {
+          "text": "ARTICLE 19 - Décisions de l’associé unique ou des associés",
+          "bbox_norm": [
+            0.1194,
+            0.3018,
+            0.5897,
+            0.315
+          ]
+        },
+        {
+          "text": "1 - L'associé unique exerce les pouvoirs qui sont dévolus par la loi aux associés réunis en assemblée",
+          "bbox_norm": [
+            0.1187,
+            0.3154,
+            0.8827,
+            0.3315
+          ]
+        },
+        {
+          "text": "générale. Il ne peut déléguer ses pouvoirs.",
+          "bbox_norm": [
+            0.1187,
+            0.3315,
+            0.4313,
+            0.3462
+          ]
+        },
+        {
+          "text": "2 - Les décisions de l’associé unique sont constatées dans un registre côté et paraphé dans les mêmes",
+          "bbox_norm": [
+            0.1181,
+            0.3468,
+            0.882,
+            0.3598
+          ]
+        },
+        {
+          "text": "conditions que le registre des procès-verbaux des assemblées.",
+          "bbox_norm": [
+            0.1181,
+            0.3609,
+            0.5757,
+            0.376
+          ]
+        },
+        {
+          "text": "3 - En cas de pluralité d'associés, tout associé a le droit de participer aux décisions collectives et",
+          "bbox_norm": [
+            0.1174,
+            0.3765,
+            0.8827,
+            0.3907
+          ]
+        },
+        {
+          "text": "dispose d'un nombre de voix égal à celui des parts sociales qu'il possède. Dans l’exercice de son droit",
+          "bbox_norm": [
+            0.1187,
+            0.3916,
+            0.882,
+            0.4058
+          ]
+        },
+        {
+          "text": "de participer aux décisions collectives, chaque associé a le droit de se faire représenter par un autre",
+          "bbox_norm": [
+            0.1181,
+            0.4067,
+            0.8834,
+            0.422
+          ]
+        },
+        {
+          "text": "associé, sauf si les associés sont au nombre de deux, ou par son conjoint à moins que la Société ne",
+          "bbox_norm": [
+            0.1181,
+            0.4214,
+            0.8827,
+            0.4371
+          ]
+        },
+        {
+          "text": "comprenne que les deux époux, ou par toute autre personne de son choix.",
+          "bbox_norm": [
+            0.1181,
+            0.4371,
+            0.6626,
+            0.4522
+          ]
+        },
+        {
+          "text": "4 - Les décisions collectives des associés sont prises en assemblées. Ces assemblées sont convoquées",
+          "bbox_norm": [
+            0.1181,
+            0.4532,
+            0.882,
+            0.4663
+          ]
+        },
+        {
+          "text": "et délibèrent conformément aux dispositions légales et réglementaires en vigueur.",
+          "bbox_norm": [
+            0.1181,
+            0.4678,
+            0.7236,
+            0.482
+          ]
+        },
+        {
+          "text": "ARTICLE 20 - Information de l'associé unique ou des associés",
+          "bbox_norm": [
+            0.1181,
+            0.4972,
+            0.6147,
+            0.5123
+          ]
+        },
+        {
+          "text": "1 - L'associé unique non Gérant, indépendamment de son droit d'information préalable à",
+          "bbox_norm": [
+            0.1181,
+            0.5118,
+            0.8849,
+            0.5274
+          ]
+        },
+        {
+          "text": "l'approbation annuelle des comptes, peut à toute époque, prendre connaissance au siège social des",
+          "bbox_norm": [
+            0.1181,
+            0.5279,
+            0.882,
+            0.542
+          ]
+        },
+        {
+          "text": "documents prévus par la loi et relatifs aux trois derniers exercices sociaux.",
+          "bbox_norm": [
+            0.1187,
+            0.543,
+            0.6702,
+            0.5562
+          ]
+        },
+        {
+          "text": "2 - Lorsque la Société comporte plusieurs associés, l’étendue et les modalités de leurs droits",
+          "bbox_norm": [
+            0.1174,
+            0.5576,
+            0.882,
+            0.5718
+          ]
+        },
+        {
+          "text": "d’information et de communication sont déterminées par les dispositions légales et réglementaires en",
+          "bbox_norm": [
+            0.1187,
+            0.5738,
+            0.882,
+            0.587
+          ]
+        },
+        {
+          "text": "vigueur.",
+          "bbox_norm": [
+            0.1174,
+            0.5884,
+            0.1833,
+            0.604
+          ]
+        },
+        {
+          "text": "TITRE VCONTROLE DE LA SOCIETE",
+          "bbox_norm": [
+            0.118,
+            0.6172,
+            0.4493,
+            0.6324
+          ]
+        },
+        {
+          "text": "ARTICLE 21 - Commissaires aux comptes",
+          "bbox_norm": [
+            0.1181,
+            0.6338,
+            0.4576,
+            0.6475
+          ]
+        },
+        {
+          "text": "La nomination d’un Commissaire aux comptes titulaire et d'un Commissaire aux comptes suppléant",
+          "bbox_norm": [
+            0.1187,
+            0.649,
+            0.882,
+            0.6622
+          ]
+        },
+        {
+          "text": "est obligatoire dans les cas prévus par la loi et les règlements. Elle est facultative dans les autres cas.",
+          "bbox_norm": [
+            0.1174,
+            0.6627,
+            0.8632,
+            0.6783
+          ]
+        },
+        {
+          "text": "En cas de pluralité d'associés, la nomination d'un Commissaire aux comptes peut également être",
+          "bbox_norm": [
+            0.1194,
+            0.6793,
+            0.882,
+            0.6924
+          ]
+        },
+        {
+          "text": "décidée par décision ordinaire des associés. Elle peut aussi être demandée en justice par un ou",
+          "bbox_norm": [
+            0.1181,
+            0.6934,
+            0.8827,
+            0.7085
+          ]
+        },
+        {
+          "text": "plusieurs associés représentant au moins le dixième du capital.",
+          "bbox_norm": [
+            0.1181,
+            0.708,
+            0.5834,
+            0.7238
+          ]
+        },
+        {
+          "text": "Le Commissaire aux comptes exerce ses fonctions dans les conditions prévues par la loi",
+          "bbox_norm": [
+            0.1174,
+            0.7232,
+            0.7758,
+            0.7384
+          ]
+        },
+        {
+          "text": "TITRE VICOMPTES SOCIAUX - BENEFICES - DIVIDENDES",
+          "bbox_norm": [
+            0.1187,
+            0.7535,
+            0.6369,
+            0.7681
+          ]
+        },
+        {
+          "text": "ARTICLE 22 - Comptes sociaux",
+          "bbox_norm": [
+            0.1194,
+            0.7705,
+            0.3771,
+            0.7837
+          ]
+        },
+        {
+          "text": "Il est tenu une comptabilité régulière des opérations sociales, conformément à la loi et aux usages du",
+          "bbox_norm": [
+            0.1174,
+            0.7837,
+            0.8827,
+            0.7988
+          ]
+        },
+        {
+          "text": "commerce.",
+          "bbox_norm": [
+            0.1181,
+            0.8028,
+            0.2021,
+            0.8125
+          ]
+        },
+        {
+          "text": "A la clôture de chaque exercice, la gérance dresse l'inventaire des divers éléments de l'actif et du",
+          "bbox_norm": [
+            0.1187,
+            0.815,
+            0.882,
+            0.8282
+          ]
+        },
+        {
+          "text": "passif existant à cette date. Elle dresse également le bilan, le compte de résultat et l’annexe, en se",
+          "bbox_norm": [
+            0.1181,
+            0.8297,
+            0.8834,
+            0.8448
+          ]
+        },
+        {
+          "text": "conformant aux dispositions légales et réglementaires.",
+          "bbox_norm": [
+            0.1187,
+            0.8448,
+            0.5243,
+            0.8589
+          ]
+        },
+        {
+          "text": "Elle établit également un rapport de gestion exposant la situation de la Société durant l'exercice",
+          "bbox_norm": [
+            0.1194,
+            0.8594,
+            0.8827,
+            0.8741
+          ]
+        },
+        {
+          "text": "écoulé, l'évolution prévisible de cette situation, les événements importants intervenus entre la date de",
+          "bbox_norm": [
+            0.1187,
+            0.874,
+            0.8834,
+            0.8893
+          ]
+        },
+        {
+          "text": "clôture de l’exercice et la date d’établissement du rapport et enfin les activités en matière de recherche",
+          "bbox_norm": [
+            0.1187,
+            0.8897,
+            0.8827,
+            0.9039
+          ]
+        },
+        {
+          "text": "et de développement.",
+          "bbox_norm": [
+            0.1194,
+            0.9063,
+            0.2792,
+            0.9195
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "ARTICLE 23 - Affectation et répartition des résultats\nLes produits nets de l’exercice, déduction faite des frais généraux et autres charges de la Société, ainsi\nque tous amortissements provisions, constituent le bénéfice.\nIl est fait, sur ce bénéfice, diminué le cas échéant des pertes antérieures, un prélèvement d’un\nvingtième au moins, affecté à la formation d'un compte de réserve dite “réserve légale\". Ce\nprélèvement cesse d’être obligatoire lorsque ladite réserve atteint le dixième du capital social.\nLe bénéfice distribuable est constitué par le bénéfice de l’exercice, diminué des pertes antérieures et\ndes sommes portées en réserve en application de la loi ou des statuts, et augmenté des reports\nbénéficiaires.\nLe bénéfice distribuable est attribué à l’associé unique. Lorsque la Société comprend plusieurs\nassociés, la part attribuée aux associés sur ce bénéfice est déterminée par l’assemblée générale.\nLes modalités de mise en paiement des dividendes sont fixées par l’associé unique ou décidées par\nl’assemblée générale.\nLa mise en paiement des dividendes doit avoir lieu dans les neuf mois de la clôture de l’exercice, sauf\nprolongation de ce délai par décision de justice.\nL’associé unique ou l’assemblée générale peut également décider la distribution de sommes prélevées\nsur les réserves disponibles en indiquant expressément les postes de réserves sur lesquels ces\nprélèvements sont effectués. Toutefois, les dividendes sont prélevés par priorité sur le bénéfice\ndistribuable de l'exercice.\nDe même, l’associé unique ou l’assemblée générale peut décider d’affecter en totalité ou en partie les\nsommes distribuables aux réserves ou au report à nouveau.\nAucune distribution ne peut être effectuée lorsque les capitaux propres sont ou deviendraient à la suite\nd’une telle distribution, inférieurs au montant du capital augmenté des réserves que la loi ou les statuts\nne permettent pas de distribuer.\nLes pertes de l’exercice, s'il en existe, sont inscrites au report à nouveau pour être imputées sur les\nbénéfices des exercices ultérieurs jusqu'à apurement complet.\nTITRE VIIPROROGATION - DISSOLUTION - LIQUIDATION - CONTESTATIONS\nARTICLE 24 - Prorogation\nUn an au moins avant la date d’expiration de la Société, l’associé unique ou les associés doivent\ndécider si la Société doit être prorogée ou non.\nARTICLE 25 - Dissolution - Liquidation\n1 - La Société est dissoute à l'arrivée du terme statuaire, sauf prorogation régulière, et en cas de\nsurvenance d’une cause légale de dissolution.\n2 - Lorsque la Société ne comporte qu'un seul associé personne morale, la dissolution pour quelque\ncause que ce soit, entraîne dans les conditions prévues par l’article 1844-5 du Code civil, la\ntransmission universelle du patrimoine social à l’associé unique, sans qu'il y ait lieu à liquidation.\n3 - Lorsque la Société comporte un associé personne physique ou plusieurs associés, la dissolution\nentraîne sa liquidation.\nSa dénomination doit alors être suivie des mots “Société en liquidation\". Le ou les Liquidateurs sont\nnommés par la décision qui prononce la dissolution.\nLa collectivité des associés garde les mêmes attributions qu'au cours de la vie sociale, mais les\npouvoirs du ou des Gérants, comme ceux des Commissaires aux comptes s’il en existe, prennent fin à\ncompter de la dissolution.\nLe ou les Liquidateurs sont investis des pouvoirs les plus étendus, sous réserve des dispositions\nlégales, pour réaliser l’actif, payer le passif et répartir le solde disponible entre les associés.\nLes associés sont convoqués en fin de liquidation pour statuer sur les comptes définitifs, sur le quitus\ndu ou des Liquidateurs et la décharge de leur mandat et pour constater la clôture de la liquidation.\nARTICLE 26 - Contestations\nToutes les contestations relatives aux affaires sociales susceptibles de surgir pendant la durée de la\nSociété ou de sa liquidation, seront jugées conformément à la loi et soumises à la juridiction des\ntribunaux compétents. hy −",
+      "lines": [
+        {
+          "text": "ARTICLE 23 - Affectation et répartition des résultats",
+          "bbox_norm": [
+            0.1195,
+            0.0908,
+            0.5417,
+            0.1025
+          ]
+        },
+        {
+          "text": "Les produits nets de l’exercice, déduction faite des frais généraux et autres charges de la Société, ainsi",
+          "bbox_norm": [
+            0.1173,
+            0.1045,
+            0.8785,
+            0.1191
+          ]
+        },
+        {
+          "text": "que tous amortissements provisions, constituent le bénéfice.",
+          "bbox_norm": [
+            0.1173,
+            0.1202,
+            0.5619,
+            0.1348
+          ]
+        },
+        {
+          "text": "Il est fait, sur ce bénéfice, diminué le cas échéant des pertes antérieures, un prélèvement d’un",
+          "bbox_norm": [
+            0.1167,
+            0.1347,
+            0.8778,
+            0.1499
+          ]
+        },
+        {
+          "text": "vingtième au moins, affecté à la formation d'un compte de réserve dite “réserve légale\". Ce",
+          "bbox_norm": [
+            0.1173,
+            0.1499,
+            0.8785,
+            0.1655
+          ]
+        },
+        {
+          "text": "prélèvement cesse d’être obligatoire lorsque ladite réserve atteint le dixième du capital social.",
+          "bbox_norm": [
+            0.1173,
+            0.1655,
+            0.8084,
+            0.1802
+          ]
+        },
+        {
+          "text": "Le bénéfice distribuable est constitué par le bénéfice de l’exercice, diminué des pertes antérieures et",
+          "bbox_norm": [
+            0.118,
+            0.1817,
+            0.8785,
+            0.1949
+          ]
+        },
+        {
+          "text": "des sommes portées en réserve en application de la loi ou des statuts, et augmenté des reports",
+          "bbox_norm": [
+            0.118,
+            0.1973,
+            0.8778,
+            0.2104
+          ]
+        },
+        {
+          "text": "bénéficiaires.",
+          "bbox_norm": [
+            0.1167,
+            0.212,
+            0.2181,
+            0.2251
+          ]
+        },
+        {
+          "text": "Le bénéfice distribuable est attribué à l’associé unique. Lorsque la Société comprend plusieurs",
+          "bbox_norm": [
+            0.118,
+            0.2265,
+            0.8778,
+            0.2398
+          ]
+        },
+        {
+          "text": "associés, la part attribuée aux associés sur ce bénéfice est déterminée par l’assemblée générale.",
+          "bbox_norm": [
+            0.1167,
+            0.2412,
+            0.8174,
+            0.2554
+          ]
+        },
+        {
+          "text": "Les modalités de mise en paiement des dividendes sont fixées par l’associé unique ou décidées par",
+          "bbox_norm": [
+            0.1167,
+            0.2569,
+            0.8785,
+            0.2715
+          ]
+        },
+        {
+          "text": "l’assemblée générale.",
+          "bbox_norm": [
+            0.1167,
+            0.272,
+            0.2785,
+            0.2867
+          ]
+        },
+        {
+          "text": "La mise en paiement des dividendes doit avoir lieu dans les neuf mois de la clôture de l’exercice, sauf",
+          "bbox_norm": [
+            0.116,
+            0.2862,
+            0.88,
+            0.3017
+          ]
+        },
+        {
+          "text": "prolongation de ce délai par décision de justice.",
+          "bbox_norm": [
+            0.1166,
+            0.3017,
+            0.4703,
+            0.3174
+          ]
+        },
+        {
+          "text": "L’associé unique ou l’assemblée générale peut également décider la distribution de sommes prélevées",
+          "bbox_norm": [
+            0.116,
+            0.3164,
+            0.8793,
+            0.3321
+          ]
+        },
+        {
+          "text": "sur les réserves disponibles en indiquant expressément les postes de réserves sur lesquels ces",
+          "bbox_norm": [
+            0.118,
+            0.333,
+            0.8785,
+            0.3462
+          ]
+        },
+        {
+          "text": "prélèvements sont effectués. Toutefois, les dividendes sont prélevés par priorité sur le bénéfice",
+          "bbox_norm": [
+            0.1166,
+            0.3462,
+            0.8785,
+            0.3624
+          ]
+        },
+        {
+          "text": "distribuable de l'exercice.",
+          "bbox_norm": [
+            0.118,
+            0.3633,
+            0.3097,
+            0.375
+          ]
+        },
+        {
+          "text": "De même, l’associé unique ou l’assemblée générale peut décider d’affecter en totalité ou en partie les",
+          "bbox_norm": [
+            0.1173,
+            0.378,
+            0.8778,
+            0.3911
+          ]
+        },
+        {
+          "text": "sommes distribuables aux réserves ou au report à nouveau.",
+          "bbox_norm": [
+            0.1173,
+            0.3941,
+            0.5514,
+            0.4058
+          ]
+        },
+        {
+          "text": "Aucune distribution ne peut être effectuée lorsque les capitaux propres sont ou deviendraient à la suite",
+          "bbox_norm": [
+            0.116,
+            0.4068,
+            0.8793,
+            0.4219
+          ]
+        },
+        {
+          "text": "d’une telle distribution, inférieurs au montant du capital augmenté des réserves que la loi ou les statuts",
+          "bbox_norm": [
+            0.1167,
+            0.4224,
+            0.8785,
+            0.4371
+          ]
+        },
+        {
+          "text": "ne permettent pas de distribuer.",
+          "bbox_norm": [
+            0.116,
+            0.438,
+            0.3521,
+            0.4527
+          ]
+        },
+        {
+          "text": "Les pertes de l’exercice, s'il en existe, sont inscrites au report à nouveau pour être imputées sur les",
+          "bbox_norm": [
+            0.1153,
+            0.4517,
+            0.8785,
+            0.4673
+          ]
+        },
+        {
+          "text": "bénéfices des exercices ultérieurs jusqu'à apurement complet.",
+          "bbox_norm": [
+            0.1173,
+            0.4679,
+            0.5736,
+            0.482
+          ]
+        },
+        {
+          "text": "TITRE VIIPROROGATION - DISSOLUTION - LIQUIDATION - CONTESTATIONS",
+          "bbox_norm": [
+            0.1173,
+            0.4976,
+            0.8097,
+            0.5123
+          ]
+        },
+        {
+          "text": "ARTICLE 24 - Prorogation",
+          "bbox_norm": [
+            0.1166,
+            0.5127,
+            0.3376,
+            0.5284
+          ]
+        },
+        {
+          "text": "Un an au moins avant la date d’expiration de la Société, l’associé unique ou les associés doivent",
+          "bbox_norm": [
+            0.116,
+            0.5274,
+            0.8785,
+            0.5426
+          ]
+        },
+        {
+          "text": "décider si la Société doit être prorogée ou non.",
+          "bbox_norm": [
+            0.1173,
+            0.5435,
+            0.4619,
+            0.5576
+          ]
+        },
+        {
+          "text": "ARTICLE 25 - Dissolution - Liquidation",
+          "bbox_norm": [
+            0.1188,
+            0.5742,
+            0.4376,
+            0.586
+          ]
+        },
+        {
+          "text": "1 - La Société est dissoute à l'arrivée du terme statuaire, sauf prorogation régulière, et en cas de",
+          "bbox_norm": [
+            0.118,
+            0.5889,
+            0.8785,
+            0.6021
+          ]
+        },
+        {
+          "text": "survenance d’une cause légale de dissolution.",
+          "bbox_norm": [
+            0.116,
+            0.6036,
+            0.4549,
+            0.6173
+          ]
+        },
+        {
+          "text": "2 - Lorsque la Société ne comporte qu'un seul associé personne morale, la dissolution pour quelque",
+          "bbox_norm": [
+            0.1153,
+            0.6178,
+            0.8785,
+            0.6328
+          ]
+        },
+        {
+          "text": "cause que ce soit, entraîne dans les conditions prévues par l’article 1844-5 du Code civil, la",
+          "bbox_norm": [
+            0.1153,
+            0.6318,
+            0.8785,
+            0.6485
+          ]
+        },
+        {
+          "text": "transmission universelle du patrimoine social à l’associé unique, sans qu'il y ait lieu à liquidation.",
+          "bbox_norm": [
+            0.116,
+            0.6485,
+            0.8396,
+            0.6622
+          ]
+        },
+        {
+          "text": "3 - Lorsque la Société comporte un associé personne physique ou plusieurs associés, la dissolution",
+          "bbox_norm": [
+            0.1153,
+            0.6626,
+            0.8778,
+            0.6778
+          ]
+        },
+        {
+          "text": "entraîne sa liquidation.",
+          "bbox_norm": [
+            0.1173,
+            0.6792,
+            0.2882,
+            0.6925
+          ]
+        },
+        {
+          "text": "Sa dénomination doit alors être suivie des mots “Société en liquidation\". Le ou les Liquidateurs sont",
+          "bbox_norm": [
+            0.1167,
+            0.6934,
+            0.8793,
+            0.7081
+          ]
+        },
+        {
+          "text": "nommés par la décision qui prononce la dissolution.",
+          "bbox_norm": [
+            0.116,
+            0.7075,
+            0.5028,
+            0.7232
+          ]
+        },
+        {
+          "text": "La collectivité des associés garde les mêmes attributions qu'au cours de la vie sociale, mais les",
+          "bbox_norm": [
+            0.116,
+            0.7222,
+            0.8785,
+            0.7383
+          ]
+        },
+        {
+          "text": "pouvoirs du ou des Gérants, comme ceux des Commissaires aux comptes s’il en existe, prennent fin à",
+          "bbox_norm": [
+            0.1167,
+            0.7378,
+            0.8793,
+            0.7535
+          ]
+        },
+        {
+          "text": "compter de la dissolution.",
+          "bbox_norm": [
+            0.1166,
+            0.7534,
+            0.3091,
+            0.7677
+          ]
+        },
+        {
+          "text": "Le ou les Liquidateurs sont investis des pouvoirs les plus étendus, sous réserve des dispositions",
+          "bbox_norm": [
+            0.1153,
+            0.7677,
+            0.8785,
+            0.7828
+          ]
+        },
+        {
+          "text": "légales, pour réaliser l’actif, payer le passif et répartir le solde disponible entre les associés.",
+          "bbox_norm": [
+            0.116,
+            0.7828,
+            0.7917,
+            0.7984
+          ]
+        },
+        {
+          "text": "Les associés sont convoqués en fin de liquidation pour statuer sur les comptes définitifs, sur le quitus",
+          "bbox_norm": [
+            0.1173,
+            0.7994,
+            0.8778,
+            0.8126
+          ]
+        },
+        {
+          "text": "du ou des Liquidateurs et la décharge de leur mandat et pour constater la clôture de la liquidation.",
+          "bbox_norm": [
+            0.118,
+            0.8145,
+            0.8376,
+            0.8277
+          ]
+        },
+        {
+          "text": "ARTICLE 26 - Contestations",
+          "bbox_norm": [
+            0.118,
+            0.8448,
+            0.3493,
+            0.8565
+          ]
+        },
+        {
+          "text": "Toutes les contestations relatives aux affaires sociales susceptibles de surgir pendant la durée de la",
+          "bbox_norm": [
+            0.1173,
+            0.859,
+            0.8778,
+            0.8721
+          ]
+        },
+        {
+          "text": "Société ou de sa liquidation, seront jugées conformément à la loi et soumises à la juridiction des",
+          "bbox_norm": [
+            0.118,
+            0.8746,
+            0.8771,
+            0.8877
+          ]
+        },
+        {
+          "text": "tribunaux compétents.",
+          "bbox_norm": [
+            0.118,
+            0.8903,
+            0.2834,
+            0.9034
+          ]
+        },
+        {
+          "text": "hy",
+          "bbox_norm": [
+            0.4122,
+            0.8919,
+            0.5034,
+            0.9403
+          ]
+        },
+        {
+          "text": "−",
+          "bbox_norm": [
+            0.4444,
+            0.9254,
+            0.4486,
+            0.9278
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "7\nTITRE VIIIFORMALITES\nARTICLE 27 - Personnalité morale - Immatriculation au Registre du Commerce et des Sociétés\nConformément à la loi, la Société ne jouira de la personnalité morale qu'à dater de son\nimmatriculation au Registre du Commerce et des Sociétés.\nEn outre, pour faire publier la constitution de la présente Société conformément à la loi, tous pouvoirs\nsont donnés à Monsieur MARTORANA Francesco ou au porteur d'une copie des présents statuts\ncomme de toutes autres pièces qui pourraient être exigées.\nARTICLE 28 - Actes souscrits au nom de la Société en formation\nMonsieur MARTORANA Francesco associé unique, a établi un état des actes accomplis à ce jour pour\nle compte de la Société en formation avec l'indication pour chacun d'eux, des engagements qui en\nrésulteront pour la Société. Cet état est annexé aux présents statuts.\nL'immatriculation de la Société au Registre du Commerce et des Sociétés entraînera de plein droit\nreprise par la Société desdits actes et engagements.\nEn outre, Monsieur MARTORANA Francesco, associé unique et seul Gérant agira au nom et pour le\ncompte de la Société en formation, jusqu'à son immatriculation au Registre du Commerce et des\nSociétés. il passera les actes et prendra les engagements pour le compte de la Société :\nNEANT\nL’immatriculation de la Société au Registre du Commerce et des Sociétés comportera reprise de ces\nactes et engagements.\nARTICLE 29 - Frais\nLes frais, droits et honoraires des présentes et de leurs suites seront supportés par la Société, portés au\ncompte des “Frais d'établissement” et amortis sur les premiers exercices avant toute distribution de\ndividendes.\nARTICLE 30- Option pour l'Impôt sur les sociétés\nConformément à l'article 206-3 du Code général des impôts, l'associé unique déclare opter pour\nl'impôt sur les sociétés.\nFait à Marseille\nl’an deux mil huit\net le 4 avril\nen autant d’originaux que nécessaire pour le dépôt d’un exemplaire au siège social et l’exécution des\ndiverses formalités légales.\n2a",
+      "lines": [
+        {
+          "text": "7",
+          "bbox_norm": [
+            0.0958,
+            0.0362,
+            0.0993,
+            0.0391
+          ]
+        },
+        {
+          "text": "TITRE VIIIFORMALITES",
+          "bbox_norm": [
+            0.1201,
+            0.0825,
+            0.3438,
+            0.0967
+          ]
+        },
+        {
+          "text": "ARTICLE 27 - Personnalité morale - Immatriculation au Registre du Commerce et des Sociétés",
+          "bbox_norm": [
+            0.1201,
+            0.0982,
+            0.8738,
+            0.1138
+          ]
+        },
+        {
+          "text": "Conformément à la loi, la Société ne jouira de la personnalité morale qu'à dater de son",
+          "bbox_norm": [
+            0.1188,
+            0.1122,
+            0.8828,
+            0.1299
+          ]
+        },
+        {
+          "text": "immatriculation au Registre du Commerce et des Sociétés.",
+          "bbox_norm": [
+            0.1195,
+            0.128,
+            0.5536,
+            0.143
+          ]
+        },
+        {
+          "text": "En outre, pour faire publier la constitution de la présente Société conformément à la loi, tous pouvoirs",
+          "bbox_norm": [
+            0.1195,
+            0.1425,
+            0.882,
+            0.1597
+          ]
+        },
+        {
+          "text": "sont donnés à Monsieur MARTORANA Francesco ou au porteur d'une copie des présents statuts",
+          "bbox_norm": [
+            0.1188,
+            0.1572,
+            0.882,
+            0.1754
+          ]
+        },
+        {
+          "text": "comme de toutes autres pièces qui pourraient être exigées.",
+          "bbox_norm": [
+            0.1195,
+            0.1738,
+            0.5501,
+            0.1894
+          ]
+        },
+        {
+          "text": "ARTICLE 28 - Actes souscrits au nom de la Société en formation",
+          "bbox_norm": [
+            0.1195,
+            0.2041,
+            0.6348,
+            0.2187
+          ]
+        },
+        {
+          "text": "Monsieur MARTORANA Francesco associé unique, a établi un état des actes accomplis à ce jour pour",
+          "bbox_norm": [
+            0.118,
+            0.2177,
+            0.882,
+            0.2364
+          ]
+        },
+        {
+          "text": "le compte de la Société en formation avec l'indication pour chacun d'eux, des engagements qui en",
+          "bbox_norm": [
+            0.118,
+            0.2334,
+            0.8807,
+            0.251
+          ]
+        },
+        {
+          "text": "résulteront pour la Société. Cet état est annexé aux présents statuts.",
+          "bbox_norm": [
+            0.1193,
+            0.2495,
+            0.616,
+            0.2647
+          ]
+        },
+        {
+          "text": "L'immatriculation de la Société au Registre du Commerce et des Sociétés entraînera de plein droit",
+          "bbox_norm": [
+            0.1188,
+            0.2641,
+            0.88,
+            0.2808
+          ]
+        },
+        {
+          "text": "reprise par la Société desdits actes et engagements.",
+          "bbox_norm": [
+            0.118,
+            0.2798,
+            0.4973,
+            0.2954
+          ]
+        },
+        {
+          "text": "En outre, Monsieur MARTORANA Francesco, associé unique et seul Gérant agira au nom et pour le",
+          "bbox_norm": [
+            0.118,
+            0.2944,
+            0.8813,
+            0.3115
+          ]
+        },
+        {
+          "text": "compte de la Société en formation, jusqu'à son immatriculation au Registre du Commerce et des",
+          "bbox_norm": [
+            0.1173,
+            0.31,
+            0.8806,
+            0.3267
+          ]
+        },
+        {
+          "text": "Sociétés. il passera les actes et prendra les engagements pour le compte de la Société :",
+          "bbox_norm": [
+            0.1166,
+            0.3242,
+            0.7563,
+            0.3423
+          ]
+        },
+        {
+          "text": "NEANT",
+          "bbox_norm": [
+            0.1173,
+            0.3403,
+            0.1841,
+            0.3526
+          ]
+        },
+        {
+          "text": "L’immatriculation de la Société au Registre du Commerce et des Sociétés comportera reprise de ces",
+          "bbox_norm": [
+            0.1166,
+            0.354,
+            0.8793,
+            0.3721
+          ]
+        },
+        {
+          "text": "actes et engagements.",
+          "bbox_norm": [
+            0.1173,
+            0.3711,
+            0.2814,
+            0.3858
+          ]
+        },
+        {
+          "text": "ARTICLE 29 - Frais",
+          "bbox_norm": [
+            0.118,
+            0.4009,
+            0.284,
+            0.414
+          ]
+        },
+        {
+          "text": "Les frais, droits et honoraires des présentes et de leurs suites seront supportés par la Société, portés au",
+          "bbox_norm": [
+            0.116,
+            0.4146,
+            0.88,
+            0.4322
+          ]
+        },
+        {
+          "text": "compte des “Frais d'établissement” et amortis sur les premiers exercices avant toute distribution de",
+          "bbox_norm": [
+            0.116,
+            0.4302,
+            0.88,
+            0.4468
+          ]
+        },
+        {
+          "text": "dividendes.",
+          "bbox_norm": [
+            0.1166,
+            0.4447,
+            0.2057,
+            0.4595
+          ]
+        },
+        {
+          "text": "ARTICLE 30- Option pour l'Impôt sur les sociétés",
+          "bbox_norm": [
+            0.1173,
+            0.476,
+            0.5175,
+            0.4902
+          ]
+        },
+        {
+          "text": "Conformément à l'article 206-3 du Code général des impôts, l'associé unique déclare opter pour",
+          "bbox_norm": [
+            0.116,
+            0.4902,
+            0.8793,
+            0.5079
+          ]
+        },
+        {
+          "text": "l'impôt sur les sociétés.",
+          "bbox_norm": [
+            0.1159,
+            0.5053,
+            0.2939,
+            0.521
+          ]
+        },
+        {
+          "text": "Fait à Marseille",
+          "bbox_norm": [
+            0.1167,
+            0.5508,
+            0.2361,
+            0.564
+          ]
+        },
+        {
+          "text": "l’an deux mil huit",
+          "bbox_norm": [
+            0.116,
+            0.5659,
+            0.2521,
+            0.5791
+          ]
+        },
+        {
+          "text": "et le 4 avril",
+          "bbox_norm": [
+            0.1153,
+            0.5801,
+            0.2036,
+            0.5933
+          ]
+        },
+        {
+          "text": "en autant d’originaux que nécessaire pour le dépôt d’un exemplaire au siège social et l’exécution des",
+          "bbox_norm": [
+            0.1153,
+            0.5957,
+            0.8778,
+            0.6118
+          ]
+        },
+        {
+          "text": "diverses formalités légales.",
+          "bbox_norm": [
+            0.1159,
+            0.6098,
+            0.3196,
+            0.6261
+          ]
+        },
+        {
+          "text": "2a",
+          "bbox_norm": [
+            0.3232,
+            0.6378,
+            0.4992,
+            0.6673
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "text": "41\nBREDILLET Serge\n27 Bd Charles Moretti\n13014 MARSEILLE\nTél : 0495053741 Fax : 0491632376\nRAPPORT DU COMMISSAIRE AUX APPORTS\nSO.ME.PROD E.U.R.L. EN FORMATION\nMesdames, Messieurs les associés,\nJ'ai été désigné en qualité de Commissaire aux Apports, ayant pour mission de vérifier\nles apports en nature qui doivent être faits par MARTORANA Francesco Fausto à la\nsociété en formation SO.ME.PROD, et d'en dresser rapport, dans le cadre des articles\nL225-8 , 1225-14 et L223-9 du Code de Commerce relatifs à la constitution des sociétés\npar action et des sociétés à responsabilité limitée.\nL‘actif net apporté a été arrêté dans le projet qui m'a été soumis, signé conjointement\npar les futurs associés et l'apporteur en date du 02 janvier 2oo8. Il nous appartient de\nvérifier que la valeur des apports n'est pas sur-évaluée. A cet effet, nous avons effectué\nnos diligences selon les normes de la Compagnie nationale des commissaires aux\ncomptes applicables à cette mission ; ces normes requièrent la mise en œuvre de\ndiligences destinées d'une part à apprécier la valeur des apports, à s'assurer que celle-ci\nn’est pas sur-évaluée et à vérifier qu'elle correspond au moins à la valeur au nominal des\nactions à émettre par la société bénéficiaire de l’apport augmentée le cas échéant de la\nprime d’émission, d'autre part à apprécier les avantages particuliers stipulés s'ils\nexistent.\nPage l / 5",
+      "lines": [
+        {
+          "text": "41",
+          "bbox_norm": [
+            0.0737,
+            0.0406,
+            0.0806,
+            0.0459
+          ]
+        },
+        {
+          "text": "BREDILLET Serge",
+          "bbox_norm": [
+            0.3882,
+            0.0854,
+            0.6238,
+            0.1075
+          ]
+        },
+        {
+          "text": "27 Bd Charles Moretti",
+          "bbox_norm": [
+            0.3944,
+            0.128,
+            0.6167,
+            0.1431
+          ]
+        },
+        {
+          "text": "13014 MARSEILLE",
+          "bbox_norm": [
+            0.4111,
+            0.1455,
+            0.5994,
+            0.1602
+          ]
+        },
+        {
+          "text": "Tél : 0495053741 Fax : 0491632376",
+          "bbox_norm": [
+            0.3424,
+            0.1777,
+            0.6689,
+            0.1895
+          ]
+        },
+        {
+          "text": "RAPPORT DU COMMISSAIRE AUX APPORTS",
+          "bbox_norm": [
+            0.2895,
+            0.2261,
+            0.7223,
+            0.2378
+          ]
+        },
+        {
+          "text": "SO.ME.PROD E.U.R.L. EN FORMATION",
+          "bbox_norm": [
+            0.3145,
+            0.2407,
+            0.6952,
+            0.2559
+          ]
+        },
+        {
+          "text": "Mesdames, Messieurs les associés,",
+          "bbox_norm": [
+            0.1229,
+            0.291,
+            0.4201,
+            0.3057
+          ]
+        },
+        {
+          "text": "J'ai été désigné en qualité de Commissaire aux Apports, ayant pour mission de vérifier",
+          "bbox_norm": [
+            0.1222,
+            0.3189,
+            0.8592,
+            0.334
+          ]
+        },
+        {
+          "text": "les apports en nature qui doivent être faits par MARTORANA Francesco Fausto à la",
+          "bbox_norm": [
+            0.1229,
+            0.3345,
+            0.8292,
+            0.3487
+          ]
+        },
+        {
+          "text": "société en formation SO.ME.PROD, et d'en dresser rapport, dans le cadre des articles",
+          "bbox_norm": [
+            0.1236,
+            0.3496,
+            0.8473,
+            0.3628
+          ]
+        },
+        {
+          "text": "L225-8 , 1225-14 et L223-9 du Code de Commerce relatifs à la constitution des sociétés",
+          "bbox_norm": [
+            0.1229,
+            0.3633,
+            0.8682,
+            0.377
+          ]
+        },
+        {
+          "text": "par action et des sociétés à responsabilité limitée.",
+          "bbox_norm": [
+            0.1229,
+            0.377,
+            0.5528,
+            0.3926
+          ]
+        },
+        {
+          "text": "L‘actif net apporté a été arrêté dans le projet qui m'a été soumis, signé conjointement",
+          "bbox_norm": [
+            0.1244,
+            0.4072,
+            0.857,
+            0.4205
+          ]
+        },
+        {
+          "text": "par les futurs associés et l'apporteur en date du 02 janvier 2oo8. Il nous appartient de",
+          "bbox_norm": [
+            0.1236,
+            0.4219,
+            0.8592,
+            0.4351
+          ]
+        },
+        {
+          "text": "vérifier que la valeur des apports n'est pas sur-évaluée. A cet effet, nous avons effectué",
+          "bbox_norm": [
+            0.1229,
+            0.4351,
+            0.8737,
+            0.4502
+          ]
+        },
+        {
+          "text": "nos diligences selon les normes de la Compagnie nationale des commissaires aux",
+          "bbox_norm": [
+            0.1229,
+            0.4507,
+            0.8147,
+            0.4644
+          ]
+        },
+        {
+          "text": "comptes applicables à cette mission ; ces normes requièrent la mise en œuvre de",
+          "bbox_norm": [
+            0.1229,
+            0.4649,
+            0.816,
+            0.4791
+          ]
+        },
+        {
+          "text": "diligences destinées d'une part à apprécier la valeur des apports, à s'assurer que celle-ci",
+          "bbox_norm": [
+            0.1236,
+            0.48,
+            0.8757,
+            0.4932
+          ]
+        },
+        {
+          "text": "n’est pas sur-évaluée et à vérifier qu'elle correspond au moins à la valeur au nominal des",
+          "bbox_norm": [
+            0.1244,
+            0.4951,
+            0.882,
+            0.5069
+          ]
+        },
+        {
+          "text": "actions à émettre par la société bénéficiaire de l’apport augmentée le cas échéant de la",
+          "bbox_norm": [
+            0.1236,
+            0.5088,
+            0.8654,
+            0.522
+          ]
+        },
+        {
+          "text": "prime d’émission, d'autre part à apprécier les avantages particuliers stipulés s'ils",
+          "bbox_norm": [
+            0.1236,
+            0.5239,
+            0.8098,
+            0.5372
+          ]
+        },
+        {
+          "text": "existent.",
+          "bbox_norm": [
+            0.1229,
+            0.5386,
+            0.1979,
+            0.5504
+          ]
+        },
+        {
+          "text": "Page l / 5",
+          "bbox_norm": [
+            0.4556,
+            0.9444,
+            0.5557,
+            0.9625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "text": "1/ PRESENTATION DE L'OPERATION ET DESCRIPTION DES APPORTS\nVous souhaitez constituer une entreprise Uni Personnelle EURl à responsabilité limitée,\nayant pour activité la fabrication et la commercialisation de cacao , chocolat et produits\nde confiserie dénommée SO.ME.PROD. Le siége social est situé 15 rue des Vignerons\n13006 MARSEILLE .\nLe capital doit être souscrit et libéré par apport de l‘entreprise individuelle\nMARTORANA Francesco Fausto , immatriculée au RCS de MARSEILLE sous le numéro\n384 348 298 SIRET 384 348 298 00033\nLe futur associé sera :\nMARTORANA Francesco Fausto ,\nNé le 9 mai 1949 à Sousse (TUNISIE) de nationalité française,\ndemeurant 41 Rue du Montparnasse 75014 PARIS\napporteur en nature\nDECLARATION PREALABLE :\n= L'entreprise dont il est envisagé de faire l’apport, est désignée sous le nom de\n«MARTORANA Francesco Fausto»\n·Le fonds est exploité 15 rue des Vignerons 13006 MARSEILLE\nL'entreprise est immatriculée au Répertoire des métiers de MARSEILLE\n: L'entreprise appartient en propre à Monsieur MARTORANA Francesco Fausto\nAPPORTS\nLes éléments incorporels constituant l‘actif immobilisé de l’entreprise\nMARTORANA Francesco Fausto, au 31/12/2007 pour un montant de : 1 000 000 €\nLes éléments corporels constituant l'actif immobilisé de l'entreprise MARTORANA\nFrancesco Fausto, au 31/12/2007 pour un montant de : 30 000 €\nLes éléments de l'actif circulant de l'entreprise MARTORANA Francesco Fausto , au\n31/12/2007 pour un montant de : 120 000 €\nLes éléments de passif, notamment les dettes dues par l’entreprise MARTORANA\nFrancesco Fausto, au 31/12/2007 pour un montant de : 150 000 €\nAVANTAGES PARTICULIERS\nAucun avantage particulier consenti à Monsieur MARTORANA Francesco Fausto ne nous a\nété indiqué.\nPage 2 / 5",
+      "lines": [
+        {
+          "text": "1/ PRESENTATION DE L'OPERATION ET DESCRIPTION DES APPORTS",
+          "bbox_norm": [
+            0.1666,
+            0.0864,
+            0.8473,
+            0.0996
+          ]
+        },
+        {
+          "text": "Vous souhaitez constituer une entreprise Uni Personnelle EURl à responsabilité limitée,",
+          "bbox_norm": [
+            0.1229,
+            0.1177,
+            0.8647,
+            0.1323
+          ]
+        },
+        {
+          "text": "ayant pour activité la fabrication et la commercialisation de cacao , chocolat et produits",
+          "bbox_norm": [
+            0.1236,
+            0.1328,
+            0.8675,
+            0.1475
+          ]
+        },
+        {
+          "text": "de confiserie dénommée SO.ME.PROD. Le siége social est situé 15 rue des Vignerons",
+          "bbox_norm": [
+            0.1251,
+            0.1484,
+            0.8529,
+            0.1616
+          ]
+        },
+        {
+          "text": "13006 MARSEILLE .",
+          "bbox_norm": [
+            0.1264,
+            0.1636,
+            0.2924,
+            0.1753
+          ]
+        },
+        {
+          "text": "Le capital doit être souscrit et libéré par apport de l‘entreprise individuelle",
+          "bbox_norm": [
+            0.1244,
+            0.1914,
+            0.7536,
+            0.2056
+          ]
+        },
+        {
+          "text": "MARTORANA Francesco Fausto , immatriculée au RCS de MARSEILLE sous le numéro",
+          "bbox_norm": [
+            0.1236,
+            0.2061,
+            0.8814,
+            0.2212
+          ]
+        },
+        {
+          "text": "384 348 298 SIRET 384 348 298 00033",
+          "bbox_norm": [
+            0.1251,
+            0.2236,
+            0.4758,
+            0.2353
+          ]
+        },
+        {
+          "text": "Le futur associé sera :",
+          "bbox_norm": [
+            0.1257,
+            0.253,
+            0.3147,
+            0.2646
+          ]
+        },
+        {
+          "text": "MARTORANA Francesco Fausto ,",
+          "bbox_norm": [
+            0.1841,
+            0.2817,
+            0.489,
+            0.2954
+          ]
+        },
+        {
+          "text": "Né le 9 mai 1949 à Sousse (TUNISIE) de nationalité française,",
+          "bbox_norm": [
+            0.1848,
+            0.2984,
+            0.7139,
+            0.3115
+          ]
+        },
+        {
+          "text": "demeurant 41 Rue du Montparnasse 75014 PARIS",
+          "bbox_norm": [
+            0.1854,
+            0.313,
+            0.6119,
+            0.3247
+          ]
+        },
+        {
+          "text": "apporteur en nature",
+          "bbox_norm": [
+            0.7117,
+            0.3432,
+            0.8884,
+            0.3589
+          ]
+        },
+        {
+          "text": "DECLARATION PREALABLE :",
+          "bbox_norm": [
+            0.1257,
+            0.377,
+            0.3632,
+            0.3887
+          ]
+        },
+        {
+          "text": "=",
+          "bbox_norm": [
+            0.1556,
+            0.4116,
+            0.1626,
+            0.417
+          ]
+        },
+        {
+          "text": "L'entreprise dont il est envisagé de faire l’apport, est désignée sous le nom de",
+          "bbox_norm": [
+            0.1854,
+            0.4052,
+            0.8487,
+            0.4185
+          ]
+        },
+        {
+          "text": "«MARTORANA Francesco Fausto»",
+          "bbox_norm": [
+            0.1854,
+            0.4194,
+            0.4828,
+            0.4331
+          ]
+        },
+        {
+          "text": "·Le fonds est exploité 15 rue des Vignerons 13006 MARSEILLE",
+          "bbox_norm": [
+            0.1813,
+            0.4365,
+            0.7146,
+            0.4497
+          ]
+        },
+        {
+          "text": "L'entreprise est immatriculée au Répertoire des métiers de MARSEILLE",
+          "bbox_norm": [
+            0.1841,
+            0.4639,
+            0.7862,
+            0.479
+          ]
+        },
+        {
+          "text": ":",
+          "bbox_norm": [
+            0.1549,
+            0.4864,
+            0.1639,
+            0.4946
+          ]
+        },
+        {
+          "text": "L'entreprise appartient en propre à Monsieur MARTORANA Francesco Fausto",
+          "bbox_norm": [
+            0.1833,
+            0.479,
+            0.8522,
+            0.4942
+          ]
+        },
+        {
+          "text": "APPORTS",
+          "bbox_norm": [
+            0.4604,
+            0.5092,
+            0.5522,
+            0.524
+          ]
+        },
+        {
+          "text": "Les éléments incorporels constituant l‘actif immobilisé de l’entreprise",
+          "bbox_norm": [
+            0.1848,
+            0.538,
+            0.7703,
+            0.5527
+          ]
+        },
+        {
+          "text": "MARTORANA Francesco Fausto, au 31/12/2007 pour un montant de : 1 000 000 €",
+          "bbox_norm": [
+            0.1841,
+            0.5522,
+            0.8834,
+            0.5674
+          ]
+        },
+        {
+          "text": "Les éléments corporels constituant l'actif immobilisé de l'entreprise MARTORANA",
+          "bbox_norm": [
+            0.1833,
+            0.5674,
+            0.8807,
+            0.5825
+          ]
+        },
+        {
+          "text": "Francesco Fausto, au 31/12/2007 pour un montant de : 30 000 €",
+          "bbox_norm": [
+            0.1841,
+            0.5835,
+            0.7258,
+            0.5967
+          ]
+        },
+        {
+          "text": "Les éléments de l'actif circulant de l'entreprise MARTORANA Francesco Fausto , au",
+          "bbox_norm": [
+            0.1841,
+            0.5976,
+            0.8752,
+            0.6123
+          ]
+        },
+        {
+          "text": "31/12/2007 pour un montant de : 120 000 €",
+          "bbox_norm": [
+            0.1848,
+            0.6133,
+            0.5688,
+            0.6265
+          ]
+        },
+        {
+          "text": "Les éléments de passif, notamment les dettes dues par l’entreprise MARTORANA",
+          "bbox_norm": [
+            0.1848,
+            0.6274,
+            0.88,
+            0.6411
+          ]
+        },
+        {
+          "text": "Francesco Fausto, au 31/12/2007 pour un montant de : 150 000 €",
+          "bbox_norm": [
+            0.1841,
+            0.6426,
+            0.7369,
+            0.6563
+          ]
+        },
+        {
+          "text": "AVANTAGES PARTICULIERS",
+          "bbox_norm": [
+            0.3744,
+            0.6719,
+            0.6382,
+            0.6856
+          ]
+        },
+        {
+          "text": "Aucun avantage particulier consenti à Monsieur MARTORANA Francesco Fausto ne nous a",
+          "bbox_norm": [
+            0.1236,
+            0.7012,
+            0.8792,
+            0.7148
+          ]
+        },
+        {
+          "text": "été indiqué.",
+          "bbox_norm": [
+            0.1228,
+            0.7148,
+            0.2265,
+            0.731
+          ]
+        },
+        {
+          "text": "Page 2 / 5",
+          "bbox_norm": [
+            0.4556,
+            0.9434,
+            0.5585,
+            0.9615
+          ]
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "text": "=\n2/ DILIGENCES ET APPRECIATION DE LA VALEUR DES APPORTS\nELEMENTS ACTIFS\nIMMOBILISATIONS INCORPORELLES\nLes éléments estimatifs :\n- CA H.T. 2008 : 600 000 €\nI CA H.T. 2009 : 870 000 €\n- CA H.T. 2010 : 1 260 000 €\nEt le savoir faire des processus de fabrication, nous permettent d'évaluer l’apport des\néléments incorporels à 1 000 000 €\nLes chiffres d'affaires hors taxes des 2 derniers exercices ont été les suivants :\n- au 31/12/2006 : 332 000 €\n- au 31/12/2007 : 411 021 €\nNous avons procédé à une analyse avec plusieurs méthodes d'évaluation communément\nutilisées, l'évaluation du fonds artisanal de Monsieur MARTORANA Francesco Fausto\nappelle à un développement d’évolution compte tenu de la nouvelle fabrication et\ndistribution de chocolats et confiseries\nLa clientèle de la société en formation SO.ME.PRoD sera constituée de clients en France\net à l'étranger.\nIMMOBILISATIONS CORPORELLES\nNous avons vérifié l’existence des matériels qui nous ont été présentés au siège de\nl'entreprise 15 rue des Vignerons 13006 MARSEILLE, lieu du futur siège de la société.\nL'apporteur a certifié que les matériels apportés sont en pleine propriété et qu’il garantit\nle bon fonctionnement de ces matériels.\nNous avons demandé que nous soient présentées les factures d'acquisition de ces\nmatériels.\nLe détail de ces immobilisations est annexé au présent rapport.\nPage 3 / 5",
+      "lines": [
+        {
+          "text": "=",
+          "bbox_norm": [
+            0.1062,
+            0.0347,
+            0.1187,
+            0.044
+          ]
+        },
+        {
+          "text": "2/ DILIGENCES ET APPRECIATION DE LA VALEUR DES APPORTS",
+          "bbox_norm": [
+            0.1854,
+            0.0874,
+            0.8258,
+            0.1016
+          ]
+        },
+        {
+          "text": "ELEMENTS ACTIFS",
+          "bbox_norm": [
+            0.1249,
+            0.1191,
+            0.3001,
+            0.1324
+          ]
+        },
+        {
+          "text": "IMMOBILISATIONS INCORPORELLES",
+          "bbox_norm": [
+            0.1244,
+            0.1475,
+            0.4369,
+            0.1611
+          ]
+        },
+        {
+          "text": "Les éléments estimatifs :",
+          "bbox_norm": [
+            0.1251,
+            0.1773,
+            0.3389,
+            0.1904
+          ]
+        },
+        {
+          "text": "-",
+          "bbox_norm": [
+            0.1563,
+            0.2133,
+            0.1626,
+            0.2187
+          ]
+        },
+        {
+          "text": "CA H.T. 2008 :",
+          "bbox_norm": [
+            0.1854,
+            0.206,
+            0.3139,
+            0.2192
+          ]
+        },
+        {
+          "text": "600 000 €",
+          "bbox_norm": [
+            0.3799,
+            0.206,
+            0.4716,
+            0.2192
+          ]
+        },
+        {
+          "text": "I",
+          "bbox_norm": [
+            0.1556,
+            0.2265,
+            0.1631,
+            0.2364
+          ]
+        },
+        {
+          "text": "CA H.T. 2009 :",
+          "bbox_norm": [
+            0.1854,
+            0.2207,
+            0.3132,
+            0.2339
+          ]
+        },
+        {
+          "text": "870 000 €",
+          "bbox_norm": [
+            0.3799,
+            0.2207,
+            0.4708,
+            0.2339
+          ]
+        },
+        {
+          "text": "-",
+          "bbox_norm": [
+            0.1563,
+            0.2412,
+            0.1626,
+            0.2476
+          ]
+        },
+        {
+          "text": "CA H.T. 2010 :",
+          "bbox_norm": [
+            0.1846,
+            0.2343,
+            0.3134,
+            0.2486
+          ]
+        },
+        {
+          "text": "1 260 000 €",
+          "bbox_norm": [
+            0.3639,
+            0.2358,
+            0.4688,
+            0.2476
+          ]
+        },
+        {
+          "text": "Et le savoir faire des processus de fabrication, nous permettent d'évaluer l’apport des",
+          "bbox_norm": [
+            0.1249,
+            0.2627,
+            0.8515,
+            0.2778
+          ]
+        },
+        {
+          "text": "éléments incorporels à 1 000 000 €",
+          "bbox_norm": [
+            0.1249,
+            0.2778,
+            0.4278,
+            0.292
+          ]
+        },
+        {
+          "text": "Les chiffres d'affaires hors taxes des 2 derniers exercices ont été les suivants :",
+          "bbox_norm": [
+            0.1249,
+            0.3067,
+            0.7931,
+            0.3208
+          ]
+        },
+        {
+          "text": "- au 31/12/2006 : 332 000 €",
+          "bbox_norm": [
+            0.1242,
+            0.3359,
+            0.3876,
+            0.3506
+          ]
+        },
+        {
+          "text": "- au 31/12/2007 : 411 021 €",
+          "bbox_norm": [
+            0.1242,
+            0.3506,
+            0.3869,
+            0.3653
+          ]
+        },
+        {
+          "text": "Nous avons procédé à une analyse avec plusieurs méthodes d'évaluation communément",
+          "bbox_norm": [
+            0.1244,
+            0.3784,
+            0.8772,
+            0.3946
+          ]
+        },
+        {
+          "text": "utilisées, l'évaluation du fonds artisanal de Monsieur MARTORANA Francesco Fausto",
+          "bbox_norm": [
+            0.1249,
+            0.3935,
+            0.8348,
+            0.4077
+          ]
+        },
+        {
+          "text": "appelle à un développement d’évolution compte tenu de la nouvelle fabrication et",
+          "bbox_norm": [
+            0.1244,
+            0.4072,
+            0.8182,
+            0.4233
+          ]
+        },
+        {
+          "text": "distribution de chocolats et confiseries",
+          "bbox_norm": [
+            0.1264,
+            0.4244,
+            0.4508,
+            0.436
+          ]
+        },
+        {
+          "text": "La clientèle de la société en formation SO.ME.PRoD sera constituée de clients en France",
+          "bbox_norm": [
+            0.1251,
+            0.4521,
+            0.8785,
+            0.4653
+          ]
+        },
+        {
+          "text": "et à l'étranger.",
+          "bbox_norm": [
+            0.1251,
+            0.4668,
+            0.2521,
+            0.4805
+          ]
+        },
+        {
+          "text": "IMMOBILISATIONS CORPORELLES",
+          "bbox_norm": [
+            0.1251,
+            0.4956,
+            0.4174,
+            0.5088
+          ]
+        },
+        {
+          "text": "Nous avons vérifié l’existence des matériels qui nous ont été présentés au siège de",
+          "bbox_norm": [
+            0.1251,
+            0.5244,
+            0.8307,
+            0.5376
+          ]
+        },
+        {
+          "text": "l'entreprise 15 rue des Vignerons 13006 MARSEILLE, lieu du futur siège de la société.",
+          "bbox_norm": [
+            0.1236,
+            0.5376,
+            0.8627,
+            0.5533
+          ]
+        },
+        {
+          "text": "L'apporteur a certifié que les matériels apportés sont en pleine propriété et qu’il garantit",
+          "bbox_norm": [
+            0.1236,
+            0.567,
+            0.8765,
+            0.5826
+          ]
+        },
+        {
+          "text": "le bon fonctionnement de ces matériels.",
+          "bbox_norm": [
+            0.1236,
+            0.5821,
+            0.4661,
+            0.5957
+          ]
+        },
+        {
+          "text": "Nous avons demandé que nous soient présentées les factures d'acquisition de ces",
+          "bbox_norm": [
+            0.1249,
+            0.6103,
+            0.8202,
+            0.6255
+          ]
+        },
+        {
+          "text": "matériels.",
+          "bbox_norm": [
+            0.1257,
+            0.626,
+            0.2111,
+            0.6382
+          ]
+        },
+        {
+          "text": "Le détail de ces immobilisations est annexé au présent rapport.",
+          "bbox_norm": [
+            0.1249,
+            0.6538,
+            0.6626,
+            0.668
+          ]
+        },
+        {
+          "text": "Page 3 / 5",
+          "bbox_norm": [
+            0.4576,
+            0.9438,
+            0.5592,
+            0.962
+          ]
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "text": "F\nELEMENTS DE L'ACTIF CIRCULANT :\nLes éléments de l’actif apportés tels que décrits dans le contrat d’apport sont les\nsuivants :\nStock : 62 036\nCréances Clients 11 667\nAutres créances 23 979\nDisponibilités 25 040\nTotal 122 722\nLes éléments justificatifs qui m'ont été présentés, permettent de confirmer la valeur des\néléments apportés de ce chef.\nELEMENTS DE PASSIF\nLes éléments pris en charge dans le contrat d’apport sont les suivants :\nEmprunts : 54 518\nDettes aux fournisseurs : 44 889\nDettes fiscales et sociales :\nAutres dettes : 47 375\nTotal 146 782\nLes contrôles que j'ai effectué n'ont pas révélé de sous-évaluation de ces passifs.\nRECAPITULATION\nEn foction des remarques apportées précédemment, les évalués apportés ont été évalués\nà :\nEléments incorporels 1 000 000\nEléments corporels 30 000\nActifs circulants et disponibilités 120 000\nEléments de Passif - 150 000\nMontant net de l'apport 1 000 000\nPERIODE DE RETROACTIVITE_:\nLa période de rétroactivité de l'apport ayant été fixée au 02 janvier 2008, nous avons\nexaminé les évènements intervenus depuis cette date, et examiné en particulier que\ncurant cette période il n‘était pas survenu d'évènements susceptibles de minorer la\nvaleur des biens apportés, ni d'entraîner des pertes qui pourraient remettre en cause la\nvaleur des éléments incorporels apportés.\nPage 4 / 5",
+      "lines": [
+        {
+          "text": "F",
+          "bbox_norm": [
+            0.1091,
+            0.0342,
+            0.1194,
+            0.041
+          ]
+        },
+        {
+          "text": "ELEMENTS DE L'ACTIF CIRCULANT :",
+          "bbox_norm": [
+            0.1236,
+            0.0849,
+            0.4326,
+            0.0986
+          ]
+        },
+        {
+          "text": "Les éléments de l’actif apportés tels que décrits dans le contrat d’apport sont les",
+          "bbox_norm": [
+            0.1251,
+            0.1147,
+            0.8085,
+            0.1279
+          ]
+        },
+        {
+          "text": "suivants :",
+          "bbox_norm": [
+            0.1236,
+            0.1299,
+            0.2091,
+            0.1416
+          ]
+        },
+        {
+          "text": "Stock :",
+          "bbox_norm": [
+            0.1236,
+            0.1582,
+            0.1868,
+            0.1719
+          ]
+        },
+        {
+          "text": "62 036",
+          "bbox_norm": [
+            0.5133,
+            0.1577,
+            0.5765,
+            0.1719
+          ]
+        },
+        {
+          "text": "Créances Clients",
+          "bbox_norm": [
+            0.1244,
+            0.1729,
+            0.2675,
+            0.1861
+          ]
+        },
+        {
+          "text": "11 667",
+          "bbox_norm": [
+            0.514,
+            0.1724,
+            0.5772,
+            0.1861
+          ]
+        },
+        {
+          "text": "Autres créances",
+          "bbox_norm": [
+            0.1236,
+            0.1875,
+            0.2625,
+            0.2007
+          ]
+        },
+        {
+          "text": "23 979",
+          "bbox_norm": [
+            0.5133,
+            0.1865,
+            0.5765,
+            0.2007
+          ]
+        },
+        {
+          "text": "Disponibilités",
+          "bbox_norm": [
+            0.1251,
+            0.2022,
+            0.2396,
+            0.2158
+          ]
+        },
+        {
+          "text": "25 040",
+          "bbox_norm": [
+            0.5133,
+            0.2017,
+            0.5765,
+            0.2154
+          ]
+        },
+        {
+          "text": "Total",
+          "bbox_norm": [
+            0.2583,
+            0.2163,
+            0.3118,
+            0.23
+          ]
+        },
+        {
+          "text": "122 722",
+          "bbox_norm": [
+            0.5035,
+            0.2168,
+            0.582,
+            0.2291
+          ]
+        },
+        {
+          "text": "Les éléments justificatifs qui m'ont été présentés, permettent de confirmer la valeur des",
+          "bbox_norm": [
+            0.1251,
+            0.2456,
+            0.8744,
+            0.2587
+          ]
+        },
+        {
+          "text": "éléments apportés de ce chef.",
+          "bbox_norm": [
+            0.1251,
+            0.2603,
+            0.3806,
+            0.2734
+          ]
+        },
+        {
+          "text": "ELEMENTS DE PASSIF",
+          "bbox_norm": [
+            0.1242,
+            0.3032,
+            0.3132,
+            0.3174
+          ]
+        },
+        {
+          "text": "Les éléments pris en charge dans le contrat d’apport sont les suivants :",
+          "bbox_norm": [
+            0.1244,
+            0.3325,
+            0.7321,
+            0.3467
+          ]
+        },
+        {
+          "text": "Emprunts :",
+          "bbox_norm": [
+            0.1236,
+            0.3618,
+            0.2208,
+            0.375
+          ]
+        },
+        {
+          "text": "54 518",
+          "bbox_norm": [
+            0.5133,
+            0.3613,
+            0.5772,
+            0.375
+          ]
+        },
+        {
+          "text": "Dettes aux fournisseurs :",
+          "bbox_norm": [
+            0.1257,
+            0.3769,
+            0.3402,
+            0.3887
+          ]
+        },
+        {
+          "text": "44 889",
+          "bbox_norm": [
+            0.5133,
+            0.3755,
+            0.5772,
+            0.3892
+          ]
+        },
+        {
+          "text": "Dettes fiscales et sociales :",
+          "bbox_norm": [
+            0.1244,
+            0.3901,
+            0.3556,
+            0.4039
+          ]
+        },
+        {
+          "text": "Autres dettes :",
+          "bbox_norm": [
+            0.1244,
+            0.4058,
+            0.2521,
+            0.419
+          ]
+        },
+        {
+          "text": "47 375",
+          "bbox_norm": [
+            0.5133,
+            0.4048,
+            0.5772,
+            0.4185
+          ]
+        },
+        {
+          "text": "Total",
+          "bbox_norm": [
+            0.2583,
+            0.4195,
+            0.3118,
+            0.4336
+          ]
+        },
+        {
+          "text": "146 782",
+          "bbox_norm": [
+            0.5035,
+            0.4204,
+            0.5813,
+            0.4327
+          ]
+        },
+        {
+          "text": "Les contrôles que j'ai effectué n'ont pas révélé de sous-évaluation de ces passifs.",
+          "bbox_norm": [
+            0.1236,
+            0.4478,
+            0.8147,
+            0.4629
+          ]
+        },
+        {
+          "text": "RECAPITULATION",
+          "bbox_norm": [
+            0.1244,
+            0.4786,
+            0.2757,
+            0.4902
+          ]
+        },
+        {
+          "text": "En foction des remarques apportées précédemment, les évalués apportés ont été évalués",
+          "bbox_norm": [
+            0.1244,
+            0.5053,
+            0.8847,
+            0.5205
+          ]
+        },
+        {
+          "text": "à :",
+          "bbox_norm": [
+            0.1222,
+            0.52,
+            0.1536,
+            0.5356
+          ]
+        },
+        {
+          "text": "Eléments incorporels",
+          "bbox_norm": [
+            0.1242,
+            0.5488,
+            0.3035,
+            0.5635
+          ]
+        },
+        {
+          "text": "1 000 000",
+          "bbox_norm": [
+            0.5021,
+            0.5493,
+            0.591,
+            0.5625
+          ]
+        },
+        {
+          "text": "Eléments corporels",
+          "bbox_norm": [
+            0.1249,
+            0.5644,
+            0.289,
+            0.5777
+          ]
+        },
+        {
+          "text": "30 000",
+          "bbox_norm": [
+            0.5313,
+            0.564,
+            0.5945,
+            0.5777
+          ]
+        },
+        {
+          "text": "Actifs circulants et disponibilités",
+          "bbox_norm": [
+            0.1236,
+            0.5776,
+            0.3979,
+            0.5918
+          ]
+        },
+        {
+          "text": "120 000",
+          "bbox_norm": [
+            0.5208,
+            0.5791,
+            0.5924,
+            0.5913
+          ]
+        },
+        {
+          "text": "Eléments de Passif",
+          "bbox_norm": [
+            0.1264,
+            0.5938,
+            0.2868,
+            0.6055
+          ]
+        },
+        {
+          "text": "- 150 000",
+          "bbox_norm": [
+            0.6536,
+            0.5928,
+            0.7396,
+            0.6065
+          ]
+        },
+        {
+          "text": "Montant net de l'apport",
+          "bbox_norm": [
+            0.1257,
+            0.6079,
+            0.35,
+            0.6211
+          ]
+        },
+        {
+          "text": "1 000 000",
+          "bbox_norm": [
+            0.5021,
+            0.607,
+            0.5994,
+            0.6202
+          ]
+        },
+        {
+          "text": "PERIODE DE RETROACTIVITE_:",
+          "bbox_norm": [
+            0.1257,
+            0.6514,
+            0.3889,
+            0.6631
+          ]
+        },
+        {
+          "text": "La période de rétroactivité de l'apport ayant été fixée au 02 janvier 2008, nous avons",
+          "bbox_norm": [
+            0.1251,
+            0.6793,
+            0.8522,
+            0.6939
+          ]
+        },
+        {
+          "text": "examiné les évènements intervenus depuis cette date, et examiné en particulier que",
+          "bbox_norm": [
+            0.1251,
+            0.6944,
+            0.8487,
+            0.7075
+          ]
+        },
+        {
+          "text": "curant cette période il n‘était pas survenu d'évènements susceptibles de minorer la",
+          "bbox_norm": [
+            0.1251,
+            0.7091,
+            0.8307,
+            0.7222
+          ]
+        },
+        {
+          "text": "valeur des biens apportés, ni d'entraîner des pertes qui pourraient remettre en cause la",
+          "bbox_norm": [
+            0.1257,
+            0.7242,
+            0.8675,
+            0.7359
+          ]
+        },
+        {
+          "text": "valeur des éléments incorporels apportés.",
+          "bbox_norm": [
+            0.1244,
+            0.7368,
+            0.4799,
+            0.75
+          ]
+        },
+        {
+          "text": "Page 4 / 5",
+          "bbox_norm": [
+            0.4576,
+            0.9439,
+            0.5577,
+            0.959
+          ]
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "text": "3/ CONCLUSION\nEn conclusion de nos travaux, nous sommes d'avis que la valeur des apports s'élevant à\n1 ooo ooo € n'est pas surévaluée, et en conséquence, que l'actif net est au moins égal au\nmontant des parts attribuées à MARTORANA Francesco Fausto dans le cadre de la\nconstitution de l' entreprise Uni Personnelle EURL à responsabilité limitée SO.ME.PROD.\nFait à MARSEILLE le Q4 aVril 2008\nLe Commissaire-aux apports\n7\nPage 5 / 5",
+      "lines": [
+        {
+          "text": "3/ CONCLUSION",
+          "bbox_norm": [
+            0.4272,
+            0.0865,
+            0.5861,
+            0.0996
+          ]
+        },
+        {
+          "text": "En conclusion de nos travaux, nous sommes d'avis que la valeur des apports s'élevant à",
+          "bbox_norm": [
+            0.1243,
+            0.1177,
+            0.8758,
+            0.1329
+          ]
+        },
+        {
+          "text": "1 ooo ooo € n'est pas surévaluée, et en conséquence, que l'actif net est au moins égal au",
+          "bbox_norm": [
+            0.1265,
+            0.1333,
+            0.8868,
+            0.1465
+          ]
+        },
+        {
+          "text": "montant des parts attribuées à MARTORANA Francesco Fausto dans le cadre de la",
+          "bbox_norm": [
+            0.125,
+            0.1475,
+            0.8257,
+            0.1617
+          ]
+        },
+        {
+          "text": "constitution de l' entreprise Uni Personnelle EURL à responsabilité limitée SO.ME.PROD.",
+          "bbox_norm": [
+            0.1243,
+            0.1621,
+            0.8653,
+            0.1768
+          ]
+        },
+        {
+          "text": "Fait à MARSEILLE le Q4 aVril 2008",
+          "bbox_norm": [
+            0.1243,
+            0.209,
+            0.4147,
+            0.2242
+          ]
+        },
+        {
+          "text": "Le Commissaire-aux apports",
+          "bbox_norm": [
+            0.125,
+            0.2398,
+            0.3736,
+            0.2544
+          ]
+        },
+        {
+          "text": "7",
+          "bbox_norm": [
+            0.6715,
+            0.5308,
+            0.675,
+            0.5332
+          ]
+        },
+        {
+          "text": "Page 5 / 5",
+          "bbox_norm": [
+            0.4569,
+            0.9449,
+            0.557,
+            0.9605
+          ]
+        }
+      ]
+    }
+  ],
+  "full_text": "[PAGE 1]\n** 2 9 MAI 2008\n7762\n\") SO.ME.PROD 08B293\nSociété à responsabilité limitée\nau capital de 1.000.000 euros\nSiège social : 15 Rue des Vignerons 13006 Marseille\nSTATUTS\nLe soussigné:\nMonsieur MARTORANA Francesco Fausto\nDemeurant 41 Rue du Montparnasse 75014 Paris\nNé 9 mai 1949 à Sousse (Tunisie)\nDivorcé\nA établi ainsi qu'il suit les statuts d'une Société à responsabilité limitée qu'il a décidé d’instituer.\nTITRE IFORME - OBJET - DENOMINATION - SIEGE - DUREE - EXERCICE - GERANCE\nARTICLE 1 - Forme\nLa Société est une Société à responsabilité limitée. Elle est régie par les dispositions du livre deuxième\ndu Code de commerce, par toutes autres dispositions légales et réglementaires en vigueur et par les\nprésents statuts.\nElle fonctionne indifféremment sous la même forme avec un ou plusieurs associés.\nARTICLE 2 - Objet\nLa Société a pour objet :\nFabrication et commercialisation de cacao, chocolat et produits de confiserie, chocolatier.\nToutes opérations industrielles, commerciales et financières, mobilières et immobilières pouvant se\nrattacher directement ou indirectement à l'objet social et à tous objets similaires ou connexes ;\nLa participation de la Société, par tous moyens, à toutes entreprises ou sociétés créées ou à créer,\npouvant se rattacher à l’objet social, notamment par voie de création de sociétés nouvelles, d'apport,\ncommandite, souscription ou rachat de titres ou droits sociaux, fusion, alliance ou association en\nparticipation ou groupement d’intérêt économique ou de location gérance.\nARTICLE 3 - Dénomination\nLa dénomination de la Société est :\nSO.ME.PROD\nTous les actes et documents émanant de la Société et destinés aux tiers et notamment les lettres,\nfactures, annonces et publications diverses, doivent indiquer la dénomination sociale précédée ou\nsuivie immédiatement des mots “Société à responsabilité limitée\" ou de l'abréviation “SARL\", de\nl'énonciation du capital social ainsi que du numéro d'immatriculation de la Société au Registre du\nCommerce et des Sociétés.\nARTICLE 4 - Siège social\nLe siège social est fixé 15 Rue des Vignerons 13006 Marseille.\nIl pourra être transféré en tout autre endroit du même département par simple décision de la gérance, et\nen tout autre lieu suivant décision de l’associé unique ou décision collective extraordinaire des\nassociés. hy\n\n[PAGE 2]\n+\nI\nC\nARTICLE 5 - Durée\nLa durée de la Société est fixée à 99 années à compter de son immatriculation au Registre du\nCommerce et des Sociétés. Cette durée viendra done à expiration en 2.107, sauf les cas de prorogation\nou de dissolution anticipée.\nARTICLE 6 - Exercice social\nL’exercice social commence le 1ª janvier et se termine le 31 décembre de chaque année.\nLe premier exercice social sera clos le 31 décembre 2008.\nARTICLE 7 - Gérance\nMonsieur MARTORANA Franscesco Fausto associé unique, exerce la gérance de la Société sans\nlimitation de durée.\nLa gérance exercera ses fonctions dans les conditions prévues au titre III des présents statuts.\nTITRE ILAPPORTS - CAPITAL - PARTS SOCIALES\nARTICLE 8 - Apports\nAux termes d'un contrat d'apport en date du 4 avril 2008 ci-annexé, Monsieur MARTORANA\nFrancesco apporteur a fait apport sous les garanties ordinaires de fait et de droit à la Société, de\nl'ensemble des éléments corporels et incorporels d’un fonds de commerce ayant pour activité la\nfabrication et la commercialisation de cacao, chocolat et produits de confiserie sis et exploité 15 Rue\ndes Vignerons 13006 Marseille.\nEn rémunération de cet apport évalué à un million euros (1.000.000 euros) par Monsieur BREDILLET\nSerge, commissaire aux apports, dans son rapport en date du 4 avril 2008, Monsieur MARTORANA\nFrancesco se voit attribuer 1.000 parts de mille euros chacune, intégralement libérées.\nMonsieur MARTORANA Francesco apporteur susvisé, s'engage, conformément aux dispositions de\nl'article 810 III du Code général des impôts, à conserver pendant un délai de trois ans à compter de la\ndate de la réalisation définitive de l’apport les 1.000 parts de la Société bénéficiaire qui lui seront\nattribuées en rémunération de son apport.\nDe plus, Monsieur MARTORANA Francesco déclare avoir été uniquement rémunéré par des droits\nsociaux.\nMonsieur MARTORANA Francesco déclare opter pour le régime spécial des plus-values prévu à\nl'article 151 octies du Code général des impôts. Il s’engage à respecter les règles prévues à l’article\n151 octies et notamment l’ensemble des obligations déclaratives prévues par ce texte.\nRécapitulation des apports\n- Apports d'un fonds de commerce : 1.000.000 euros\nMonsieur MARTORANA Francesco Fausto\nDemeurant 41 Rue du Montparnasse 75014 Paris\nNé 9 mai 1949 à Sousse (Tunisie)\nCélibataire, déclare ne pas être lié par un pacte civil de solidarité.\nARTICLE 9 - Capital social\nLe capital social est fixé à la somme de 1.000.000 euros.\nIl est divisé en 1.000 parts de 1.000 euros chacune, numérotées de 1 à 1.000, attribuées en totalité à\nMonsieur MARTORANA Francesco entièrement libérées.\nCes 1.000 parts sont attribuées à l'associé unique :\n- à concurrence de 1.000 parts numérotées de 1 à 1.000 en rémunération de son apport de son apport\nen nature. fo\n\n[PAGE 3]\ni-; T t\nARTICLE 10 - Modification du capital social\nI - Augmentation du capital\nModalités de l'augmentation du capital\nLe capital social peut, en vertu d'une décision de l’associé unique ou décision collective extraordinaire\ndes associés être augmenté, en une ou plusieurs fois, en représentation d’apports en nature ou en\nnuméraire, ou par incorporation de tout ou partie des bénéfices ou réserves disponibles, au moyen de\nla création de parts sociales nouvelles ou de l’élévation de la valeur nominale des parts existantes.\nII - Réduction du capital social\n1 - Le capital social peut être réduit, pour quelque cause et de quelque manière que ce soit, par\ndécision de l’associé unique ou par décision collective extraordinaire des associés.\n2 - Si, du fait de pertes constatées dans les documents comptables, le montant des capitaux propres de\nla Société devient inférieur à la moitié du capital social, l'associé unique ou, en cas de pluralité\nd’associés, l’assemblée générale extraordinaire des associés, décident dans les quatre mois qui suivent\nl’approbation des comptes ayant fait apparaître ces pertes, s'il y a lieu de prononcer la dissolution\nanticipée de la Société.\nSi la dissolution n'est pas prononcée, la Société est tenue, au plus tard à la clôture du deuxième\nexercice suivant celui au cours duquel la constatation des pertes est intervenue, et sous réserve des\ndispositions relatives au montant minimum du capital, de réduire son capital d'un montant au moins\négal à celui des pertes qui n’ont pu être imputées sur les réserves si, dans ce délai, les capitaux propres\nn'ont pu être reconstitués à concurrence d’une valeur au moins égale à la moitié du capital.\nLa réduction du capital à un montant inférieur au minimum prévu par la loi ne peut être décidé que\nsous la condition suspensive d'une augmentation de capital ayant pour effet de le porter à ce\nminimum.\nEn cas d'inobservation des prescriptions ci-dessus, tout intéressé peut demander en justice la\ndissolution de la Société. Il en est de même si les associés n'ont pu valablement délibérer.\nToutefois, le Tribunal ne peut prononcer la dissolution de la Société, si au jour où il statue la\nrégularisation a été effectuée.\nARTICLE 11 - Représentation des parts sociales\nLes parts sociales ne peuvent être représentées par des titres négociables. Les droits de l’associé dans\nla Société résultent seulement des présents statuts, des actes modificatifs ultérieurs et des cessions de\nparts régulièrement notifiés et publiés.\nARTICLE 12 - Cession et transmission des parts sociales\n1 - Les cessions de parts doivent être constatées par écrit.\nLa cession n'est opposable à la Société que dans les formes prévues par l'article 1690 du Code civil ou\npar le dépôt d’un original de l'acte de cession au siège social contre remise par le Gérant d'une\nattestation de ce dépôt.\nElle n’est opposable aux tiers qu'après accomplissement de cette formalité et, en outre, après publicité\nau Greffe du Tribunal de commerce.\n2 - Les cessions ou transmissions sous quelque forme que ce soit des parts sociales appartenant à\nl’associé unique sont libres.\n3 - En cas de pluralité d’associés, seules les cessions de parts au profit de tiers étrangers à la Société\nautres que le conjoint, les ascendants ou descendants d’un associé, sont soumises à agrément dans les\nconditions prévues par les dispositions de la loi et du décret sur les sociétés commerciales.\n4 - En cas de décès de l’associé unique, la Société continue de plein droit entre ses ayants droit ou\nhéritiers, et, le cas échéant, son conjoint survivant.\n5 - En cas de dissolution de la communauté de biens existant entre l’associé unique et son conjoint, la\nSociété continue soit avec un associé unique, si les parts sociales sont attribuées en totalité à l’un des\népoux, soit avec deux associés si lesdites parts sont partagées entre les époux.\nARTICLE 13 - Indivisibilité des parts sociales\nEn cas de pluralité d’associés, les copropriétaires de parts sociales indivises sont tenus de désigner l’un\nd’entre eux pour les représenter auprès de la Société ; à défaut d’entente, il appartient à l’indivisaire le\nplus diligent de faire désigner par justice un mandataire chargé de les représenter.\nFO\n\n[PAGE 4]\nr\n\"1\nLorsque des parts sociales sont grevées d’usufruit, le droit de vote appartient au nu-propriétaire pour\ntoutes les décisions collectives autres que celles relatives à l'affectation des résultats sociaux.\nARTICLE 14 - Décès ou incapacité d'un associé\nLa Société n'est pas dissoute par le décès ou l'incapacité frappant l'associé unique ou l’un des\nassociés.\nTITRE IIGERANCE\nARTICLE 15 - Pouvoirs de la gérance\nLa Société est gérée et administrée par un ou plusieurs Gérants, personnes physiques, associés ou non,\nnommés avec ou sans limitation de durée.\nLe ou les Gérants sont nommés par l’associé unique ou, en cas de pluralité d’associés, par les associés\nreprésentant plus de la moitié des parts sociales.\nEn cas de pluralité de Gérants, chacun d'eux peut faire tous actes de gestion dans l’intérêt de la Société\net dispose des mêmes pouvoirs que s'il était Gérant unique : l’opposition formée par l'un d’eux aux\nactes de son ou de ses collègues est sans effet à l'égard des tiers, à moins qu'il ne soit établi que ces\nderniers ont eu connaissance de celle-ci.\nLe Gérant, ou chacun des Gérants s’ils sont plusieurs, a la signature sociale, donnée par les mots “Pour\nla Société - Le Gérant\", suivis de la signature du Gérant.\nDans ses rapports avec les tiers, le Gérant est investi des pouvoirs les plus étendus pour représenter la\nSociété et agir en son nom en toute circonstance, sans avoir à justifier de pouvoirs spéciaux.\nLe Gérant est tenu de consacrer tout le temps et les soins nécessaires aux affaires sociales ; il peut,\nsous sa responsabilité personnelle, déléguer temporairement ses pouvoirs à toute personne de son\nchoix pour un ou plusieurs objets spéciaux et limités.\nARTICLE 16 - Cessation des fonctions des Gérants\nLe ou les Gérants sont révocables par décision de l’associé unique ou par une décision collective des\nassociés représentant plus de la moitié des parts sociales. Si la révocation est décidée sans juste motif,\nelle peut donner lieu à des dommages-intérêts. Enfin, en cas de pluralité d’associés, un Gérant peut\nêtre révoqué par le Président du Tribunal de commerce, pour cause légitime, à la demande de tout\nassocié.\nLes fonctions du ou des Gérants cessent par décès, interdiction, déconfiture, faillite personnelle,\nincompatibilité de fonctions ou révocation. Le Gérant peut également résilier ses fonctions mais\nseulement en prévenant l’associé unique ou, en cas de pluralité d’associés, chacun des associés trois\nmois à l'avance.\nLa cessation des fonctions du ou des Gérants n'entraîne pas dissolution de la Société.\nARTICLE 17 - Rémunération de la gérance\nChacun des Gérants a droit, en rémunération de ses fonctions, à un traitement fixe ou proportionnel,\nou à la fois fixe et proportionnel à passer par frais généraux.\nLes modalités d’attribution de cette rémunération, ainsi que son montant, sont fixés par décision de\nl’associé unique ou décision ordinaire des associés. La gérance a droit, en outre, au remboursement de\nses frais de représentation et de déplacements.\nARTICLE 18 - Conventions entre la Société et la gérance ou un associé\n1 - Les conventions, autres que celles portant sur des opérations courantes conclues à des conditions\nnormales, qui interviennent directement ou par personne interposée entre la Société et l'un de ses\nGérants ou associés, sont soumises à la procédure d’approbation prévue par la loi.\nCes dispositions s’appliquent aux conventions passées avec une Société dont un associé indéfiniment\nresponsable, un Gérant, un administrateur, un Directeur général, un membre du Directoire ou un\nmembre du Conseil de surveillance, est également associé ou Gérant de la S.A.R.L.\n2 - Lorsque la Société n'est pas pourvue de Commissaire aux comptes, les conventions conclues par le\nGérant non associé sont soumises à l'approbation préalable de l'associé unique ou de la collectivité\ndes associés. wy\n\n[PAGE 5]\n1 -1\n3 - La procédure d'approbation et de contrôle prévue par la loi ne s’applique pas aux conventions\nconclues par l’associé unique, Gérant ou non. Toutefois, le Gérant non associé ou le Commissaire aux\ncomptes, s’il en existe un, doivent établir un rapport spécial.\n4 - Les conventions conclues par l’associé unique ou par le Gérant non associé doivent être\nrépertoriées dans le registre des décisions de l’associé unique.\n5 - A peine de nullité du contrat, il est interdit aux Gérants ou aux associés autres que les personnes\nmorales de contracter, sous quelque forme que ce soit, des emprunts auprès de la Société, de se faire\nconsentir par elle des découverts en compte courant ou autrement, ainsi que de faire cautionner ou\navaliser par elle leurs engagements envers des tiers.\nCette interdiction s'applique également aux représentants légaux des personnes morales associées, aux\nconjoints, ascendants et descendants des Gérants ou associés personnes physiques, ainsi qu'à toute\npersonne interposée.\nTITRE IVDECISIONS DE L'ASSOCIE UNIQUE OU DES ASSOCIES\nARTICLE 19 - Décisions de l’associé unique ou des associés\n1 - L'associé unique exerce les pouvoirs qui sont dévolus par la loi aux associés réunis en assemblée\ngénérale. Il ne peut déléguer ses pouvoirs.\n2 - Les décisions de l’associé unique sont constatées dans un registre côté et paraphé dans les mêmes\nconditions que le registre des procès-verbaux des assemblées.\n3 - En cas de pluralité d'associés, tout associé a le droit de participer aux décisions collectives et\ndispose d'un nombre de voix égal à celui des parts sociales qu'il possède. Dans l’exercice de son droit\nde participer aux décisions collectives, chaque associé a le droit de se faire représenter par un autre\nassocié, sauf si les associés sont au nombre de deux, ou par son conjoint à moins que la Société ne\ncomprenne que les deux époux, ou par toute autre personne de son choix.\n4 - Les décisions collectives des associés sont prises en assemblées. Ces assemblées sont convoquées\net délibèrent conformément aux dispositions légales et réglementaires en vigueur.\nARTICLE 20 - Information de l'associé unique ou des associés\n1 - L'associé unique non Gérant, indépendamment de son droit d'information préalable à\nl'approbation annuelle des comptes, peut à toute époque, prendre connaissance au siège social des\ndocuments prévus par la loi et relatifs aux trois derniers exercices sociaux.\n2 - Lorsque la Société comporte plusieurs associés, l’étendue et les modalités de leurs droits\nd’information et de communication sont déterminées par les dispositions légales et réglementaires en\nvigueur.\nTITRE VCONTROLE DE LA SOCIETE\nARTICLE 21 - Commissaires aux comptes\nLa nomination d’un Commissaire aux comptes titulaire et d'un Commissaire aux comptes suppléant\nest obligatoire dans les cas prévus par la loi et les règlements. Elle est facultative dans les autres cas.\nEn cas de pluralité d'associés, la nomination d'un Commissaire aux comptes peut également être\ndécidée par décision ordinaire des associés. Elle peut aussi être demandée en justice par un ou\nplusieurs associés représentant au moins le dixième du capital.\nLe Commissaire aux comptes exerce ses fonctions dans les conditions prévues par la loi\nTITRE VICOMPTES SOCIAUX - BENEFICES - DIVIDENDES\nARTICLE 22 - Comptes sociaux\nIl est tenu une comptabilité régulière des opérations sociales, conformément à la loi et aux usages du\ncommerce.\nA la clôture de chaque exercice, la gérance dresse l'inventaire des divers éléments de l'actif et du\npassif existant à cette date. Elle dresse également le bilan, le compte de résultat et l’annexe, en se\nconformant aux dispositions légales et réglementaires.\nElle établit également un rapport de gestion exposant la situation de la Société durant l'exercice\nécoulé, l'évolution prévisible de cette situation, les événements importants intervenus entre la date de\nclôture de l’exercice et la date d’établissement du rapport et enfin les activités en matière de recherche\net de développement.\n\n[PAGE 6]\nARTICLE 23 - Affectation et répartition des résultats\nLes produits nets de l’exercice, déduction faite des frais généraux et autres charges de la Société, ainsi\nque tous amortissements provisions, constituent le bénéfice.\nIl est fait, sur ce bénéfice, diminué le cas échéant des pertes antérieures, un prélèvement d’un\nvingtième au moins, affecté à la formation d'un compte de réserve dite “réserve légale\". Ce\nprélèvement cesse d’être obligatoire lorsque ladite réserve atteint le dixième du capital social.\nLe bénéfice distribuable est constitué par le bénéfice de l’exercice, diminué des pertes antérieures et\ndes sommes portées en réserve en application de la loi ou des statuts, et augmenté des reports\nbénéficiaires.\nLe bénéfice distribuable est attribué à l’associé unique. Lorsque la Société comprend plusieurs\nassociés, la part attribuée aux associés sur ce bénéfice est déterminée par l’assemblée générale.\nLes modalités de mise en paiement des dividendes sont fixées par l’associé unique ou décidées par\nl’assemblée générale.\nLa mise en paiement des dividendes doit avoir lieu dans les neuf mois de la clôture de l’exercice, sauf\nprolongation de ce délai par décision de justice.\nL’associé unique ou l’assemblée générale peut également décider la distribution de sommes prélevées\nsur les réserves disponibles en indiquant expressément les postes de réserves sur lesquels ces\nprélèvements sont effectués. Toutefois, les dividendes sont prélevés par priorité sur le bénéfice\ndistribuable de l'exercice.\nDe même, l’associé unique ou l’assemblée générale peut décider d’affecter en totalité ou en partie les\nsommes distribuables aux réserves ou au report à nouveau.\nAucune distribution ne peut être effectuée lorsque les capitaux propres sont ou deviendraient à la suite\nd’une telle distribution, inférieurs au montant du capital augmenté des réserves que la loi ou les statuts\nne permettent pas de distribuer.\nLes pertes de l’exercice, s'il en existe, sont inscrites au report à nouveau pour être imputées sur les\nbénéfices des exercices ultérieurs jusqu'à apurement complet.\nTITRE VIIPROROGATION - DISSOLUTION - LIQUIDATION - CONTESTATIONS\nARTICLE 24 - Prorogation\nUn an au moins avant la date d’expiration de la Société, l’associé unique ou les associés doivent\ndécider si la Société doit être prorogée ou non.\nARTICLE 25 - Dissolution - Liquidation\n1 - La Société est dissoute à l'arrivée du terme statuaire, sauf prorogation régulière, et en cas de\nsurvenance d’une cause légale de dissolution.\n2 - Lorsque la Société ne comporte qu'un seul associé personne morale, la dissolution pour quelque\ncause que ce soit, entraîne dans les conditions prévues par l’article 1844-5 du Code civil, la\ntransmission universelle du patrimoine social à l’associé unique, sans qu'il y ait lieu à liquidation.\n3 - Lorsque la Société comporte un associé personne physique ou plusieurs associés, la dissolution\nentraîne sa liquidation.\nSa dénomination doit alors être suivie des mots “Société en liquidation\". Le ou les Liquidateurs sont\nnommés par la décision qui prononce la dissolution.\nLa collectivité des associés garde les mêmes attributions qu'au cours de la vie sociale, mais les\npouvoirs du ou des Gérants, comme ceux des Commissaires aux comptes s’il en existe, prennent fin à\ncompter de la dissolution.\nLe ou les Liquidateurs sont investis des pouvoirs les plus étendus, sous réserve des dispositions\nlégales, pour réaliser l’actif, payer le passif et répartir le solde disponible entre les associés.\nLes associés sont convoqués en fin de liquidation pour statuer sur les comptes définitifs, sur le quitus\ndu ou des Liquidateurs et la décharge de leur mandat et pour constater la clôture de la liquidation.\nARTICLE 26 - Contestations\nToutes les contestations relatives aux affaires sociales susceptibles de surgir pendant la durée de la\nSociété ou de sa liquidation, seront jugées conformément à la loi et soumises à la juridiction des\ntribunaux compétents. hy −\n\n[PAGE 7]\n7\nTITRE VIIIFORMALITES\nARTICLE 27 - Personnalité morale - Immatriculation au Registre du Commerce et des Sociétés\nConformément à la loi, la Société ne jouira de la personnalité morale qu'à dater de son\nimmatriculation au Registre du Commerce et des Sociétés.\nEn outre, pour faire publier la constitution de la présente Société conformément à la loi, tous pouvoirs\nsont donnés à Monsieur MARTORANA Francesco ou au porteur d'une copie des présents statuts\ncomme de toutes autres pièces qui pourraient être exigées.\nARTICLE 28 - Actes souscrits au nom de la Société en formation\nMonsieur MARTORANA Francesco associé unique, a établi un état des actes accomplis à ce jour pour\nle compte de la Société en formation avec l'indication pour chacun d'eux, des engagements qui en\nrésulteront pour la Société. Cet état est annexé aux présents statuts.\nL'immatriculation de la Société au Registre du Commerce et des Sociétés entraînera de plein droit\nreprise par la Société desdits actes et engagements.\nEn outre, Monsieur MARTORANA Francesco, associé unique et seul Gérant agira au nom et pour le\ncompte de la Société en formation, jusqu'à son immatriculation au Registre du Commerce et des\nSociétés. il passera les actes et prendra les engagements pour le compte de la Société :\nNEANT\nL’immatriculation de la Société au Registre du Commerce et des Sociétés comportera reprise de ces\nactes et engagements.\nARTICLE 29 - Frais\nLes frais, droits et honoraires des présentes et de leurs suites seront supportés par la Société, portés au\ncompte des “Frais d'établissement” et amortis sur les premiers exercices avant toute distribution de\ndividendes.\nARTICLE 30- Option pour l'Impôt sur les sociétés\nConformément à l'article 206-3 du Code général des impôts, l'associé unique déclare opter pour\nl'impôt sur les sociétés.\nFait à Marseille\nl’an deux mil huit\net le 4 avril\nen autant d’originaux que nécessaire pour le dépôt d’un exemplaire au siège social et l’exécution des\ndiverses formalités légales.\n2a\n\n[PAGE 8]\n41\nBREDILLET Serge\n27 Bd Charles Moretti\n13014 MARSEILLE\nTél : 0495053741 Fax : 0491632376\nRAPPORT DU COMMISSAIRE AUX APPORTS\nSO.ME.PROD E.U.R.L. EN FORMATION\nMesdames, Messieurs les associés,\nJ'ai été désigné en qualité de Commissaire aux Apports, ayant pour mission de vérifier\nles apports en nature qui doivent être faits par MARTORANA Francesco Fausto à la\nsociété en formation SO.ME.PROD, et d'en dresser rapport, dans le cadre des articles\nL225-8 , 1225-14 et L223-9 du Code de Commerce relatifs à la constitution des sociétés\npar action et des sociétés à responsabilité limitée.\nL‘actif net apporté a été arrêté dans le projet qui m'a été soumis, signé conjointement\npar les futurs associés et l'apporteur en date du 02 janvier 2oo8. Il nous appartient de\nvérifier que la valeur des apports n'est pas sur-évaluée. A cet effet, nous avons effectué\nnos diligences selon les normes de la Compagnie nationale des commissaires aux\ncomptes applicables à cette mission ; ces normes requièrent la mise en œuvre de\ndiligences destinées d'une part à apprécier la valeur des apports, à s'assurer que celle-ci\nn’est pas sur-évaluée et à vérifier qu'elle correspond au moins à la valeur au nominal des\nactions à émettre par la société bénéficiaire de l’apport augmentée le cas échéant de la\nprime d’émission, d'autre part à apprécier les avantages particuliers stipulés s'ils\nexistent.\nPage l / 5\n\n[PAGE 9]\n1/ PRESENTATION DE L'OPERATION ET DESCRIPTION DES APPORTS\nVous souhaitez constituer une entreprise Uni Personnelle EURl à responsabilité limitée,\nayant pour activité la fabrication et la commercialisation de cacao , chocolat et produits\nde confiserie dénommée SO.ME.PROD. Le siége social est situé 15 rue des Vignerons\n13006 MARSEILLE .\nLe capital doit être souscrit et libéré par apport de l‘entreprise individuelle\nMARTORANA Francesco Fausto , immatriculée au RCS de MARSEILLE sous le numéro\n384 348 298 SIRET 384 348 298 00033\nLe futur associé sera :\nMARTORANA Francesco Fausto ,\nNé le 9 mai 1949 à Sousse (TUNISIE) de nationalité française,\ndemeurant 41 Rue du Montparnasse 75014 PARIS\napporteur en nature\nDECLARATION PREALABLE :\n= L'entreprise dont il est envisagé de faire l’apport, est désignée sous le nom de\n«MARTORANA Francesco Fausto»\n·Le fonds est exploité 15 rue des Vignerons 13006 MARSEILLE\nL'entreprise est immatriculée au Répertoire des métiers de MARSEILLE\n: L'entreprise appartient en propre à Monsieur MARTORANA Francesco Fausto\nAPPORTS\nLes éléments incorporels constituant l‘actif immobilisé de l’entreprise\nMARTORANA Francesco Fausto, au 31/12/2007 pour un montant de : 1 000 000 €\nLes éléments corporels constituant l'actif immobilisé de l'entreprise MARTORANA\nFrancesco Fausto, au 31/12/2007 pour un montant de : 30 000 €\nLes éléments de l'actif circulant de l'entreprise MARTORANA Francesco Fausto , au\n31/12/2007 pour un montant de : 120 000 €\nLes éléments de passif, notamment les dettes dues par l’entreprise MARTORANA\nFrancesco Fausto, au 31/12/2007 pour un montant de : 150 000 €\nAVANTAGES PARTICULIERS\nAucun avantage particulier consenti à Monsieur MARTORANA Francesco Fausto ne nous a\nété indiqué.\nPage 2 / 5\n\n[PAGE 10]\n=\n2/ DILIGENCES ET APPRECIATION DE LA VALEUR DES APPORTS\nELEMENTS ACTIFS\nIMMOBILISATIONS INCORPORELLES\nLes éléments estimatifs :\n- CA H.T. 2008 : 600 000 €\nI CA H.T. 2009 : 870 000 €\n- CA H.T. 2010 : 1 260 000 €\nEt le savoir faire des processus de fabrication, nous permettent d'évaluer l’apport des\néléments incorporels à 1 000 000 €\nLes chiffres d'affaires hors taxes des 2 derniers exercices ont été les suivants :\n- au 31/12/2006 : 332 000 €\n- au 31/12/2007 : 411 021 €\nNous avons procédé à une analyse avec plusieurs méthodes d'évaluation communément\nutilisées, l'évaluation du fonds artisanal de Monsieur MARTORANA Francesco Fausto\nappelle à un développement d’évolution compte tenu de la nouvelle fabrication et\ndistribution de chocolats et confiseries\nLa clientèle de la société en formation SO.ME.PRoD sera constituée de clients en France\net à l'étranger.\nIMMOBILISATIONS CORPORELLES\nNous avons vérifié l’existence des matériels qui nous ont été présentés au siège de\nl'entreprise 15 rue des Vignerons 13006 MARSEILLE, lieu du futur siège de la société.\nL'apporteur a certifié que les matériels apportés sont en pleine propriété et qu’il garantit\nle bon fonctionnement de ces matériels.\nNous avons demandé que nous soient présentées les factures d'acquisition de ces\nmatériels.\nLe détail de ces immobilisations est annexé au présent rapport.\nPage 3 / 5\n\n[PAGE 11]\nF\nELEMENTS DE L'ACTIF CIRCULANT :\nLes éléments de l’actif apportés tels que décrits dans le contrat d’apport sont les\nsuivants :\nStock : 62 036\nCréances Clients 11 667\nAutres créances 23 979\nDisponibilités 25 040\nTotal 122 722\nLes éléments justificatifs qui m'ont été présentés, permettent de confirmer la valeur des\néléments apportés de ce chef.\nELEMENTS DE PASSIF\nLes éléments pris en charge dans le contrat d’apport sont les suivants :\nEmprunts : 54 518\nDettes aux fournisseurs : 44 889\nDettes fiscales et sociales :\nAutres dettes : 47 375\nTotal 146 782\nLes contrôles que j'ai effectué n'ont pas révélé de sous-évaluation de ces passifs.\nRECAPITULATION\nEn foction des remarques apportées précédemment, les évalués apportés ont été évalués\nà :\nEléments incorporels 1 000 000\nEléments corporels 30 000\nActifs circulants et disponibilités 120 000\nEléments de Passif - 150 000\nMontant net de l'apport 1 000 000\nPERIODE DE RETROACTIVITE_:\nLa période de rétroactivité de l'apport ayant été fixée au 02 janvier 2008, nous avons\nexaminé les évènements intervenus depuis cette date, et examiné en particulier que\ncurant cette période il n‘était pas survenu d'évènements susceptibles de minorer la\nvaleur des biens apportés, ni d'entraîner des pertes qui pourraient remettre en cause la\nvaleur des éléments incorporels apportés.\nPage 4 / 5\n\n[PAGE 12]\n3/ CONCLUSION\nEn conclusion de nos travaux, nous sommes d'avis que la valeur des apports s'élevant à\n1 ooo ooo € n'est pas surévaluée, et en conséquence, que l'actif net est au moins égal au\nmontant des parts attribuées à MARTORANA Francesco Fausto dans le cadre de la\nconstitution de l' entreprise Uni Personnelle EURL à responsabilité limitée SO.ME.PROD.\nFait à MARSEILLE le Q4 aVril 2008\nLe Commissaire-aux apports\n7\nPage 5 / 5"
+}

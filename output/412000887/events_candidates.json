@@ -1,0 +1,622 @@
+{
+  "siren": "412000887",
+  "mode": "chronological_context_aware",
+  "n_documents": 8,
+  "n_raw_candidates": 13,
+  "n_events": 13,
+  "events": [
+    {
+      "doc_id": "63d9d64bb8ed6f35f60ae626",
+      "page": 2,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 377.55,
+        "capital_after_eur": 8000.0,
+        "method": "Arrondissage de la valeur nominale des parts de 15,24 euros à 16 euros par prélèvement sur le compte « autres réserves »"
+      },
+      "event_date": "2001-09-17",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "La collectivité des associés décide en conséquence d'augmenter le capital social d'un montant de 377,55 euros (2.476,56 Francs) pour le porter de 7.622,45 euros à 8.000 euros, par prélèvement de pareille somme de 2.476,56 Francs sur le compte « autres réserves »",
+      "bbox_norm": [
+        0.1711,
+        0.8315,
+        0.8936,
+        0.8902
+      ],
+      "llm_valid": true,
+      "llm_note": "Legitimate capital increase via incorporation of reserves (arrondissage de valeur nominale des parts). Arithmetic verified: 7,622.45 + 377.55 = 8,000.00 EUR.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae626",
+        "page": 2,
+        "bbox": [
+          0.1711,
+          0.8315,
+          0.8936,
+          0.8902
+        ],
+        "snippet": "La collectivité des associés décide en conséquence d'augmenter le capital social d'un montant de 377,55 euros (2.476,56 Francs) pour le porter de 7.622,45 euros à 8.000 euros, par prélèvement de pareille somme de 2.476,56 Francs sur le compte « autres réserves »"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63d9d64bb8ed6f35f60ae627",
+      "page": 5,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Jean-Marie PREAULT",
+        "to_name": "Sylvie RAMBAUD",
+        "shares": 46.0,
+        "price_eur": null
+      },
+      "event_date": "2002-03-06",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "46 parts numérotées 1 à 46 à Madame Sylvie RAMBAUD-PREAULT",
+      "bbox_norm": [
+        0.2784,
+        0.3062,
+        0.8362,
+        0.3213
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid shareholder share transfer: 46 shares from Jean-Marie PREAULT to Sylvie RAMBAUD-PREAULT via donation entre vifs",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.2784,
+          0.3062,
+          0.8362,
+          0.3213
+        ],
+        "snippet": "46 parts numérotées 1 à 46 à Madame Sylvie RAMBAUD-PREAULT"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63d9d64bb8ed6f35f60ae627",
+      "page": 5,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Jean-Marie PREAULT",
+        "to_name": "Christophe PREAULT",
+        "shares": 46.0,
+        "price_eur": null
+      },
+      "event_date": "2002-03-06",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "46 parts numérotées 47 à 92 à Monsieur Christophe PREAULT",
+      "bbox_norm": [
+        0.2792,
+        0.3213,
+        0.7938,
+        0.336
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid shareholder share transfer: 46 shares from Jean-Marie PREAULT to Christophe PREAULT via donation entre vifs",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.2792,
+          0.3213,
+          0.7938,
+          0.336
+        ],
+        "snippet": "46 parts numérotées 47 à 92 à Monsieur Christophe PREAULT"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63d9d64bb8ed6f35f60ae627",
+      "page": 5,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Jean-Marie PREAULT",
+        "to_name": "Sébastien PREAULT",
+        "shares": 46.0,
+        "price_eur": null
+      },
+      "event_date": "2002-03-06",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "46 parts numérotées 93 à 138 à Monsieur Sébastien PREAULT",
+      "bbox_norm": [
+        0.2784,
+        0.335,
+        0.7994,
+        0.3502
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid shareholder share transfer: 46 shares from Jean-Marie PREAULT to Sébastien PREAULT via donation entre vifs",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_04",
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.2784,
+          0.335,
+          0.7994,
+          0.3502
+        ],
+        "snippet": "46 parts numérotées 93 à 138 à Monsieur Sébastien PREAULT"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63d9d64bb8ed6f35f60ae627",
+      "page": 5,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Jean-Marie PREAULT",
+        "holder_siren": null,
+        "shares": 138.0
+      },
+      "event_date": "2002-03-06",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Monsieur Jean-Marie PREAULT a fait donation entre vifs en avancement d'hoirie de la totalité des 138 parts sociales lui appartenant",
+      "bbox_norm": [
+        0.1833,
+        0.247,
+        0.9098,
+        0.293
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid shareholder end: Jean-Marie PREAULT donated all 138 shares (46+46+46) to heirs as gift in advancement of inheritance",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_05",
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.1833,
+          0.247,
+          0.9098,
+          0.293
+        ],
+        "snippet": "Monsieur Jean-Marie PREAULT a fait donation entre vifs en avancement d'hoirie de la totalité des 138 parts sociales lui appartenant"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae622",
+      "page": 2,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Roseline PREAULT",
+        "to_name": "HOLDING CEROV",
+        "shares": 2.0,
+        "price_eur": 2000.0
+      },
+      "event_date": "2015-03-17",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "L'associée unique, connaissance prise d'un acte en date du 17 mars 2015 portant cession par Madame Roseline PREAULT, des deux (2) parts sociales numérotées 274 et 275 lui appartenant au capital de la société, moyennant le prix total de 2.000 € pour l'ensemble des 2 parts cédées, au profit de la SARL « HOLDING CEROV »",
+      "bbox_norm": [
+        0.1613,
+        0.5983,
+        0.8809,
+        0.6557
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid share transfer: Roseline PREAULT transferred 2 shares (numérotées 274 et 275) to HOLDING CEROV on 2015-03-17 at 2000 EUR total. All details match snippet.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_06",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae622",
+        "page": 2,
+        "bbox": [
+          0.1613,
+          0.5983,
+          0.8809,
+          0.6557
+        ],
+        "snippet": "L'associée unique, connaissance prise d'un acte en date du 17 mars 2015 portant cession par Madame Roseline PREAULT, des deux (2) parts sociales numérotées 274 et 275 lui appartenant au capital de la société, moyennant le prix total de 2.000 € pour l'ensemble des 2 parts cédées, au profit de la SARL « HOLDING CEROV »"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "Cession de parts "
+        },
+        {
+          "typeActe": "Procès-verbal"
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae622",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Roseline PREAULT",
+        "holder_siren": null,
+        "shares": 2.0
+      },
+      "event_date": "2015-03-17",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Aux termes d'un acte sous-seing-privé en date au CHATEAU D'OLONNE (Vendée) du 17 mars 2015, Madame Roseline PREAULT a cédé les 2 parts sociales numérotées 274 et 275 lui appartenant au capital de la société, au profit de la société « HOLDING CEROV ».",
+      "bbox_norm": [
+        0.1647,
+        0.2135,
+        0.8823,
+        0.2691
+      ],
+      "llm_valid": true,
+      "llm_note": "Valid shareholder exit: records end of Roseline PREAULT's 2-share membership via cession on 2015-03-17. Consistent with v0 transfer event.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_07",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae622",
+        "page": 4,
+        "bbox": [
+          0.1647,
+          0.2135,
+          0.8823,
+          0.2691
+        ],
+        "snippet": "Aux termes d'un acte sous-seing-privé en date au CHATEAU D'OLONNE (Vendée) du 17 mars 2015, Madame Roseline PREAULT a cédé les 2 parts sociales numérotées 274 et 275 lui appartenant au capital de la société, au profit de la société « HOLDING CEROV »."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Acte sous seing privé",
+          "decision": "Cession de parts "
+        },
+        {
+          "typeActe": "Procès-verbal"
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae625",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 7622.0,
+        "capital_after_eur": 7622.0,
+        "method": "constitution"
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Le capital est fixé à CINQUANTE MILLE FRANCS (50.00O Francs) divisé en CINQ CENTS (500) parts de CENT (100) FRANCS chacune, entièrement libérées",
+      "bbox_norm": [
+        0.1513,
+        0.1776,
+        0.8731,
+        0.2134
+      ],
+      "llm_valid": true,
+      "llm_note": "Initial capital constitution: 50,000 FRF ≈ 7,622 EUR (conversion rate 6.55957). Describes actual capital establishment (not profit allocation), amounts reconcile.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_08",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae625",
+        "page": 7,
+        "bbox": [
+          0.1513,
+          0.1776,
+          0.8731,
+          0.2134
+        ],
+        "snippet": "Le capital est fixé à CINQUANTE MILLE FRANCS (50.00O Francs) divisé en CINQ CENTS (500) parts de CENT (100) FRANCS chacune, entièrement libérées"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae625",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Monsieur Jean-Marie PREAULT",
+        "holder_siren": null,
+        "shares": 138.0
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "A Monsieur Jean-Marie PREAULT à cOnCurrence de CENT TRENTE HUIT parts sociales numérotées de 1 à 138 correspondant à son apport en numéraire, ci 138 PARTS",
+      "bbox_norm": [
+        0.2451,
+        0.2504,
+        0.871,
+        0.3287
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder entry at constitution: 138 of 500 shares allocated, consistent with stated capital structure.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_09",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae625",
+        "page": 7,
+        "bbox": [
+          0.2451,
+          0.2504,
+          0.871,
+          0.3287
+        ],
+        "snippet": "A Monsieur Jean-Marie PREAULT à cOnCurrence de CENT TRENTE HUIT parts sociales numérotées de 1 à 138 correspondant à son apport en numéraire, ci 138 PARTS"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae625",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Madame Roseline PREAULT",
+        "holder_siren": null,
+        "shares": 137.0
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "A Madame Roseline PREAULT à cOncurrence de CENT TRENTE SEPT parts sociales numérotées de 139 à 275 correspondant à son apport en numéraire, ci 137 PARTS",
+      "bbox_norm": [
+        0.2444,
+        0.3515,
+        0.8696,
+        0.4292
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder entry at constitution: 137 of 500 shares allocated, consistent with stated capital structure.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_10",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae625",
+        "page": 7,
+        "bbox": [
+          0.2444,
+          0.3515,
+          0.8696,
+          0.4292
+        ],
+        "snippet": "A Madame Roseline PREAULT à cOncurrence de CENT TRENTE SEPT parts sociales numérotées de 139 à 275 correspondant à son apport en numéraire, ci 137 PARTS"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae625",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Monsieur Christophe PREAULT",
+        "holder_siren": null,
+        "shares": 75.0
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "A Monsieur Christophe PREAULT à conCurrence de SOIXANTE QUINZE parts sociales numérotées de 276 à 350 correspondant à son apport en numéraire, ci 75 PARTS",
+      "bbox_norm": [
+        0.2429,
+        0.4526,
+        0.869,
+        0.5304
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder entry at constitution: 75 of 500 shares allocated, consistent with stated capital structure.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_11",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae625",
+        "page": 7,
+        "bbox": [
+          0.2429,
+          0.4526,
+          0.869,
+          0.5304
+        ],
+        "snippet": "A Monsieur Christophe PREAULT à conCurrence de SOIXANTE QUINZE parts sociales numérotées de 276 à 350 correspondant à son apport en numéraire, ci 75 PARTS"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae625",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Madame Sylvie RAMBAUD",
+        "holder_siren": null,
+        "shares": 75.0
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "A Madame Sylvie RAMBAUD à concurrence de SOIXANTE QUINZE parts sociales numérotées de 351 à 425 correspondant à son apport en numéraire, ci 75 PARTS",
+      "bbox_norm": [
+        0.2423,
+        0.5541,
+        0.8675,
+        0.631
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder entry at constitution: 75 of 500 shares allocated, consistent with stated capital structure.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_12",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae625",
+        "page": 7,
+        "bbox": [
+          0.2423,
+          0.5541,
+          0.8675,
+          0.631
+        ],
+        "snippet": "A Madame Sylvie RAMBAUD à concurrence de SOIXANTE QUINZE parts sociales numérotées de 351 à 425 correspondant à son apport en numéraire, ci 75 PARTS"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": "Constitution "
+        }
+      ]
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae625",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "Monsieur Sébastien PREAULT",
+        "holder_siren": null,
+        "shares": 75.0
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "A Monsieur Sébastien PREAULT à concurrence de SOIXANTE QUINZE parts sociales numérotées de 426 à 500 correspondant à son apport en numéraire, ci 75 PARTS",
+      "bbox_norm": [
+        0.2409,
+        0.6537,
+        0.8668,
+        0.7316
+      ],
+      "llm_valid": true,
+      "llm_note": "Shareholder entry at constitution: 75 of 500 shares allocated, consistent with stated capital structure. Total: 138+137+75+75+75 = 500 shares.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_13",
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae625",
+        "page": 7,
+        "bbox": [
+          0.2409,
+          0.6537,
+          0.8668,
+          0.7316
+        ],
+        "snippet": "A Monsieur Sébastien PREAULT à concurrence de SOIXANTE QUINZE parts sociales numérotées de 426 à 500 correspondant à son apport en numéraire, ci 75 PARTS"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": "Constitution "
+        }
+      ]
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae625",
+      "dateDepot": "1997-05-15",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 6
+    },
+    {
+      "doc_id": "63d9d64bb8ed6f35f60ae626",
+      "dateDepot": "2001-10-16",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 1
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae624",
+      "dateDepot": "2002-01-23",
+      "context_given": "Known state as of 2001-09-17 (from 7 events found in earlier-filed documents):\n- Capital social (total share capital): 8000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2001-09-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63d9d64bb8ed6f35f60ae627",
+      "dateDepot": "2002-10-09",
+      "context_given": "Known state as of 2001-09-17 (from 7 events found in earlier-filed documents):\n- Capital social (total share capital): 8000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2001-09-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 4
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae623",
+      "dateDepot": "2015-02-03",
+      "context_given": "Known state as of 2002-03-06 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 8000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Sylvie RAMBAUD (PERSON, 46.0 shares, None%); Christophe PREAULT (PERSON, 46.0 shares, None%); Sébastien PREAULT (PERSON, 46.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2001-09-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63d9d64ab8ed6f35f60ae622",
+      "dateDepot": "2015-03-23",
+      "context_given": "Known state as of 2002-03-06 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 8000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Sylvie RAMBAUD (PERSON, 46.0 shares, None%); Christophe PREAULT (PERSON, 46.0 shares, None%); Sébastien PREAULT (PERSON, 46.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2001-09-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "667d77b3488d41cec4041f5b",
+      "dateDepot": "2024-06-27",
+      "context_given": "Known state as of 2015-03-17 (from 13 events found in earlier-filed documents):\n- Capital social (total share capital): 8000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Sylvie RAMBAUD (PERSON, 46.0 shares, None%); Christophe PREAULT (PERSON, 46.0 shares, None%); Sébastien PREAULT (PERSON, 46.0 shares, None%); HOLDING CEROV (COMPANY, 2.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2001-09-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "670b2bf9b7a7c6415007460d",
+      "dateDepot": "2024-06-27",
+      "context_given": "Known state as of 2015-03-17 (from 13 events found in earlier-filed documents):\n- Capital social (total share capital): 8000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: Sylvie RAMBAUD (PERSON, 46.0 shares, None%); Christophe PREAULT (PERSON, 46.0 shares, None%); Sébastien PREAULT (PERSON, 46.0 shares, None%); HOLDING CEROV (COMPANY, 2.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2001-09-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

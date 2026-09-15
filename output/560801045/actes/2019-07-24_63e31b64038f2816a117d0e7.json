@@ -1,0 +1,5105 @@
+{
+  "doc_id": "63e31b64038f2816a117d0e7",
+  "pdf": "acte_2019-07-24_63e31b64038f2816a117d0e7.pdf",
+  "n_pages": 17,
+  "pages": [
+    {
+      "page": 1,
+      "text": "RCS : TOULOUSE\nCode greffe : 3102\nActes des sociétés, ordonnances rendues en matière de société, actes des personnes physiques\nREGISTRE DU COMMERCE ET DES SOCIETES\nLe greffier du tribunal de commerce de TOULOUSE atteste l'exactitude des informations\ntransmises ci-après\nNature du document : Actes des sociétés (A)\nNuméro de gestion : 1956 B 00104\nNuméro SIREN : 560 801 045\nNom ou dénomination : ETS DEDIEU\nCe dépôt a été enregistré le 24/07/2019 sous le numéro de dépôt A2019/014244",
+      "lines": [
+        {
+          "text": "RCS : TOULOUSE",
+          "bbox_norm": [
+            0.0625,
+            0.0898,
+            0.2364,
+            0.1049
+          ]
+        },
+        {
+          "text": "Code greffe : 3102",
+          "bbox_norm": [
+            0.0597,
+            0.1095,
+            0.2364,
+            0.1294
+          ]
+        },
+        {
+          "text": "Actes des sociétés, ordonnances rendues en matière de société, actes des personnes physiques",
+          "bbox_norm": [
+            0.0577,
+            0.1397,
+            0.9289,
+            0.1576
+          ]
+        },
+        {
+          "text": "REGISTRE DU COMMERCE ET DES SOCIETES",
+          "bbox_norm": [
+            0.2739,
+            0.1901,
+            0.7265,
+            0.2061
+          ]
+        },
+        {
+          "text": "Le greffier du tribunal de commerce de TOULOUSE atteste l'exactitude des informations",
+          "bbox_norm": [
+            0.077,
+            0.2403,
+            0.9233,
+            0.256
+          ]
+        },
+        {
+          "text": "transmises ci-après",
+          "bbox_norm": [
+            0.403,
+            0.2622,
+            0.5946,
+            0.2773
+          ]
+        },
+        {
+          "text": "Nature du document : Actes des sociétés (A)",
+          "bbox_norm": [
+            0.0569,
+            0.3107,
+            0.4606,
+            0.3278
+          ]
+        },
+        {
+          "text": "Numéro de gestion : 1956 B 00104",
+          "bbox_norm": [
+            0.0605,
+            0.3589,
+            0.3792,
+            0.376
+          ]
+        },
+        {
+          "text": "Numéro SIREN : 560 801 045",
+          "bbox_norm": [
+            0.0617,
+            0.3814,
+            0.3336,
+            0.3962
+          ]
+        },
+        {
+          "text": "Nom ou dénomination : ETS DEDIEU",
+          "bbox_norm": [
+            0.0613,
+            0.4025,
+            0.4001,
+            0.4176
+          ]
+        },
+        {
+          "text": "Ce dépôt a été enregistré le 24/07/2019 sous le numéro de dépôt A2019/014244",
+          "bbox_norm": [
+            0.0585,
+            0.4318,
+            0.7809,
+            0.4478
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "GREFFE DU TRIBUNAL DE COMMERCE\nTOUL OUSE\nDénomination : ETS DEDIEU\nAdresse : 2 rue Hermes - za Ecoparc 1 31130 Quint-fonsegrives -\nFRANCE-\nn° de gestion : 1956B00104\nn° d'identification : 560 801 045\nn° de dépôt : A2019/014244\nDate du dépôt : 24/07/2019\nPièce : Décision de gérance du 01/07/2019\n2307330\n2307330\nGreffe du Tribunal de Commerce de Toulouse - place de la Bourse BP 7016\n31068 TOULOUSE Cedex 7\nTél : 05 61 11 02 00",
+      "lines": [
+        {
+          "text": "GREFFE DU TRIBUNAL DE COMMERCE",
+          "bbox_norm": [
+            0.1186,
+            0.0419,
+            0.7906,
+            0.0616
+          ]
+        },
+        {
+          "text": "TOUL OUSE",
+          "bbox_norm": [
+            0.7337,
+            0.0658,
+            0.9221,
+            0.0841
+          ]
+        },
+        {
+          "text": "Dénomination :",
+          "bbox_norm": [
+            0.2049,
+            0.2768,
+            0.3642,
+            0.2944
+          ]
+        },
+        {
+          "text": "ETS DEDIEU",
+          "bbox_norm": [
+            0.4461,
+            0.2779,
+            0.5865,
+            0.2944
+          ]
+        },
+        {
+          "text": "Adresse :",
+          "bbox_norm": [
+            0.2061,
+            0.2973,
+            0.3029,
+            0.3141
+          ]
+        },
+        {
+          "text": "2 rue Hermes - za Ecoparc 1 31130 Quint-fonsegrives -",
+          "bbox_norm": [
+            0.4502,
+            0.2993,
+            0.8991,
+            0.3155
+          ]
+        },
+        {
+          "text": "FRANCE-",
+          "bbox_norm": [
+            0.4465,
+            0.317,
+            0.5369,
+            0.3306
+          ]
+        },
+        {
+          "text": "n° de gestion :",
+          "bbox_norm": [
+            0.2065,
+            0.3532,
+            0.3509,
+            0.3703
+          ]
+        },
+        {
+          "text": "1956B00104",
+          "bbox_norm": [
+            0.4473,
+            0.3532,
+            0.5716,
+            0.3683
+          ]
+        },
+        {
+          "text": "n° d'identification :",
+          "bbox_norm": [
+            0.2057,
+            0.3717,
+            0.4042,
+            0.3894
+          ]
+        },
+        {
+          "text": "560 801 045",
+          "bbox_norm": [
+            0.4473,
+            0.3731,
+            0.5683,
+            0.3882
+          ]
+        },
+        {
+          "text": "n° de dépôt :",
+          "bbox_norm": [
+            0.2057,
+            0.4093,
+            0.3195,
+            0.4258
+          ]
+        },
+        {
+          "text": "A2019/014244",
+          "bbox_norm": [
+            0.4473,
+            0.4107,
+            0.5716,
+            0.4244
+          ]
+        },
+        {
+          "text": "Date du dépôt :",
+          "bbox_norm": [
+            0.2065,
+            0.4264,
+            0.3412,
+            0.4415
+          ]
+        },
+        {
+          "text": "24/07/2019",
+          "bbox_norm": [
+            0.4461,
+            0.4264,
+            0.5433,
+            0.4415
+          ]
+        },
+        {
+          "text": "Pièce :",
+          "bbox_norm": [
+            0.1747,
+            0.4746,
+            0.2477,
+            0.494
+          ]
+        },
+        {
+          "text": "Décision de gérance du 01/07/2019",
+          "bbox_norm": [
+            0.4473,
+            0.4766,
+            0.7817,
+            0.4934
+          ]
+        },
+        {
+          "text": "2307330",
+          "bbox_norm": [
+            0.0633,
+            0.5051,
+            0.0827,
+            0.551
+          ]
+        },
+        {
+          "text": "2307330",
+          "bbox_norm": [
+            0.8628,
+            0.6867,
+            0.9265,
+            0.7003
+          ]
+        },
+        {
+          "text": "Greffe du Tribunal de Commerce de Toulouse - place de la Bourse BP 7016",
+          "bbox_norm": [
+            0.2945,
+            0.9324,
+            0.7482,
+            0.9466
+          ]
+        },
+        {
+          "text": "31068 TOULOUSE Cedex 7",
+          "bbox_norm": [
+            0.434,
+            0.944,
+            0.6079,
+            0.9569
+          ]
+        },
+        {
+          "text": "Tél : 05 61 11 02 00",
+          "bbox_norm": [
+            0.459,
+            0.9552,
+            0.5829,
+            0.968
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "ETS DEDIEU\nSociété à responsabilité limitée\nau capital de 45 765,19 Euros\nSiège social : 12, Impasse Descouloubre\n31200 TOULOUSE\nRCS TOULOUSE : 560 801 045\nPROCES-VERBAL DES DECISIONS\nDE LA GERANCE DU 1ER JUILLET 2019\nL'an deux mille dix-neuf,\nLe premier juillet,\nA neuf heures,\nMadame Marie-Martine LAFFONT, demeurant Les Cayrous - 81700 PUYLAURENS,\nDécide :\n- de transférer le siège social du 12, Impasse Descouloubre - 31200 TOULOUSE au 2,\nRue Hermès - ZA Ecoparc 1 - 31130 QUINT FONSEGRIVES, avec effet rétroactif au 2\njanvier 2019,\n- et de modifier l'article 4 des statuts en conséquence (en corrigeant également l'adresse\ninitiale mentionnée sur les derniers statuts mis à jour, soit \" TOULOUSE 10-12 Impasse\nDescouloubre\" alors que l'extrait k-bis mentionne l'adresse suivante : 12, Impasse\nDescouloubre - 31200 TOULOUSE)\nArticle Quatre - SIEGE SOCIAL\nAncienne.mention.:\nLe siège de la société est fixé à TOULOUSE 10-12 Impasse Descouloubre.\nNouxelle. mention.:\nA la constitution de la société, le siège social était fixé : 12, Impasse\nDescouloubre - 31200 TOULOUSE.",
+      "lines": [
+        {
+          "text": "ETS DEDIEU",
+          "bbox_norm": [
+            0.432,
+            0.0958,
+            0.5566,
+            0.112
+          ]
+        },
+        {
+          "text": "Société à responsabilité limitée",
+          "bbox_norm": [
+            0.3626,
+            0.1129,
+            0.626,
+            0.1294
+          ]
+        },
+        {
+          "text": "au capital de 45 765,19 Euros",
+          "bbox_norm": [
+            0.3683,
+            0.1308,
+            0.6204,
+            0.1457
+          ]
+        },
+        {
+          "text": "Siège social : 12, Impasse Descouloubre",
+          "bbox_norm": [
+            0.3259,
+            0.1465,
+            0.6627,
+            0.1628
+          ]
+        },
+        {
+          "text": "31200 TOULOUSE",
+          "bbox_norm": [
+            0.4098,
+            0.163,
+            0.5772,
+            0.1787
+          ]
+        },
+        {
+          "text": "RCS TOULOUSE : 560 801 045",
+          "bbox_norm": [
+            0.3558,
+            0.1964,
+            0.6317,
+            0.2121
+          ]
+        },
+        {
+          "text": "PROCES-VERBAL DES DECISIONS",
+          "bbox_norm": [
+            0.3263,
+            0.295,
+            0.6599,
+            0.3113
+          ]
+        },
+        {
+          "text": "DE LA GERANCE DU 1ER JUILLET 2019",
+          "bbox_norm": [
+            0.307,
+            0.3107,
+            0.6789,
+            0.3281
+          ]
+        },
+        {
+          "text": "L'an deux mille dix-neuf,",
+          "bbox_norm": [
+            0.1283,
+            0.4258,
+            0.3336,
+            0.4441
+          ]
+        },
+        {
+          "text": "Le premier juillet,",
+          "bbox_norm": [
+            0.1271,
+            0.4595,
+            0.2767,
+            0.4777
+          ]
+        },
+        {
+          "text": "A neuf heures,",
+          "bbox_norm": [
+            0.1271,
+            0.4923,
+            0.2497,
+            0.5099
+          ]
+        },
+        {
+          "text": "Madame Marie-Martine LAFFONT, demeurant Les Cayrous - 81700 PUYLAURENS,",
+          "bbox_norm": [
+            0.1263,
+            0.5253,
+            0.8281,
+            0.5447
+          ]
+        },
+        {
+          "text": "Décide :",
+          "bbox_norm": [
+            0.1271,
+            0.5598,
+            0.1981,
+            0.5738
+          ]
+        },
+        {
+          "text": "- de transférer le siège social du 12, Impasse Descouloubre - 31200 TOULOUSE au 2,",
+          "bbox_norm": [
+            0.1271,
+            0.5929,
+            0.8567,
+            0.6094
+          ]
+        },
+        {
+          "text": "Rue Hermès - ZA Ecoparc 1 - 31130 QUINT FONSEGRIVES, avec effet rétroactif au 2",
+          "bbox_norm": [
+            0.1263,
+            0.6086,
+            0.8567,
+            0.6265
+          ]
+        },
+        {
+          "text": "janvier 2019,",
+          "bbox_norm": [
+            0.1242,
+            0.6257,
+            0.2368,
+            0.6422
+          ]
+        },
+        {
+          "text": "- et de modifier l'article 4 des statuts en conséquence (en corrigeant également l'adresse",
+          "bbox_norm": [
+            0.1263,
+            0.6422,
+            0.8567,
+            0.6599
+          ]
+        },
+        {
+          "text": "initiale mentionnée sur les derniers statuts mis à jour, soit \" TOULOUSE 10-12 Impasse",
+          "bbox_norm": [
+            0.1263,
+            0.6587,
+            0.8559,
+            0.6758
+          ]
+        },
+        {
+          "text": "Descouloubre\" alors que l'extrait k-bis mentionne l'adresse suivante : 12, Impasse",
+          "bbox_norm": [
+            0.1271,
+            0.6755,
+            0.8559,
+            0.6926
+          ]
+        },
+        {
+          "text": "Descouloubre - 31200 TOULOUSE)",
+          "bbox_norm": [
+            0.1271,
+            0.6921,
+            0.4328,
+            0.7077
+          ]
+        },
+        {
+          "text": "Article Quatre - SIEGE SOCIAL",
+          "bbox_norm": [
+            0.173,
+            0.7251,
+            0.4598,
+            0.7405
+          ]
+        },
+        {
+          "text": "Ancienne.mention.:",
+          "bbox_norm": [
+            0.1714,
+            0.7573,
+            0.3445,
+            0.7756
+          ]
+        },
+        {
+          "text": "Le siège de la société est fixé à TOULOUSE 10-12 Impasse Descouloubre.",
+          "bbox_norm": [
+            0.1722,
+            0.7901,
+            0.7769,
+            0.8069
+          ]
+        },
+        {
+          "text": "Nouxelle. mention.:",
+          "bbox_norm": [
+            0.1714,
+            0.8218,
+            0.3372,
+            0.8406
+          ]
+        },
+        {
+          "text": "A la constitution de la société, le siège social était fixé : 12, Impasse",
+          "bbox_norm": [
+            0.1734,
+            0.8557,
+            0.8551,
+            0.8733
+          ]
+        },
+        {
+          "text": "Descouloubre - 31200 TOULOUSE.",
+          "bbox_norm": [
+            0.2057,
+            0.8722,
+            0.5022,
+            0.8879
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "n\nX A compter du 2 janvier 2019, le siège social est fixé : 2, Rue Hermès - ZA\nEcoparc 1 - 31130 QUINT FONSEGRIVES\nLe reste de l'article demeure inchangé.\nConformément à l'article L. 223-18, al. 8 du Code de commerce, ce transfert de siège\ndevra être ratifié par une décision des associés prise à la majorité requise pour l'adoption\ndes décisions ordinaires (plus de la moitié des parts sociales et, sur seconde consultation,\nmajorité des voix).\nTous pouvoirs sont donnés au porteur d'un original, d'une copie ou d'un extrait du présent\nprocès-verbal à l'effet d'accomplir toutes formalités de droit.\nDe tout ce que dessus a été dressé le présent procès verbal qui a été signé par la Gérante.\n*\nMarie-MartineIFLOR\nFIEUR$ CRISTALLISEES\nA.ucHermès\n3 30 dUNTFONSEGRIVES\nThi) 633425 12 25\npontagt@candiflor.fr\nRc$ 560 801 045",
+      "lines": [
+        {
+          "text": "n",
+          "bbox_norm": [
+            0.046,
+            0.0279,
+            0.0581,
+            0.0356
+          ]
+        },
+        {
+          "text": "X A compter du 2 janvier 2019, le siège social est fixé : 2, Rue Hermès - ZA",
+          "bbox_norm": [
+            0.1751,
+            0.1137,
+            0.8592,
+            0.1314
+          ]
+        },
+        {
+          "text": "Ecoparc 1 - 31130 QUINT FONSEGRIVES",
+          "bbox_norm": [
+            0.2089,
+            0.1314,
+            0.5663,
+            0.1479
+          ]
+        },
+        {
+          "text": "Le reste de l'article demeure inchangé.",
+          "bbox_norm": [
+            0.1299,
+            0.1656,
+            0.4385,
+            0.1801
+          ]
+        },
+        {
+          "text": "Conformément à l'article L. 223-18, al. 8 du Code de commerce, ce transfert de siège",
+          "bbox_norm": [
+            0.1307,
+            0.1967,
+            0.8588,
+            0.2143
+          ]
+        },
+        {
+          "text": "devra être ratifié par une décision des associés prise à la majorité requise pour l'adoption",
+          "bbox_norm": [
+            0.1307,
+            0.2138,
+            0.8592,
+            0.2306
+          ]
+        },
+        {
+          "text": "des décisions ordinaires (plus de la moitié des parts sociales et, sur seconde consultation,",
+          "bbox_norm": [
+            0.1299,
+            0.2306,
+            0.8579,
+            0.2477
+          ]
+        },
+        {
+          "text": "majorité des voix).",
+          "bbox_norm": [
+            0.1299,
+            0.2486,
+            0.284,
+            0.2648
+          ]
+        },
+        {
+          "text": "Tous pouvoirs sont donnés au porteur d'un original, d'une copie ou d'un extrait du présent",
+          "bbox_norm": [
+            0.1307,
+            0.2799,
+            0.8592,
+            0.297
+          ]
+        },
+        {
+          "text": "procès-verbal à l'effet d'accomplir toutes formalités de droit.",
+          "bbox_norm": [
+            0.1311,
+            0.297,
+            0.6155,
+            0.3141
+          ]
+        },
+        {
+          "text": "De tout ce que dessus a été dressé le présent procès verbal qui a été signé par la Gérante.",
+          "bbox_norm": [
+            0.1319,
+            0.3457,
+            0.8414,
+            0.3634
+          ]
+        },
+        {
+          "text": "*",
+          "bbox_norm": [
+            0.5288,
+            0.3668,
+            0.5349,
+            0.3711
+          ]
+        },
+        {
+          "text": "Marie-MartineIFLOR",
+          "bbox_norm": [
+            0.3808,
+            0.3745,
+            0.6889,
+            0.4079
+          ]
+        },
+        {
+          "text": "FIEUR$ CRISTALLISEES",
+          "bbox_norm": [
+            0.5187,
+            0.4013,
+            0.7107,
+            0.4167
+          ]
+        },
+        {
+          "text": "A.ucHermès",
+          "bbox_norm": [
+            0.5639,
+            0.415,
+            0.6704,
+            0.4304
+          ]
+        },
+        {
+          "text": "3",
+          "bbox_norm": [
+            0.5195,
+            0.4313,
+            0.5308,
+            0.4424
+          ]
+        },
+        {
+          "text": "30",
+          "bbox_norm": [
+            0.5425,
+            0.4321,
+            0.5591,
+            0.4415
+          ]
+        },
+        {
+          "text": "dUNTFONSEGRIVES",
+          "bbox_norm": [
+            0.5599,
+            0.4273,
+            0.7127,
+            0.4429
+          ]
+        },
+        {
+          "text": "Thi) 633425 12 25",
+          "bbox_norm": [
+            0.5522,
+            0.4404,
+            0.6845,
+            0.4563
+          ]
+        },
+        {
+          "text": "pontagt@candiflor.fr",
+          "bbox_norm": [
+            0.5397,
+            0.4561,
+            0.697,
+            0.4729
+          ]
+        },
+        {
+          "text": "Rc$ 560 801 045",
+          "bbox_norm": [
+            0.5583,
+            0.4703,
+            0.672,
+            0.484
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "GREFFE DU TRIBUNAL DE COMMERCE\nTO U L O U SE\nDénomination : ETS DEDIEU\nAdresse : 2 rue Hermes - za Ecoparc 1 31130 Quint-fonsegrives -\nFRANCE-\nn° de gestion : 1956B00104\nn° d'identification : 560 801 045\nn° de dépôt : A2019/014244\nDate du dépôt : 24/07/2019\nPièce : Statuts mis à jour\n2307329 ALDE COMMAER oN COLCOE\n2307329\nGreffe du Tribunal de Commerce de Toulouse - place de la Bourse BP 7016\n31068 TOULOUSE Cedex 7\nTél : 05 61 11 02 00",
+      "lines": [
+        {
+          "text": "GREFFE DU TRIBUNAL DE COMMERCE",
+          "bbox_norm": [
+            0.121,
+            0.0419,
+            0.7918,
+            0.0624
+          ]
+        },
+        {
+          "text": "TO U L O U SE",
+          "bbox_norm": [
+            0.7341,
+            0.0664,
+            0.9233,
+            0.0847
+          ]
+        },
+        {
+          "text": "Dénomination :",
+          "bbox_norm": [
+            0.2069,
+            0.2768,
+            0.3663,
+            0.295
+          ]
+        },
+        {
+          "text": "ETS DEDIEU",
+          "bbox_norm": [
+            0.4481,
+            0.2773,
+            0.5877,
+            0.295
+          ]
+        },
+        {
+          "text": "Adresse :",
+          "bbox_norm": [
+            0.2081,
+            0.2973,
+            0.3049,
+            0.3141
+          ]
+        },
+        {
+          "text": "2 rue Hermes - za Ecoparc 1 31130 Quint-fonsegrives -",
+          "bbox_norm": [
+            0.4514,
+            0.2993,
+            0.9003,
+            0.3161
+          ]
+        },
+        {
+          "text": "FRANCE-",
+          "bbox_norm": [
+            0.4473,
+            0.317,
+            0.5369,
+            0.3306
+          ]
+        },
+        {
+          "text": "n° de gestion :",
+          "bbox_norm": [
+            0.2077,
+            0.3532,
+            0.3521,
+            0.3703
+          ]
+        },
+        {
+          "text": "1956B00104",
+          "bbox_norm": [
+            0.4493,
+            0.3532,
+            0.5744,
+            0.3697
+          ]
+        },
+        {
+          "text": "n° d'identification :",
+          "bbox_norm": [
+            0.2061,
+            0.3711,
+            0.4058,
+            0.3888
+          ]
+        },
+        {
+          "text": "560 801 045",
+          "bbox_norm": [
+            0.4489,
+            0.3731,
+            0.5695,
+            0.3882
+          ]
+        },
+        {
+          "text": "n° de dépôt :",
+          "bbox_norm": [
+            0.2077,
+            0.4093,
+            0.3211,
+            0.4258
+          ]
+        },
+        {
+          "text": "A2019/014244",
+          "bbox_norm": [
+            0.4493,
+            0.4107,
+            0.5732,
+            0.4244
+          ]
+        },
+        {
+          "text": "Date du dépôt :",
+          "bbox_norm": [
+            0.2085,
+            0.4267,
+            0.3425,
+            0.4421
+          ]
+        },
+        {
+          "text": "24/07/2019",
+          "bbox_norm": [
+            0.4473,
+            0.4267,
+            0.5453,
+            0.4421
+          ]
+        },
+        {
+          "text": "Pièce :",
+          "bbox_norm": [
+            0.1767,
+            0.4848,
+            0.2505,
+            0.5051
+          ]
+        },
+        {
+          "text": "Statuts mis à jour",
+          "bbox_norm": [
+            0.4481,
+            0.4868,
+            0.6167,
+            0.5054
+          ]
+        },
+        {
+          "text": "2307329",
+          "bbox_norm": [
+            0.0653,
+            0.5153,
+            0.0847,
+            0.5612
+          ]
+        },
+        {
+          "text": "ALDE COMMAER",
+          "bbox_norm": [
+            0.7644,
+            0.5336,
+            0.843,
+            0.5789
+          ]
+        },
+        {
+          "text": "oN",
+          "bbox_norm": [
+            0.7781,
+            0.5701,
+            0.7886,
+            0.5812
+          ]
+        },
+        {
+          "text": "COLCOE",
+          "bbox_norm": [
+            0.8325,
+            0.5404,
+            0.8898,
+            0.5772
+          ]
+        },
+        {
+          "text": "2307329",
+          "bbox_norm": [
+            0.8628,
+            0.6958,
+            0.9261,
+            0.7112
+          ]
+        },
+        {
+          "text": "Greffe du Tribunal de Commerce de Toulouse - place de la Bourse BP 7016",
+          "bbox_norm": [
+            0.2961,
+            0.9318,
+            0.7482,
+            0.946
+          ]
+        },
+        {
+          "text": "31068 TOULOUSE Cedex 7",
+          "bbox_norm": [
+            0.4356,
+            0.944,
+            0.6091,
+            0.9563
+          ]
+        },
+        {
+          "text": "Tél : 05 61 11 02 00",
+          "bbox_norm": [
+            0.4598,
+            0.9546,
+            0.5845,
+            0.968
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "t\nETS DEDIEU\nSociété à responsabilité limitée\nau capilal de 45 765,19 Euros\nSiège social : 2. Rue Hermès\nZA Ecoparc 1\n31I3O QUIRT FONSEGDIVES\nRCS TOUL0USE : 560 801 045\nSTATUTS MIS A JOUR\nLE IER JUILLET 2019\nCONFORME A L'ORIGINAL COPIE CERTIFIEE",
+      "lines": [
+        {
+          "text": "t",
+          "bbox_norm": [
+            0.0867,
+            0.0248,
+            0.1077,
+            0.0382
+          ]
+        },
+        {
+          "text": "ETS DEDIEU",
+          "bbox_norm": [
+            0.4187,
+            0.0986,
+            0.5816,
+            0.1171
+          ]
+        },
+        {
+          "text": "Société à responsabilité limitée",
+          "bbox_norm": [
+            0.3235,
+            0.1171,
+            0.6768,
+            0.136
+          ]
+        },
+        {
+          "text": "au capilal de 45 765,19 Euros",
+          "bbox_norm": [
+            0.3332,
+            0.1348,
+            0.6655,
+            0.1531
+          ]
+        },
+        {
+          "text": "Siège social : 2. Rue Hermès",
+          "bbox_norm": [
+            0.3453,
+            0.1519,
+            0.653,
+            0.1699
+          ]
+        },
+        {
+          "text": "ZA Ecoparc 1",
+          "bbox_norm": [
+            0.4243,
+            0.1693,
+            0.572,
+            0.1867
+          ]
+        },
+        {
+          "text": "31I3O QUIRT FONSEGDIVES",
+          "bbox_norm": [
+            0.3465,
+            0.1861,
+            0.6502,
+            0.2038
+          ]
+        },
+        {
+          "text": "RCS TOUL0USE : 560 801 045",
+          "bbox_norm": [
+            0.3396,
+            0.2192,
+            0.6559,
+            0.2374
+          ]
+        },
+        {
+          "text": "STATUTS MIS A JOUR",
+          "bbox_norm": [
+            0.3029,
+            0.4609,
+            0.7349,
+            0.4894
+          ]
+        },
+        {
+          "text": "LE IER JUILLET 2019",
+          "bbox_norm": [
+            0.3098,
+            0.5233,
+            0.7269,
+            0.553
+          ]
+        },
+        {
+          "text": "CONFORME A L'ORIGINAL",
+          "bbox_norm": [
+            0.5829,
+            0.6915,
+            0.9043,
+            0.785
+          ]
+        },
+        {
+          "text": "COPIE CERTIFIEE",
+          "bbox_norm": [
+            0.6333,
+            0.6601,
+            0.8503,
+            0.7277
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": ",\nEtablissements DEDIEU\nSOCIETE A RESPONSABILITE LIMITEE\nIDENTITE DES ASSOCIES\nLa société \"Etablissements DEDIEu\" existe actuellement entre :\n1° Madame DEDIEU Hortense Eléonore,\nnée LAFFONT le 2 décembre 1906 à BORDES SUR LEZ (Ariège),\ndemeurant l4 rue de Koufra à TOULoUSE,\nveuve de Monsieur DEDIEU François Vincent,\nné le 8 mars 1903 à AUDRESSIN (Ariège),\ndécédé 1e 28 mars 1956 à TOULOUSE\nleur mariage ayant été célébré le 26 avril l936 à TOuLoUsE sous le rēgime\n(ancien) de la communauté légale.\n2° Monsieur LAFFONT Jean Joseph,\nné le 23 septembre 1923 à BORDES SUR LEZ (Ariège),\ndemeurant chemin des Tuileries à COLOMfERs,\nmarié sous le régime (ancien) de la communauté légale le 24 septembre 1946\nà TOULOUSE, avec Madame PERRY Emilienne Françoise.\n3° Monsieur LAFFONT Paul,\nné le 12 décembre 1912 à BORDES SUR LEZ (Ariège),\ndemeurant l4 rue de Koufra à ToULouSE,\nmarié sous le régime (ancien) de la communauté légale le 7 avril 1945\nà FOIX (Ariège), avec Madame ROUAIX Louise Germaine.\n4° Monsieur LAFFONT Daniel Paul,\nn 1e 24 mars 1946 à F0IX (Ariège),\ndemeurant l6 rue fermat à TouLousE,\nmarié sous le régime (nouveau) de la communauté légale le 4 avril 1970\nà TOULOUSE avec Madame GIRONIS Marie Martine.\n5° Madame LAFFONT Marie Martine,\nnée GIRONIS le 19 février 1948 à CASTRES (Tarn)\ndemeurant 16 rue Fermat à TOULOUSE\nmariée sous le régime (nouveau) de la communauté légale le 4 avril 1970\nà TOULOUSE avec Monsieur LAFFONT Daniel Paul.",
+      "lines": [
+        {
+          "text": ",",
+          "bbox_norm": [
+            0.052,
+            0.0419,
+            0.0641,
+            0.0487
+          ]
+        },
+        {
+          "text": "Etablissements",
+          "bbox_norm": [
+            0.3433,
+            0.185,
+            0.4739,
+            0.1952
+          ]
+        },
+        {
+          "text": "DEDIEU",
+          "bbox_norm": [
+            0.4856,
+            0.1836,
+            0.5925,
+            0.1967
+          ]
+        },
+        {
+          "text": "SOCIETE A RESPONSABILITE LIMITEE",
+          "bbox_norm": [
+            0.3057,
+            0.2104,
+            0.6002,
+            0.2226
+          ]
+        },
+        {
+          "text": "IDENTITE DES ASSOCIES",
+          "bbox_norm": [
+            0.3695,
+            0.3839,
+            0.5639,
+            0.3971
+          ]
+        },
+        {
+          "text": "La société \"Etablissements DEDIEu\" existe actuellement entre :",
+          "bbox_norm": [
+            0.1734,
+            0.4224,
+            0.749,
+            0.4372
+          ]
+        },
+        {
+          "text": "1° Madame DEDIEU Hortense Eléonore,",
+          "bbox_norm": [
+            0.1743,
+            0.441,
+            0.4982,
+            0.4566
+          ]
+        },
+        {
+          "text": "née LAFFONT le 2 décembre 1906 à BORDES SUR LEZ (Ariège),",
+          "bbox_norm": [
+            0.173,
+            0.4552,
+            0.7002,
+            0.4703
+          ]
+        },
+        {
+          "text": "demeurant l4 rue de Koufra à TOULoUSE,",
+          "bbox_norm": [
+            0.173,
+            0.4689,
+            0.5252,
+            0.4834
+          ]
+        },
+        {
+          "text": "veuve de Monsieur DEDIEU François Vincent,",
+          "bbox_norm": [
+            0.173,
+            0.4829,
+            0.5619,
+            0.4977
+          ]
+        },
+        {
+          "text": "né le 8 mars 1903 à AUDRESSIN (Ariège),",
+          "bbox_norm": [
+            0.173,
+            0.4957,
+            0.5349,
+            0.5108
+          ]
+        },
+        {
+          "text": "décédé 1e 28 mars 1956 à TOULOUSE",
+          "bbox_norm": [
+            0.1734,
+            0.5099,
+            0.4816,
+            0.5236
+          ]
+        },
+        {
+          "text": "leur mariage ayant été célébré le 26 avril l936 à TOuLoUsE sous le rēgime",
+          "bbox_norm": [
+            0.1738,
+            0.5239,
+            0.8511,
+            0.5373
+          ]
+        },
+        {
+          "text": "(ancien) de la communauté légale.",
+          "bbox_norm": [
+            0.1751,
+            0.5367,
+            0.4792,
+            0.5518
+          ]
+        },
+        {
+          "text": "2° Monsieur LAFFONT Jean Joseph,",
+          "bbox_norm": [
+            0.1722,
+            0.5627,
+            0.4711,
+            0.5789
+          ]
+        },
+        {
+          "text": "né le 23 septembre 1923 à BORDES SUR LEZ (Ariège),",
+          "bbox_norm": [
+            0.1722,
+            0.5766,
+            0.6341,
+            0.5909
+          ]
+        },
+        {
+          "text": "demeurant chemin des Tuileries à COLOMfERs,",
+          "bbox_norm": [
+            0.173,
+            0.5909,
+            0.5704,
+            0.6037
+          ]
+        },
+        {
+          "text": "marié sous le régime (ancien) de la communauté légale le 24 septembre 1946",
+          "bbox_norm": [
+            0.1722,
+            0.6031,
+            0.8608,
+            0.6177
+          ]
+        },
+        {
+          "text": "à TOULOUSE, avec Madame PERRY Emilienne Françoise.",
+          "bbox_norm": [
+            0.1722,
+            0.6168,
+            0.6349,
+            0.6314
+          ]
+        },
+        {
+          "text": "3° Monsieur LAFFONT Paul,",
+          "bbox_norm": [
+            0.173,
+            0.6422,
+            0.4066,
+            0.6584
+          ]
+        },
+        {
+          "text": "né le 12 décembre 1912 à BORDES SUR LEZ (Ariège),",
+          "bbox_norm": [
+            0.173,
+            0.6564,
+            0.6252,
+            0.6715
+          ]
+        },
+        {
+          "text": "demeurant l4 rue de Koufra à ToULouSE,",
+          "bbox_norm": [
+            0.173,
+            0.6704,
+            0.5268,
+            0.6847
+          ]
+        },
+        {
+          "text": "marié sous le régime (ancien) de la communauté légale le 7 avril 1945",
+          "bbox_norm": [
+            0.1722,
+            0.6832,
+            0.814,
+            0.6978
+          ]
+        },
+        {
+          "text": "à FOIX (Ariège), avec Madame ROUAIX Louise Germaine.",
+          "bbox_norm": [
+            0.1722,
+            0.6969,
+            0.6543,
+            0.7112
+          ]
+        },
+        {
+          "text": "4° Monsieur LAFFONT Daniel Paul,",
+          "bbox_norm": [
+            0.173,
+            0.7229,
+            0.4711,
+            0.7374
+          ]
+        },
+        {
+          "text": "n 1e 24 mars 1946 à F0IX (Ariège),",
+          "bbox_norm": [
+            0.173,
+            0.7365,
+            0.499,
+            0.7508
+          ]
+        },
+        {
+          "text": "demeurant l6 rue fermat à TouLousE,",
+          "bbox_norm": [
+            0.1738,
+            0.7505,
+            0.499,
+            0.7628
+          ]
+        },
+        {
+          "text": "marié sous le régime (nouveau) de la communauté légale le 4 avril 1970",
+          "bbox_norm": [
+            0.1722,
+            0.7625,
+            0.8253,
+            0.7776
+          ]
+        },
+        {
+          "text": "à TOULOUSE avec Madame GIRONIS Marie Martine.",
+          "bbox_norm": [
+            0.173,
+            0.7764,
+            0.5897,
+            0.7907
+          ]
+        },
+        {
+          "text": "5° Madame LAFFONT Marie Martine,",
+          "bbox_norm": [
+            0.1734,
+            0.8024,
+            0.4731,
+            0.8181
+          ]
+        },
+        {
+          "text": "née GIRONIS le 19 février 1948 à CASTRES (Tarn)",
+          "bbox_norm": [
+            0.1738,
+            0.8166,
+            0.6079,
+            0.8309
+          ]
+        },
+        {
+          "text": "demeurant 16 rue Fermat à TOULOUSE",
+          "bbox_norm": [
+            0.1759,
+            0.8323,
+            0.4925,
+            0.844
+          ]
+        },
+        {
+          "text": "mariée sous le régime (nouveau) de la communauté légale le 4 avril 1970",
+          "bbox_norm": [
+            0.173,
+            0.8426,
+            0.835,
+            0.8591
+          ]
+        },
+        {
+          "text": "à TOULOUSE avec Monsieur LAFFONT Daniel Paul.",
+          "bbox_norm": [
+            0.1751,
+            0.8585,
+            0.5905,
+            0.8708
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "text": "-  -\nETABLISSEMENTS D E D I E U\nSociété à Responsabilité Limitée\nSTATUTS\nArticle Premier - FORME\nLa SOCiétÉ a été COnstituée SOus forme de SOCIETE A RESPONSABILITE LIMITEE\npar acte sous seing privé en date à TouLousE du quatre mars mil neuf cent\ncinquante enregistré à TouLousE (2ème A. C.) le vingt neuf mars mil neuf cent\ncinquante, volume 86 n° 62.\nPublication : PUBLICITE et PETITES AFFICHES TOULOUSAINES et de la HAUTE-\nGARONNE du 4 avril 1950.\nLes statuts ont été mis en harmonie avec les nouvelles dispositions légales\npar délibération des associés du vingt et un septembre mil neuf cent soixante\ndix dont le procès verbal a été déposé au rang des minutes de Maftre CAMPS\nnotaire à TouLOUsE suivant acte en son rapport du vingt deux septembre mil\nneuf cent soixante dix.\nPublication : GAZETTE DES TRIBUNAUX DU MIDI du 26 septembre 1970.\nLa société est inscrite au registre du commerce de TouLousE sous le numéro\n56 B l04. Elle est régie par la loi du 24 juillet 1966 textes subséquents\net toutes dispositions légales et règlementaires.\nArticle Deux - OBJET\nLa société a pour objet principal la fabrication et la vente en FRANCE et à\nl'étranger de fleurs et de fruits confits de confitures et de tous articles\nde confiserie.\nLes opérations sociales pourront s'écendre à la fabrication et à la vente\nde tous produits se rattachant directement ou indirectement à l'objet ci-dessus\nainsi qu'a toutes opérations immobilières en vue de son extension,\nEt généralement toutes opérations se rattachant directement ou indirectement\nà cet objet.\nI",
+      "lines": [
+        {
+          "text": "-  -",
+          "bbox_norm": [
+            0.7587,
+            0.1186,
+            0.8099,
+            0.1328
+          ]
+        },
+        {
+          "text": "ETABLISSEMENTS D E D I E U",
+          "bbox_norm": [
+            0.3388,
+            0.1705,
+            0.5897,
+            0.187
+          ]
+        },
+        {
+          "text": "Société à Responsabilité Limitée",
+          "bbox_norm": [
+            0.3021,
+            0.1978,
+            0.5982,
+            0.2124
+          ]
+        },
+        {
+          "text": "STATUTS",
+          "bbox_norm": [
+            0.4211,
+            0.36,
+            0.5433,
+            0.3717
+          ]
+        },
+        {
+          "text": "Article Premier - FORME",
+          "bbox_norm": [
+            0.1597,
+            0.4307,
+            0.3759,
+            0.4461
+          ]
+        },
+        {
+          "text": "La SOCiétÉ a été COnstituée SOus forme de SOCIETE A RESPONSABILITE LIMITEE",
+          "bbox_norm": [
+            0.1589,
+            0.4575,
+            0.8475,
+            0.4749
+          ]
+        },
+        {
+          "text": "par acte sous seing privé en date à TouLousE du quatre mars mil neuf cent",
+          "bbox_norm": [
+            0.1585,
+            0.4726,
+            0.8386,
+            0.4883
+          ]
+        },
+        {
+          "text": "cinquante enregistré à TouLousE (2ème A. C.) le vingt neuf mars mil neuf cent",
+          "bbox_norm": [
+            0.1589,
+            0.486,
+            0.8741,
+            0.5019
+          ]
+        },
+        {
+          "text": "cinquante, volume 86 n° 62.",
+          "bbox_norm": [
+            0.1589,
+            0.4985,
+            0.4118,
+            0.5133
+          ]
+        },
+        {
+          "text": "Publication : PUBLICITE et PETITES AFFICHES TOULOUSAINES et de la HAUTE-",
+          "bbox_norm": [
+            0.1585,
+            0.5245,
+            0.8281,
+            0.5407
+          ]
+        },
+        {
+          "text": "GARONNE du 4 avril 1950.",
+          "bbox_norm": [
+            0.1589,
+            0.5381,
+            0.382,
+            0.5518
+          ]
+        },
+        {
+          "text": "Les statuts ont été mis en harmonie avec les nouvelles dispositions légales",
+          "bbox_norm": [
+            0.1569,
+            0.5647,
+            0.8551,
+            0.5806
+          ]
+        },
+        {
+          "text": "par délibération des associés du vingt et un septembre mil neuf cent soixante",
+          "bbox_norm": [
+            0.1577,
+            0.5783,
+            0.8733,
+            0.5954
+          ]
+        },
+        {
+          "text": "dix dont le procès verbal a été déposé au rang des minutes de Maftre CAMPS",
+          "bbox_norm": [
+            0.1569,
+            0.5903,
+            0.8475,
+            0.6094
+          ]
+        },
+        {
+          "text": "notaire à TouLOUsE suivant acte en son rapport du vingt deux septembre mil",
+          "bbox_norm": [
+            0.1569,
+            0.604,
+            0.8463,
+            0.6228
+          ]
+        },
+        {
+          "text": "neuf cent soixante dix.",
+          "bbox_norm": [
+            0.1577,
+            0.6188,
+            0.3723,
+            0.6319
+          ]
+        },
+        {
+          "text": "Publication : GAZETTE DES TRIBUNAUX DU MIDI du 26 septembre 1970.",
+          "bbox_norm": [
+            0.1569,
+            0.6448,
+            0.7599,
+            0.6619
+          ]
+        },
+        {
+          "text": "La société est inscrite au registre du commerce de TouLousE sous le numéro",
+          "bbox_norm": [
+            0.1561,
+            0.6721,
+            0.8463,
+            0.6886
+          ]
+        },
+        {
+          "text": "56 B l04. Elle est régie par la loi du 24 juillet 1966 textes subséquents",
+          "bbox_norm": [
+            0.1561,
+            0.6852,
+            0.8366,
+            0.7032
+          ]
+        },
+        {
+          "text": "et toutes dispositions légales et règlementaires.",
+          "bbox_norm": [
+            0.1561,
+            0.6992,
+            0.6107,
+            0.7154
+          ]
+        },
+        {
+          "text": "Article Deux - OBJET",
+          "bbox_norm": [
+            0.1569,
+            0.7257,
+            0.3461,
+            0.7408
+          ]
+        },
+        {
+          "text": "La société a pour objet principal la fabrication et la vente en FRANCE et à",
+          "bbox_norm": [
+            0.1557,
+            0.7522,
+            0.8571,
+            0.7693
+          ]
+        },
+        {
+          "text": "l'étranger de fleurs et de fruits confits de confitures et de tous articles",
+          "bbox_norm": [
+            0.1561,
+            0.7648,
+            0.8559,
+            0.783
+          ]
+        },
+        {
+          "text": "de confiserie.",
+          "bbox_norm": [
+            0.1569,
+            0.7793,
+            0.2884,
+            0.7927
+          ]
+        },
+        {
+          "text": "Les opérations sociales pourront s'écendre à la fabrication et à la vente",
+          "bbox_norm": [
+            0.1557,
+            0.8058,
+            0.8269,
+            0.822
+          ]
+        },
+        {
+          "text": "de tous produits se rattachant directement ou indirectement à l'objet ci-dessus",
+          "bbox_norm": [
+            0.1557,
+            0.8189,
+            0.8918,
+            0.836
+          ]
+        },
+        {
+          "text": "ainsi qu'a toutes opérations immobilières en vue de son extension,",
+          "bbox_norm": [
+            0.1569,
+            0.8332,
+            0.7696,
+            0.8503
+          ]
+        },
+        {
+          "text": "Et généralement toutes opérations se rattachant directement ou indirectement",
+          "bbox_norm": [
+            0.1557,
+            0.8531,
+            0.8648,
+            0.8694
+          ]
+        },
+        {
+          "text": "à cet objet.",
+          "bbox_norm": [
+            0.1549,
+            0.8657,
+            0.2703,
+            0.881
+          ]
+        },
+        {
+          "text": "I",
+          "bbox_norm": [
+            0.1089,
+            0.899,
+            0.173,
+            0.9207
+          ]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "text": "- 2 -\nArticle Trois - DENOMINATION\nLa société a pOur dénOmination sociale : ETABLISSEMENTs DEDIEU.\nDans les documents de toute nature émanant de la société, la\ndénomination sociale sera précédée ou suivie des S A R L. et de\nl'énonciation du capital social.\nArticle Quatre - SIEGE SOCIAL\nA la constitution de la société, le siège social était fixé : 12,\nImpasse Descouloubre - 31200 TOULOUSE.\nX A compter du 2 janvier 2019, le siège social est fixé : 2, Rue\nHermès - ZA Ecoparc 1 - 31130 QUINT FONSEGRIVES.\nIl pourra être transféré en tout autre lieu en vertu d'une décision\nextraordinaire des associés.\nArticle Cing - DUREE\nI - La durée de la société a été fixée initialement à douze années\ncommençant à courir le quatre mars mil neuf cent cinquante pour se\nterrainer le trois mars mil neuf cent soixante-deux.\nII - Par acte reçu le premier avril mil neuf cent soixante-deux par\nMaître CAMPs, notaire à ToULoUSE, la société a été prorogée pour une\ndurée de douze années à compter du quatre mars mil neuf cent\nsoixante-deux.\nIII - décision des associés du vingt-trois janvier mil neuf cent\nsoixante-quatorze, la société a été prorogée pour une durée de\nsoixante années à compter du quatre mars mil neuf cent soixante-\nquatorze.\nDe sorte que la durée de la société qui a commencé le quatre mars\nmil neuf cent cinquante se terminera le trois mars deux mille\ntrente-quatre (soit au total 84 ans) sauf nouvelle prorogation n ou\ndissolution anticipée.\nArticle Six - EXERCICE SOCIAL\nL'exercice social commence le premier janvier et se termine le\ntrente-et-un décembre de chaque année.",
+      "lines": [
+        {
+          "text": "- 2 -",
+          "bbox_norm": [
+            0.8309,
+            0.0978,
+            0.8858,
+            0.1114
+          ]
+        },
+        {
+          "text": "Article Trois - DENOMINATION",
+          "bbox_norm": [
+            0.123,
+            0.1553,
+            0.4356,
+            0.1699
+          ]
+        },
+        {
+          "text": "La société a pOur dénOmination sociale : ETABLISSEMENTs DEDIEU.",
+          "bbox_norm": [
+            0.1214,
+            0.1847,
+            0.8176,
+            0.2027
+          ]
+        },
+        {
+          "text": "Dans les documents de toute nature émanant de la société, la",
+          "bbox_norm": [
+            0.121,
+            0.2143,
+            0.8846,
+            0.2329
+          ]
+        },
+        {
+          "text": "dénomination sociale sera précédée ou suivie des S A R L. et de",
+          "bbox_norm": [
+            0.1222,
+            0.2295,
+            0.8822,
+            0.2477
+          ]
+        },
+        {
+          "text": "l'énonciation du capital social.",
+          "bbox_norm": [
+            0.123,
+            0.2446,
+            0.4739,
+            0.2594
+          ]
+        },
+        {
+          "text": "Article Quatre - SIEGE SOCIAL",
+          "bbox_norm": [
+            0.121,
+            0.2885,
+            0.4433,
+            0.3047
+          ]
+        },
+        {
+          "text": "A la constitution de la société, le siège social était fixé : 12,",
+          "bbox_norm": [
+            0.1214,
+            0.3184,
+            0.8713,
+            0.3366
+          ]
+        },
+        {
+          "text": "Impasse Descouloubre - 31200 TOULOUSE.",
+          "bbox_norm": [
+            0.1577,
+            0.3346,
+            0.5752,
+            0.3497
+          ]
+        },
+        {
+          "text": "X",
+          "bbox_norm": [
+            0.1222,
+            0.3637,
+            0.1416,
+            0.3765
+          ]
+        },
+        {
+          "text": "A compter du 2 janvier 2019, le siège social est fixé : 2, Rue",
+          "bbox_norm": [
+            0.1521,
+            0.3634,
+            0.8817,
+            0.3814
+          ]
+        },
+        {
+          "text": "Hermès - ZA Ecoparc 1 - 31130 QUINT FONSEGRIVES.",
+          "bbox_norm": [
+            0.1561,
+            0.3788,
+            0.6845,
+            0.3951
+          ]
+        },
+        {
+          "text": "Il pourra être transféré en tout autre lieu en vertu d'une décision",
+          "bbox_norm": [
+            0.1202,
+            0.4082,
+            0.8801,
+            0.4253
+          ]
+        },
+        {
+          "text": "extraordinaire des associés.",
+          "bbox_norm": [
+            0.121,
+            0.4238,
+            0.428,
+            0.4372
+          ]
+        },
+        {
+          "text": "Article Cing - DUREE",
+          "bbox_norm": [
+            0.1182,
+            0.4675,
+            0.3441,
+            0.4831
+          ]
+        },
+        {
+          "text": "I - La durée de la société a été fixée initialement à douze années",
+          "bbox_norm": [
+            0.1186,
+            0.4971,
+            0.8781,
+            0.5142
+          ]
+        },
+        {
+          "text": "commençant à courir le quatre mars mil neuf cent cinquante pour se",
+          "bbox_norm": [
+            0.1186,
+            0.5116,
+            0.8809,
+            0.531
+          ]
+        },
+        {
+          "text": "terrainer le trois mars mil neuf cent soixante-deux.",
+          "bbox_norm": [
+            0.1186,
+            0.527,
+            0.6914,
+            0.543
+          ]
+        },
+        {
+          "text": "II - Par acte reçu le premier avril mil neuf cent soixante-deux par",
+          "bbox_norm": [
+            0.1174,
+            0.5558,
+            0.8789,
+            0.5755
+          ]
+        },
+        {
+          "text": "Maître CAMPs, notaire à ToULoUSE, la société a été prorogée pour une",
+          "bbox_norm": [
+            0.1174,
+            0.5715,
+            0.8781,
+            0.5895
+          ]
+        },
+        {
+          "text": "durée de douze années à compter du quatre mars mil neuf cent",
+          "bbox_norm": [
+            0.1182,
+            0.5866,
+            0.8781,
+            0.6043
+          ]
+        },
+        {
+          "text": "soixante-deux.",
+          "bbox_norm": [
+            0.1186,
+            0.6017,
+            0.2719,
+            0.6148
+          ]
+        },
+        {
+          "text": "III - décision des associés du vingt-trois janvier mil neuf cent",
+          "bbox_norm": [
+            0.1174,
+            0.6311,
+            0.8773,
+            0.6482
+          ]
+        },
+        {
+          "text": "soixante-quatorze, la société a été prorogée pour une durée de",
+          "bbox_norm": [
+            0.1182,
+            0.6462,
+            0.8773,
+            0.6633
+          ]
+        },
+        {
+          "text": "soixante années à compter du quatre mars mil neuf cent soixante-",
+          "bbox_norm": [
+            0.1174,
+            0.6613,
+            0.8769,
+            0.6784
+          ]
+        },
+        {
+          "text": "quatorze.",
+          "bbox_norm": [
+            0.1182,
+            0.6772,
+            0.2162,
+            0.6892
+          ]
+        },
+        {
+          "text": "De sorte que la durée de la société qui a commencé le quatre mars",
+          "bbox_norm": [
+            0.1146,
+            0.7046,
+            0.8773,
+            0.7234
+          ]
+        },
+        {
+          "text": "mil neuf cent cinquante se terminera le trois mars deux mille",
+          "bbox_norm": [
+            0.1146,
+            0.7189,
+            0.8769,
+            0.738
+          ]
+        },
+        {
+          "text": "trente-quatre (soit au total 84 ans) sauf nouvelle prorogation",
+          "bbox_norm": [
+            0.1162,
+            0.7351,
+            0.8051,
+            0.7516
+          ]
+        },
+        {
+          "text": "n ou",
+          "bbox_norm": [
+            0.7962,
+            0.7402,
+            0.8515,
+            0.7522
+          ]
+        },
+        {
+          "text": "dissolution anticipée.",
+          "bbox_norm": [
+            0.1174,
+            0.7496,
+            0.3578,
+            0.7633
+          ]
+        },
+        {
+          "text": "Article Six - EXERCICE SOCIAL",
+          "bbox_norm": [
+            0.1146,
+            0.7935,
+            0.4376,
+            0.8084
+          ]
+        },
+        {
+          "text": "L'exercice social commence le premier janvier et se termine le",
+          "bbox_norm": [
+            0.1146,
+            0.8229,
+            0.8761,
+            0.8411
+          ]
+        },
+        {
+          "text": "trente-et-un décembre de chaque année.",
+          "bbox_norm": [
+            0.1158,
+            0.8386,
+            0.5328,
+            0.8537
+          ]
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "text": "- 3 -\nArticle Sept - APPORTS\nLors da la constitution de la société, il a été effectué les apports\nsuivants d'un montant global de QUARANTE MILLE francs :\n1) En nature\n- Par Monsieur François DEDIEU et son épouse née Hortense LAFFoNT,\nconjointement et solidairement :\nDu matériel et des marchandises fabriquées ou en cours de fabri-\ncation, d'un montant de trois millions huit cent quatre vingt mille\nanciens franCs, Soit TRENTE HUIT MILLE HUIT CENT FRANCS, ci........ 38 800\n2) En espéces\n- Par Monsieur Paul LAFFONT :\nUne somme de cent quinze mille anciens francs, soit\nMILLE CENT CINQUANTE FRANCS, ci.... 1 150\n- Par Monsieur Jean LAFFONT :\nUne somme de cinq mille anciens francs, soit\nCINQUANTE FRANCS. ci.... 50\nArticle Sept bis - CAPITAL SOCIAL\nLe capital social fixé à l'origine à la somme de QUARANTE MILLE francs, puis\nporté à la somme de QUATRE VINGT MILLE francs, aux termes d'une assemblée\ngénérale extraordinaire du ll fevrier 1974 puis fixé à CENT DIX MILLE francs\naux termes d'une assemblée générale extraordinaire du 30 mai 1979, puis porté\naux termes d'une assemblée générale extraordinaire du lo décembre l98l à la\nSomme de DEUX CENT TRENTE MILLE DEUX CENT francs a ëté augmenté d'une SOmme\nde SOIXANTE DIX MILLE francs pOur être porté à la sOmme de TROIS CENT MILLE\nDEUX CENT francs, le 4 novembre 1985.\nIl est divisé en TROIS MILLE DEUX parts da CENT francs chacune\nnumérotées de l a 3002 et appartenant aux associés en raison des souscriptions\nou des cessions de parts intervenues et notifiées à la société, à savoir :\n- Madame Hortense DEDIEU\nCINQ CENT TREIZE PartS 513\nportant les numéros l à 388 et 40l à 525\nMonsieur Paul LAFFONT\nNEUF CENT QUATRE VINGT HUIT Parts 988\nportant 1es numéros 389 à 399, 526 à 650,\n1101 a 1602 et 2303 à 2652\nMonsieut Jean LAFFONT\nUNE part 1\nportant le numéro 400\nMonsieur Daniel LAFFONT\nMILLE QUATRE CENT parts 1400\nportant les numéros 651 a l100, 1603 à 2202,\n2653 à 3002\nMadame Marie Martine LAFFONT\nCENT parts 100\nportant les numéros 2203 a 2302\n3002",
+      "lines": [
+        {
+          "text": "- 3 -",
+          "bbox_norm": [
+            0.7724,
+            0.0946,
+            0.8265,
+            0.1083
+          ]
+        },
+        {
+          "text": "Article Sept - APPORTS",
+          "bbox_norm": [
+            0.1561,
+            0.1556,
+            0.3626,
+            0.1705
+          ]
+        },
+        {
+          "text": "Lors da la constitution de la société, il a été effectué les apports",
+          "bbox_norm": [
+            0.1557,
+            0.1821,
+            0.7849,
+            0.1978
+          ]
+        },
+        {
+          "text": "suivants d'un montant global de QUARANTE MILLE francs :",
+          "bbox_norm": [
+            0.1569,
+            0.1958,
+            0.6627,
+            0.2115
+          ]
+        },
+        {
+          "text": "1) En nature",
+          "bbox_norm": [
+            0.1569,
+            0.2149,
+            0.2703,
+            0.2297
+          ]
+        },
+        {
+          "text": "- Par Monsieur François DEDIEU et son épouse née Hortense LAFFoNT,",
+          "bbox_norm": [
+            0.1839,
+            0.2354,
+            0.7926,
+            0.2514
+          ]
+        },
+        {
+          "text": "conjointement et solidairement :",
+          "bbox_norm": [
+            0.2029,
+            0.25,
+            0.4982,
+            0.2634
+          ]
+        },
+        {
+          "text": "Du matériel et des marchandises fabriquées ou en cours de fabri-",
+          "bbox_norm": [
+            0.2009,
+            0.2628,
+            0.7946,
+            0.2779
+          ]
+        },
+        {
+          "text": "cation, d'un montant de trois millions huit cent quatre vingt mille",
+          "bbox_norm": [
+            0.2013,
+            0.2759,
+            0.8233,
+            0.2916
+          ]
+        },
+        {
+          "text": "anciens franCs, Soit TRENTE HUIT MILLE HUIT CENT FRANCS, ci........",
+          "bbox_norm": [
+            0.2021,
+            0.289,
+            0.8204,
+            0.3053
+          ]
+        },
+        {
+          "text": "38 800",
+          "bbox_norm": [
+            0.8487,
+            0.2905,
+            0.9088,
+            0.3053
+          ]
+        },
+        {
+          "text": "2) En espéces",
+          "bbox_norm": [
+            0.1553,
+            0.315,
+            0.2795,
+            0.3304
+          ]
+        },
+        {
+          "text": "- Par Monsieur Paul LAFFONT :",
+          "bbox_norm": [
+            0.1835,
+            0.3361,
+            0.4518,
+            0.3492
+          ]
+        },
+        {
+          "text": "Une somme de cent quinze mille anciens francs, soit",
+          "bbox_norm": [
+            0.2009,
+            0.3486,
+            0.672,
+            0.3643
+          ]
+        },
+        {
+          "text": "MILLE CENT CINQUANTE FRANCS, ci....",
+          "bbox_norm": [
+            0.2013,
+            0.3617,
+            0.5232,
+            0.3771
+          ]
+        },
+        {
+          "text": "1 150",
+          "bbox_norm": [
+            0.8567,
+            0.3623,
+            0.9088,
+            0.3782
+          ]
+        },
+        {
+          "text": "- Par Monsieur Jean LAFFONT :",
+          "bbox_norm": [
+            0.1839,
+            0.3888,
+            0.451,
+            0.4019
+          ]
+        },
+        {
+          "text": "Une somme de cinq mille anciens francs, soit",
+          "bbox_norm": [
+            0.2001,
+            0.4025,
+            0.6175,
+            0.4176
+          ]
+        },
+        {
+          "text": "CINQUANTE FRANCS. ci....",
+          "bbox_norm": [
+            0.2009,
+            0.4164,
+            0.4272,
+            0.4293
+          ]
+        },
+        {
+          "text": "50",
+          "bbox_norm": [
+            0.8842,
+            0.4176,
+            0.9088,
+            0.4318
+          ]
+        },
+        {
+          "text": "Article Sept bis - CAPITAL SOCIAL",
+          "bbox_norm": [
+            0.1557,
+            0.4697,
+            0.4744,
+            0.484
+          ]
+        },
+        {
+          "text": "Le capital social fixé à l'origine à la somme de QUARANTE MILLE francs, puis",
+          "bbox_norm": [
+            0.1541,
+            0.4962,
+            0.8608,
+            0.5114
+          ]
+        },
+        {
+          "text": "porté à la somme de QUATRE VINGT MILLE francs, aux termes d'une assemblée",
+          "bbox_norm": [
+            0.1549,
+            0.5099,
+            0.8329,
+            0.5245
+          ]
+        },
+        {
+          "text": "générale extraordinaire du ll fevrier 1974 puis fixé à CENT DIX MILLE francs",
+          "bbox_norm": [
+            0.1557,
+            0.523,
+            0.8608,
+            0.5373
+          ]
+        },
+        {
+          "text": "aux termes d'une assemblée générale extraordinaire du 30 mai 1979, puis porté",
+          "bbox_norm": [
+            0.1549,
+            0.5367,
+            0.8705,
+            0.5513
+          ]
+        },
+        {
+          "text": "aux termes d'une assemblée générale extraordinaire du lo décembre l98l à la",
+          "bbox_norm": [
+            0.1549,
+            0.5498,
+            0.8523,
+            0.5641
+          ]
+        },
+        {
+          "text": "Somme de DEUX CENT TRENTE MILLE DEUX CENT francs a ëté augmenté d'une SOmme",
+          "bbox_norm": [
+            0.1549,
+            0.5635,
+            0.8523,
+            0.5778
+          ]
+        },
+        {
+          "text": "de SOIXANTE DIX MILLE francs pOur être porté à la sOmme de TROIS CENT MILLE",
+          "bbox_norm": [
+            0.1537,
+            0.5758,
+            0.8531,
+            0.5923
+          ]
+        },
+        {
+          "text": "DEUX CENT francs, le 4 novembre 1985.",
+          "bbox_norm": [
+            0.1549,
+            0.59,
+            0.4973,
+            0.6046
+          ]
+        },
+        {
+          "text": "Il est divisé en TROIS MILLE DEUX parts da CENT francs chacune",
+          "bbox_norm": [
+            0.2097,
+            0.61,
+            0.7849,
+            0.6245
+          ]
+        },
+        {
+          "text": "numérotées de l a 3002 et appartenant aux associés en raison des souscriptions",
+          "bbox_norm": [
+            0.1549,
+            0.6231,
+            0.8789,
+            0.6388
+          ]
+        },
+        {
+          "text": "ou des cessions de parts intervenues et notifiées à la société, à savoir :",
+          "bbox_norm": [
+            0.1541,
+            0.6362,
+            0.8426,
+            0.6524
+          ]
+        },
+        {
+          "text": "- Madame Hortense DEDIEU",
+          "bbox_norm": [
+            0.1916,
+            0.6567,
+            0.4167,
+            0.6695
+          ]
+        },
+        {
+          "text": "CINQ CENT TREIZE PartS",
+          "bbox_norm": [
+            0.2106,
+            0.6704,
+            0.4167,
+            0.6852
+          ]
+        },
+        {
+          "text": "513",
+          "bbox_norm": [
+            0.7628,
+            0.6704,
+            0.7983,
+            0.6858
+          ]
+        },
+        {
+          "text": "portant les numéros l à 388 et 40l à 525",
+          "bbox_norm": [
+            0.2097,
+            0.6841,
+            0.5816,
+            0.6978
+          ]
+        },
+        {
+          "text": "Monsieur Paul LAFFONT",
+          "bbox_norm": [
+            0.1916,
+            0.7046,
+            0.3896,
+            0.7169
+          ]
+        },
+        {
+          "text": "NEUF CENT QUATRE VINGT HUIT Parts",
+          "bbox_norm": [
+            0.2097,
+            0.718,
+            0.5215,
+            0.732
+          ]
+        },
+        {
+          "text": "988",
+          "bbox_norm": [
+            0.7624,
+            0.7163,
+            0.7991,
+            0.7328
+          ]
+        },
+        {
+          "text": "portant 1es numéros 389 à 399, 526 à 650,",
+          "bbox_norm": [
+            0.2097,
+            0.7317,
+            0.5897,
+            0.7454
+          ]
+        },
+        {
+          "text": "1101 a 1602 et 2303 à 2652",
+          "bbox_norm": [
+            0.2126,
+            0.7454,
+            0.4538,
+            0.7565
+          ]
+        },
+        {
+          "text": "Monsieut Jean LAFFONT",
+          "bbox_norm": [
+            0.1912,
+            0.7642,
+            0.3905,
+            0.777
+          ]
+        },
+        {
+          "text": "UNE part",
+          "bbox_norm": [
+            0.2089,
+            0.7773,
+            0.2884,
+            0.7921
+          ]
+        },
+        {
+          "text": "1",
+          "bbox_norm": [
+            0.7821,
+            0.7779,
+            0.7966,
+            0.7907
+          ]
+        },
+        {
+          "text": "portant le numéro 400",
+          "bbox_norm": [
+            0.2106,
+            0.7927,
+            0.4078,
+            0.8044
+          ]
+        },
+        {
+          "text": "Monsieur Daniel LAFFONT",
+          "bbox_norm": [
+            0.1916,
+            0.8121,
+            0.4078,
+            0.8238
+          ]
+        },
+        {
+          "text": "MILLE QUATRE CENT parts",
+          "bbox_norm": [
+            0.2097,
+            0.8249,
+            0.4272,
+            0.8394
+          ]
+        },
+        {
+          "text": "1400",
+          "bbox_norm": [
+            0.764,
+            0.8249,
+            0.8071,
+            0.8391
+          ]
+        },
+        {
+          "text": "portant les numéros 651 a l100, 1603 à 2202,",
+          "bbox_norm": [
+            0.2097,
+            0.8386,
+            0.6184,
+            0.8523
+          ]
+        },
+        {
+          "text": "2653 à 3002",
+          "bbox_norm": [
+            0.211,
+            0.8517,
+            0.3162,
+            0.8651
+          ]
+        },
+        {
+          "text": "Madame Marie Martine LAFFONT",
+          "bbox_norm": [
+            0.1904,
+            0.8702,
+            0.455,
+            0.885
+          ]
+        },
+        {
+          "text": "CENT parts",
+          "bbox_norm": [
+            0.2097,
+            0.8848,
+            0.3078,
+            0.8996
+          ]
+        },
+        {
+          "text": "100",
+          "bbox_norm": [
+            0.7728,
+            0.8802,
+            0.8083,
+            0.8973
+          ]
+        },
+        {
+          "text": "portant les numéros 2203 a 2302",
+          "bbox_norm": [
+            0.211,
+            0.8976,
+            0.501,
+            0.9144
+          ]
+        },
+        {
+          "text": "3002",
+          "bbox_norm": [
+            0.7652,
+            0.919,
+            0.8083,
+            0.9355
+          ]
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "text": "- 4 -•\n1\nTOTAL EGAL AU NOMBRE DE PARTS COMPOSANT LE CAPITAL SOCIAL\nTROIS MILLE DEUX, Ci.. 3002\nConformêment à 1'article 423 de la loi du 24 juillet 1966 les soussignês\ndéclarent expressément que les TRoIS MILLE DEUX parts créées sont intégralement\nlibérées et réparties entre les associés dans les proportions indiquées ci-dessus\nArticle Huit - PARTS SOCIALES\nChaque part sociale donne droit a la même somme nette dans la répartition\ndes bénéfices et produits au cours de la société et dans la répartition de\nl'actif social lors de la liquidation.\nLes parts sont indivisibles et la société ne reconnait qu'un seul propriétaire\npour chacunes d'elles. Ces co-propriétaires indivis sont tenus de désigner l'un\nd'entre eux pour les représenter. A défaut l'indivisaire le plus diligent\nfera désigner par justice un mandataire chargé de les représenter.\nAu cas d'usufruit, le droit de vote attaché à la part appartient à l'usufruitier .\ns'il est créé des parts nouvelles par incorporation des bénêfices ou réserves,\nelles seront soumises a I'usufruit dans les mêmes conditions que les parts an-\nciennes correspondantes.",
+      "lines": [
+        {
+          "text": "- 4",
+          "bbox_norm": [
+            0.7628,
+            0.1075,
+            0.7995,
+            0.1177
+          ]
+        },
+        {
+          "text": "-•",
+          "bbox_norm": [
+            0.7954,
+            0.1103,
+            0.8099,
+            0.1163
+          ]
+        },
+        {
+          "text": "1",
+          "bbox_norm": [
+            0.7656,
+            0.1616,
+            0.7712,
+            0.1665
+          ]
+        },
+        {
+          "text": "TOTAL EGAL AU NOMBRE DE PARTS COMPOSANT LE CAPITAL SOCIAL",
+          "bbox_norm": [
+            0.1674,
+            0.1895,
+            0.6926,
+            0.2021
+          ]
+        },
+        {
+          "text": "TROIS MILLE DEUX, Ci..",
+          "bbox_norm": [
+            0.1666,
+            0.2041,
+            0.3739,
+            0.2155
+          ]
+        },
+        {
+          "text": "3002",
+          "bbox_norm": [
+            0.8216,
+            0.2018,
+            0.8616,
+            0.2149
+          ]
+        },
+        {
+          "text": "Conformêment à 1'article 423 de la loi du 24 juillet 1966 les soussignês",
+          "bbox_norm": [
+            0.1662,
+            0.2218,
+            0.8337,
+            0.2354
+          ]
+        },
+        {
+          "text": "déclarent expressément que les TRoIS MILLE DEUX parts créées sont intégralement",
+          "bbox_norm": [
+            0.1666,
+            0.2354,
+            0.8963,
+            0.2497
+          ]
+        },
+        {
+          "text": "libérées et réparties entre les associés dans les proportions indiquées ci-dessus",
+          "bbox_norm": [
+            0.1674,
+            0.2491,
+            0.9164,
+            0.2628
+          ]
+        },
+        {
+          "text": "Article Huit - PARTS SOCIALES",
+          "bbox_norm": [
+            0.1617,
+            0.3178,
+            0.4328,
+            0.3326
+          ]
+        },
+        {
+          "text": "Chaque part sociale donne droit a la même somme nette dans la répartition",
+          "bbox_norm": [
+            0.1609,
+            0.3449,
+            0.8394,
+            0.36
+          ]
+        },
+        {
+          "text": "des bénéfices et produits au cours de la société et dans la répartition de",
+          "bbox_norm": [
+            0.1605,
+            0.3574,
+            0.8483,
+            0.3743
+          ]
+        },
+        {
+          "text": "l'actif social lors de la liquidation.",
+          "bbox_norm": [
+            0.1617,
+            0.3703,
+            0.5119,
+            0.3862
+          ]
+        },
+        {
+          "text": "Les parts sont indivisibles et la société ne reconnait qu'un seul propriétaire",
+          "bbox_norm": [
+            0.1605,
+            0.3979,
+            0.883,
+            0.4136
+          ]
+        },
+        {
+          "text": "pour chacunes d'elles. Ces co-propriétaires indivis sont tenus de désigner l'un",
+          "bbox_norm": [
+            0.1609,
+            0.4116,
+            0.8926,
+            0.4278
+          ]
+        },
+        {
+          "text": "d'entre eux pour les représenter. A défaut l'indivisaire le plus diligent",
+          "bbox_norm": [
+            0.1597,
+            0.4244,
+            0.8386,
+            0.4415
+          ]
+        },
+        {
+          "text": "fera désigner par justice un mandataire chargé de les représenter.",
+          "bbox_norm": [
+            0.1597,
+            0.4381,
+            0.7712,
+            0.4552
+          ]
+        },
+        {
+          "text": "Au cas d'usufruit, le droit de vote attaché à la part appartient à l'usufruitier .",
+          "bbox_norm": [
+            0.1597,
+            0.4643,
+            0.91,
+            0.4811
+          ]
+        },
+        {
+          "text": "s'il est créé des parts nouvelles par incorporation des bénêfices ou réserves,",
+          "bbox_norm": [
+            0.1597,
+            0.4897,
+            0.8822,
+            0.5085
+          ]
+        },
+        {
+          "text": "elles seront soumises a I'usufruit dans les mêmes conditions que les parts an-",
+          "bbox_norm": [
+            0.1609,
+            0.5045,
+            0.8842,
+            0.5208
+          ]
+        },
+        {
+          "text": "ciennes correspondantes.",
+          "bbox_norm": [
+            0.1609,
+            0.5182,
+            0.3836,
+            0.5333
+          ]
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "text": "5 -\nArtiCIe NeuF - CESSION ET TRANSMISSIONS DES PARTS\nLes parts sociales sont librenent cessibles entre associés.\nLa trensnission des parts à toute autre personne qu'un associé est soumise\ncux conditions d'agrément ci-sprès définies.\na) Transnission par décès\nI - Toute transmission de parts socisles par voie de succession ou legs à\ntoute personre autre qu'un associé, ne pourra avoir lieu qu'avec le consen-\ntement de lo mejorité des associés représentant au moins les trois quarts\ndu capital, étant précisé que poùr lo calcul de cetce majorité, les héri-\ntiers et représentants du défunt compteront pour un associé et qu'ils auront\nle droit de vote, per un tusndstaire commun, avec le nombre de parts détenues\npar le défunt.\nII - A l'effet d'obtenir ce consentenent, les héritiers ,. légatoires et re-\nprésentants du défunt devront présenter leur demande d'agrénent à ls société\noccompagnée de toutes indications et justifications utilas sur leur étet ci-\nvil et leurs qualités.\nIII - Dens las quinze jours suivont cette demande d'agrément, le gérence doit\ninviter lo collectivité des associac à stetuer sous l'uue des formes prévues\nà l'article l3 ci-après, sur ladite denonde. La décision des assocics n'est\npas motivée, elle est imédiatement notifiée oux héritiers et représentonts\ndu défunt intéressos.\nSi la géronce na leur a pes fait connoitre la décision de la société dans le\ndélai de trois mois à dater de lavr damande, leur agrécient corme associés nou-\nveaux sera rúputé acquis.\n,\nIV - Si l: collectivité dus sssocics e refusé d'egréer les héritiers et re-\nprésentants du defunt conme nssocico nouveoux, les associés seront tenus\ndans le délai de trois mois è conpter de ce refus, d'ecquérir ou de faire\nacquérit la totalité des parts en inotance de mutetion è un prix fixé par\nvoie d'expertisc dans les conditions prévues à l'article l 868, alinéa 5 du\nCode Civil.\nA la demande de lo gérence, ce délai pc irra etre prorogé unz seule fois par\ndécision de justice sans que crtte prolongation puisse excéder trois nois.\nLe sociéte peut égalcnent dans le mêne délai par décision extraordinaire des\nossociés, réduire son capitol du montaut de le valeur nominale des parts en\ninstance de nutation et recheter cas perts dans los conditions prévues ci-\ndessus.\nSi à l'expiration du délai inparti sucune deo solutions de rachst prévues ci-\ndassus a'est inturvenuc l'agréuent est réputé acquis.\nS",
+      "lines": [
+        {
+          "text": "5 -",
+          "bbox_norm": [
+            0.8059,
+            0.1431,
+            0.8386,
+            0.1559
+          ]
+        },
+        {
+          "text": "ArtiCIe NeuF - CESSION ET TRANSMISSIONS DES PARTS",
+          "bbox_norm": [
+            0.1666,
+            0.1821,
+            0.624,
+            0.197
+          ]
+        },
+        {
+          "text": "Les parts sociales sont librenent cessibles entre associés.",
+          "bbox_norm": [
+            0.1674,
+            0.2095,
+            0.7127,
+            0.2246
+          ]
+        },
+        {
+          "text": "La trensnission des parts à toute autre personne qu'un associé est soumise",
+          "bbox_norm": [
+            0.1662,
+            0.2363,
+            0.8579,
+            0.2525
+          ]
+        },
+        {
+          "text": "cux conditions d'agrément ci-sprès définies.",
+          "bbox_norm": [
+            0.1662,
+            0.2505,
+            0.574,
+            0.2648
+          ]
+        },
+        {
+          "text": "a) Transnission par décès",
+          "bbox_norm": [
+            0.2134,
+            0.2768,
+            0.4489,
+            0.291
+          ]
+        },
+        {
+          "text": "I - Toute transmission de parts socisles par voie de succession ou legs à",
+          "bbox_norm": [
+            0.1662,
+            0.3033,
+            0.8491,
+            0.3184
+          ]
+        },
+        {
+          "text": "toute personre autre qu'un associé, ne pourra avoir lieu qu'avec le consen-",
+          "bbox_norm": [
+            0.1674,
+            0.3178,
+            0.8571,
+            0.3312
+          ]
+        },
+        {
+          "text": "tement de lo mejorité des associés représentant au moins les trois quarts",
+          "bbox_norm": [
+            0.1666,
+            0.3301,
+            0.8491,
+            0.3457
+          ]
+        },
+        {
+          "text": "du capital, étant précisé que poùr lo calcul de cetce majorité, les héri-",
+          "bbox_norm": [
+            0.1666,
+            0.3438,
+            0.8483,
+            0.3586
+          ]
+        },
+        {
+          "text": "tiers et représentants du défunt compteront pour un associé et qu'ils auront",
+          "bbox_norm": [
+            0.1666,
+            0.3574,
+            0.8753,
+            0.3725
+          ]
+        },
+        {
+          "text": "le droit de vote, per un tusndstaire commun, avec le nombre de parts détenues",
+          "bbox_norm": [
+            0.1654,
+            0.3703,
+            0.8769,
+            0.3868
+          ]
+        },
+        {
+          "text": "par le défunt.",
+          "bbox_norm": [
+            0.1674,
+            0.3854,
+            0.2961,
+            0.3971
+          ]
+        },
+        {
+          "text": "II - A l'effet d'obtenir ce consentenent, les héritiers ,. légatoires et re-",
+          "bbox_norm": [
+            0.1662,
+            0.4102,
+            0.8753,
+            0.4264
+          ]
+        },
+        {
+          "text": "présentants du défunt devront présenter leur demande d'agrénent à ls société",
+          "bbox_norm": [
+            0.1674,
+            0.4253,
+            0.8745,
+            0.4387
+          ]
+        },
+        {
+          "text": "occompagnée de toutes indications et justifications utilas sur leur étet ci-",
+          "bbox_norm": [
+            0.1666,
+            0.4387,
+            0.8753,
+            0.4526
+          ]
+        },
+        {
+          "text": "vil et leurs qualités.",
+          "bbox_norm": [
+            0.1666,
+            0.4521,
+            0.3715,
+            0.4655
+          ]
+        },
+        {
+          "text": "III - Dens las quinze jours suivont cette demande d'agrément, le gérence doit",
+          "bbox_norm": [
+            0.1666,
+            0.4791,
+            0.885,
+            0.4937
+          ]
+        },
+        {
+          "text": "inviter lo collectivité des associac à stetuer sous l'uue des formes prévues",
+          "bbox_norm": [
+            0.1674,
+            0.4928,
+            0.8753,
+            0.5065
+          ]
+        },
+        {
+          "text": "à l'article l3 ci-après, sur ladite denonde. La décision des assocics n'est",
+          "bbox_norm": [
+            0.1662,
+            0.5059,
+            0.8676,
+            0.5208
+          ]
+        },
+        {
+          "text": "pas motivée, elle est imédiatement notifiée oux héritiers et représentonts",
+          "bbox_norm": [
+            0.1666,
+            0.5205,
+            0.8664,
+            0.5333
+          ]
+        },
+        {
+          "text": "du défunt intéressos.",
+          "bbox_norm": [
+            0.1674,
+            0.5333,
+            0.3614,
+            0.5461
+          ]
+        },
+        {
+          "text": "Si la géronce na leur a pes fait connoitre la décision de la société dans le",
+          "bbox_norm": [
+            0.1662,
+            0.5595,
+            0.8765,
+            0.5743
+          ]
+        },
+        {
+          "text": "délai de trois mois à dater de lavr damande, leur agrécient corme associés nou-",
+          "bbox_norm": [
+            0.1674,
+            0.5732,
+            0.8947,
+            0.5872
+          ]
+        },
+        {
+          "text": "veaux sera rúputé acquis.",
+          "bbox_norm": [
+            0.1666,
+            0.5875,
+            0.3993,
+            0.6003
+          ]
+        },
+        {
+          "text": ",",
+          "bbox_norm": [
+            0.6704,
+            0.6051,
+            0.676,
+            0.61
+          ]
+        },
+        {
+          "text": "IV - Si l: collectivité dus sssocics e refusé d'egréer les héritiers et re-",
+          "bbox_norm": [
+            0.1666,
+            0.6128,
+            0.8676,
+            0.6279
+          ]
+        },
+        {
+          "text": "présentants du defunt conme nssocico nouveoux, les associés seront tenus",
+          "bbox_norm": [
+            0.1666,
+            0.6271,
+            0.8503,
+            0.6416
+          ]
+        },
+        {
+          "text": "dans le délai de trois mois è conpter de ce refus, d'ecquérir ou de faire",
+          "bbox_norm": [
+            0.1662,
+            0.6402,
+            0.8503,
+            0.6553
+          ]
+        },
+        {
+          "text": "acquérit la totalité des parts en inotance de mutetion è un prix fixé par",
+          "bbox_norm": [
+            0.1666,
+            0.6544,
+            0.8511,
+            0.6687
+          ]
+        },
+        {
+          "text": "voie d'expertisc dans les conditions prévues à l'article l 868, alinéa 5 du",
+          "bbox_norm": [
+            0.1662,
+            0.6681,
+            0.8684,
+            0.6818
+          ]
+        },
+        {
+          "text": "Code Civil.",
+          "bbox_norm": [
+            0.1666,
+            0.6812,
+            0.2703,
+            0.6946
+          ]
+        },
+        {
+          "text": "A la demande de lo gérence, ce délai pc irra etre prorogé unz seule fois par",
+          "bbox_norm": [
+            0.1666,
+            0.7086,
+            0.8692,
+            0.7229
+          ]
+        },
+        {
+          "text": "décision de justice sans que crtte prolongation puisse excéder trois nois.",
+          "bbox_norm": [
+            0.1674,
+            0.7223,
+            0.8571,
+            0.736
+          ]
+        },
+        {
+          "text": "Le sociéte peut égalcnent dans le mêne délai par décision extraordinaire des",
+          "bbox_norm": [
+            0.1666,
+            0.7491,
+            0.8765,
+            0.7613
+          ]
+        },
+        {
+          "text": "ossociés, réduire son capitol du montaut de le valeur nominale des parts en",
+          "bbox_norm": [
+            0.1674,
+            0.7628,
+            0.8692,
+            0.7756
+          ]
+        },
+        {
+          "text": "instance de nutation et recheter cas perts dans los conditions prévues ci-",
+          "bbox_norm": [
+            0.1682,
+            0.7756,
+            0.86,
+            0.7898
+          ]
+        },
+        {
+          "text": "dessus.",
+          "bbox_norm": [
+            0.1674,
+            0.789,
+            0.2352,
+            0.8029
+          ]
+        },
+        {
+          "text": "Si à l'expiration du délai inparti sucune deo solutions de rachst prévues ci-",
+          "bbox_norm": [
+            0.1674,
+            0.8155,
+            0.8878,
+            0.8292
+          ]
+        },
+        {
+          "text": "dassus a'est inturvenuc l'agréuent est réputé acquis.",
+          "bbox_norm": [
+            0.1694,
+            0.8303,
+            0.6607,
+            0.8429
+          ]
+        },
+        {
+          "text": "S",
+          "bbox_norm": [
+            0.1263,
+            0.8463,
+            0.2416,
+            0.8742
+          ]
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "text": "- 6 -\nb) Dissolution de cormureuté ertre époux\nI - En cas da liquidetion por suite de décés, divorce, séparation de corpo,\nséparation judicioire de biens ou chcngeuent de régime ciatrimonisl, de la\ncormunauté légale ou conventionneller. - de biens cyant existé entra un2\npersoune associce et oou conjoint, l'attribution de parts cormunes à l'é-\npoux ou ex-époux qui ne posséczit pao la qualité d'ascocié doit être sou-\nmise au consentement de lc asjorité des essociéo représentont au noins les\ntrois quarts du copitsl sociel.\nII - Le partage ect notifié, er cas de décès, par le conjoint survivent et\ndens les autres cos par l'époux ou ex-époux la plus diligent. Le notifica-\ntion est faite par acte extrsjudicieira ou psr lettre recomniandée zvec de-\nLiande d'avis de réception è la société et à chacun des associés, sans prc-\njudice du droit pour l: gécsnce de requérir toute pièce justificative\n(acte de notoriété, acte de liquidation, etc.).\nIII - Si lc société consent à l'attribution, notification en est faite\naussitêt pcr le géront 2 l'épcux ou ex-époux egréé. Le consentement eot,\nen Outze, réputé acquis si le société n'a pas fait connaitre sa décision\ndans le délsi de trois nois à dater de la notificstion stipulée à l'ali-\nnca précédent.\nIV - Si la sociáté ne consent pas à l'attributicn, ls gérence en avisa\naussitêt l'époux ou l'ex-époux non ngréé. La décision n'est pac motivée.\nLa gérance evise, d'eutre pcrt, les associés p:r lattre recommandée avec\navis de réception, de l'csligotion cui leur est foite par la loi d'ac-\nquérir ou de faira ocquérir ou encorc de faice rrcheter par la société\nles parts dont l'attributicn itait projerée en faveur de l'époux ou ex-\népoux consiceré.\n:\nV - En ce qui concerne la procédure è suivre pour cos ruchets ou ces\nachats, corme pour la fixation et le règlenent du prix, il est procédé\nà l'égard de l'époux ou ex-cpoux non agrác comme il eot procidé en cos\nd2 transnission par décès souc le peragrephe (a)ci-dessus.\nSi a l'expiration du délai de trois mois ou du délai supplémentsile\néventuellenent accordé par justice vour rueliscr l'echet ou le rachat\ndes parts considérées, aucune des deux solutions d'ach:t ou de rachat\nn'est intervenue, l'attribution desditcs perte peut être réalisée con-\nforménent au partege qui avsit été notifié à la société et ce, même si\nl'époux ou ex-époux qui avsit la qualité d'associé possèdait les parts\nen cause depuis moino de deux ans.\nLe déloi de trois mois, éventuelioment prolongé por justice, inparti\npour la rúolisotion de cès zchets ou de ce rachat, court du jour de la\ndécision collective portent refus d'agrément.",
+      "lines": [
+        {
+          "text": "- 6 -",
+          "bbox_norm": [
+            0.7817,
+            0.1437,
+            0.8317,
+            0.1559
+          ]
+        },
+        {
+          "text": "b) Dissolution de cormureuté ertre époux",
+          "bbox_norm": [
+            0.2404,
+            0.1827,
+            0.6143,
+            0.197
+          ]
+        },
+        {
+          "text": "I - En cas da liquidetion por suite de décés, divorce, séparation de corpo,",
+          "bbox_norm": [
+            0.1932,
+            0.2095,
+            0.8934,
+            0.2238
+          ]
+        },
+        {
+          "text": "séparation judicioire de biens ou chcngeuent de régime ciatrimonisl, de la",
+          "bbox_norm": [
+            0.196,
+            0.2246,
+            0.8773,
+            0.2363
+          ]
+        },
+        {
+          "text": "cormunauté légale ou conventionneller. - de biens cyant existé entra un2",
+          "bbox_norm": [
+            0.1944,
+            0.2383,
+            0.8688,
+            0.25
+          ]
+        },
+        {
+          "text": "persoune associce et oou conjoint, l'attribution de parts cormunes à l'é-",
+          "bbox_norm": [
+            0.1936,
+            0.25,
+            0.8773,
+            0.2648
+          ]
+        },
+        {
+          "text": "poux ou ex-époux qui ne posséczit pao la qualité d'ascocié doit être sou-",
+          "bbox_norm": [
+            0.1936,
+            0.2637,
+            0.8781,
+            0.2779
+          ]
+        },
+        {
+          "text": "mise au consentement de lc asjorité des essociéo représentont au noins les",
+          "bbox_norm": [
+            0.1936,
+            0.2785,
+            0.8858,
+            0.2902
+          ]
+        },
+        {
+          "text": "trois quarts du copitsl sociel.",
+          "bbox_norm": [
+            0.1952,
+            0.2916,
+            0.4816,
+            0.3033
+          ]
+        },
+        {
+          "text": "II - Le partage ect notifié, er cas de décès, par le conjoint survivent et",
+          "bbox_norm": [
+            0.1952,
+            0.319,
+            0.8866,
+            0.3306
+          ]
+        },
+        {
+          "text": "dens les autres cos par l'époux ou ex-époux la plus diligent. Le notifica-",
+          "bbox_norm": [
+            0.1936,
+            0.3301,
+            0.8866,
+            0.3449
+          ]
+        },
+        {
+          "text": "tion est faite par acte extrsjudicieira ou psr lettre recomniandée zvec de-",
+          "bbox_norm": [
+            0.1936,
+            0.3438,
+            0.8866,
+            0.3574
+          ]
+        },
+        {
+          "text": "Liande d'avis de réception è la société et à chacun des associés, sans prc-",
+          "bbox_norm": [
+            0.1936,
+            0.3586,
+            0.8858,
+            0.3703
+          ]
+        },
+        {
+          "text": "judice du droit pour l: gécsnce de requérir toute pièce justificative",
+          "bbox_norm": [
+            0.1952,
+            0.3717,
+            0.8398,
+            0.3839
+          ]
+        },
+        {
+          "text": "(acte de notoriété, acte de liquidation, etc.).",
+          "bbox_norm": [
+            0.1952,
+            0.3854,
+            0.6301,
+            0.3985
+          ]
+        },
+        {
+          "text": "III - Si lc société consent à l'attribution, notification en est faite",
+          "bbox_norm": [
+            0.1944,
+            0.4133,
+            0.8491,
+            0.425
+          ]
+        },
+        {
+          "text": "aussitêt pcr le géront 2 l'épcux ou ex-époux egréé. Le consentement eot,",
+          "bbox_norm": [
+            0.1952,
+            0.4273,
+            0.8664,
+            0.4387
+          ]
+        },
+        {
+          "text": "en Outze, réputé acquis si le société n'a pas fait connaitre sa décision",
+          "bbox_norm": [
+            0.1932,
+            0.4387,
+            0.8692,
+            0.4526
+          ]
+        },
+        {
+          "text": "dans le délsi de trois nois à dater de la notificstion stipulée à l'ali-",
+          "bbox_norm": [
+            0.1932,
+            0.4524,
+            0.8684,
+            0.466
+          ]
+        },
+        {
+          "text": "nca précédent.",
+          "bbox_norm": [
+            0.1952,
+            0.4675,
+            0.3243,
+            0.4791
+          ]
+        },
+        {
+          "text": "IV - Si la sociáté ne consent pas à l'attributicn, ls gérence en avisa",
+          "bbox_norm": [
+            0.1944,
+            0.4934,
+            0.8511,
+            0.5065
+          ]
+        },
+        {
+          "text": "aussitêt l'époux ou l'ex-époux non ngréé. La décision n'est pac motivée.",
+          "bbox_norm": [
+            0.1936,
+            0.5059,
+            0.8656,
+            0.5205
+          ]
+        },
+        {
+          "text": "La gérance evise, d'eutre pcrt, les associés p:r lattre recommandée avec",
+          "bbox_norm": [
+            0.1936,
+            0.5327,
+            0.8705,
+            0.547
+          ]
+        },
+        {
+          "text": "avis de réception, de l'csligotion cui leur est foite par la loi d'ac-",
+          "bbox_norm": [
+            0.1936,
+            0.5464,
+            0.8503,
+            0.5612
+          ]
+        },
+        {
+          "text": "quérir ou de faira ocquérir ou encorc de faice rrcheter par la société",
+          "bbox_norm": [
+            0.1944,
+            0.5601,
+            0.8503,
+            0.5749
+          ]
+        },
+        {
+          "text": "les parts dont l'attributicn itait projerée en faveur de l'époux ou ex-",
+          "bbox_norm": [
+            0.1936,
+            0.5732,
+            0.86,
+            0.5869
+          ]
+        },
+        {
+          "text": "époux consiceré.",
+          "bbox_norm": [
+            0.1952,
+            0.588,
+            0.3437,
+            0.5997
+          ]
+        },
+        {
+          "text": ":",
+          "bbox_norm": [
+            0.5712,
+            0.5997,
+            0.5792,
+            0.6074
+          ]
+        },
+        {
+          "text": "V - En ce qui concerne la procédure è suivre pour cos ruchets ou ces",
+          "bbox_norm": [
+            0.1936,
+            0.6134,
+            0.8321,
+            0.6271
+          ]
+        },
+        {
+          "text": "achats, corme pour la fixation et le règlenent du prix, il est procédé",
+          "bbox_norm": [
+            0.1936,
+            0.6271,
+            0.8511,
+            0.6413
+          ]
+        },
+        {
+          "text": "à l'égard de l'époux ou ex-cpoux non agrác comme il eot procidé en cos",
+          "bbox_norm": [
+            0.1936,
+            0.6408,
+            0.8503,
+            0.6539
+          ]
+        },
+        {
+          "text": "d2 transnission par décès souc le peragrephe (a)ci-dessus.",
+          "bbox_norm": [
+            0.1944,
+            0.6553,
+            0.7244,
+            0.6687
+          ]
+        },
+        {
+          "text": "Si a l'expiration du délai de trois mois ou du délai supplémentsile",
+          "bbox_norm": [
+            0.1936,
+            0.6807,
+            0.8233,
+            0.6943
+          ]
+        },
+        {
+          "text": "éventuellenent accordé par justice vour rueliscr l'echet ou le rachat",
+          "bbox_norm": [
+            0.1936,
+            0.6935,
+            0.8426,
+            0.7092
+          ]
+        },
+        {
+          "text": "des parts considérées, aucune des deux solutions d'ach:t ou de rachat",
+          "bbox_norm": [
+            0.1944,
+            0.7077,
+            0.8426,
+            0.7229
+          ]
+        },
+        {
+          "text": "n'est intervenue, l'attribution desditcs perte peut être réalisée con-",
+          "bbox_norm": [
+            0.1944,
+            0.7214,
+            0.8515,
+            0.736
+          ]
+        },
+        {
+          "text": "forménent au partege qui avsit été notifié à la société et ce, même si",
+          "bbox_norm": [
+            0.1952,
+            0.7345,
+            0.8523,
+            0.7502
+          ]
+        },
+        {
+          "text": "l'époux ou ex-époux qui avsit la qualité d'associé possèdait les parts",
+          "bbox_norm": [
+            0.1952,
+            0.7488,
+            0.8515,
+            0.7633
+          ]
+        },
+        {
+          "text": "en cause depuis moino de deux ans.",
+          "bbox_norm": [
+            0.196,
+            0.7642,
+            0.5135,
+            0.7764
+          ]
+        },
+        {
+          "text": "Le déloi de trois mois, éventuelioment prolongé por justice, inparti",
+          "bbox_norm": [
+            0.1936,
+            0.7881,
+            0.8342,
+            0.8044
+          ]
+        },
+        {
+          "text": "pour la rúolisotion de cès zchets ou de ce rachat, court du jour de la",
+          "bbox_norm": [
+            0.1952,
+            0.801,
+            0.8531,
+            0.8181
+          ]
+        },
+        {
+          "text": "décision collective portent refus d'agrément.",
+          "bbox_norm": [
+            0.1972,
+            0.8169,
+            0.6155,
+            0.8303
+          ]
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "text": "7\nc) Cession à titre onéreux ou var donation cntre vifs\nI - Toute cession de parts cociales dcit être conststua pir acte notarie\nou soua oeings privés.\nElla n'est opposable à la sociétí qu'aprds yu'elle lui a úté sigrifice\nou qu'elle l'a acceptée dens un acte authentique confortiément à l'arti-\ncle 1 690 du Code Civil.\nElle n'est opposable aux tiers qu'après l'accomplisselient de ces fomma-\nlités et, en outre, sprds dépôt eu greffe du Tribunal de Commerce.\nII - Les purts socicles ne peuvent âtre cédáes è des tiers étrangers à\nla socicté y compris à un conjoint, ascendant, descendant ou succesoible\nd'ur associé qu'avec le consentetient de lo majorité des ascociés ropré-\nsontant au noins les trois quarts du capital sociel, cette mejorité étant\ndétarinée compte tenu de la personne et des parts de l'associé cédant,\nIiI - A l'affet d'obtenir ce consentement, l'associé qui désire céder tout\nou partie de ses perts doit notifier son projet de cession à la société et\na chacun de ses associés avec indication des nom, prénon, profession, do-\nmicile et nationalité de cessionnaire proposé, dinsi que du nombre des\nparts dont la cession est projetéo.\nDans les quinze jours suivant la nctificaticn faite à le societé, la gé-\nrance doit inviter la collectivité das associés è statuer sous l'une des\nformes prévues ci-après à l'article 22 sur le consentement à la cession.\nLa décision des ossociés t:'est pas miotivce ; alle zst iramédiatenent noti-\nfiée ou cedent.\nSi la gérance n'a pas fait connsitre au cédant le décisicn des associés\ndans un délai de trois mois à ccmptar de le dernière des nctifications\ndu projet de ccssion prévue à l'elinéa l du precent persgraphe 3, le crsen-\ncenent à la cossion sera céputé ocquis.\nIV - Si la société o axpressémient refuse de consentir à lo cession, deux\ncos sont possiblas ;\nl° cas - L'essocié qui projetta le cession détient les purts\nqui en sont l'objet depuis au noins deux ans ou bien il les a recueillies\nensuite de succession, de liquidation, de cormunauté entre époux, ou de\ndonation au profit d'un conjoint ascendant ou descerdent,\nDans ce cas, en cas de rofus d'acrément du cessionnaire projeté, les asso-\nciés sont terus d'ucquérir ou de faire acquérir les parts à un prix fixé\ndans les conditions de l'article 1 862, article 6 du Code Civil à moins\nque la sccicté effectue le rachat desdites ports aux nêmes conditions et\navec le consentement da l'associé cédont, ce rachet entrainant une réduc-\ntion du capital.",
+      "lines": [
+        {
+          "text": "7",
+          "bbox_norm": [
+            0.7906,
+            0.1425,
+            0.8059,
+            0.1542
+          ]
+        },
+        {
+          "text": "c) Cession à titre onéreux ou var donation cntre vifs",
+          "bbox_norm": [
+            0.2299,
+            0.185,
+            0.7232,
+            0.1984
+          ]
+        },
+        {
+          "text": "I - Toute cession de parts cociales dcit être conststua pir acte notarie",
+          "bbox_norm": [
+            0.1791,
+            0.2104,
+            0.8559,
+            0.2257
+          ]
+        },
+        {
+          "text": "ou soua oeings privés.",
+          "bbox_norm": [
+            0.1811,
+            0.226,
+            0.3864,
+            0.2389
+          ]
+        },
+        {
+          "text": "Ella n'est opposable à la sociétí qu'aprds yu'elle lui a úté sigrifice",
+          "bbox_norm": [
+            0.1791,
+            0.2505,
+            0.8378,
+            0.2657
+          ]
+        },
+        {
+          "text": "ou qu'elle l'a acceptée dens un acte authentique confortiément à l'arti-",
+          "bbox_norm": [
+            0.1799,
+            0.2637,
+            0.8467,
+            0.2799
+          ]
+        },
+        {
+          "text": "cle 1 690 du Code Civil.",
+          "bbox_norm": [
+            0.1819,
+            0.2782,
+            0.4042,
+            0.2916
+          ]
+        },
+        {
+          "text": "Elle n'est opposable aux tiers qu'après l'accomplisselient de ces fomma-",
+          "bbox_norm": [
+            0.1799,
+            0.3053,
+            0.8475,
+            0.3198
+          ]
+        },
+        {
+          "text": "lités et, en outre, sprds dépôt eu greffe du Tribunal de Commerce.",
+          "bbox_norm": [
+            0.1807,
+            0.3195,
+            0.7962,
+            0.3332
+          ]
+        },
+        {
+          "text": "II - Les purts socicles ne peuvent âtre cédáes è des tiers étrangers à",
+          "bbox_norm": [
+            0.1827,
+            0.3477,
+            0.8386,
+            0.3594
+          ]
+        },
+        {
+          "text": "la socicté y compris à un conjoint, ascendant, descendant ou succesoible",
+          "bbox_norm": [
+            0.1815,
+            0.3603,
+            0.8559,
+            0.3737
+          ]
+        },
+        {
+          "text": "d'ur associé qu'avec le consentetient de lo majorité des ascociés ropré-",
+          "bbox_norm": [
+            0.1807,
+            0.3725,
+            0.8467,
+            0.3876
+          ]
+        },
+        {
+          "text": "sontant au noins les trois quarts du capital sociel, cette mejorité étant",
+          "bbox_norm": [
+            0.1811,
+            0.3874,
+            0.8656,
+            0.401
+          ]
+        },
+        {
+          "text": "détarinée compte tenu de la personne et des parts de l'associé cédant,",
+          "bbox_norm": [
+            0.1815,
+            0.4005,
+            0.8454,
+            0.415
+          ]
+        },
+        {
+          "text": "IiI - A l'affet d'obtenir ce consentement, l'associé qui désire céder tout",
+          "bbox_norm": [
+            0.1815,
+            0.4273,
+            0.8745,
+            0.4404
+          ]
+        },
+        {
+          "text": "ou partie de ses perts doit notifier son projet de cession à la société et",
+          "bbox_norm": [
+            0.1811,
+            0.441,
+            0.8741,
+            0.4541
+          ]
+        },
+        {
+          "text": "a chacun de ses associés avec indication des nom, prénon, profession, do-",
+          "bbox_norm": [
+            0.1799,
+            0.4538,
+            0.8648,
+            0.4675
+          ]
+        },
+        {
+          "text": "micile et nationalité de cessionnaire proposé, dinsi que du nombre des",
+          "bbox_norm": [
+            0.1791,
+            0.4675,
+            0.839,
+            0.4811
+          ]
+        },
+        {
+          "text": "parts dont la cession est projetéo.",
+          "bbox_norm": [
+            0.1827,
+            0.4834,
+            0.5066,
+            0.4948
+          ]
+        },
+        {
+          "text": "Dans les quinze jours suivant la nctificaticn faite à le societé, la gé-",
+          "bbox_norm": [
+            0.1799,
+            0.5074,
+            0.8559,
+            0.5222
+          ]
+        },
+        {
+          "text": "rance doit inviter la collectivité das associés è statuer sous l'une des",
+          "bbox_norm": [
+            0.1807,
+            0.521,
+            0.8571,
+            0.5353
+          ]
+        },
+        {
+          "text": "formes prévues ci-après à l'article 22 sur le consentement à la cession.",
+          "bbox_norm": [
+            0.1811,
+            0.5347,
+            0.8543,
+            0.5484
+          ]
+        },
+        {
+          "text": "La décision des ossociés t:'est pas miotivce ; alle zst iramédiatenent noti-",
+          "bbox_norm": [
+            0.1799,
+            0.5476,
+            0.8664,
+            0.5635
+          ]
+        },
+        {
+          "text": "fiée ou cedent.",
+          "bbox_norm": [
+            0.1819,
+            0.5627,
+            0.3219,
+            0.5758
+          ]
+        },
+        {
+          "text": "Si la gérance n'a pas fait connsitre au cédant le décisicn des associés",
+          "bbox_norm": [
+            0.1811,
+            0.5895,
+            0.8567,
+            0.6017
+          ]
+        },
+        {
+          "text": "dans un délai de trois mois à ccmptar de le dernière des nctifications",
+          "bbox_norm": [
+            0.1819,
+            0.6037,
+            0.8386,
+            0.6154
+          ]
+        },
+        {
+          "text": "du projet de ccssion prévue à l'elinéa l du precent persgraphe 3, le crsen-",
+          "bbox_norm": [
+            0.1819,
+            0.6174,
+            0.8918,
+            0.6296
+          ]
+        },
+        {
+          "text": "cenent à la cossion sera céputé ocquis.",
+          "bbox_norm": [
+            0.1819,
+            0.6305,
+            0.5453,
+            0.6433
+          ]
+        },
+        {
+          "text": "IV - Si la société o axpressémient refuse de consentir à lo cession, deux",
+          "bbox_norm": [
+            0.1819,
+            0.6564,
+            0.8588,
+            0.6701
+          ]
+        },
+        {
+          "text": "cos sont possiblas ;",
+          "bbox_norm": [
+            0.1811,
+            0.6704,
+            0.3731,
+            0.6852
+          ]
+        },
+        {
+          "text": "l° cas - L'essocié qui projetta le cession détient les purts",
+          "bbox_norm": [
+            0.2743,
+            0.6969,
+            0.8406,
+            0.7114
+          ]
+        },
+        {
+          "text": "qui en sont l'objet depuis au noins deux ans ou bien il les a recueillies",
+          "bbox_norm": [
+            0.1811,
+            0.7106,
+            0.8684,
+            0.7248
+          ]
+        },
+        {
+          "text": "ensuite de succession, de liquidation, de cormunauté entre époux, ou de",
+          "bbox_norm": [
+            0.1811,
+            0.7237,
+            0.8495,
+            0.7388
+          ]
+        },
+        {
+          "text": "donation au profit d'un conjoint ascendant ou descerdent,",
+          "bbox_norm": [
+            0.1819,
+            0.738,
+            0.7148,
+            0.7516
+          ]
+        },
+        {
+          "text": "Dans ce cas, en cas de rofus d'acrément du cessionnaire projeté, les asso-",
+          "bbox_norm": [
+            0.1807,
+            0.7639,
+            0.8773,
+            0.7784
+          ]
+        },
+        {
+          "text": "ciés sont terus d'ucquérir ou de faire acquérir les parts à un prix fixé",
+          "bbox_norm": [
+            0.1819,
+            0.777,
+            0.8592,
+            0.7915
+          ]
+        },
+        {
+          "text": "dans les conditions de l'article 1 862, article 6 du Code Civil à moins",
+          "bbox_norm": [
+            0.1819,
+            0.7907,
+            0.8503,
+            0.8049
+          ]
+        },
+        {
+          "text": "que la sccicté effectue le rachat desdites ports aux nêmes conditions et",
+          "bbox_norm": [
+            0.1827,
+            0.8044,
+            0.86,
+            0.8189
+          ]
+        },
+        {
+          "text": "avec le consentement da l'associé cédont, ce rachet entrainant une réduc-",
+          "bbox_norm": [
+            0.1827,
+            0.8175,
+            0.8696,
+            0.8323
+          ]
+        },
+        {
+          "text": "tion du capital.",
+          "bbox_norm": [
+            0.1855,
+            0.8346,
+            0.332,
+            0.8448
+          ]
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "text": "- 8\nL'acquisition des parts par les associés ou par la société doit intervenir\ndans un délai de trois mois à compter du refus d'agrément, A la demande du\ngérant, ce délai peut être prolongé une seule fois par décision de justice\nsans que cette prolongation puisse excéder six mois.\nSi à l'expiration de ce délai imparti, l'achat des parts n'a Eté effectué\nni par les associés ni par la société, l'associé peut réaliser la cession\ninitialement prévue.\n2° cas - L'associé qui projette la cession et à qui l'agrément a été\nrefusédans le délai légal de trois mois détient les parts en cause depuis\nmoins de deux ans sans les avoir recueillies dans les conditions particulières\nénoncées au 1°.\nLe refus d'agrément est, dans ce cas, définitif et l'associé devra rester\npropriétaire de ses parts.\nd) Situations diverses - Nantissements\nLes dispositions qui précêdent sont applicables à tous modes de cession,\nmême aux adjudications publiques en vertu d'ordonnance de justice ou\nautrement, ainsi qu'aux transmissions de parts sociales entre vifs à titre\ngratuit.\nEn cas de vente forcée aux enchêres publiques, l'adjudication ne pourra\nêtre prononcée que sous réserve de l'agrément de I'adjudicataire et de\nl'exercice éventuel du droit de préemption des associés ou de la société.\nEn conséquence, aussitôt après l'adjudication, l'adjudicataire présentera\nsa demande d'agrément et c'est à son encontre que pourra être éventuellement\nexercé le droit le préemption dont il s'agit.\nToutefois, si la société a donné son consentement à un projet de nantissement\nde parts sociales, ce consentement emportera agrément du cessionnaire en cas\nde réalisation forcée des parts nanties selon les dispositions de l'article\n2 O78 alinéa ler du Code Civil, à moins que la société ne préfère, aprês\nla cession, racheter sans délai les parts en vue de réduire son capital.\ne) Forme des notifications et avis\nToutes notifications et avis résultant des dispositions du présent article 9\nseront faites par acte extra-judiciaire ou par lettre recommandée avec\navis de réception.\nArticle DIX - GERANCE\nLa société est gérée et administrée par une ou plusieurs personnes physiques,\nassociées ou non, nommées par les associés dans les statuts ou par un acte\npostérieur, à la majorité requise pour les décisions ordinaires, avec\nou sans limitation de durée.\nActuellement la société est gérée par Monsieur Daniel Paul LAFFoNT, né le\n24 mars 1946 à FOIx (Ariege) demeurant 16 rue Fermat à TOULoUSE,\nIl a été nommé dans ces fonctions, sans limitation de durée par décision\ndu l0 décembre l98i à la suite de la démission émise par Madame Hortense\nDEDIEU nÉe LAFFONT.\nCes fonctions seront exercées dans les conditions prévues par la loi et\npar les statuts.",
+      "lines": [
+        {
+          "text": "- 8",
+          "bbox_norm": [
+            0.7821,
+            0.0807,
+            0.8366,
+            0.0943
+          ]
+        },
+        {
+          "text": "L'acquisition des parts par les associés ou par la société doit intervenir",
+          "bbox_norm": [
+            0.1884,
+            0.1294,
+            0.8745,
+            0.1459
+          ]
+        },
+        {
+          "text": "dans un délai de trois mois à compter du refus d'agrément, A la demande du",
+          "bbox_norm": [
+            0.1888,
+            0.1437,
+            0.8741,
+            0.1588
+          ]
+        },
+        {
+          "text": "gérant, ce délai peut être prolongé une seule fois par décision de justice",
+          "bbox_norm": [
+            0.1888,
+            0.1568,
+            0.8741,
+            0.173
+          ]
+        },
+        {
+          "text": "sans que cette prolongation puisse excéder six mois.",
+          "bbox_norm": [
+            0.1912,
+            0.171,
+            0.6676,
+            0.185
+          ]
+        },
+        {
+          "text": "Si à l'expiration de ce délai imparti, l'achat des parts n'a Eté effectué",
+          "bbox_norm": [
+            0.1884,
+            0.1827,
+            0.8656,
+            0.1998
+          ]
+        },
+        {
+          "text": "ni par les associés ni par la société, l'associé peut réaliser la cession",
+          "bbox_norm": [
+            0.1884,
+            0.1964,
+            0.8656,
+            0.2129
+          ]
+        },
+        {
+          "text": "initialement prévue.",
+          "bbox_norm": [
+            0.1888,
+            0.2095,
+            0.3739,
+            0.2238
+          ]
+        },
+        {
+          "text": "2° cas - L'associé qui projette la cession et à qui l'agrément a été",
+          "bbox_norm": [
+            0.2509,
+            0.234,
+            0.8846,
+            0.254
+          ]
+        },
+        {
+          "text": "refusédans le délai légal de trois mois détient les parts en cause depuis",
+          "bbox_norm": [
+            0.1876,
+            0.2491,
+            0.8648,
+            0.2668
+          ]
+        },
+        {
+          "text": "moins de deux ans sans les avoir recueillies dans les conditions particulières",
+          "bbox_norm": [
+            0.1859,
+            0.2622,
+            0.9108,
+            0.2805
+          ]
+        },
+        {
+          "text": "énoncées au 1°.",
+          "bbox_norm": [
+            0.1859,
+            0.2753,
+            0.3251,
+            0.2896
+          ]
+        },
+        {
+          "text": "Le refus d'agrément est, dans ce cas, définitif et l'associé devra rester",
+          "bbox_norm": [
+            0.1855,
+            0.295,
+            0.8648,
+            0.3135
+          ]
+        },
+        {
+          "text": "propriétaire de ses parts.",
+          "bbox_norm": [
+            0.1859,
+            0.309,
+            0.428,
+            0.3249
+          ]
+        },
+        {
+          "text": "d) Situations diverses - Nantissements",
+          "bbox_norm": [
+            0.2223,
+            0.3355,
+            0.5744,
+            0.3512
+          ]
+        },
+        {
+          "text": "Les dispositions qui précêdent sont applicables à tous modes de cession,",
+          "bbox_norm": [
+            0.1855,
+            0.362,
+            0.8539,
+            0.3785
+          ]
+        },
+        {
+          "text": "même aux adjudications publiques en vertu d'ordonnance de justice ou",
+          "bbox_norm": [
+            0.1847,
+            0.3751,
+            0.8176,
+            0.3922
+          ]
+        },
+        {
+          "text": "autrement, ainsi qu'aux transmissions de parts sociales entre vifs à titre",
+          "bbox_norm": [
+            0.1855,
+            0.3891,
+            0.8741,
+            0.4059
+          ]
+        },
+        {
+          "text": "gratuit.",
+          "bbox_norm": [
+            0.1847,
+            0.403,
+            0.2614,
+            0.4167
+          ]
+        },
+        {
+          "text": "En cas de vente forcée aux enchêres publiques, l'adjudication ne pourra",
+          "bbox_norm": [
+            0.1839,
+            0.4287,
+            0.8471,
+            0.4458
+          ]
+        },
+        {
+          "text": "être prononcée que sous réserve de l'agrément de I'adjudicataire et de",
+          "bbox_norm": [
+            0.1847,
+            0.4418,
+            0.8366,
+            0.4592
+          ]
+        },
+        {
+          "text": "l'exercice éventuel du droit de préemption des associés ou de la société.",
+          "bbox_norm": [
+            0.1839,
+            0.4541,
+            0.8628,
+            0.4729
+          ]
+        },
+        {
+          "text": "En conséquence, aussitôt après l'adjudication, l'adjudicataire présentera",
+          "bbox_norm": [
+            0.1839,
+            0.4689,
+            0.8636,
+            0.486
+          ]
+        },
+        {
+          "text": "sa demande d'agrément et c'est à son encontre que pourra être éventuellement",
+          "bbox_norm": [
+            0.1839,
+            0.482,
+            0.8914,
+            0.5002
+          ]
+        },
+        {
+          "text": "exercé le droit le préemption dont il s'agit.",
+          "bbox_norm": [
+            0.1847,
+            0.4957,
+            0.5994,
+            0.5119
+          ]
+        },
+        {
+          "text": "Toutefois, si la société a donné son consentement à un projet de nantissement",
+          "bbox_norm": [
+            0.1839,
+            0.5219,
+            0.9003,
+            0.5393
+          ]
+        },
+        {
+          "text": "de parts sociales, ce consentement emportera agrément du cessionnaire en cas",
+          "bbox_norm": [
+            0.1835,
+            0.5362,
+            0.8914,
+            0.553
+          ]
+        },
+        {
+          "text": "de réalisation forcée des parts nanties selon les dispositions de l'article",
+          "bbox_norm": [
+            0.1835,
+            0.5484,
+            0.8822,
+            0.5661
+          ]
+        },
+        {
+          "text": "2 O78 alinéa ler du Code Civil, à moins que la société ne préfère, aprês",
+          "bbox_norm": [
+            0.1839,
+            0.5615,
+            0.8543,
+            0.5792
+          ]
+        },
+        {
+          "text": "la cession, racheter sans délai les parts en vue de réduire son capital.",
+          "bbox_norm": [
+            0.1839,
+            0.5749,
+            0.8531,
+            0.5923
+          ]
+        },
+        {
+          "text": "e) Forme des notifications et avis",
+          "bbox_norm": [
+            0.2214,
+            0.602,
+            0.5369,
+            0.618
+          ]
+        },
+        {
+          "text": "Toutes notifications et avis résultant des dispositions du présent article 9",
+          "bbox_norm": [
+            0.1827,
+            0.6285,
+            0.8918,
+            0.6467
+          ]
+        },
+        {
+          "text": "seront faites par acte extra-judiciaire ou par lettre recommandée avec",
+          "bbox_norm": [
+            0.1835,
+            0.6422,
+            0.8366,
+            0.6604
+          ]
+        },
+        {
+          "text": "avis de réception.",
+          "bbox_norm": [
+            0.1839,
+            0.6559,
+            0.3517,
+            0.6715
+          ]
+        },
+        {
+          "text": "Article DIX - GERANCE",
+          "bbox_norm": [
+            0.1839,
+            0.6955,
+            0.3828,
+            0.71
+          ]
+        },
+        {
+          "text": "La société est gérée et administrée par une ou plusieurs personnes physiques,",
+          "bbox_norm": [
+            0.1827,
+            0.7223,
+            0.8991,
+            0.7394
+          ]
+        },
+        {
+          "text": "associées ou non, nommées par les associés dans les statuts ou par un acte",
+          "bbox_norm": [
+            0.1835,
+            0.736,
+            0.8741,
+            0.7525
+          ]
+        },
+        {
+          "text": "postérieur, à la majorité requise pour les décisions ordinaires, avec",
+          "bbox_norm": [
+            0.1835,
+            0.7496,
+            0.8261,
+            0.7659
+          ]
+        },
+        {
+          "text": "ou sans limitation de durée.",
+          "bbox_norm": [
+            0.1835,
+            0.7633,
+            0.4433,
+            0.777
+          ]
+        },
+        {
+          "text": "Actuellement la société est gérée par Monsieur Daniel Paul LAFFoNT, né le",
+          "bbox_norm": [
+            0.1835,
+            0.7893,
+            0.8644,
+            0.8049
+          ]
+        },
+        {
+          "text": "24 mars 1946 à FOIx (Ariege) demeurant 16 rue Fermat à TOULoUSE,",
+          "bbox_norm": [
+            0.1839,
+            0.8024,
+            0.7769,
+            0.8189
+          ]
+        },
+        {
+          "text": "Il a été nommé dans ces fonctions, sans limitation de durée par décision",
+          "bbox_norm": [
+            0.1835,
+            0.8286,
+            0.8551,
+            0.846
+          ]
+        },
+        {
+          "text": "du l0 décembre l98i à la suite de la démission émise par Madame Hortense",
+          "bbox_norm": [
+            0.1827,
+            0.8423,
+            0.8551,
+            0.8597
+          ]
+        },
+        {
+          "text": "DEDIEU nÉe LAFFONT.",
+          "bbox_norm": [
+            0.1831,
+            0.856,
+            0.3606,
+            0.8699
+          ]
+        },
+        {
+          "text": "Ces fonctions seront exercées dans les conditions prévues par la loi et",
+          "bbox_norm": [
+            0.1819,
+            0.8756,
+            0.8454,
+            0.8942
+          ]
+        },
+        {
+          "text": "par les statuts.",
+          "bbox_norm": [
+            0.1827,
+            0.8913,
+            0.3344,
+            0.9061
+          ]
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "text": "9 -\nArticle OnZe - POUVGIRS DES GERANTS\nConformémant à la loi le gérant, ou chacun des gérants, s'ils sont\nplusieurs, auca vis à vis des tiers les pouvpirs les plus étendus\n* pour représenter la société, contcacter en son nom et l'angager pour\ntous les actes at opérations antrant dans l'objet social, sans li-\nmitation.\nToutefois, à titre de règlement intérieur et sans que la limitation\nde pouvoirs ci-après puisse êtra opposée aux tiers ni invoquée par\neux, il est expressément convenu que tout' schat, vente ou échange\nd'immeubles cu fonds de commerce, tous emprunts autres que les cré-\ndits bancaires ou les dépôts de sommes en comptes courants par les\nassociés, toute constitution d'hypothèque ou de nantissement, la\nfondation de toute société ou l'apport de tout ou partie des biens\nsociaux à une société, ne pourront être réalisés sans avoir été au-\ntorisés au préalable psr uce décision collectiva ordinaire des asso-\nciés et, s'ils amportent directement ou indirectament modification\nde l'objet social, par une décision collective extraordinaire.\nIl est interdit aux gérants ou associés de contracter, sous quelque\nforme que ce soit, des emprunts auprès de la société, de se faire\nconsentir par elle un découvert, en ccmpte courant ou autrement,\nainsi qua de faire cautionner ou avaliser par clle leurs engagements\nenvars les tiers.\nCette interdiction s'applique également aux conjoint, ascendants et\ndescendants des gérants et associés, ainsi qu'à toute personne in-\nterposée.\nArtiCle DOUZe - REMPLACEMENT D'UN GERANT\nUn gérant, associé Ju non, est révocable par décision das associés\nreprésentant plus de le moitié du capital social. En cas de son dé-\ncès, de sa retraite, ou de sa démission, en cas d'invalidité grave\nl'obligeant à rester éioigué des affaires pendant plus de trois\nmois, les associés survivants se réuniront à la diligence de l'un\nd'entre eux et nonmeront le ou les nouveaux géranto.\nArticle Treize - DECISIONS COLLECTIVES\nLes décisions collectives des associés sont prisec en assemblée\ngénérale ou par voia da consultation écrite, au choix de la gérance.\nToutefois, la réunion d'une assemblée est obligatoire pour les dé-\ncisions relatives à l'approbation des comptes annuels et pour toutes\nautres décisions si ella cst demandée par un ou plusieurs associés\nreprésentant au moins le quart en nombre et en capital ou la moitié\nen capital.\nEn cas de réunion d'une assemblée générale, les associés y sont con-\nvoqués par la gérance, quinze jours francs d'avance par lettre re-\ncommandée indiquant son ordre du jour.\nLes ascociés peuvent zusci être convoqués verbslemont s'ils sont\ntous présents ou repréceutés à l'assemblée.\nEn cas de consultetion écrite, lc gérance envoie à chaque associé,\npar lettre recommendée “vec avis de récuptior, le texte des résolu-\ntions proposéas scconp-gné du rapport de la gérance et das documents\nnécessaires a l'infocmation des associés.",
+      "lines": [
+        {
+          "text": "9",
+          "bbox_norm": [
+            0.7341,
+            0.0678,
+            0.7523,
+            0.0792
+          ]
+        },
+        {
+          "text": "-",
+          "bbox_norm": [
+            0.7668,
+            0.0747,
+            0.7745,
+            0.0787
+          ]
+        },
+        {
+          "text": "Article OnZe - POUVGIRS DES GERANTS",
+          "bbox_norm": [
+            0.2263,
+            0.1103,
+            0.5522,
+            0.1254
+          ]
+        },
+        {
+          "text": "Conformémant à la loi le gérant, ou chacun des gérants, s'ils sont",
+          "bbox_norm": [
+            0.2279,
+            0.1362,
+            0.8446,
+            0.1528
+          ]
+        },
+        {
+          "text": "plusieurs, auca vis à vis des tiers les pouvpirs les plus étendus",
+          "bbox_norm": [
+            0.2283,
+            0.1505,
+            0.8346,
+            0.1662
+          ]
+        },
+        {
+          "text": "*",
+          "bbox_norm": [
+            0.219,
+            0.1645,
+            0.2307,
+            0.173
+          ]
+        },
+        {
+          "text": "pour représenter la société, contcacter en son nom et l'angager pour",
+          "bbox_norm": [
+            0.2283,
+            0.1636,
+            0.8628,
+            0.1801
+          ]
+        },
+        {
+          "text": "tous les actes at opérations antrant dans l'objet social, sans li-",
+          "bbox_norm": [
+            0.2279,
+            0.1762,
+            0.8539,
+            0.1935
+          ]
+        },
+        {
+          "text": "mitation.",
+          "bbox_norm": [
+            0.2287,
+            0.195,
+            0.3106,
+            0.2052
+          ]
+        },
+        {
+          "text": "Toutefois, à titre de règlement intérieur et sans que la limitation",
+          "bbox_norm": [
+            0.2271,
+            0.2169,
+            0.8539,
+            0.2334
+          ]
+        },
+        {
+          "text": "de pouvoirs ci-après puisse êtra opposée aux tiers ni invoquée par",
+          "bbox_norm": [
+            0.2287,
+            0.2309,
+            0.8454,
+            0.2466
+          ]
+        },
+        {
+          "text": "eux, il est expressément convenu que tout' schat, vente ou échange",
+          "bbox_norm": [
+            0.2291,
+            0.2451,
+            0.8366,
+            0.26
+          ]
+        },
+        {
+          "text": "d'immeubles cu fonds de commerce, tous emprunts autres que les cré-",
+          "bbox_norm": [
+            0.2283,
+            0.2568,
+            0.8543,
+            0.2736
+          ]
+        },
+        {
+          "text": "dits bancaires ou les dépôts de sommes en comptes courants par les",
+          "bbox_norm": [
+            0.2291,
+            0.2699,
+            0.8471,
+            0.2867
+          ]
+        },
+        {
+          "text": "associés, toute constitution d'hypothèque ou de nantissement, la",
+          "bbox_norm": [
+            0.2283,
+            0.2836,
+            0.8281,
+            0.2999
+          ]
+        },
+        {
+          "text": "fondation de toute société ou l'apport de tout ou partie des biens",
+          "bbox_norm": [
+            0.2291,
+            0.2973,
+            0.8467,
+            0.3135
+          ]
+        },
+        {
+          "text": "sociaux à une société, ne pourront être réalisés sans avoir été au-",
+          "bbox_norm": [
+            0.2299,
+            0.3115,
+            0.8559,
+            0.3267
+          ]
+        },
+        {
+          "text": "torisés au préalable psr uce décision collectiva ordinaire des asso-",
+          "bbox_norm": [
+            0.2299,
+            0.3247,
+            0.8648,
+            0.3403
+          ]
+        },
+        {
+          "text": "ciés et, s'ils amportent directement ou indirectament modification",
+          "bbox_norm": [
+            0.2307,
+            0.3383,
+            0.8454,
+            0.3537
+          ]
+        },
+        {
+          "text": "de l'objet social, par une décision collective extraordinaire.",
+          "bbox_norm": [
+            0.2299,
+            0.3517,
+            0.8059,
+            0.3674
+          ]
+        },
+        {
+          "text": "Il est interdit aux gérants ou associés de contracter, sous quelque",
+          "bbox_norm": [
+            0.2299,
+            0.3785,
+            0.8567,
+            0.3942
+          ]
+        },
+        {
+          "text": "forme que ce soit, des emprunts auprès de la société, de se faire",
+          "bbox_norm": [
+            0.2307,
+            0.3916,
+            0.8378,
+            0.4085
+          ]
+        },
+        {
+          "text": "consentir par elle un découvert, en ccmpte courant ou autrement,",
+          "bbox_norm": [
+            0.2311,
+            0.4067,
+            0.8245,
+            0.421
+          ]
+        },
+        {
+          "text": "ainsi qua de faire cautionner ou avaliser par clle leurs engagements",
+          "bbox_norm": [
+            0.2311,
+            0.4199,
+            0.8664,
+            0.4347
+          ]
+        },
+        {
+          "text": "envars les tiers.",
+          "bbox_norm": [
+            0.2311,
+            0.4355,
+            0.3876,
+            0.4478
+          ]
+        },
+        {
+          "text": "Cette interdiction s'applique également aux conjoint, ascendants et",
+          "bbox_norm": [
+            0.2299,
+            0.4589,
+            0.8571,
+            0.4752
+          ]
+        },
+        {
+          "text": "descendants des gérants et associés, ainsi qu'à toute personne in-",
+          "bbox_norm": [
+            0.2311,
+            0.4723,
+            0.8483,
+            0.4894
+          ]
+        },
+        {
+          "text": "terposée.",
+          "bbox_norm": [
+            0.2311,
+            0.4897,
+            0.3146,
+            0.5031
+          ]
+        },
+        {
+          "text": "ArtiCle DOUZe - REMPLACEMENT D'UN GERANT",
+          "bbox_norm": [
+            0.2311,
+            0.5142,
+            0.6038,
+            0.5293
+          ]
+        },
+        {
+          "text": "Un gérant, associé Ju non, est révocable par décision das associés",
+          "bbox_norm": [
+            0.2311,
+            0.5396,
+            0.8503,
+            0.5567
+          ]
+        },
+        {
+          "text": "représentant plus de le moitié du capital social. En cas de son dé-",
+          "bbox_norm": [
+            0.2319,
+            0.5538,
+            0.8588,
+            0.5701
+          ]
+        },
+        {
+          "text": "cès, de sa retraite, ou de sa démission, en cas d'invalidité grave",
+          "bbox_norm": [
+            0.2327,
+            0.5675,
+            0.8503,
+            0.5838
+          ]
+        },
+        {
+          "text": "l'obligeant à rester éioigué des affaires pendant plus de trois",
+          "bbox_norm": [
+            0.2327,
+            0.5812,
+            0.8221,
+            0.5974
+          ]
+        },
+        {
+          "text": "mois, les associés survivants se réuniront à la diligence de l'un",
+          "bbox_norm": [
+            0.2311,
+            0.5937,
+            0.8406,
+            0.6114
+          ]
+        },
+        {
+          "text": "d'entre eux et nonmeront le ou les nouveaux géranto.",
+          "bbox_norm": [
+            0.2327,
+            0.6094,
+            0.7164,
+            0.6242
+          ]
+        },
+        {
+          "text": "Article Treize - DECISIONS COLLECTIVES",
+          "bbox_norm": [
+            0.2327,
+            0.6353,
+            0.5885,
+            0.651
+          ]
+        },
+        {
+          "text": "Les décisions collectives des associés sont prisec en assemblée",
+          "bbox_norm": [
+            0.2327,
+            0.6601,
+            0.8321,
+            0.6778
+          ]
+        },
+        {
+          "text": "générale ou par voia da consultation écrite, au choix de la gérance.",
+          "bbox_norm": [
+            0.2436,
+            0.6738,
+            0.8761,
+            0.6915
+          ]
+        },
+        {
+          "text": "Toutefois, la réunion d'une assemblée est obligatoire pour les dé-",
+          "bbox_norm": [
+            0.2327,
+            0.7009,
+            0.8511,
+            0.7186
+          ]
+        },
+        {
+          "text": "cisions relatives à l'approbation des comptes annuels et pour toutes",
+          "bbox_norm": [
+            0.2356,
+            0.716,
+            0.8713,
+            0.7317
+          ]
+        },
+        {
+          "text": "autres décisions si ella cst demandée par un ou plusieurs associés",
+          "bbox_norm": [
+            0.2356,
+            0.7286,
+            0.8523,
+            0.7454
+          ]
+        },
+        {
+          "text": "représentant au moins le quart en nombre et en capital ou la moitié",
+          "bbox_norm": [
+            0.2356,
+            0.7417,
+            0.862,
+            0.759
+          ]
+        },
+        {
+          "text": "en capital.",
+          "bbox_norm": [
+            0.2348,
+            0.7588,
+            0.3384,
+            0.7727
+          ]
+        },
+        {
+          "text": "En cas de réunion d'une assemblée générale, les associés y sont con-",
+          "bbox_norm": [
+            0.2356,
+            0.7819,
+            0.8725,
+            0.7981
+          ]
+        },
+        {
+          "text": "voqués par la gérance, quinze jours francs d'avance par lettre re-",
+          "bbox_norm": [
+            0.2356,
+            0.7944,
+            0.8559,
+            0.8126
+          ]
+        },
+        {
+          "text": "commandée indiquant son ordre du jour.",
+          "bbox_norm": [
+            0.2384,
+            0.8112,
+            0.5893,
+            0.8255
+          ]
+        },
+        {
+          "text": "Les ascociés peuvent zusci être convoqués verbslemont s'ils sont",
+          "bbox_norm": [
+            0.2368,
+            0.8354,
+            0.8366,
+            0.8531
+          ]
+        },
+        {
+          "text": "tous présents ou repréceutés à l'assemblée.",
+          "bbox_norm": [
+            0.2388,
+            0.8517,
+            0.6365,
+            0.8668
+          ]
+        },
+        {
+          "text": "En cas de consultetion écrite, lc gérance envoie à chaque associé,",
+          "bbox_norm": [
+            0.2376,
+            0.8762,
+            0.8531,
+            0.8939
+          ]
+        },
+        {
+          "text": "par lettre recommendée “vec avis de récuptior, le texte des résolu-",
+          "bbox_norm": [
+            0.2388,
+            0.8893,
+            0.8664,
+            0.9084
+          ]
+        },
+        {
+          "text": "tions proposéas scconp-gné du rapport de la gérance et das documents",
+          "bbox_norm": [
+            0.2404,
+            0.903,
+            0.8769,
+            0.9221
+          ]
+        },
+        {
+          "text": "nécessaires a l'infocmation des associés.",
+          "bbox_norm": [
+            0.2396,
+            0.9195,
+            0.6192,
+            0.9343
+          ]
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "text": "- 10 -\nLes associés disposent d'ur délei de quinze jours francs à compter de'le\ndate de réceptior dec projets de résolutione pour émettre leur vote pe:\nécrit. La vote est formulé sur le texte des récolutions proposées et,\npour chaque résolutior, per les mots \"oui\" ou \"uon\". La réponse est cdres-\nsée à la société égalemant par lettre reccnmandée avec evis de réception.\nTout associé n'ayant pcs répondu dons le déiei ci-dessus sera corsidéré\ncomme s'étant abstenu.\nCheque essocié s droit de participer aux décisions collectives et dispose\nd'un nombre de voix égal à calui des parts socioles qu'il possède.\nUn associé ne peut se faire reprécenter que par un autre associé ou por\nson conjoint, justifiant d'un pouvoir spécial.\nLes décisions collectivas sont prises aux conditions de majorité fixées\npar la loi.\nArtiCle QuatOrZE - AFFECTATION DES RESULTATS\nSur les bénéfices nets, diminués, le cos échéant, des pertes antérieures,\nil est tout d'abord prélevé cinq pour cent pour constituer le fonds de\nréservz légale ; ce prélàvement cesse d'stre obligatoira lorsque ledit\nfonds atteint une somme égale au dixième du capital social ; il reprend\nson cours lorsque, pour une cause quelconcue, le récerve légale est das-\ncendue en dessous de cette f=action.\nLe solde, augmenté le cas échéont des reports béréficigires, constitue\nle bénéfice distrihusbla.\nCe bénéfice est céparta entre les associéo, gércnts ou non gérants, pro-\nportionnellement au noutre de parts sociales possédées par chacun d'eux.\nToutefois, l'assembléc générale curo la fcculté de prélever sur ce solde,\navant touto répartitior., les sonmes qu'ella juzers convenable de fixer\npour les porter à ur: ou plusieurs fonds de réserves, généraux ou spé-\nciaux ou les reporter à ncuvesu.\nSi un exercice rccuse des pecteu, celles-ci sont, après approbation des\ncomptes de l'exercice, inscrites à un compte spécial figurant à l'actif\ndu bilan pour être imputéés, à due concurrence, cur les bénéfices des\nexercices ultériaurs jusqu'à extinction.\nArtiCle QuinZe - DISSOLUTION - LIQUIDATION\nA l'expiration de le ducée de la société ou en css de dissolution anti-\ncipée pour quelque cause jue ce soit, la liquidation en est faite par un\nou plusieurs liquideteurs nommés par décision collactive des associés.\nLa liquidetion s'effactue conformément aux dispositions prévues par les\ncrticles 390 et suivants de l.. loi du 24 juillet 1966.\nLe produit net de la liquidation, après l'uxtinction du possif et des\ncharges sociales et le remboursement aux associés du montant nominol non\namorti de leurs parts sociales, est partegé eatre les associés propor-\ntionnelleuent au ncmbre de leurs parts.",
+      "lines": [
+        {
+          "text": "- 10 -",
+          "bbox_norm": [
+            0.7478,
+            0.0952,
+            0.8079,
+            0.11
+          ]
+        },
+        {
+          "text": "Les associés disposent d'ur délei de quinze jours francs à compter de'le",
+          "bbox_norm": [
+            0.1993,
+            0.1377,
+            0.8717,
+            0.1519
+          ]
+        },
+        {
+          "text": "date de réceptior dec projets de résolutione pour émettre leur vote pe:",
+          "bbox_norm": [
+            0.2009,
+            0.1525,
+            0.8628,
+            0.1645
+          ]
+        },
+        {
+          "text": "écrit. La vote est formulé sur le texte des récolutions proposées et,",
+          "bbox_norm": [
+            0.2009,
+            0.1662,
+            0.8434,
+            0.1781
+          ]
+        },
+        {
+          "text": "pour chaque résolutior, per les mots \"oui\" ou \"uon\". La réponse est cdres-",
+          "bbox_norm": [
+            0.2009,
+            0.1781,
+            0.8906,
+            0.1935
+          ]
+        },
+        {
+          "text": "sée à la société égalemant par lettre reccnmandée avec evis de réception.",
+          "bbox_norm": [
+            0.2013,
+            0.1918,
+            0.8793,
+            0.2072
+          ]
+        },
+        {
+          "text": "Tout associé n'ayant pcs répondu dons le déiei ci-dessus sera corsidéré",
+          "bbox_norm": [
+            0.2001,
+            0.2183,
+            0.8644,
+            0.2334
+          ]
+        },
+        {
+          "text": "comme s'étant abstenu.",
+          "bbox_norm": [
+            0.2021,
+            0.234,
+            0.4058,
+            0.2463
+          ]
+        },
+        {
+          "text": "Cheque essocié s droit de participer aux décisions collectives et dispose",
+          "bbox_norm": [
+            0.2009,
+            0.2588,
+            0.8822,
+            0.2736
+          ]
+        },
+        {
+          "text": "d'un nombre de voix égal à calui des parts socioles qu'il possède.",
+          "bbox_norm": [
+            0.2009,
+            0.2719,
+            0.814,
+            0.2873
+          ]
+        },
+        {
+          "text": "Un associé ne peut se faire reprécenter que par un autre associé ou por",
+          "bbox_norm": [
+            0.2001,
+            0.2993,
+            0.8648,
+            0.3141
+          ]
+        },
+        {
+          "text": "son conjoint, justifiant d'un pouvoir spécial.",
+          "bbox_norm": [
+            0.2021,
+            0.3144,
+            0.626,
+            0.3278
+          ]
+        },
+        {
+          "text": "Les décisions collectivas sont prises aux conditions de majorité fixées",
+          "bbox_norm": [
+            0.2001,
+            0.3389,
+            0.8648,
+            0.3546
+          ]
+        },
+        {
+          "text": "par la loi.",
+          "bbox_norm": [
+            0.2001,
+            0.354,
+            0.3049,
+            0.3683
+          ]
+        },
+        {
+          "text": "ArtiCle QuatOrZE - AFFECTATION DES RESULTATS",
+          "bbox_norm": [
+            0.2009,
+            0.38,
+            0.6115,
+            0.3945
+          ]
+        },
+        {
+          "text": "Sur les bénéfices nets, diminués, le cos échéant, des pertes antérieures,",
+          "bbox_norm": [
+            0.2009,
+            0.4067,
+            0.8809,
+            0.421
+          ]
+        },
+        {
+          "text": "il est tout d'abord prélevé cinq pour cent pour constituer le fonds de",
+          "bbox_norm": [
+            0.2013,
+            0.4196,
+            0.8579,
+            0.4355
+          ]
+        },
+        {
+          "text": "réservz légale ; ce prélàvement cesse d'stre obligatoira lorsque ledit",
+          "bbox_norm": [
+            0.2029,
+            0.4335,
+            0.8571,
+            0.4492
+          ]
+        },
+        {
+          "text": "fonds atteint une somme égale au dixième du capital social ; il reprend",
+          "bbox_norm": [
+            0.2029,
+            0.4469,
+            0.8668,
+            0.4626
+          ]
+        },
+        {
+          "text": "son cours lorsque, pour une cause quelconcue, le récerve légale est das-",
+          "bbox_norm": [
+            0.2029,
+            0.4609,
+            0.8745,
+            0.4766
+          ]
+        },
+        {
+          "text": "cendue en dessous de cette f=action.",
+          "bbox_norm": [
+            0.2041,
+            0.4766,
+            0.5365,
+            0.4888
+          ]
+        },
+        {
+          "text": "Le solde, augmenté le cas échéont des reports béréficigires, constitue",
+          "bbox_norm": [
+            0.2021,
+            0.5017,
+            0.8579,
+            0.5162
+          ]
+        },
+        {
+          "text": "le bénéfice distrihusbla.",
+          "bbox_norm": [
+            0.2041,
+            0.5176,
+            0.4364,
+            0.529
+          ]
+        },
+        {
+          "text": "Ce bénéfice est céparta entre les associéo, gércnts ou non gérants, pro-",
+          "bbox_norm": [
+            0.2013,
+            0.5416,
+            0.8765,
+            0.5564
+          ]
+        },
+        {
+          "text": "portionnellement au noutre de parts sociales possédées par chacun d'eux.",
+          "bbox_norm": [
+            0.2029,
+            0.5544,
+            0.8741,
+            0.5704
+          ]
+        },
+        {
+          "text": "Toutefois, l'assembléc générale curo la fcculté de prélever sur ce solde,",
+          "bbox_norm": [
+            0.2029,
+            0.5806,
+            0.8838,
+            0.5957
+          ]
+        },
+        {
+          "text": "avant touto répartitior., les sonmes qu'ella juzers convenable de fixer",
+          "bbox_norm": [
+            0.2029,
+            0.5949,
+            0.86,
+            0.61
+          ]
+        },
+        {
+          "text": "pour les porter à ur: ou plusieurs fonds de réserves, généraux ou spé-",
+          "bbox_norm": [
+            0.2041,
+            0.6086,
+            0.8491,
+            0.6237
+          ]
+        },
+        {
+          "text": "ciaux ou les reporter à ncuvesu.",
+          "bbox_norm": [
+            0.2057,
+            0.6251,
+            0.5014,
+            0.6365
+          ]
+        },
+        {
+          "text": "Si un exercice rccuse des pecteu, celles-ci sont, après approbation des",
+          "bbox_norm": [
+            0.2037,
+            0.6485,
+            0.8692,
+            0.6647
+          ]
+        },
+        {
+          "text": "comptes de l'exercice, inscrites à un compte spécial figurant à l'actif",
+          "bbox_norm": [
+            0.2049,
+            0.6619,
+            0.8705,
+            0.6784
+          ]
+        },
+        {
+          "text": "du bilan pour être imputéés, à due concurrence, cur les bénéfices des",
+          "bbox_norm": [
+            0.2049,
+            0.6755,
+            0.8519,
+            0.6915
+          ]
+        },
+        {
+          "text": "exercices ultériaurs jusqu'à extinction.",
+          "bbox_norm": [
+            0.2049,
+            0.6901,
+            0.5772,
+            0.7046
+          ]
+        },
+        {
+          "text": "ArtiCle QuinZe - DISSOLUTION - LIQUIDATION",
+          "bbox_norm": [
+            0.2049,
+            0.7174,
+            0.599,
+            0.7311
+          ]
+        },
+        {
+          "text": "A l'expiration de le ducée de la société ou en css de dissolution anti-",
+          "bbox_norm": [
+            0.2057,
+            0.7428,
+            0.8705,
+            0.7579
+          ]
+        },
+        {
+          "text": "cipée pour quelque cause jue ce soit, la liquidation en est faite par un",
+          "bbox_norm": [
+            0.2061,
+            0.7571,
+            0.8809,
+            0.7722
+          ]
+        },
+        {
+          "text": "ou plusieurs liquideteurs nommés par décision collactive des associés.",
+          "bbox_norm": [
+            0.2061,
+            0.7702,
+            0.8592,
+            0.7858
+          ]
+        },
+        {
+          "text": "La liquidetion s'effactue conformément aux dispositions prévues par les",
+          "bbox_norm": [
+            0.2061,
+            0.7964,
+            0.8717,
+            0.8121
+          ]
+        },
+        {
+          "text": "crticles 390 et suivants de l.. loi du 24 juillet 1966.",
+          "bbox_norm": [
+            0.2061,
+            0.8106,
+            0.7087,
+            0.8257
+          ]
+        },
+        {
+          "text": "Le produit net de la liquidation, après l'uxtinction du possif et des",
+          "bbox_norm": [
+            0.2069,
+            0.836,
+            0.8543,
+            0.8531
+          ]
+        },
+        {
+          "text": "charges sociales et le remboursement aux associés du montant nominol non",
+          "bbox_norm": [
+            0.2085,
+            0.8497,
+            0.883,
+            0.8668
+          ]
+        },
+        {
+          "text": "amorti de leurs parts sociales, est partegé eatre les associés propor-",
+          "bbox_norm": [
+            0.2077,
+            0.8634,
+            0.8644,
+            0.8805
+          ]
+        },
+        {
+          "text": "tionnelleuent au ncmbre de leurs parts.",
+          "bbox_norm": [
+            0.2097,
+            0.881,
+            0.5712,
+            0.8922
+          ]
+        }
+      ]
+    }
+  ],
+  "full_text": "[PAGE 1]\nRCS : TOULOUSE\nCode greffe : 3102\nActes des sociétés, ordonnances rendues en matière de société, actes des personnes physiques\nREGISTRE DU COMMERCE ET DES SOCIETES\nLe greffier du tribunal de commerce de TOULOUSE atteste l'exactitude des informations\ntransmises ci-après\nNature du document : Actes des sociétés (A)\nNuméro de gestion : 1956 B 00104\nNuméro SIREN : 560 801 045\nNom ou dénomination : ETS DEDIEU\nCe dépôt a été enregistré le 24/07/2019 sous le numéro de dépôt A2019/014244\n\n[PAGE 2]\nGREFFE DU TRIBUNAL DE COMMERCE\nTOUL OUSE\nDénomination : ETS DEDIEU\nAdresse : 2 rue Hermes - za Ecoparc 1 31130 Quint-fonsegrives -\nFRANCE-\nn° de gestion : 1956B00104\nn° d'identification : 560 801 045\nn° de dépôt : A2019/014244\nDate du dépôt : 24/07/2019\nPièce : Décision de gérance du 01/07/2019\n2307330\n2307330\nGreffe du Tribunal de Commerce de Toulouse - place de la Bourse BP 7016\n31068 TOULOUSE Cedex 7\nTél : 05 61 11 02 00\n\n[PAGE 3]\nETS DEDIEU\nSociété à responsabilité limitée\nau capital de 45 765,19 Euros\nSiège social : 12, Impasse Descouloubre\n31200 TOULOUSE\nRCS TOULOUSE : 560 801 045\nPROCES-VERBAL DES DECISIONS\nDE LA GERANCE DU 1ER JUILLET 2019\nL'an deux mille dix-neuf,\nLe premier juillet,\nA neuf heures,\nMadame Marie-Martine LAFFONT, demeurant Les Cayrous - 81700 PUYLAURENS,\nDécide :\n- de transférer le siège social du 12, Impasse Descouloubre - 31200 TOULOUSE au 2,\nRue Hermès - ZA Ecoparc 1 - 31130 QUINT FONSEGRIVES, avec effet rétroactif au 2\njanvier 2019,\n- et de modifier l'article 4 des statuts en conséquence (en corrigeant également l'adresse\ninitiale mentionnée sur les derniers statuts mis à jour, soit \" TOULOUSE 10-12 Impasse\nDescouloubre\" alors que l'extrait k-bis mentionne l'adresse suivante : 12, Impasse\nDescouloubre - 31200 TOULOUSE)\nArticle Quatre - SIEGE SOCIAL\nAncienne.mention.:\nLe siège de la société est fixé à TOULOUSE 10-12 Impasse Descouloubre.\nNouxelle. mention.:\nA la constitution de la société, le siège social était fixé : 12, Impasse\nDescouloubre - 31200 TOULOUSE.\n\n[PAGE 4]\nn\nX A compter du 2 janvier 2019, le siège social est fixé : 2, Rue Hermès - ZA\nEcoparc 1 - 31130 QUINT FONSEGRIVES\nLe reste de l'article demeure inchangé.\nConformément à l'article L. 223-18, al. 8 du Code de commerce, ce transfert de siège\ndevra être ratifié par une décision des associés prise à la majorité requise pour l'adoption\ndes décisions ordinaires (plus de la moitié des parts sociales et, sur seconde consultation,\nmajorité des voix).\nTous pouvoirs sont donnés au porteur d'un original, d'une copie ou d'un extrait du présent\nprocès-verbal à l'effet d'accomplir toutes formalités de droit.\nDe tout ce que dessus a été dressé le présent procès verbal qui a été signé par la Gérante.\n*\nMarie-MartineIFLOR\nFIEUR$ CRISTALLISEES\nA.ucHermès\n3 30 dUNTFONSEGRIVES\nThi) 633425 12 25\npontagt@candiflor.fr\nRc$ 560 801 045\n\n[PAGE 5]\nGREFFE DU TRIBUNAL DE COMMERCE\nTO U L O U SE\nDénomination : ETS DEDIEU\nAdresse : 2 rue Hermes - za Ecoparc 1 31130 Quint-fonsegrives -\nFRANCE-\nn° de gestion : 1956B00104\nn° d'identification : 560 801 045\nn° de dépôt : A2019/014244\nDate du dépôt : 24/07/2019\nPièce : Statuts mis à jour\n2307329 ALDE COMMAER oN COLCOE\n2307329\nGreffe du Tribunal de Commerce de Toulouse - place de la Bourse BP 7016\n31068 TOULOUSE Cedex 7\nTél : 05 61 11 02 00\n\n[PAGE 6]\nt\nETS DEDIEU\nSociété à responsabilité limitée\nau capilal de 45 765,19 Euros\nSiège social : 2. Rue Hermès\nZA Ecoparc 1\n31I3O QUIRT FONSEGDIVES\nRCS TOUL0USE : 560 801 045\nSTATUTS MIS A JOUR\nLE IER JUILLET 2019\nCONFORME A L'ORIGINAL COPIE CERTIFIEE\n\n[PAGE 7]\n,\nEtablissements DEDIEU\nSOCIETE A RESPONSABILITE LIMITEE\nIDENTITE DES ASSOCIES\nLa société \"Etablissements DEDIEu\" existe actuellement entre :\n1° Madame DEDIEU Hortense Eléonore,\nnée LAFFONT le 2 décembre 1906 à BORDES SUR LEZ (Ariège),\ndemeurant l4 rue de Koufra à TOULoUSE,\nveuve de Monsieur DEDIEU François Vincent,\nné le 8 mars 1903 à AUDRESSIN (Ariège),\ndécédé 1e 28 mars 1956 à TOULOUSE\nleur mariage ayant été célébré le 26 avril l936 à TOuLoUsE sous le rēgime\n(ancien) de la communauté légale.\n2° Monsieur LAFFONT Jean Joseph,\nné le 23 septembre 1923 à BORDES SUR LEZ (Ariège),\ndemeurant chemin des Tuileries à COLOMfERs,\nmarié sous le régime (ancien) de la communauté légale le 24 septembre 1946\nà TOULOUSE, avec Madame PERRY Emilienne Françoise.\n3° Monsieur LAFFONT Paul,\nné le 12 décembre 1912 à BORDES SUR LEZ (Ariège),\ndemeurant l4 rue de Koufra à ToULouSE,\nmarié sous le régime (ancien) de la communauté légale le 7 avril 1945\nà FOIX (Ariège), avec Madame ROUAIX Louise Germaine.\n4° Monsieur LAFFONT Daniel Paul,\nn 1e 24 mars 1946 à F0IX (Ariège),\ndemeurant l6 rue fermat à TouLousE,\nmarié sous le régime (nouveau) de la communauté légale le 4 avril 1970\nà TOULOUSE avec Madame GIRONIS Marie Martine.\n5° Madame LAFFONT Marie Martine,\nnée GIRONIS le 19 février 1948 à CASTRES (Tarn)\ndemeurant 16 rue Fermat à TOULOUSE\nmariée sous le régime (nouveau) de la communauté légale le 4 avril 1970\nà TOULOUSE avec Monsieur LAFFONT Daniel Paul.\n\n[PAGE 8]\n-  -\nETABLISSEMENTS D E D I E U\nSociété à Responsabilité Limitée\nSTATUTS\nArticle Premier - FORME\nLa SOCiétÉ a été COnstituée SOus forme de SOCIETE A RESPONSABILITE LIMITEE\npar acte sous seing privé en date à TouLousE du quatre mars mil neuf cent\ncinquante enregistré à TouLousE (2ème A. C.) le vingt neuf mars mil neuf cent\ncinquante, volume 86 n° 62.\nPublication : PUBLICITE et PETITES AFFICHES TOULOUSAINES et de la HAUTE-\nGARONNE du 4 avril 1950.\nLes statuts ont été mis en harmonie avec les nouvelles dispositions légales\npar délibération des associés du vingt et un septembre mil neuf cent soixante\ndix dont le procès verbal a été déposé au rang des minutes de Maftre CAMPS\nnotaire à TouLOUsE suivant acte en son rapport du vingt deux septembre mil\nneuf cent soixante dix.\nPublication : GAZETTE DES TRIBUNAUX DU MIDI du 26 septembre 1970.\nLa société est inscrite au registre du commerce de TouLousE sous le numéro\n56 B l04. Elle est régie par la loi du 24 juillet 1966 textes subséquents\net toutes dispositions légales et règlementaires.\nArticle Deux - OBJET\nLa société a pour objet principal la fabrication et la vente en FRANCE et à\nl'étranger de fleurs et de fruits confits de confitures et de tous articles\nde confiserie.\nLes opérations sociales pourront s'écendre à la fabrication et à la vente\nde tous produits se rattachant directement ou indirectement à l'objet ci-dessus\nainsi qu'a toutes opérations immobilières en vue de son extension,\nEt généralement toutes opérations se rattachant directement ou indirectement\nà cet objet.\nI\n\n[PAGE 9]\n- 2 -\nArticle Trois - DENOMINATION\nLa société a pOur dénOmination sociale : ETABLISSEMENTs DEDIEU.\nDans les documents de toute nature émanant de la société, la\ndénomination sociale sera précédée ou suivie des S A R L. et de\nl'énonciation du capital social.\nArticle Quatre - SIEGE SOCIAL\nA la constitution de la société, le siège social était fixé : 12,\nImpasse Descouloubre - 31200 TOULOUSE.\nX A compter du 2 janvier 2019, le siège social est fixé : 2, Rue\nHermès - ZA Ecoparc 1 - 31130 QUINT FONSEGRIVES.\nIl pourra être transféré en tout autre lieu en vertu d'une décision\nextraordinaire des associés.\nArticle Cing - DUREE\nI - La durée de la société a été fixée initialement à douze années\ncommençant à courir le quatre mars mil neuf cent cinquante pour se\nterrainer le trois mars mil neuf cent soixante-deux.\nII - Par acte reçu le premier avril mil neuf cent soixante-deux par\nMaître CAMPs, notaire à ToULoUSE, la société a été prorogée pour une\ndurée de douze années à compter du quatre mars mil neuf cent\nsoixante-deux.\nIII - décision des associés du vingt-trois janvier mil neuf cent\nsoixante-quatorze, la société a été prorogée pour une durée de\nsoixante années à compter du quatre mars mil neuf cent soixante-\nquatorze.\nDe sorte que la durée de la société qui a commencé le quatre mars\nmil neuf cent cinquante se terminera le trois mars deux mille\ntrente-quatre (soit au total 84 ans) sauf nouvelle prorogation n ou\ndissolution anticipée.\nArticle Six - EXERCICE SOCIAL\nL'exercice social commence le premier janvier et se termine le\ntrente-et-un décembre de chaque année.\n\n[PAGE 10]\n- 3 -\nArticle Sept - APPORTS\nLors da la constitution de la société, il a été effectué les apports\nsuivants d'un montant global de QUARANTE MILLE francs :\n1) En nature\n- Par Monsieur François DEDIEU et son épouse née Hortense LAFFoNT,\nconjointement et solidairement :\nDu matériel et des marchandises fabriquées ou en cours de fabri-\ncation, d'un montant de trois millions huit cent quatre vingt mille\nanciens franCs, Soit TRENTE HUIT MILLE HUIT CENT FRANCS, ci........ 38 800\n2) En espéces\n- Par Monsieur Paul LAFFONT :\nUne somme de cent quinze mille anciens francs, soit\nMILLE CENT CINQUANTE FRANCS, ci.... 1 150\n- Par Monsieur Jean LAFFONT :\nUne somme de cinq mille anciens francs, soit\nCINQUANTE FRANCS. ci.... 50\nArticle Sept bis - CAPITAL SOCIAL\nLe capital social fixé à l'origine à la somme de QUARANTE MILLE francs, puis\nporté à la somme de QUATRE VINGT MILLE francs, aux termes d'une assemblée\ngénérale extraordinaire du ll fevrier 1974 puis fixé à CENT DIX MILLE francs\naux termes d'une assemblée générale extraordinaire du 30 mai 1979, puis porté\naux termes d'une assemblée générale extraordinaire du lo décembre l98l à la\nSomme de DEUX CENT TRENTE MILLE DEUX CENT francs a ëté augmenté d'une SOmme\nde SOIXANTE DIX MILLE francs pOur être porté à la sOmme de TROIS CENT MILLE\nDEUX CENT francs, le 4 novembre 1985.\nIl est divisé en TROIS MILLE DEUX parts da CENT francs chacune\nnumérotées de l a 3002 et appartenant aux associés en raison des souscriptions\nou des cessions de parts intervenues et notifiées à la société, à savoir :\n- Madame Hortense DEDIEU\nCINQ CENT TREIZE PartS 513\nportant les numéros l à 388 et 40l à 525\nMonsieur Paul LAFFONT\nNEUF CENT QUATRE VINGT HUIT Parts 988\nportant 1es numéros 389 à 399, 526 à 650,\n1101 a 1602 et 2303 à 2652\nMonsieut Jean LAFFONT\nUNE part 1\nportant le numéro 400\nMonsieur Daniel LAFFONT\nMILLE QUATRE CENT parts 1400\nportant les numéros 651 a l100, 1603 à 2202,\n2653 à 3002\nMadame Marie Martine LAFFONT\nCENT parts 100\nportant les numéros 2203 a 2302\n3002\n\n[PAGE 11]\n- 4 -•\n1\nTOTAL EGAL AU NOMBRE DE PARTS COMPOSANT LE CAPITAL SOCIAL\nTROIS MILLE DEUX, Ci.. 3002\nConformêment à 1'article 423 de la loi du 24 juillet 1966 les soussignês\ndéclarent expressément que les TRoIS MILLE DEUX parts créées sont intégralement\nlibérées et réparties entre les associés dans les proportions indiquées ci-dessus\nArticle Huit - PARTS SOCIALES\nChaque part sociale donne droit a la même somme nette dans la répartition\ndes bénéfices et produits au cours de la société et dans la répartition de\nl'actif social lors de la liquidation.\nLes parts sont indivisibles et la société ne reconnait qu'un seul propriétaire\npour chacunes d'elles. Ces co-propriétaires indivis sont tenus de désigner l'un\nd'entre eux pour les représenter. A défaut l'indivisaire le plus diligent\nfera désigner par justice un mandataire chargé de les représenter.\nAu cas d'usufruit, le droit de vote attaché à la part appartient à l'usufruitier .\ns'il est créé des parts nouvelles par incorporation des bénêfices ou réserves,\nelles seront soumises a I'usufruit dans les mêmes conditions que les parts an-\nciennes correspondantes.\n\n[PAGE 12]\n5 -\nArtiCIe NeuF - CESSION ET TRANSMISSIONS DES PARTS\nLes parts sociales sont librenent cessibles entre associés.\nLa trensnission des parts à toute autre personne qu'un associé est soumise\ncux conditions d'agrément ci-sprès définies.\na) Transnission par décès\nI - Toute transmission de parts socisles par voie de succession ou legs à\ntoute personre autre qu'un associé, ne pourra avoir lieu qu'avec le consen-\ntement de lo mejorité des associés représentant au moins les trois quarts\ndu capital, étant précisé que poùr lo calcul de cetce majorité, les héri-\ntiers et représentants du défunt compteront pour un associé et qu'ils auront\nle droit de vote, per un tusndstaire commun, avec le nombre de parts détenues\npar le défunt.\nII - A l'effet d'obtenir ce consentenent, les héritiers ,. légatoires et re-\nprésentants du défunt devront présenter leur demande d'agrénent à ls société\noccompagnée de toutes indications et justifications utilas sur leur étet ci-\nvil et leurs qualités.\nIII - Dens las quinze jours suivont cette demande d'agrément, le gérence doit\ninviter lo collectivité des associac à stetuer sous l'uue des formes prévues\nà l'article l3 ci-après, sur ladite denonde. La décision des assocics n'est\npas motivée, elle est imédiatement notifiée oux héritiers et représentonts\ndu défunt intéressos.\nSi la géronce na leur a pes fait connoitre la décision de la société dans le\ndélai de trois mois à dater de lavr damande, leur agrécient corme associés nou-\nveaux sera rúputé acquis.\n,\nIV - Si l: collectivité dus sssocics e refusé d'egréer les héritiers et re-\nprésentants du defunt conme nssocico nouveoux, les associés seront tenus\ndans le délai de trois mois è conpter de ce refus, d'ecquérir ou de faire\nacquérit la totalité des parts en inotance de mutetion è un prix fixé par\nvoie d'expertisc dans les conditions prévues à l'article l 868, alinéa 5 du\nCode Civil.\nA la demande de lo gérence, ce délai pc irra etre prorogé unz seule fois par\ndécision de justice sans que crtte prolongation puisse excéder trois nois.\nLe sociéte peut égalcnent dans le mêne délai par décision extraordinaire des\nossociés, réduire son capitol du montaut de le valeur nominale des parts en\ninstance de nutation et recheter cas perts dans los conditions prévues ci-\ndessus.\nSi à l'expiration du délai inparti sucune deo solutions de rachst prévues ci-\ndassus a'est inturvenuc l'agréuent est réputé acquis.\nS\n\n[PAGE 13]\n- 6 -\nb) Dissolution de cormureuté ertre époux\nI - En cas da liquidetion por suite de décés, divorce, séparation de corpo,\nséparation judicioire de biens ou chcngeuent de régime ciatrimonisl, de la\ncormunauté légale ou conventionneller. - de biens cyant existé entra un2\npersoune associce et oou conjoint, l'attribution de parts cormunes à l'é-\npoux ou ex-époux qui ne posséczit pao la qualité d'ascocié doit être sou-\nmise au consentement de lc asjorité des essociéo représentont au noins les\ntrois quarts du copitsl sociel.\nII - Le partage ect notifié, er cas de décès, par le conjoint survivent et\ndens les autres cos par l'époux ou ex-époux la plus diligent. Le notifica-\ntion est faite par acte extrsjudicieira ou psr lettre recomniandée zvec de-\nLiande d'avis de réception è la société et à chacun des associés, sans prc-\njudice du droit pour l: gécsnce de requérir toute pièce justificative\n(acte de notoriété, acte de liquidation, etc.).\nIII - Si lc société consent à l'attribution, notification en est faite\naussitêt pcr le géront 2 l'épcux ou ex-époux egréé. Le consentement eot,\nen Outze, réputé acquis si le société n'a pas fait connaitre sa décision\ndans le délsi de trois nois à dater de la notificstion stipulée à l'ali-\nnca précédent.\nIV - Si la sociáté ne consent pas à l'attributicn, ls gérence en avisa\naussitêt l'époux ou l'ex-époux non ngréé. La décision n'est pac motivée.\nLa gérance evise, d'eutre pcrt, les associés p:r lattre recommandée avec\navis de réception, de l'csligotion cui leur est foite par la loi d'ac-\nquérir ou de faira ocquérir ou encorc de faice rrcheter par la société\nles parts dont l'attributicn itait projerée en faveur de l'époux ou ex-\népoux consiceré.\n:\nV - En ce qui concerne la procédure è suivre pour cos ruchets ou ces\nachats, corme pour la fixation et le règlenent du prix, il est procédé\nà l'égard de l'époux ou ex-cpoux non agrác comme il eot procidé en cos\nd2 transnission par décès souc le peragrephe (a)ci-dessus.\nSi a l'expiration du délai de trois mois ou du délai supplémentsile\néventuellenent accordé par justice vour rueliscr l'echet ou le rachat\ndes parts considérées, aucune des deux solutions d'ach:t ou de rachat\nn'est intervenue, l'attribution desditcs perte peut être réalisée con-\nforménent au partege qui avsit été notifié à la société et ce, même si\nl'époux ou ex-époux qui avsit la qualité d'associé possèdait les parts\nen cause depuis moino de deux ans.\nLe déloi de trois mois, éventuelioment prolongé por justice, inparti\npour la rúolisotion de cès zchets ou de ce rachat, court du jour de la\ndécision collective portent refus d'agrément.\n\n[PAGE 14]\n7\nc) Cession à titre onéreux ou var donation cntre vifs\nI - Toute cession de parts cociales dcit être conststua pir acte notarie\nou soua oeings privés.\nElla n'est opposable à la sociétí qu'aprds yu'elle lui a úté sigrifice\nou qu'elle l'a acceptée dens un acte authentique confortiément à l'arti-\ncle 1 690 du Code Civil.\nElle n'est opposable aux tiers qu'après l'accomplisselient de ces fomma-\nlités et, en outre, sprds dépôt eu greffe du Tribunal de Commerce.\nII - Les purts socicles ne peuvent âtre cédáes è des tiers étrangers à\nla socicté y compris à un conjoint, ascendant, descendant ou succesoible\nd'ur associé qu'avec le consentetient de lo majorité des ascociés ropré-\nsontant au noins les trois quarts du capital sociel, cette mejorité étant\ndétarinée compte tenu de la personne et des parts de l'associé cédant,\nIiI - A l'affet d'obtenir ce consentement, l'associé qui désire céder tout\nou partie de ses perts doit notifier son projet de cession à la société et\na chacun de ses associés avec indication des nom, prénon, profession, do-\nmicile et nationalité de cessionnaire proposé, dinsi que du nombre des\nparts dont la cession est projetéo.\nDans les quinze jours suivant la nctificaticn faite à le societé, la gé-\nrance doit inviter la collectivité das associés è statuer sous l'une des\nformes prévues ci-après à l'article 22 sur le consentement à la cession.\nLa décision des ossociés t:'est pas miotivce ; alle zst iramédiatenent noti-\nfiée ou cedent.\nSi la gérance n'a pas fait connsitre au cédant le décisicn des associés\ndans un délai de trois mois à ccmptar de le dernière des nctifications\ndu projet de ccssion prévue à l'elinéa l du precent persgraphe 3, le crsen-\ncenent à la cossion sera céputé ocquis.\nIV - Si la société o axpressémient refuse de consentir à lo cession, deux\ncos sont possiblas ;\nl° cas - L'essocié qui projetta le cession détient les purts\nqui en sont l'objet depuis au noins deux ans ou bien il les a recueillies\nensuite de succession, de liquidation, de cormunauté entre époux, ou de\ndonation au profit d'un conjoint ascendant ou descerdent,\nDans ce cas, en cas de rofus d'acrément du cessionnaire projeté, les asso-\nciés sont terus d'ucquérir ou de faire acquérir les parts à un prix fixé\ndans les conditions de l'article 1 862, article 6 du Code Civil à moins\nque la sccicté effectue le rachat desdites ports aux nêmes conditions et\navec le consentement da l'associé cédont, ce rachet entrainant une réduc-\ntion du capital.\n\n[PAGE 15]\n- 8\nL'acquisition des parts par les associés ou par la société doit intervenir\ndans un délai de trois mois à compter du refus d'agrément, A la demande du\ngérant, ce délai peut être prolongé une seule fois par décision de justice\nsans que cette prolongation puisse excéder six mois.\nSi à l'expiration de ce délai imparti, l'achat des parts n'a Eté effectué\nni par les associés ni par la société, l'associé peut réaliser la cession\ninitialement prévue.\n2° cas - L'associé qui projette la cession et à qui l'agrément a été\nrefusédans le délai légal de trois mois détient les parts en cause depuis\nmoins de deux ans sans les avoir recueillies dans les conditions particulières\nénoncées au 1°.\nLe refus d'agrément est, dans ce cas, définitif et l'associé devra rester\npropriétaire de ses parts.\nd) Situations diverses - Nantissements\nLes dispositions qui précêdent sont applicables à tous modes de cession,\nmême aux adjudications publiques en vertu d'ordonnance de justice ou\nautrement, ainsi qu'aux transmissions de parts sociales entre vifs à titre\ngratuit.\nEn cas de vente forcée aux enchêres publiques, l'adjudication ne pourra\nêtre prononcée que sous réserve de l'agrément de I'adjudicataire et de\nl'exercice éventuel du droit de préemption des associés ou de la société.\nEn conséquence, aussitôt après l'adjudication, l'adjudicataire présentera\nsa demande d'agrément et c'est à son encontre que pourra être éventuellement\nexercé le droit le préemption dont il s'agit.\nToutefois, si la société a donné son consentement à un projet de nantissement\nde parts sociales, ce consentement emportera agrément du cessionnaire en cas\nde réalisation forcée des parts nanties selon les dispositions de l'article\n2 O78 alinéa ler du Code Civil, à moins que la société ne préfère, aprês\nla cession, racheter sans délai les parts en vue de réduire son capital.\ne) Forme des notifications et avis\nToutes notifications et avis résultant des dispositions du présent article 9\nseront faites par acte extra-judiciaire ou par lettre recommandée avec\navis de réception.\nArticle DIX - GERANCE\nLa société est gérée et administrée par une ou plusieurs personnes physiques,\nassociées ou non, nommées par les associés dans les statuts ou par un acte\npostérieur, à la majorité requise pour les décisions ordinaires, avec\nou sans limitation de durée.\nActuellement la société est gérée par Monsieur Daniel Paul LAFFoNT, né le\n24 mars 1946 à FOIx (Ariege) demeurant 16 rue Fermat à TOULoUSE,\nIl a été nommé dans ces fonctions, sans limitation de durée par décision\ndu l0 décembre l98i à la suite de la démission émise par Madame Hortense\nDEDIEU nÉe LAFFONT.\nCes fonctions seront exercées dans les conditions prévues par la loi et\npar les statuts.\n\n[PAGE 16]\n9 -\nArticle OnZe - POUVGIRS DES GERANTS\nConformémant à la loi le gérant, ou chacun des gérants, s'ils sont\nplusieurs, auca vis à vis des tiers les pouvpirs les plus étendus\n* pour représenter la société, contcacter en son nom et l'angager pour\ntous les actes at opérations antrant dans l'objet social, sans li-\nmitation.\nToutefois, à titre de règlement intérieur et sans que la limitation\nde pouvoirs ci-après puisse êtra opposée aux tiers ni invoquée par\neux, il est expressément convenu que tout' schat, vente ou échange\nd'immeubles cu fonds de commerce, tous emprunts autres que les cré-\ndits bancaires ou les dépôts de sommes en comptes courants par les\nassociés, toute constitution d'hypothèque ou de nantissement, la\nfondation de toute société ou l'apport de tout ou partie des biens\nsociaux à une société, ne pourront être réalisés sans avoir été au-\ntorisés au préalable psr uce décision collectiva ordinaire des asso-\nciés et, s'ils amportent directement ou indirectament modification\nde l'objet social, par une décision collective extraordinaire.\nIl est interdit aux gérants ou associés de contracter, sous quelque\nforme que ce soit, des emprunts auprès de la société, de se faire\nconsentir par elle un découvert, en ccmpte courant ou autrement,\nainsi qua de faire cautionner ou avaliser par clle leurs engagements\nenvars les tiers.\nCette interdiction s'applique également aux conjoint, ascendants et\ndescendants des gérants et associés, ainsi qu'à toute personne in-\nterposée.\nArtiCle DOUZe - REMPLACEMENT D'UN GERANT\nUn gérant, associé Ju non, est révocable par décision das associés\nreprésentant plus de le moitié du capital social. En cas de son dé-\ncès, de sa retraite, ou de sa démission, en cas d'invalidité grave\nl'obligeant à rester éioigué des affaires pendant plus de trois\nmois, les associés survivants se réuniront à la diligence de l'un\nd'entre eux et nonmeront le ou les nouveaux géranto.\nArticle Treize - DECISIONS COLLECTIVES\nLes décisions collectives des associés sont prisec en assemblée\ngénérale ou par voia da consultation écrite, au choix de la gérance.\nToutefois, la réunion d'une assemblée est obligatoire pour les dé-\ncisions relatives à l'approbation des comptes annuels et pour toutes\nautres décisions si ella cst demandée par un ou plusieurs associés\nreprésentant au moins le quart en nombre et en capital ou la moitié\nen capital.\nEn cas de réunion d'une assemblée générale, les associés y sont con-\nvoqués par la gérance, quinze jours francs d'avance par lettre re-\ncommandée indiquant son ordre du jour.\nLes ascociés peuvent zusci être convoqués verbslemont s'ils sont\ntous présents ou repréceutés à l'assemblée.\nEn cas de consultetion écrite, lc gérance envoie à chaque associé,\npar lettre recommendée “vec avis de récuptior, le texte des résolu-\ntions proposéas scconp-gné du rapport de la gérance et das documents\nnécessaires a l'infocmation des associés.\n\n[PAGE 17]\n- 10 -\nLes associés disposent d'ur délei de quinze jours francs à compter de'le\ndate de réceptior dec projets de résolutione pour émettre leur vote pe:\nécrit. La vote est formulé sur le texte des récolutions proposées et,\npour chaque résolutior, per les mots \"oui\" ou \"uon\". La réponse est cdres-\nsée à la société égalemant par lettre reccnmandée avec evis de réception.\nTout associé n'ayant pcs répondu dons le déiei ci-dessus sera corsidéré\ncomme s'étant abstenu.\nCheque essocié s droit de participer aux décisions collectives et dispose\nd'un nombre de voix égal à calui des parts socioles qu'il possède.\nUn associé ne peut se faire reprécenter que par un autre associé ou por\nson conjoint, justifiant d'un pouvoir spécial.\nLes décisions collectivas sont prises aux conditions de majorité fixées\npar la loi.\nArtiCle QuatOrZE - AFFECTATION DES RESULTATS\nSur les bénéfices nets, diminués, le cos échéant, des pertes antérieures,\nil est tout d'abord prélevé cinq pour cent pour constituer le fonds de\nréservz légale ; ce prélàvement cesse d'stre obligatoira lorsque ledit\nfonds atteint une somme égale au dixième du capital social ; il reprend\nson cours lorsque, pour une cause quelconcue, le récerve légale est das-\ncendue en dessous de cette f=action.\nLe solde, augmenté le cas échéont des reports béréficigires, constitue\nle bénéfice distrihusbla.\nCe bénéfice est céparta entre les associéo, gércnts ou non gérants, pro-\nportionnellement au noutre de parts sociales possédées par chacun d'eux.\nToutefois, l'assembléc générale curo la fcculté de prélever sur ce solde,\navant touto répartitior., les sonmes qu'ella juzers convenable de fixer\npour les porter à ur: ou plusieurs fonds de réserves, généraux ou spé-\nciaux ou les reporter à ncuvesu.\nSi un exercice rccuse des pecteu, celles-ci sont, après approbation des\ncomptes de l'exercice, inscrites à un compte spécial figurant à l'actif\ndu bilan pour être imputéés, à due concurrence, cur les bénéfices des\nexercices ultériaurs jusqu'à extinction.\nArtiCle QuinZe - DISSOLUTION - LIQUIDATION\nA l'expiration de le ducée de la société ou en css de dissolution anti-\ncipée pour quelque cause jue ce soit, la liquidation en est faite par un\nou plusieurs liquideteurs nommés par décision collactive des associés.\nLa liquidetion s'effactue conformément aux dispositions prévues par les\ncrticles 390 et suivants de l.. loi du 24 juillet 1966.\nLe produit net de la liquidation, après l'uxtinction du possif et des\ncharges sociales et le remboursement aux associés du montant nominol non\namorti de leurs parts sociales, est partegé eatre les associés propor-\ntionnelleuent au ncmbre de leurs parts."
+}

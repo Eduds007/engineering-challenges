@@ -1,0 +1,134 @@
+{
+  "siren": "015551401",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2001-09-07",
+      "payload": {
+        "amount_eur": 12153.06,
+        "capital_after_eur": 21294,
+        "method": "incorporation de réserve spéciale"
+      },
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2b",
+        "page": 3,
+        "bbox": [
+          0.1611,
+          0.5889,
+          0.9015,
+          0.6812
+        ],
+        "snippet": "La collectivité des associés décident d'incorporer au capital social la réserve spéciale constituée par fractions de résultats soumis au taux réduit d'impôt sur les sociétés pour un montant de 79 682 francs. Le capital s'élèvera ainsi à 139 682 francs et sera toujours divisé en 600 parts sociales."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Incorporates special reserve into capital; first document so no external prior state, but internal numbers consistent"
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2001-09-07",
+      "payload": {
+        "amount_eur": 306,
+        "capital_after_eur": 21600,
+        "method": "incorporation de réserve"
+      },
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2b",
+        "page": 4,
+        "bbox": [
+          0.1611,
+          0.1826,
+          0.9022,
+          0.2452
+        ],
+        "snippet": "La collectivité des associés décide en conséquence d'augmenter le capital social de 306 euros pour le porter de 21 294 euros à 21 600 euros par incorporation de pareille somme de 306 euros (2 007,23 francs) prélevée sur les réserves disponibles « autres réserves »."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Incorporates other reserves into capital; reconciles with prior v0 (21,294 + 306 = 21,600)"
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2022-01-26",
+      "payload": {
+        "from_name": "Cédric MUGNIER",
+        "to_name": "Cyril MUGNIER",
+        "shares": 134,
+        "price_eur": null
+      },
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2d",
+        "page": 3,
+        "bbox": [
+          0.1196,
+          0.579,
+          0.8832,
+          0.6275
+        ],
+        "snippet": "ensuite de la régularisation ce jour d'un acte de cession de 134 parts sociales de la Société entre M. Cédric MUGNIER et M. Cyril MUGNIER"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder transfer event; not a capital change, so no reconciliation required. 134 shares transferred from Cédric to Cyril MUGNIER on 2022-01-26."
+    },
+    {
+      "event_id": "evt_04",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2022-01-26",
+      "payload": {
+        "holder_name": "Cédric MUGNIER",
+        "holder_siren": null,
+        "shares": 134
+      },
+      "source": {
+        "inpi_id": "63e34290d0f29b5aaa0ced2d",
+        "page": 3,
+        "bbox": [
+          0.1196,
+          0.579,
+          0.8832,
+          0.6275
+        ],
+        "snippet": "Seuls associés de la Société depuis ce jour ensuite de la régularisation ce jour d'un acte de cession de 134 parts sociales de la Société entre M. Cédric MUGNIER et M. Cyril MUGNIER"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder exit event; Cédric MUGNIER's shareholding ended on 2022-01-26 following the transfer, leaving Cyril MUGNIER as sole shareholder. Consistent with v0."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2001-09-07",
+      "capital_eur": 21600,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2022-01-26",
+      "capital_eur": 21600,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Cyril MUGNIER",
+          "kind": "PERSON",
+          "shares": 134,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_03",
+        "evt_04"
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 015551401 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

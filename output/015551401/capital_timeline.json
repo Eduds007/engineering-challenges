@@ -1,0 +1,43 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2001-09-07",
+      "capital_eur": 21600,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2022-01-26",
+      "capital_eur": 21600,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Cyril MUGNIER",
+          "kind": "PERSON",
+          "shares": 134,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_03",
+        "evt_04"
+      ]
+    }
+  ],
+  "notes": [
+    "2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+    "2001-09-07: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+  ],
+  "graph_nodes": 2,
+  "graph_edges": 1
+}

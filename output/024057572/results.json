@@ -1,0 +1,93 @@
+{
+  "siren": "024057572",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2007-06-26",
+      "payload": {
+        "holder_name": "S.K2.R.",
+        "holder_siren": "498662329",
+        "shares": 800
+      },
+      "source": {
+        "inpi_id": "63e3429404dafca7f210aa7c",
+        "page": 6,
+        "bbox": [
+          0.1173,
+          0.1967,
+          0.8835,
+          0.2626
+        ],
+        "snippet": "Il est divisé en huit cent (800) parts de dix (10) euros chacune, numérotées de 1 à 800, entièrement souscrites et intégralement libérées et attribuées en totalité à l'associée unique, savoir: La société S.K2.R., A concurrence de huit cent parts sociales"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "S.K2.R. becomes sole shareholder with 800 shares × €10 = €8,000 capital. Snippet confirms valid shareholder entry describing capital structure after contribution."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2007-06-26",
+      "payload": {
+        "holder_name": "Al KALFANE",
+        "shares": 200
+      },
+      "source": {
+        "inpi_id": "63e3429404dafca7f210aa7c",
+        "page": 2,
+        "bbox": [
+          0.121,
+          0.4702,
+          0.9089,
+          0.5326
+        ],
+        "snippet": "Selon traité d'apport en date du 2 avril 2007 et rapport du Commissaire aux apports en date du 16 avril 2007, les Sieurs Al et Mo KALFANE ont apporté à la société S.K2.R, la totalité des titres leur appartenant dans le capital de CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Al KALFANE ceases shareholding (200 shares × €10 = €2,000). Valid exit as part of documented contribution of CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN shares to S.K2.R. dated April 2, 2007 (ratified June 26)."
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2007-06-26",
+      "payload": {
+        "holder_name": "Mo KALFANE"
+      },
+      "source": {
+        "inpi_id": "63e3429404dafca7f210aa7c",
+        "page": 2,
+        "bbox": [
+          0.121,
+          0.4702,
+          0.9089,
+          0.5326
+        ],
+        "snippet": "Selon traité d'apport en date du 2 avril 2007 et rapport du Commissaire aux apports en date du 16 avril 2007, les Sieurs Al et Mo KALFANE ont apporté à la société S.K2.R, la totalité des titres leur appartenant dans le capital de CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Mo KALFANE ceases shareholding. Valid exit as co-contributor alongside Al KALFANE. Payload omits share count, but snippet confirms participation in April 2 apport agreement; reconciles as ~600 shares (€6,000) to complete €8,000 total transferred to S.K2.R."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2007-06-26",
+      "capital_eur": null,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "S.K2.R.",
+          "kind": "COMPANY",
+          "shares": 800,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02",
+        "evt_03"
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 024057572 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

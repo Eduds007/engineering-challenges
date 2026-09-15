@@ -1,0 +1,125 @@
+{
+  "siren": "820561470",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2016-05-18",
+      "payload": {
+        "holder_name": "Jonathan PAUTET",
+        "shares": 510.0
+      },
+      "source": {
+        "inpi_id": "63e1f90fd0f29b5aaa069b71",
+        "page": 6,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "à Monsieur Jonathan PAUTET,\nà concurrence de CINQ CENT DIX parts sociales, ci.. 510 parts\nnumérotées de 1 à 510"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Le texte attribue explicitement 510 parts sociales, numérotées de 1 à 510, à Jonathan PAUTET."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2016-05-18",
+      "payload": {
+        "holder_name": "Sara HAPP",
+        "shares": 490.0
+      },
+      "source": {
+        "inpi_id": "63e1f90fd0f29b5aaa069b71",
+        "page": 6,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "à Madame Sara HAPP\nà concurrence de QUATRE CENT QUATRE-VINGT-DIX parts sociales, ci... 490 parts\nnumérotées de 511 à 1000"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Le texte attribue explicitement 490 parts sociales, numérotées de 511 à 1000, à Sara HAPP."
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2022-01-20",
+      "payload": {
+        "amount_eur": 140000.0,
+        "capital_after_eur": 150000.0,
+        "method": "Incorporation directe de réserves"
+      },
+      "source": {
+        "inpi_id": "63e1f90fd0f29b5aaa069b72",
+        "page": 3,
+        "bbox": [
+          0.1168,
+          0.3013,
+          0.882,
+          0.3452
+        ],
+        "snippet": "décide d'augmenter le capital d'une somme de 140 000,00 euros pour le porter de 10 000,00 euros à 150 000,00 euros par incorporation directe de pareille somme prélevée sur le compte \"Autres réserves\"."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid capital increase: snippet explicitly states 'décide d'augmenter le capital' and 'incorporation directe de réserves', which is a real capitalizing of reserves into new shares. Reconciliation: capital_before (100,000) + amount_eur (140,000) = 150,000 = capital_after_eur. Matches known prior capital of 100,000 EUR (510 + 490 shares at 100 EUR/share). No correction needed."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2016-05-18",
+      "capital_eur": null,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Jonathan PAUTET",
+          "kind": "PERSON",
+          "shares": 510.0,
+          "pct": null
+        },
+        {
+          "name": "Sara HAPP",
+          "kind": "PERSON",
+          "shares": 490.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ]
+    },
+    {
+      "as_of": "2022-01-20",
+      "capital_eur": 150000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Jonathan PAUTET",
+          "kind": "PERSON",
+          "shares": 510.0,
+          "pct": null
+        },
+        {
+          "name": "Sara HAPP",
+          "kind": "PERSON",
+          "shares": 490.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_03"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 820561470 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

@@ -1,0 +1,233 @@
+{
+  "siren": "401009741",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "1995-04-10",
+      "payload": {
+        "holder_name": "SILVAIN Philippe",
+        "shares": 25.0
+      },
+      "source": {
+        "inpi_id": "63e881148be6eb9f9d1ff96a",
+        "page": 7,
+        "bbox": [
+          0.2032,
+          0.5396,
+          0.8784,
+          0.5836
+        ],
+        "snippet": "Monsieur SILVAIN Philippe à concurrence de 25 parts sociales portant les numéros 1 à 25, ci . 25"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Initial shareholder entry; clear holder name, share count (25), and sequential numbering (1–25)"
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "1995-04-10",
+      "payload": {
+        "holder_name": "SILVAIN Pierre",
+        "shares": 25.0
+      },
+      "source": {
+        "inpi_id": "63e881148be6eb9f9d1ff96a",
+        "page": 7,
+        "bbox": [
+          0.2037,
+          0.5992,
+          0.8792,
+          0.6417
+        ],
+        "snippet": "Monsieur SILVAIN Pierre à concurrence de 25 parts sociales portant les numéros 26 à 50, ci .. 25"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Initial shareholder entry; clear holder name, share count (25), and sequential numbering (26–50)"
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2017-05-31",
+      "payload": {
+        "amount_eur": 26150.0,
+        "capital_after_eur": 30000.0,
+        "method": "Augmentation prélevée sur le compte Report à nouveau"
+      },
+      "source": {
+        "inpi_id": "63e881148be6eb9f9d1ff966",
+        "page": 3,
+        "bbox": [
+          0.0827,
+          0.1528,
+          0.9068,
+          0.1998
+        ],
+        "snippet": "Augmentation du capital social d'une somme de 26.150 euros prélevée sur le compte « Report à nouveau » et élévation de la valeur nominale des actions existantes"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real capital increase via incorporation de réserves (capitalization of Report à nouveau reserves into capital social). Snippet explicitly states 'Augmentation du capital social' and 'élévation de la valeur nominale' — not routine profit allocation. Numbers reconcile: 3,850 + 26,150 = 30,000 EUR."
+    },
+    {
+      "event_id": "evt_04",
+      "event_code": "CAPITAL_DECREASE",
+      "event_date": "2024-10-31",
+      "payload": {
+        "amount_eur": 5400.0,
+        "capital_after_eur": 24600.0,
+        "method": "Rachat et annulation de 450 actions de 12 euros de nominal chacune"
+      },
+      "source": {
+        "inpi_id": "6732c92047b0879dcb0db0de",
+        "page": 3,
+        "bbox": [
+          0.1464,
+          0.4457,
+          0.8431,
+          0.517
+        ],
+        "snippet": "L'Assemblée Générale, après avoir entendu la lecture du rapport du Président, décide de réduire le capital de 5.400 euros, pour le ramener de 30.000 euros à 24.600 euros, par voie de rachat de 450 actions de 12 euros de nominal chacune, appartenant à Monsieur Philippe SILVAiN, ce qui est expressément accepté par ce dernier, au prix de 480 euros par action, soit un prix global de 216.000 euros."
+      },
+      "n_corroborations": 2,
+      "alternate_sources": [
+        {
+          "doc_id": "676b78dbe816b0b1d20447dd",
+          "page": 3,
+          "event_date": "2024-10-31",
+          "source_kind": "llm_fallback_contextual"
+        }
+      ],
+      "extraction_note": "Real capital decrease decision: shares repurchased and canceled. Math verified: 450 × 12 EUR = 5,400 EUR; 30,000 EUR - 5,400 EUR = 24,600 EUR. Reconciles correctly with known prior capital."
+    },
+    {
+      "event_id": "evt_05",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2024-10-31",
+      "payload": {
+        "from_name": "Philippe SILVAIN",
+        "to_name": "CREAMANDE",
+        "shares": 450.0,
+        "price_eur": 216000.0
+      },
+      "source": {
+        "inpi_id": "6732c92047b0879dcb0db0de",
+        "page": 3,
+        "bbox": [
+          0.1464,
+          0.4611,
+          0.8431,
+          0.517
+        ],
+        "snippet": "par voie de rachat de 450 actions de 12 euros de nominal chacune, appartenant à Monsieur Philippe SILVAiN, ce qui est expressément accepté par ce dernier, au prix de 480 euros par action, soit un prix global de 216.000 euros."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Share transfer from Philippe SILVAIN, same transaction as v0 buy-back. Price verified: 450 shares × 480 EUR/share = 216,000 EUR. Matches snippet exactly."
+    },
+    {
+      "event_id": "evt_06",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2024-10-31",
+      "payload": {
+        "from_name": "SILVAIN Philippe",
+        "to_name": "CREAMANDE",
+        "shares": 450.0,
+        "price_eur": 216000.0
+      },
+      "source": {
+        "inpi_id": "676b78dbe816b0b1d20447dd",
+        "page": 2,
+        "bbox": [
+          0.1278,
+          0.7953,
+          0.894,
+          0.8922
+        ],
+        "snippet": "Le Président constate que la demande reçue porte sur le rachat de 450 actions détenues en pleine propriété par Monsieur Philippe SILVAIN qu'il détient dans le capital de la Société, d'une valeur nominale de 12 euros chacune, pour un prix de rachat par action de 480 euros, soit un prix total de rachat de 216.000 euros."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real share transfer event (rachat et annulation). Amounts reconcile: 450 shares × 12 EUR nominal = 5400 EUR capital effect (matches v0); 450 shares × 480 EUR/share = 216000 EUR purchase price. Caveat: known state lists Philippe with only 25 shares, not 450—suggests either known state omits pre-event holdings or there are unlisted shareholders; the context explicitly flags shareholder data as provisional and unadjusted for the 5400 decrease."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "1995-04-10",
+      "capital_eur": null,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "SILVAIN Philippe",
+          "kind": "PERSON",
+          "shares": 25.0,
+          "pct": null
+        },
+        {
+          "name": "SILVAIN Pierre",
+          "kind": "PERSON",
+          "shares": 25.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ]
+    },
+    {
+      "as_of": "2017-05-31",
+      "capital_eur": 30000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "SILVAIN Philippe",
+          "kind": "PERSON",
+          "shares": 25.0,
+          "pct": null
+        },
+        {
+          "name": "SILVAIN Pierre",
+          "kind": "PERSON",
+          "shares": 25.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_03"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2024-10-31",
+      "capital_eur": 24600.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "CREAMANDE",
+          "kind": "COMPANY",
+          "shares": 900.0,
+          "pct": null
+        },
+        {
+          "name": "SILVAIN Pierre",
+          "kind": "PERSON",
+          "shares": 25.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_04",
+        "evt_05",
+        "evt_06"
+      ],
+      "notes": [
+        "5400-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot.",
+        "SILVAIN Philippe reached -425 shares and was dropped from the cap table."
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 401009741 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

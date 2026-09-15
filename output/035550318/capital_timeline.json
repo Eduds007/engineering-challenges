@@ -1,0 +1,39 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "1996-12-20",
+      "capital_eur": 100433.4,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+        "152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot."
+      ]
+    },
+    {
+      "as_of": "2000-12-22",
+      "capital_eur": 164750,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_03"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": [
+    "1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+    "1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot.",
+    "2000-12-22: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+  ],
+  "graph_nodes": 1,
+  "graph_edges": 0
+}

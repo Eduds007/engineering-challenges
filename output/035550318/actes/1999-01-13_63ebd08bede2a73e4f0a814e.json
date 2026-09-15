@@ -1,0 +1,488 @@
+{
+  "doc_id": "63ebd08bede2a73e4f0a814e",
+  "pdf": "acte_1999-01-13_63ebd08bede2a73e4f0a814e.pdf",
+  "n_pages": 2,
+  "pages": [
+    {
+      "page": 1,
+      "text": "'\nDuplicata\nGREFFE\nDU\nTRiBUNAL DE COMMERCE\nDE DOLE\nRECEPISSEDEDEPOT\n39 RUE DES ARENES B.P.72\n39108 DOLE CEDEX\nTEL : 03.84.72.24.09. TELECOPIE : 03.84.82.60.80.\nMINITEL 24H/24 : 08 36 29 22 22\nREVISION & FINANCE - COGEFOR\n103 AVENUE EISENHOWER\n39100 DOLE\nV/REF : JPF/MP - 89\nN/REF : 55 B 31 / A-16\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DOLE CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 13/01/99, SOUS LE NUMERO A-16,\nP.V. D'ASSEMBLEE DU 18/12/98\nRENOUVELLEMENT DES MANDATS DES COMMISSAIRES AUX COMPTES\nCONCERNANT LA SOCIETE\nORTELLI ET CIE\nSOCIETE ANONYME\n39100 BREVANS\nR.C.S DOLE B 035 550 318 (55 B 31)\nLE GREFFIER\nL'ORIGINAL DÉLIVRÉ PAR LE GREFFE DU TRIBUNAL DE COMMERCE EST ÉTABLI SUR PAPIER TRAMÉ",
+      "lines": [
+        {
+          "text": "'",
+          "bbox_norm": [
+            0.3125,
+            0.0181,
+            0.3201,
+            0.0273
+          ]
+        },
+        {
+          "text": "Duplicata",
+          "bbox_norm": [
+            0.0256,
+            0.0498,
+            0.0931,
+            0.0615
+          ]
+        },
+        {
+          "text": "GREFFE",
+          "bbox_norm": [
+            0.0973,
+            0.0645,
+            0.1424,
+            0.0747
+          ]
+        },
+        {
+          "text": "DU",
+          "bbox_norm": [
+            0.1111,
+            0.0787,
+            0.1299,
+            0.0893
+          ]
+        },
+        {
+          "text": "TRiBUNAL DE COMMERCE",
+          "bbox_norm": [
+            0.0486,
+            0.0927,
+            0.1924,
+            0.103
+          ]
+        },
+        {
+          "text": "DE DOLE",
+          "bbox_norm": [
+            0.091,
+            0.1069,
+            0.1437,
+            0.1177
+          ]
+        },
+        {
+          "text": "RECEPISSEDEDEPOT",
+          "bbox_norm": [
+            0.3931,
+            0.1167,
+            0.8099,
+            0.1313
+          ]
+        },
+        {
+          "text": "39 RUE DES ARENES B.P.72",
+          "bbox_norm": [
+            0.0341,
+            0.1347,
+            0.2132,
+            0.146
+          ]
+        },
+        {
+          "text": "39108 DOLE CEDEX",
+          "bbox_norm": [
+            0.0354,
+            0.1509,
+            0.15,
+            0.1611
+          ]
+        },
+        {
+          "text": "TEL : 03.84.72.24.09. TELECOPIE : 03.84.82.60.80.",
+          "bbox_norm": [
+            0.0341,
+            0.1636,
+            0.3834,
+            0.1758
+          ]
+        },
+        {
+          "text": "MINITEL 24H/24 : 08 36 29 22 22",
+          "bbox_norm": [
+            0.0341,
+            0.1782,
+            0.257,
+            0.1905
+          ]
+        },
+        {
+          "text": "REVISION & FINANCE - COGEFOR",
+          "bbox_norm": [
+            0.5125,
+            0.2471,
+            0.8452,
+            0.2618
+          ]
+        },
+        {
+          "text": "103 AVENUE EISENHOWER",
+          "bbox_norm": [
+            0.5139,
+            0.2758,
+            0.7633,
+            0.2906
+          ]
+        },
+        {
+          "text": "39100 DOLE",
+          "bbox_norm": [
+            0.5147,
+            0.3057,
+            0.6348,
+            0.3194
+          ]
+        },
+        {
+          "text": "V/REF : JPF/MP - 89",
+          "bbox_norm": [
+            0.2313,
+            0.3335,
+            0.459,
+            0.3492
+          ]
+        },
+        {
+          "text": "N/REF : 55 B 31 / A-16",
+          "bbox_norm": [
+            0.2318,
+            0.3481,
+            0.4931,
+            0.3639
+          ]
+        },
+        {
+          "text": "LE GREFFIER DU TRIBUNAL DE COMMERCE DE DOLE CERTIFIE",
+          "bbox_norm": [
+            0.0798,
+            0.3911,
+            0.6931,
+            0.4068
+          ]
+        },
+        {
+          "text": "QU'IL LUI A ETE DEPOSE A LA DATE DU 13/01/99, SOUS LE NUMERO A-16,",
+          "bbox_norm": [
+            0.0813,
+            0.4043,
+            0.8543,
+            0.4224
+          ]
+        },
+        {
+          "text": "P.V. D'ASSEMBLEE DU 18/12/98",
+          "bbox_norm": [
+            0.0805,
+            0.4355,
+            0.4126,
+            0.4502
+          ]
+        },
+        {
+          "text": "RENOUVELLEMENT DES MANDATS DES COMMISSAIRES AUX COMPTES",
+          "bbox_norm": [
+            0.0813,
+            0.4492,
+            0.7286,
+            0.4654
+          ]
+        },
+        {
+          "text": "CONCERNANT LA SOCIETE",
+          "bbox_norm": [
+            0.1167,
+            0.4947,
+            0.3778,
+            0.5083
+          ]
+        },
+        {
+          "text": "ORTELLI ET CIE",
+          "bbox_norm": [
+            0.141,
+            0.5098,
+            0.3083,
+            0.5229
+          ]
+        },
+        {
+          "text": "SOCIETE ANONYME",
+          "bbox_norm": [
+            0.141,
+            0.5234,
+            0.3195,
+            0.5376
+          ]
+        },
+        {
+          "text": "39100 BREVANS",
+          "bbox_norm": [
+            0.143,
+            0.5381,
+            0.2965,
+            0.5513
+          ]
+        },
+        {
+          "text": "R.C.S",
+          "bbox_norm": [
+            0.1424,
+            0.5679,
+            0.2042,
+            0.5801
+          ]
+        },
+        {
+          "text": "DOLE",
+          "bbox_norm": [
+            0.2237,
+            0.5674,
+            0.2757,
+            0.5806
+          ]
+        },
+        {
+          "text": "B",
+          "bbox_norm": [
+            0.2924,
+            0.5679,
+            0.3105,
+            0.5791
+          ]
+        },
+        {
+          "text": "035 550 318",
+          "bbox_norm": [
+            0.3271,
+            0.5665,
+            0.4633,
+            0.5801
+          ]
+        },
+        {
+          "text": "(55 B 31)",
+          "bbox_norm": [
+            0.455,
+            0.5645,
+            0.5862,
+            0.5811
+          ]
+        },
+        {
+          "text": "LE GREFFIER",
+          "bbox_norm": [
+            0.6096,
+            0.6079,
+            0.7424,
+            0.6217
+          ]
+        },
+        {
+          "text": "L'ORIGINAL DÉLIVRÉ PAR LE GREFFE DU TRIBUNAL DE COMMERCE EST ÉTABLI SUR PAPIER TRAMÉ",
+          "bbox_norm": [
+            0.1104,
+            0.9595,
+            0.8932,
+            0.9786
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "r\nORTELLI & CIE\nSociété Anonyme au capital de F. 659 000\nSiège Social : 7, rue des Vignes 39100 BREVANS\nDOLE B 035 550 318\nEXTRAIT DE\nL'ASSEMBLEE GENERALE ORDINAIRE ANNUELLE\nDU 18 DECEMBRE 1998\n--== 000 ==--\nQUATRIEME RESOLUTION\nLes mandats de Monsieur Gérard MARY, Commissaire aux Comptes titulaire, et de Monsieur\nClaude RICHARD, Commissaire aux Comptes suppléant arrivant à expiration lors de la\nprésente Assemblée, l'Assemblée Générale décide de les renouveler dans leurs fonctions pour\nune nouvelle période de six exercices, soit jusqu'à l'issue de la réunion de l'Assemblée\nGénérale Ordinaire appelée à statuer sur les comptes de l'exercice clos le 30 juin 2004.\nCette résolution est adoptée à l'unanimité.\nLe Président du Conseil d'Administration\n- Jean-Baptiste ORTELLY-\n10\nCERTIFIÉ CONFORME\nRF",
+      "lines": [
+        {
+          "text": "r",
+          "bbox_norm": [
+            0.3118,
+            0.022,
+            0.3173,
+            0.0269
+          ]
+        },
+        {
+          "text": "ORTELLI & CIE",
+          "bbox_norm": [
+            0.4625,
+            0.0835,
+            0.6216,
+            0.0982
+          ]
+        },
+        {
+          "text": "Société Anonyme au capital de F. 659 000",
+          "bbox_norm": [
+            0.359,
+            0.0996,
+            0.7244,
+            0.1147
+          ]
+        },
+        {
+          "text": "Siège Social : 7, rue des Vignes 39100 BREVANS",
+          "bbox_norm": [
+            0.3278,
+            0.1172,
+            0.757,
+            0.1319
+          ]
+        },
+        {
+          "text": "DOLE B 035 550 318",
+          "bbox_norm": [
+            0.4493,
+            0.1347,
+            0.6354,
+            0.148
+          ]
+        },
+        {
+          "text": "EXTRAIT DE",
+          "bbox_norm": [
+            0.482,
+            0.1978,
+            0.6022,
+            0.2109
+          ]
+        },
+        {
+          "text": "L'ASSEMBLEE GENERALE ORDINAIRE ANNUELLE",
+          "bbox_norm": [
+            0.3077,
+            0.2148,
+            0.7764,
+            0.2261
+          ]
+        },
+        {
+          "text": "DU 18 DECEMBRE 1998",
+          "bbox_norm": [
+            0.4375,
+            0.2299,
+            0.6459,
+            0.2427
+          ]
+        },
+        {
+          "text": "--== 000 ==--",
+          "bbox_norm": [
+            0.4876,
+            0.2618,
+            0.5972,
+            0.2749
+          ]
+        },
+        {
+          "text": "QUATRIEME RESOLUTION",
+          "bbox_norm": [
+            0.4159,
+            0.3549,
+            0.6689,
+            0.3726
+          ]
+        },
+        {
+          "text": "Les mandats de Monsieur Gérard MARY, Commissaire aux Comptes titulaire, et de Monsieur",
+          "bbox_norm": [
+            0.1909,
+            0.3887,
+            0.8952,
+            0.4018
+          ]
+        },
+        {
+          "text": "Claude RICHARD, Commissaire aux Comptes suppléant arrivant à expiration lors de la",
+          "bbox_norm": [
+            0.1917,
+            0.4034,
+            0.8965,
+            0.418
+          ]
+        },
+        {
+          "text": "présente Assemblée, l'Assemblée Générale décide de les renouveler dans leurs fonctions pour",
+          "bbox_norm": [
+            0.1909,
+            0.4194,
+            0.8967,
+            0.4346
+          ]
+        },
+        {
+          "text": "une nouvelle période de six exercices, soit jusqu'à l'issue de la réunion de l'Assemblée",
+          "bbox_norm": [
+            0.1909,
+            0.4355,
+            0.8967,
+            0.4507
+          ]
+        },
+        {
+          "text": "Générale Ordinaire appelée à statuer sur les comptes de l'exercice clos le 30 juin 2004.",
+          "bbox_norm": [
+            0.1909,
+            0.4507,
+            0.8355,
+            0.4663
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.1924,
+            0.4839,
+            0.5007,
+            0.497
+          ]
+        },
+        {
+          "text": "Le Président du Conseil d'Administration",
+          "bbox_norm": [
+            0.5661,
+            0.5767,
+            0.8751,
+            0.5913
+          ]
+        },
+        {
+          "text": "- Jean-Baptiste ORTELLY-",
+          "bbox_norm": [
+            0.6271,
+            0.5928,
+            0.834,
+            0.6074
+          ]
+        },
+        {
+          "text": "10",
+          "bbox_norm": [
+            0.7598,
+            0.6153,
+            0.7973,
+            0.6328
+          ]
+        },
+        {
+          "text": "CERTIFIÉ CONFORME",
+          "bbox_norm": [
+            0.5626,
+            0.6807,
+            0.8313,
+            0.7124
+          ]
+        },
+        {
+          "text": "RF",
+          "bbox_norm": [
+            0.8029,
+            0.9547,
+            0.8514,
+            0.9815
+          ]
+        }
+      ]
+    }
+  ],
+  "full_text": "[PAGE 1]\n'\nDuplicata\nGREFFE\nDU\nTRiBUNAL DE COMMERCE\nDE DOLE\nRECEPISSEDEDEPOT\n39 RUE DES ARENES B.P.72\n39108 DOLE CEDEX\nTEL : 03.84.72.24.09. TELECOPIE : 03.84.82.60.80.\nMINITEL 24H/24 : 08 36 29 22 22\nREVISION & FINANCE - COGEFOR\n103 AVENUE EISENHOWER\n39100 DOLE\nV/REF : JPF/MP - 89\nN/REF : 55 B 31 / A-16\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DOLE CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 13/01/99, SOUS LE NUMERO A-16,\nP.V. D'ASSEMBLEE DU 18/12/98\nRENOUVELLEMENT DES MANDATS DES COMMISSAIRES AUX COMPTES\nCONCERNANT LA SOCIETE\nORTELLI ET CIE\nSOCIETE ANONYME\n39100 BREVANS\nR.C.S DOLE B 035 550 318 (55 B 31)\nLE GREFFIER\nL'ORIGINAL DÉLIVRÉ PAR LE GREFFE DU TRIBUNAL DE COMMERCE EST ÉTABLI SUR PAPIER TRAMÉ\n\n[PAGE 2]\nr\nORTELLI & CIE\nSociété Anonyme au capital de F. 659 000\nSiège Social : 7, rue des Vignes 39100 BREVANS\nDOLE B 035 550 318\nEXTRAIT DE\nL'ASSEMBLEE GENERALE ORDINAIRE ANNUELLE\nDU 18 DECEMBRE 1998\n--== 000 ==--\nQUATRIEME RESOLUTION\nLes mandats de Monsieur Gérard MARY, Commissaire aux Comptes titulaire, et de Monsieur\nClaude RICHARD, Commissaire aux Comptes suppléant arrivant à expiration lors de la\nprésente Assemblée, l'Assemblée Générale décide de les renouveler dans leurs fonctions pour\nune nouvelle période de six exercices, soit jusqu'à l'issue de la réunion de l'Assemblée\nGénérale Ordinaire appelée à statuer sur les comptes de l'exercice clos le 30 juin 2004.\nCette résolution est adoptée à l'unanimité.\nLe Président du Conseil d'Administration\n- Jean-Baptiste ORTELLY-\n10\nCERTIFIÉ CONFORME\nRF"
+}

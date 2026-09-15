@@ -1,0 +1,458 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2005-01-05",
+      "capital_eur": 37000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": null
+        },
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": null
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02",
+        "evt_03",
+        "evt_04"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2005-01-25",
+      "capital_eur": 37000.0,
+      "shares_total": 370.0,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": 41.8919
+        },
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": 41.8919
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": 16.2162
+        }
+      ],
+      "caused_by": [
+        "snapshot:63e9593b8be6eb9f9d257ec5:p3"
+      ]
+    },
+    {
+      "as_of": "2005-05-17",
+      "capital_eur": 150000.0,
+      "shares_total": 1500,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "UNKNOWN (unallocated shares from evt_05, 2005-05-17)",
+          "kind": "UNKNOWN",
+          "shares": 1130.0,
+          "pct": 75.3333
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": 10.3333
+        },
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": 10.3333
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "evt_05"
+      ],
+      "notes": [
+        "1130 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_05, 2005-05-17)'."
+      ]
+    },
+    {
+      "as_of": "2005-08-08",
+      "capital_eur": 150000.0,
+      "shares_total": 1500.0,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 823.0,
+          "pct": 54.8667
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 617.0,
+          "pct": 41.1333
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "snapshot:63e9593b8be6eb9f9d257ec2:p6"
+      ]
+    },
+    {
+      "as_of": "2005-08-16",
+      "capital_eur": 150000.0,
+      "shares_total": 1500.0,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 823.0,
+          "pct": 54.8667
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 617.0,
+          "pct": 41.1333
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "evt_06",
+        "evt_07",
+        "evt_08"
+      ]
+    },
+    {
+      "as_of": "2006-10-20",
+      "capital_eur": 200000.0,
+      "shares_total": 2000,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 973.0,
+          "pct": 48.65
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 722.0,
+          "pct": 36.1
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 225.0,
+          "pct": 11.25
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 80.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "evt_09",
+        "evt_10",
+        "evt_11"
+      ],
+      "notes": [
+        "500 new shares allocated per the subscription table in 63e9593b8be6eb9f9d257ec7."
+      ]
+    },
+    {
+      "as_of": "2008-05-14",
+      "capital_eur": 200000.0,
+      "shares_total": 2000,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 973.0,
+          "pct": 48.65
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 722.0,
+          "pct": 36.1
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 225.0,
+          "pct": 11.25
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 80.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "evt_12"
+      ]
+    },
+    {
+      "as_of": "2008-06-27",
+      "capital_eur": 368102.0,
+      "shares_total": 368102,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 54.3328,
+          "siren": "499979540"
+        },
+        {
+          "name": "FPCI SECURITE",
+          "kind": "COMPANY",
+          "shares": 64655.0,
+          "pct": 17.5644
+        },
+        {
+          "name": "FPCI FINANCIERE DE BRIENNE",
+          "kind": "COMPANY",
+          "shares": 43103.0,
+          "pct": 11.7095
+        },
+        {
+          "name": "GALIA VENTURE",
+          "kind": "COMPANY",
+          "shares": 30172.0,
+          "pct": 8.1966
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.6838
+        },
+        {
+          "name": "FIP GALIA PME 4",
+          "kind": "COMPANY",
+          "shares": 12931.0,
+          "pct": 3.5129
+        }
+      ],
+      "caused_by": [
+        "nominal_split:63e9593b8be6eb9f9d257ec3:p1",
+        "sole_holder_transition:63e9593b8be6eb9f9d257ec3:p1",
+        "evt_13",
+        "evt_14",
+        "evt_15"
+      ],
+      "notes": [
+        "par-value split by 100: share counts multiplied, capital unchanged.",
+        "HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL, Michel CAPGRAS (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule.",
+        "17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_13, 2008-06-27)'.",
+        "150861 new shares allocated per the subscription table in 63e9593a8be6eb9f9d257ebe."
+      ]
+    },
+    {
+      "as_of": "2011-05-20",
+      "capital_eur": 368102.0,
+      "shares_total": 368102,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 54.3328,
+          "siren": "499979540"
+        },
+        {
+          "name": "FPCI SECURITE",
+          "kind": "COMPANY",
+          "shares": 64655.0,
+          "pct": 17.5644
+        },
+        {
+          "name": "FPCI FINANCIERE DE BRIENNE",
+          "kind": "COMPANY",
+          "shares": 43103.0,
+          "pct": 11.7095
+        },
+        {
+          "name": "GALIA VENTURE",
+          "kind": "COMPANY",
+          "shares": 30172.0,
+          "pct": 8.1966
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.6838
+        },
+        {
+          "name": "FIP GALIA PME 4",
+          "kind": "COMPANY",
+          "shares": 12931.0,
+          "pct": 3.5129
+        }
+      ],
+      "caused_by": [
+        "evt_16"
+      ]
+    },
+    {
+      "as_of": "2017-01-19",
+      "capital_eur": 368102.0,
+      "shares_total": 368102,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 54.3328,
+          "siren": "499979540"
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.6838
+        },
+        {
+          "name": "FIP GALIA PME 4",
+          "kind": "COMPANY",
+          "shares": 12931.0,
+          "pct": 3.5129
+        }
+      ],
+      "caused_by": [
+        "evt_17",
+        "evt_18",
+        "evt_19",
+        "evt_20",
+        "evt_21"
+      ],
+      "notes": [
+        "FPCI SECURITE recorded as exiting, but still shows 64655 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap.",
+        "GALIA VENTURE recorded as exiting, but still shows 30172 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap.",
+        "FPCI FINANCIERE DE BRIENNE recorded as exiting, but still shows 43103 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap."
+      ]
+    },
+    {
+      "as_of": "2017-02-21",
+      "capital_eur": 217241.0,
+      "shares_total": 217241,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 92.0637,
+          "siren": "499979540"
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 7.9363
+        }
+      ],
+      "caused_by": [
+        "evt_22"
+      ],
+      "notes": [
+        "buyback applied by name per the list in 63e9593a8be6eb9f9d257ebe: FIP GALIA PME 4 (12931)",
+        "FIP GALIA PME 4 reached 0 shares and was dropped from the cap table."
+      ]
+    },
+    {
+      "as_of": "2018-03-23",
+      "capital_eur": 400000.0,
+      "shares_total": 400000,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 368254.61,
+          "pct": 92.0637,
+          "siren": "499979540"
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 31745.39,
+          "pct": 7.9363
+        }
+      ],
+      "caused_by": [
+        "evt_23"
+      ],
+      "notes": [
+        "182759 new shares from incorporation of reserves — distributed pro-rata to existing holders."
+      ]
+    }
+  ],
+  "notes": [
+    "2005-01-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+    "2005-05-17: 1130 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_05, 2005-05-17)'.",
+    "2006-10-20: 500 new shares allocated per the subscription table in 63e9593b8be6eb9f9d257ec7.",
+    "2008-06-27: par-value split by 100: share counts multiplied, capital unchanged.",
+    "2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL, Michel CAPGRAS (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule.",
+    "2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_13, 2008-06-27)'.",
+    "2008-06-27: 150861 new shares allocated per the subscription table in 63e9593a8be6eb9f9d257ebe.",
+    "2017-01-19: FPCI SECURITE recorded as exiting, but still shows 64655 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap.",
+    "2017-01-19: GALIA VENTURE recorded as exiting, but still shows 30172 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap.",
+    "2017-01-19: FPCI FINANCIERE DE BRIENNE recorded as exiting, but still shows 43103 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap.",
+    "2017-02-21: buyback applied by name per the list in 63e9593a8be6eb9f9d257ebe: FIP GALIA PME 4 (12931)",
+    "2017-02-21: FIP GALIA PME 4 reached 0 shares and was dropped from the cap table.",
+    "2018-03-23: 182759 new shares from incorporation of reserves — distributed pro-rata to existing holders."
+  ],
+  "graph_nodes": 8,
+  "graph_edges": 8
+}
