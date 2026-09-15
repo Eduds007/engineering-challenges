@@ -9,7 +9,7 @@ around 10 hours (8hrs problem solving + 2hrs presentations, review and writting)
 
 ## Screen recording
 
-https://youtu.be/W6lRL8Q7-lo
+https://youtu.be/F8evUHCI6qo
 
 ## What's here
 
