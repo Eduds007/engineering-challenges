@@ -1,0 +1,2365 @@
+{
+  "siren": "480489707",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2005-05-17",
+      "payload": {
+        "amount_eur": 113000.0,
+        "capital_after_eur": 150000.0,
+        "method": "création de 1 130 actions nouvelles de numéraire de 100 euros"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec4",
+        "page": 2,
+        "bbox": [
+          0.1209,
+          0.7672,
+          0.8896,
+          0.817
+        ],
+        "snippet": "pport du Président, constate la réalisation définitive de l'augmentation de capital de 113 000 € par la création de 1 130 actions nouvelles de numéraire de 100 euros , pour porter le capital à 150 000 €. La rédaction de l'"
+      },
+      "n_corroborations": 8,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebd",
+          "page": 5,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 9,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 6,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 3,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 4,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        }
+      ],
+      "extraction_note": "Augmentation de capital explicite ; le capital antérieur implicite est de 37 000 €."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2005-08-16",
+      "payload": {
+        "holder_name": "Malik GUELLATI"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec2",
+        "page": 6,
+        "bbox": [
+          0.1052,
+          0.6538,
+          0.8721,
+          0.6988
+        ],
+        "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
+      },
+      "n_corroborations": 1
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2005-08-16",
+      "payload": {
+        "holder_name": "Christophe LEROUX"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec2",
+        "page": 6,
+        "bbox": [
+          0.1052,
+          0.6538,
+          0.8721,
+          0.6988
+        ],
+        "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
+      },
+      "n_corroborations": 1
+    },
+    {
+      "event_id": "evt_04",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2005-08-16",
+      "payload": {
+        "holder_name": "Marielle ROUJEAN"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec2",
+        "page": 6,
+        "bbox": [
+          0.1052,
+          0.6538,
+          0.8721,
+          0.6988
+        ],
+        "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
+      },
+      "n_corroborations": 1
+    },
+    {
+      "event_id": "evt_05",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2006-10-20",
+      "payload": {
+        "amount_eur": 50000.0,
+        "capital_after_eur": 200000.0,
+        "capital_before_eur": 150000.0,
+        "method": "création de 500 actions nouvelles de 100 euros de valeur nominale chacune, émises au pair, à libérer en totalité lors de la souscription, par compensation avec des créances certaines, liquides et exigibles sur la Société"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec7",
+        "page": 3,
+        "bbox": [
+          0.0479,
+          0.1685,
+          0.9479,
+          0.2007
+        ],
+        "snippet": "el de souscription, d'augmenter le capital social d'une somme de 50.000 euros, pour le porter de 150.000 euros à 200.000 euros, par création de 50"
+      },
+      "n_corroborations": 7,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 9,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 6,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 4,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 5,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        }
+      ]
+    },
+    {
+      "event_id": "evt_06",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2006-10-20",
+      "payload": {
+        "holder_name": "Michel CAPGRAS",
+        "shares": 225
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec7",
+        "page": 5,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "L'Assemblée Générale, après avoir pris connaissance du rapport du Président agrée à devenir actionnaire Monsieur Michel CAPGRAS, né te 16 juillet 1956, demeurant 161 rue Jean-Jacques Rousseau à Montauban (82ooo), célibataire, de nationalité Française."
+      },
+      "n_corroborations": 1
+    },
+    {
+      "event_id": "evt_07",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2006-10-20",
+      "payload": {
+        "from_name": "Xavier AUMONT",
+        "to_name": "Michel CAPGRAS",
+        "shares": 225
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec7",
+        "page": 5,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "L'Assemblée Générale autorise Monsieur Xavier AUMONt à céder 225 actions à Monsieur Michel CAPGRAs. Ce faisant, chaque actionnaire renonce individuellement à son droit de préemption."
+      },
+      "n_corroborations": 1
+    },
+    {
+      "event_id": "evt_08",
+      "event_code": "CAPITAL_DUAL_CLASS",
+      "event_date": "2008-05-14",
+      "payload": {
+        "class_name": "A, A, A, A, A, A, A, A, A, A, A, A, B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B'",
+        "description": "Création d’actions de préférence de catégorie A L'Associée Unique, après avoir entendu la lecture du rappor"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 2,
+        "bbox": [
+          0.3228,
+          0.3901,
+          0.685,
+          0.4083
+        ],
+        "snippet": "al. 6EME RESOLUTION Création d’actions de préférence de catégorie A L'Associée Unique,"
+      },
+      "n_corroborations": 1
+    },
+    {
+      "event_id": "evt_09",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2008-06-27",
+      "payload": {
+        "amount_eur": 17241.0,
+        "capital_after_eur": 217241.0,
+        "method": null
+      },
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebd",
+        "page": 6,
+        "bbox": [
+          0.0972,
+          0.1998,
+          0.8273,
+          0.2306
+        ],
+        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 17.241 euros afin d’être porté à 217.241 euros. Aux termes de l'as"
+      },
+      "n_corroborations": 6,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 10,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 7,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 4,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 5,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        }
+      ]
+    },
+    {
+      "event_id": "evt_10",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2008-06-27",
+      "payload": {
+        "amount_eur": 150861.0,
+        "capital_after_eur": 368102.0,
+        "method": null
+      },
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebd",
+        "page": 6,
+        "bbox": [
+          0.0964,
+          0.2431,
+          0.8265,
+          0.2745
+        ],
+        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 150.861 euros afin d'être porté à 368.102 euros. ARTICLE 7 - CAPITA"
+      },
+      "n_corroborations": 6,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 10,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 7,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 4,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 5,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        }
+      ]
+    },
+    {
+      "event_id": "evt_11",
+      "event_code": "CAPITAL_DUAL_CLASS",
+      "event_date": "2008-06-27",
+      "payload": {
+        "class_name": "A, B, B'",
+        "description": "Creation of preference shares in three categories: Category A shares with preferential dividend rights (up to 35,000€ annually until 245,000€ aggregate or until AGM 2015), mandatory conversion rights, and maintenance of rights; Category B and B' shares with enhanced information rights, audit rights, committee representation rights, voting rights, and liquidation preference"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec1",
+        "page": 2,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Cette opération consiste en la création d'actions de préférence dites de catégorie « A » et de catégorie « B » et « B' », bénéficiant des droits particuliers suivants"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid event: creation of dual-class/preference shares (categories A, B, B') with preferential dividend, conversion, voting, and information rights. This is a share-class restructuring, not a routine profit allocation, and does not alter total share capital (capital_eur unchanged at 368102.0 EUR). No reconciliation mismatch to correct."
+    },
+    {
+      "event_id": "evt_12",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2010-11-30",
+      "payload": {
+        "amount_eur": 11043.06,
+        "capital_after_eur": 379145.06,
+        "method": "Reserved employee share offering (PEE) - cash subscription, up to 3% of capital, 26-month authorization"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec8",
+        "page": 4,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Proposition d’augmentation de capital réservée aux salariés (art. L225-129-6 du Code de commerce),... Le nombre total d’actions qui pourront être souscrites ne pourra pas dépasser 3% du capital social."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real capital increase via employee share offering (PEE). 368102 + 11043.06 = 379145.06, reconciles exactly with stated capital_after_eur. Snippet describes an actual decision to increase capital, not profit allocation."
+    },
+    {
+      "event_id": "evt_13",
+      "event_code": "CAPITAL_DECREASE",
+      "event_date": "2010-11-30",
+      "payload": {
+        "amount_eur": 11043.06,
+        "capital_after_eur": 368102.0,
+        "method": "cancellation of shares",
+        "amount_eur_source_text": 11043.06
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec9",
+        "page": 1,
+        "bbox": [
+          0.357,
+          0.1012,
+          0.653,
+          0.1163
+        ],
+        "snippet": "Au capital de 368.102 euros"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Capital decrease from 379145.06 to 368102.00 EUR (delta 11043.06) reconciles exactly with known prior capital; snippet confirms new capital of 368.102 euros."
+    },
+    {
+      "event_id": "evt_14",
+      "event_code": "CAPITAL_DUAL_CLASS",
+      "event_date": "2010-11-30",
+      "payload": {
+        "class_name": "Actions de préférence de catégorie A et catégorie B",
+        "description": "Le capital social est divisé en actions de préférence de catégorie A (217.241 actions) et en actions de préférence de catégorie B (150.861 actions), chacune avec des droits spécifiques et possibilité de conversion en actions ordinaires."
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec9",
+        "page": 7,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Il est divisé en actions de préférence de catégorie A et en actions de préférence de catégorie B, à savoir : 217.241 actions de préférence de catégorie A, 150.861 actions de préférence de catégorie B."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Dual-class share structure reclassification (217241 category A + 150861 category B = 368102 shares) consistent with post-decrease capital; no capital change amount to reconcile."
+    },
+    {
+      "event_id": "evt_15",
+      "event_code": "CAPITAL_DECREASE",
+      "event_date": "2017-02-21",
+      "payload": {
+        "amount_eur": 150861.0,
+        "capital_after_eur": 217241.0,
+        "capital_before_eur": 368102.0,
+        "method": "rachat d'actions (offre de rachat à tous les associés, puis annulation)",
+        "buyback_shares": 150861.0,
+        "buyback_price_eur": 2.72
+      },
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1133,
+          0.3834,
+          0.8801,
+          0.4176
+        ],
+        "snippet": "sident constate que le capital social est réduit de 150 861 euros pour être ramené de 368 102 euros à 217 241 euros et divisé en 217 24"
+      },
+      "n_corroborations": 5,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ebf",
+          "page": 3,
+          "event_date": "2017-01-19",
+          "source_kind": "llm_fallback_contextual"
+        },
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 3,
+          "event_date": "2017-02-21",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 10,
+          "event_date": "2017-02-21",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 7,
+          "event_date": "2017-02-21",
+          "source_kind": "recap"
+        }
+      ],
+      "extraction_note": "Valid capital decrease: snippet explicitly states capital reduced from 368102 to 217241 EUR (decrease of 150861 EUR), which reconciles exactly with known prior capital (217241 + 150861 = 368102). Date inferred from PV header."
+    },
+    {
+      "event_id": "evt_16",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2018-03-23",
+      "payload": {
+        "amount_eur": 185759.0,
+        "capital_after_eur": 400000.0,
+        "method": null
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec0",
+        "page": 3,
+        "bbox": [
+          0.1194,
+          0.2212,
+          0.8914,
+          0.2745
+        ],
+        "snippet": "te du 23 mars 2018, le capital social a été augmenté de 185 759 euros par incorporation de réserves pour être porté à 400 000 euros.\" Et l'article 7 es"
+      },
+      "n_corroborations": 1
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2005-01-25",
+      "capital_eur": null,
+      "shares_total": 370.0,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": 41.8919
+        },
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": 41.8919
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": 16.2162
+        }
+      ],
+      "caused_by": [
+        "snapshot:63e9593b8be6eb9f9d257ec5:p3"
+      ]
+    },
+    {
+      "as_of": "2005-05-17",
+      "capital_eur": 150000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": null
+        },
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": null
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2005-08-08",
+      "capital_eur": 150000.0,
+      "shares_total": 1500.0,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 823.0,
+          "pct": 54.8667
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 617.0,
+          "pct": 41.1333
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "snapshot:63e9593b8be6eb9f9d257ec2:p6"
+      ]
+    },
+    {
+      "as_of": "2005-08-16",
+      "capital_eur": 150000.0,
+      "shares_total": 1500.0,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 823.0,
+          "pct": 54.8667
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 617.0,
+          "pct": 41.1333
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "evt_02",
+        "evt_03",
+        "evt_04"
+      ]
+    },
+    {
+      "as_of": "2006-10-20",
+      "capital_eur": 200000.0,
+      "shares_total": 2000,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 973.0,
+          "pct": 48.65
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 722.0,
+          "pct": 36.1
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 225,
+          "pct": 11.25
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 80.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "evt_05",
+        "evt_06",
+        "evt_07"
+      ],
+      "notes": [
+        "500 new shares allocated per the subscription table in 63e9593b8be6eb9f9d257ec7."
+      ]
+    },
+    {
+      "as_of": "2008-05-14",
+      "capital_eur": 200000.0,
+      "shares_total": 2000,
+      "nominal_eur": 100.0,
+      "holders": [
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 973.0,
+          "pct": 48.65
+        },
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 722.0,
+          "pct": 36.1
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 225,
+          "pct": 11.25
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 80.0,
+          "pct": 4.0
+        }
+      ],
+      "caused_by": [
+        "evt_08"
+      ]
+    },
+    {
+      "as_of": "2008-06-27",
+      "capital_eur": 368102.0,
+      "shares_total": 368102,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 54.3328,
+          "siren": "499979540"
+        },
+        {
+          "name": "FPCI SECURITE",
+          "kind": "COMPANY",
+          "shares": 64655.0,
+          "pct": 17.5644
+        },
+        {
+          "name": "FPCI FINANCIERE DE BRIENNE",
+          "kind": "COMPANY",
+          "shares": 43103.0,
+          "pct": 11.7095
+        },
+        {
+          "name": "GALIA VENTURE",
+          "kind": "COMPANY",
+          "shares": 30172.0,
+          "pct": 8.1966
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_09, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.6838
+        },
+        {
+          "name": "FIP GALIA PME 4",
+          "kind": "COMPANY",
+          "shares": 12931.0,
+          "pct": 3.5129
+        }
+      ],
+      "caused_by": [
+        "nominal_split:63e9593b8be6eb9f9d257ec3:p1",
+        "sole_holder_transition:63e9593b8be6eb9f9d257ec3:p1",
+        "evt_09",
+        "evt_10",
+        "evt_11"
+      ],
+      "notes": [
+        "par-value split by 100: share counts multiplied, capital unchanged.",
+        "HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL, Michel CAPGRAS (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule.",
+        "17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_09, 2008-06-27)'.",
+        "150861 new shares allocated per the subscription table in 63e9593a8be6eb9f9d257ebe."
+      ]
+    },
+    {
+      "as_of": "2010-11-30",
+      "capital_eur": 368102.0,
+      "shares_total": 368102,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 54.3328,
+          "siren": "499979540"
+        },
+        {
+          "name": "FPCI SECURITE",
+          "kind": "COMPANY",
+          "shares": 64655.0,
+          "pct": 17.5644
+        },
+        {
+          "name": "FPCI FINANCIERE DE BRIENNE",
+          "kind": "COMPANY",
+          "shares": 43103.0,
+          "pct": 11.7095
+        },
+        {
+          "name": "GALIA VENTURE",
+          "kind": "COMPANY",
+          "shares": 30172.0,
+          "pct": 8.1966
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_09, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.6838
+        },
+        {
+          "name": "FIP GALIA PME 4",
+          "kind": "COMPANY",
+          "shares": 12931.0,
+          "pct": 3.5129
+        }
+      ],
+      "caused_by": [
+        "evt_12",
+        "evt_13",
+        "evt_14"
+      ],
+      "notes": [
+        "11043 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_12, 2010-11-30)'.",
+        "11043-share decrease matches the unallocated tranche 'UNKNOWN (unallocated shares from evt_12, 2010-11-30)' exactly — cancelled against it rather than a named holder (the decrease exactly reverses this unallocated tranche)."
+      ]
+    },
+    {
+      "as_of": "2017-02-21",
+      "capital_eur": 217241.0,
+      "shares_total": 217241,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 92.0637,
+          "siren": "499979540"
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_09, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 7.9363
+        }
+      ],
+      "caused_by": [
+        "evt_15"
+      ],
+      "notes": [
+        "buyback applied by name per the list in 63e9593a8be6eb9f9d257ebe: FPCI SECURITE (64655); FIP GALIA PME 4 (12931); GALIA VENTURE (30172); FPCI FINANCIERE DE BRIENNE (43103)",
+        "FPCI SECURITE reached 0 shares and was dropped from the cap table.",
+        "FIP GALIA PME 4 reached 0 shares and was dropped from the cap table.",
+        "GALIA VENTURE reached 0 shares and was dropped from the cap table.",
+        "FPCI FINANCIERE DE BRIENNE reached 0 shares and was dropped from the cap table."
+      ]
+    },
+    {
+      "as_of": "2018-03-23",
+      "capital_eur": 400000.0,
+      "shares_total": 400000,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 50.0,
+          "siren": "499979540"
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_16, 2018-03-23)",
+          "kind": "UNKNOWN",
+          "shares": 182759,
+          "pct": 45.6897
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_09, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.3102
+        }
+      ],
+      "caused_by": [
+        "evt_16"
+      ],
+      "notes": [
+        "amount_eur (185759) does not reconcile with capital before/after (217241 -> 400000, expected 182759) — left as-is, corpus/OCR inconsistency.",
+        "182759 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_16, 2018-03-23)'."
+      ]
+    }
+  ],
+  "notes": "Pipeline: rule-based extraction (regex calibrated on this corpus' actual phrasing) first, an LLM (Groq, openai/gpt-oss-120b) only as a validator for low-confidence candidates and a fallback reader for documents where the rules found nothing — see scripts/rules.py, extract_events.py, graph.py. capital_timeline is produced by a deterministic chronological replay (graph.py), not by an LLM narrating the answer.\n\nKnown gaps, left as gaps rather than guessed:\n- The 1,130 new shares from the 2005-05-17 increase have no named subscriber in the corpus; the next hard evidence (2005-08-16) already shows the post-cession state, so the 2005-05-17 snapshot's shares_total is left null rather than shown stale.\n- The 2008-06-27 \"Actions A\" tranche (17,241 shares, evt_09) has no subscriber named anywhere in the 17 filed acts and is carried through to 2018 as an explicit UNKNOWN holder rather than assumed to be HADEAN.\n- HADEAN's acquisition of 100% of ARCHEAN TECHNOLOGIES (first evidenced 2008-06-27, \"Associée Unique\") has no transfer/apport document in this corpus at all — reconstructed by diffing the cap table before/after that filing opens, the same rule applied to any SHAREHOLDER_END with no explicit cession text.\n- A 20-share discrepancy exists between the Aug-2005 répartition table (BLANCO 823 / AUMONT 617) and the attendance sheet of the Oct-2006 AGE for the same two shareholders (BLANCO 803 / AUMONT 637) — no document in the corpus records that movement. This pipeline uses the Aug-2005 figures as its base. A cross-check against HADEAN's own 2007 incorporation act (SIREN 499979540, outside this challenge's scope) states Xavier AUMONT contributed exactly 742 ARCHEAN shares, which matches the attendance-sheet-based figure (637+330-225) rather than this pipeline's (617+330-225=722) — the attendance-sheet numbers are likely the more accurate ones; not corrected here since only the répartition table is captured by the extraction code.\n- The 2018-03-23 increase's amount is internally inconsistent in its own source document: the operative text reads \"185,759 €\" but only \"182,759 €\" reconciles the known before/after capital (217,241 -> 400,000) exactly. 182,759 is used; 185,759 is kept on the event as a flagged conflicting_amount_alternates entry — likely a single OCR-plausible digit slip (5<->2), not corrected in the source itself.\n- The 4 institutional Actions-B subscribers (FPCI SECURITE, FIP GALIA PME 4, GALIA VENTURE, FPCI FINANCIERE DE BRIENNE) are never named in the 2008 increase's own filing — only in the 2017 buyback list, whose total (150,861) matches that tranche's size exactly. Their 2008 entry is inferred from that later document, flagged as such on the allocation, not asserted as directly sourced.\n\nCross-validation: an independent blind re-read of the same 17 documents (a separate agent, no access to this code or its output) converged on the same event set and, notably, found the same 185,759-vs-182,759 arithmetic inconsistency on its own.\n\nGroup bonus: see the top-level \"group\" field, built by scripts/extract_group.py (regex over the DGFiP Cerfa filiales/participations template, an LLM fallback for the free-text and attendance-sheet cases regex can't parse, entity resolution against this corpus' own 20 known SIRENs). Chain found: HADEAN (100% owner, via its own annual filings' 2033-G form) -> ARCHEAN TECHNOLOGIES -> ARCHEAN LABS / ARCHEAN MOTION (100% subsidiaries, via ARCHEAN's 2059-G form) -> and one hop further back, AIR SYSTEM SERVICE (~7.9% of HADEAN, visible only in HADEAN's own 2008 acte and a 2019 attendance sheet — never in anything ARCHEAN itself filed). ARCHEAN MOTION's own filing lists it under the parent's SIREN rather than its own; resolved:false rather than trusting that value. A few group.edges are exact duplicates (same relation, same date, corroborated by more than one source) not yet deduplicated — see README.md.\n\nCorpus-wide: this results.json covers ARCHEAN TECHNOLOGIES' own 17 actes only. CAPITAL_DUAL_CLASS events are included where grounded but are not scored per event_codes.json.",
+  "group": {
+    "nodes": [
+      {
+        "name": "CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN SARL",
+        "siren": "024057572",
+        "resolved": true
+      },
+      {
+        "name": "SK2R SAS",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "BERNACHON SA",
+        "siren": "328024377",
+        "resolved": true
+      },
+      {
+        "name": "EURL BERNACHON PASSION",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "SARL BERNACHON PARIS",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "ARCHEAN TECHNOLOGIES",
+        "siren": "480489707",
+        "resolved": true
+      },
+      {
+        "name": "HADEAN",
+        "siren": "499979540",
+        "resolved": true
+      },
+      {
+        "name": "ARCHEAN LABS",
+        "siren": "843071218",
+        "resolved": true
+      },
+      {
+        "name": "ARCHEAN MOTION",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "AIR SYSTEM SERVICE",
+        "siren": "352890354",
+        "resolved": true
+      },
+      {
+        "name": "SOCIETE ANONYME D'ECONOMIE MIXTE IMMOBILIERE ET ECONOMIQUE DE LA VILLE DE NIORT",
+        "siren": "027080076",
+        "resolved": true
+      },
+      {
+        "name": "HACT",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "NOVIMMO GESTION",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "LESUEUR & CIE",
+        "siren": "360500011",
+        "resolved": true
+      },
+      {
+        "name": "LESUEUR INVEST",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "SCI 13 octobre 1994",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "SCI Toitum",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "CREAMANDE",
+        "siren": "401009741",
+        "resolved": true
+      },
+      {
+        "name": "SCEA Paysansnougatier",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "CEROV FORMATION",
+        "siren": "412000887",
+        "resolved": true
+      },
+      {
+        "name": "HOLDING CEROV",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "JACQUES BOCKEL SARL",
+        "siren": "445070311",
+        "resolved": true
+      },
+      {
+        "name": "JACQUES BOCKEL & CO Strasbourg Sàrl",
+        "siren": null,
+        "resolved": false
+      },
+      {
+        "name": "CHANGE BY FIDSO",
+        "siren": null,
+        "resolved": false
+      }
+    ],
+    "edges": [
+      {
+        "from": "SK2R SAS",
+        "to": "CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN SARL",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2019-02-26",
+        "source": {
+          "inpi_id": "63e3429404dafca7f210aa82",
+          "page": 25,
+          "bbox": [
+            0.0402,
+            0.2818,
+            0.6169,
+            0.3336
+          ],
+          "snippet": "Forme juridique SAS Dénomination SK2R SAS\nN° SIREN (si société établie en France) 498662329 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "BERNACHON SA",
+        "to": "EURL BERNACHON PASSION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2020-12-24",
+        "source": {
+          "inpi_id": "63e8ebbb54febda17c19ee7c",
+          "page": 10,
+          "bbox": [
+            0.2473,
+            0.374,
+            0.8418,
+            0.3842
+          ],
+          "snippet": "EURL BERNACHON PASSION 69006 LYON 8 000 6 564 100,00 -90 121",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "BERNACHON SA",
+        "to": "SARL BERNACHON PARIS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2020-12-24",
+        "source": {
+          "inpi_id": "63e8ebbb54febda17c19ee7c",
+          "page": 10,
+          "bbox": [
+            0.2473,
+            0.3848,
+            0.8463,
+            0.3951
+          ],
+          "snippet": "SARL BERNACHON PARIS 69006 LYON 10 000 -19 367 100.00 -15 378",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2018-05-30",
+        "source": {
+          "inpi_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 2,
+          "bbox": [
+            0.1105,
+            0.3053,
+            0.8801,
+            0.3902
+          ],
+          "snippet": "La société HADEAN, représentée par Monsieur Xavier AUMONT, Président, en sa qualité\nd'Associée unique de la société ARCHEAN TECHNOLOGIES",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2021-09-22",
+        "source": {
+          "inpi_id": "63e9593d8be6eb9f9d257ed3",
+          "page": 19,
+          "bbox": [
+            0.0535,
+            0.2237,
+            0.8355,
+            0.2725
+          ],
+          "snippet": "Forme juridique SAS Dénomination HADEAN\nN° SIREN (si société établie en France) 499979540 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2021-09-22",
+        "source": {
+          "inpi_id": "63e9593d8be6eb9f9d257ed3",
+          "page": 20,
+          "bbox": [
+            0.0451,
+            0.2153,
+            0.7038,
+            0.251
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN LABS\nN° SIREN (si société établie en France) 843071218 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN MOTION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2021-09-22",
+        "source": {
+          "inpi_id": "63e9593d8be6eb9f9d257ed3",
+          "page": 20,
+          "bbox": [
+            0.0451,
+            0.2802,
+            0.7791,
+            0.3419
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN MOTION\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-01-18",
+        "source": {
+          "inpi_id": "63e9593e8be6eb9f9d257ed4",
+          "page": 19,
+          "bbox": [
+            0.0472,
+            0.2403,
+            0.8325,
+            0.272
+          ],
+          "snippet": "Forme juridique SAS Dénomination HADEAN\nN° SIREN (si société établie en France) 499979540 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-01-18",
+        "source": {
+          "inpi_id": "63e9593e8be6eb9f9d257ed4",
+          "page": 20,
+          "bbox": [
+            0.0431,
+            0.1908,
+            0.6231,
+            0.2491
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN LABS\nN° SIREN (si société établie en France) 843071218 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN MOTION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-01-18",
+        "source": {
+          "inpi_id": "63e9593e8be6eb9f9d257ed4",
+          "page": 20,
+          "bbox": [
+            0.0423,
+            0.2789,
+            0.7795,
+            0.341
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN MOTION\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-12-16",
+        "source": {
+          "inpi_id": "63e959408be6eb9f9d257ed5",
+          "page": 22,
+          "bbox": [
+            0.0591,
+            0.2474,
+            0.816,
+            0.2789
+          ],
+          "snippet": "Forme juridique SAS Dénomination HADEAN\nN° SIREN (si société établie en France) 499979540 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-12-16",
+        "source": {
+          "inpi_id": "63e959408be6eb9f9d257ed5",
+          "page": 23,
+          "bbox": [
+            0.0647,
+            0.224,
+            0.7012,
+            0.2766
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN LABS\nN° SIREN (si société établie en France) 843071218 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN MOTION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-12-16",
+        "source": {
+          "inpi_id": "63e959408be6eb9f9d257ed5",
+          "page": 23,
+          "bbox": [
+            0.0651,
+            0.3134,
+            0.7016,
+            0.3649
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN MOTION\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2023-11-08",
+        "source": {
+          "inpi_id": "65dd4b798addde99ed0b8c6f",
+          "page": 21,
+          "bbox": [
+            0.0653,
+            0.2484,
+            0.8251,
+            0.2792
+          ],
+          "snippet": "Forme juridique SAS Dénomination HADEAN\nN° SIREN (si société établie en France) 499979540 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2023-11-08",
+        "source": {
+          "inpi_id": "65dd4b798addde99ed0b8c6f",
+          "page": 22,
+          "bbox": [
+            0.0576,
+            0.2022,
+            0.6179,
+            0.257
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN LABS\nN° SIREN (si société établie en France) 843071218 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN MOTION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2023-11-08",
+        "source": {
+          "inpi_id": "65dd4b798addde99ed0b8c6f",
+          "page": 22,
+          "bbox": [
+            0.058,
+            0.2875,
+            0.7682,
+            0.3457
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN MOTION\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2025-02-12",
+        "source": {
+          "inpi_id": "67f7cef45ae6d989100521a6",
+          "page": 20,
+          "bbox": [
+            0.0706,
+            0.2495,
+            0.8252,
+            0.2798
+          ],
+          "snippet": "Forme juridique SAS Dénomination HADEAN\nN° SIREN (si société établie en France) 499979540 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2025-02-12",
+        "source": {
+          "inpi_id": "67f7cef45ae6d989100521a6",
+          "page": 21,
+          "bbox": [
+            0.059,
+            0.2267,
+            0.6908,
+            0.278
+          ],
+          "snippet": "Forme juridique SASU Dénomination ARCHEAN LABS\nN° SIREN (si société établie en France) 843071218 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN MOTION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2025-02-12",
+        "source": {
+          "inpi_id": "67f7cef45ae6d989100521a6",
+          "page": 21,
+          "bbox": [
+            0.059,
+            0.3139,
+            0.6908,
+            0.3661
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN MOTION\nN° SIREN (si société établie en France) % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2025-12-08",
+        "source": {
+          "inpi_id": "69a5a5f9c03aba07720a66d8",
+          "page": 17,
+          "bbox": [
+            0.0667,
+            0.272,
+            0.6932,
+            0.3173
+          ],
+          "snippet": "Forme juridique SAS Dénomination HADEAN\nN° SIREN (si société établie en France) 499979540 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2025-12-08",
+        "source": {
+          "inpi_id": "69a5a5f9c03aba07720a66d8",
+          "page": 18,
+          "bbox": [
+            0.0667,
+            0.2279,
+            0.6986,
+            0.2792
+          ],
+          "snippet": "Forme juridique SASU Dénomination ARCHEAN LABS\nN° SIREN (si société établie en France) 843071218 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN MOTION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2025-12-08",
+        "source": {
+          "inpi_id": "69a5a5f9c03aba07720a66d8",
+          "page": 18,
+          "bbox": [
+            0.0659,
+            0.3162,
+            0.6986,
+            0.3687
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN MOTION\nN° SIREN (si société établie en France) % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "AIR SYSTEM SERVICE",
+        "to": "HADEAN",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2008-05-29",
+        "source": {
+          "inpi_id": "63f0a89c7a07a2434c069137",
+          "page": 24,
+          "bbox": [
+            0.1153,
+            0.6094,
+            0.9209,
+            0.6416
+          ],
+          "snippet": "au profit de la société AIR SYSTEM SERVICE, RCS Montauban nº\n352 890 354, pour permettre l'émission de 1.836 actions nouvelles",
+          "grounding_method": "fuzzy"
+        },
+        "note": "1836 shares subscribed (percentage not computed here — needs the company's total share count at that date)"
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2021-09-22",
+        "source": {
+          "inpi_id": "63f0a89d7a07a2434c06913f",
+          "page": 8,
+          "bbox": [
+            0.0426,
+            0.2132,
+            0.7019,
+            0.2678
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2020-09-30",
+        "source": {
+          "inpi_id": "649cf63c032157154504a24e",
+          "page": 7,
+          "bbox": [
+            0.0549,
+            0.189,
+            0.9479,
+            0.248
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\ne\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-02-28",
+        "source": {
+          "inpi_id": "649cf63c032157154504a24f",
+          "page": 8,
+          "bbox": [
+            0.0431,
+            0.1925,
+            0.6215,
+            0.2495
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2023-11-08",
+        "source": {
+          "inpi_id": "65dd4fa8762d99271903b402",
+          "page": 8,
+          "bbox": [
+            0.0576,
+            0.2021,
+            0.6187,
+            0.2583
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2024-12-10",
+        "source": {
+          "inpi_id": "67c6c2df71fa54115c000f58",
+          "page": 11,
+          "bbox": [
+            0.059,
+            0.2025,
+            0.6144,
+            0.2584
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2021-09-27",
+        "source": {
+          "inpi_id": "63e00902f1cd45aa671d528b",
+          "page": 9,
+          "bbox": [
+            0.0479,
+            0.2582,
+            0.8306,
+            0.2882
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-01-18",
+        "source": {
+          "inpi_id": "63e00902f1cd45aa671d528c",
+          "page": 7,
+          "bbox": [
+            0.0485,
+            0.2408,
+            0.8332,
+            0.2887
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2022-10-28",
+        "source": {
+          "inpi_id": "63e00903f1cd45aa671d528d",
+          "page": 7,
+          "bbox": [
+            0.0709,
+            0.2635,
+            0.8285,
+            0.2948
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2023-11-09",
+        "source": {
+          "inpi_id": "65dd4a43c994f8bfd00a3daa",
+          "page": 9,
+          "bbox": [
+            0.0658,
+            0.248,
+            0.7084,
+            0.295
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2024-12-10",
+        "source": {
+          "inpi_id": "67c812d437b4ec8e0f0616a5",
+          "page": 10,
+          "bbox": [
+            0.0701,
+            0.2665,
+            0.8251,
+            0.2984
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN TECHNOLOGIES\nN° SIREN (si société établie en France) 480489707 % de détention 100.0000",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "SK2R SAS",
+        "to": "CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN SARL",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2021-04-01",
+        "source": {
+          "inpi_id": "63e3429404dafca7f210aa7c",
+          "page": 5,
+          "bbox": [
+            0.1173,
+            0.1198,
+            0.8819,
+            0.1756
+          ],
+          "snippet": "La société S.K2.R., Société par actions simplifiée (SAS), au capital de 1.600.000 euros, dont le siège social est sis à Immeuble Méga - Z.I. de KAwENI — 97600 MAMOUDZOU, immatriculée au Registre du commerce et des sociétés de MAMOUDZOU sous le numéro 498.662.329, ... Est l'associ",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "SOCIETE ANONYME D'ECONOMIE MIXTE IMMOBILIERE ET ECONOMIQUE DE LA VILLE DE NIORT",
+        "to": "HACT",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2024-09-09",
+        "source": {
+          "inpi_id": "66f3c57e27fe1b35210c0f26",
+          "page": 27,
+          "bbox": [
+            0.052,
+            0.3337,
+            0.5899,
+            0.366
+          ],
+          "snippet": "HACT 893280370 276.000,00 12.000,00 12.000,00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "SOCIETE ANONYME D'ECONOMIE MIXTE IMMOBILIERE ET ECONOMIQUE DE LA VILLE DE NIORT",
+        "to": "NOVIMMO GESTION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2025-08-06",
+        "source": {
+          "inpi_id": "68b1b2aeb138a6b36d071512",
+          "page": 26,
+          "bbox": [
+            0.0499,
+            0.3147,
+            0.6098,
+            0.3277
+          ],
+          "snippet": "NOVIMMO GESTION 984676163 20 000,00 100,00% 20 000,00 20 000,00",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "BERNACHON SA",
+        "to": "EURL BERNACHON PASSION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2021-06-30",
+        "source": {
+          "inpi_id": "63e8ebbb54febda17c19ee7d",
+          "page": 11,
+          "bbox": [
+            0.0919,
+            0.4015,
+            0.8499,
+            0.4541
+          ],
+          "snippet": "Filiales (détenues à + 50 %); EURL BERNACHON PASSION 8 -12 100,00 8 8 106 -27",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "BERNACHON SA",
+        "to": "EURL BERNACHON PASSION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2021-06-30",
+        "source": {
+          "inpi_id": "63e8ebbb54febda17c19ee7d",
+          "page": 33,
+          "bbox": [
+            0.2326,
+            0.3573,
+            0.6369,
+            0.4225
+          ],
+          "snippet": "- Filiales (détenues à + 50 %): EURL BERNACHON PASSION 8 -20 100,00 8 8 68 108 -27",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "BERNACHON SA",
+        "to": "EURL BERNACHON PASSION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2022-06-30",
+        "source": {
+          "inpi_id": "63e8ebbb54febda17c19ee7e",
+          "page": 12,
+          "bbox": [
+            0.0847,
+            0.4233,
+            0.8414,
+            0.4367
+          ],
+          "snippet": "EURL BERNACHON PASSION 8 -2 100,00 8 8 17 227 19",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "BERNACHON SA",
+        "to": "EURL BERNACHON PASSION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2022-06-30",
+        "source": {
+          "inpi_id": "63e8ebbb54febda17c19ee7e",
+          "page": 33,
+          "bbox": [
+            0.2326,
+            0.4108,
+            0.8135,
+            0.4219
+          ],
+          "snippet": "EURL BERNACHON PASSION 8 -2 100.00 8 8 17 227 19",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "BERNACHON SA",
+        "to": "SARL BERNACHON PARIS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2025-12-04",
+        "source": {
+          "inpi_id": "694668d1887250a34b0508fa",
+          "page": 12,
+          "bbox": [
+            0.061,
+            0.5986,
+            0.4939,
+            0.7052
+          ],
+          "snippet": "Filiales détenues à plus de 50 % PARIS BERNACHON 000,00 10 772,55 221] 100,00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "LESUEUR & CIE",
+        "to": "LESUEUR INVEST",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "1997-01-22",
+        "source": {
+          "inpi_id": "63f1035e3f2ad069a6132806",
+          "page": 58,
+          "bbox": [
+            0.1235,
+            0.5082,
+            0.8942,
+            0.5465
+          ],
+          "snippet": "les biens et droits apportés par LESUEUR INVEST à LESUEUR & Cie",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "LESUEUR & CIE",
+        "to": "SCI 13 octobre 1994",
+        "relation": "shareholder_of",
+        "pct": 76.26,
+        "as_of": "2017-05-05",
+        "source": {
+          "inpi_id": "642d64fbb52e37ed8805eb3c",
+          "page": 10,
+          "bbox": [
+            0.1743,
+            0.5093,
+            0.791,
+            0.5987
+          ],
+          "snippet": "Filiales (+50%) SCI 13 octobre 1994 241 538 76.26 263 362 79 279 36 800",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "LESUEUR & CIE",
+        "to": "SCI Toitum",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2017-05-05",
+        "source": {
+          "inpi_id": "642d64fcb52e37ed8805eb3d",
+          "page": 10,
+          "bbox": [
+            0.1811,
+            0.5102,
+            0.8966,
+            0.5259
+          ],
+          "snippet": "SCI Toitum 1 249 100 1 000 13 786 248 69 377",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "CREAMANDE",
+        "to": "SCEA Paysansnougatier",
+        "relation": "shareholder_of",
+        "pct": 99.8,
+        "as_of": "2025-04-30",
+        "source": {
+          "inpi_id": "68f0a715f28d8aaf48046416",
+          "page": 9,
+          "bbox": [
+            0.1145,
+            0.3314,
+            0.9012,
+            0.3831
+          ],
+          "snippet": "Filiales (détenues à + 50 %) SCEA SCEA Paysansnougatier 84210 SAINT-DIDIER 5 000 99,80 -35 867",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2015-03-17",
+        "source": {
+          "inpi_id": "63d9d64ab8ed6f35f60ae622",
+          "page": 2,
+          "bbox": [
+            0.1626,
+            0.3394,
+            0.8817,
+            0.3677
+          ],
+          "snippet": "la société « HOLDING CEROV », associée unique de la Société «CEROV FORMATION »",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2015-03-23",
+        "source": {
+          "inpi_id": "63d9d64ab8ed6f35f60ae622",
+          "page": 4,
+          "bbox": [
+            0.1619,
+            0.356,
+            0.8807,
+            0.3868
+          ],
+          "snippet": "entièrement libérées, numérotées de 1 à 500 et attribuées en totalité à la société HOLDING CEROV, associée unique.",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2015-03-17",
+        "source": {
+          "inpi_id": "63d9d64ab8ed6f35f60ae622",
+          "page": 15,
+          "bbox": [
+            0.1605,
+            0.7237,
+            0.8801,
+            0.794
+          ],
+          "snippet": "Madame Sylvie RAMBAUD, Monsieur Christophe PREAULT et Monsieur Sébastien PREAULT ont apporté chacun les 166 parts sociales numérotées respectivement 1 à 46, 184 à 228 et 351 à 425, 47 à 92 , 139 à 183 et 276 à 350, 93 à 138, 229 à 273 et 426 à 500 leur appartenant au capital de l",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 99.6,
+        "as_of": "2015-01-29",
+        "source": {
+          "inpi_id": "63d9d64ab8ed6f35f60ae623",
+          "page": 2,
+          "bbox": [
+            0.2577,
+            0.6406,
+            0.8815,
+            0.6866
+          ],
+          "snippet": "La société HOLDING CEROV, propriétaire de QUATRE CENT QUATRE VINGT DIX HUIT parts sociales, ci 498 Parts",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 99.6,
+        "as_of": "2015-01-29",
+        "source": {
+          "inpi_id": "63d9d64ab8ed6f35f60ae623",
+          "page": 5,
+          "bbox": [
+            0.2577,
+            0.6686,
+            0.8828,
+            0.7134
+          ],
+          "snippet": "A la SOciété HOLDING CEROV à cOnCurrenCe de QUATRE CENT QUATRE VINGT DIX HUIT parts sociales numérotées de, ci 498 Parts",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 99.6,
+        "as_of": "2015-01-29",
+        "source": {
+          "inpi_id": "63d9d64ab8ed6f35f60ae623",
+          "page": 24,
+          "bbox": [
+            0.1626,
+            0.5309,
+            0.8809,
+            0.6034
+          ],
+          "snippet": "Madame Sylvie RAMBAUD, Monsieur Christophe PREAULT et Monsieur Sébastien PREAULT ont apporté chacun les 166 parts sociales numérotées respectivement 46, 184 à 288 et 351 à 425, 47 à 92 , 139 à 183 et 276 à 350, 93 à 138, 229 à 273 et 426 à 500 leur appartenant au capital de la so",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2015-04-01",
+        "source": {
+          "inpi_id": "63d9d64bb8ed6f35f60ae628",
+          "page": 16,
+          "bbox": [
+            0.0681,
+            0.2774,
+            0.3238,
+            0.2897
+          ],
+          "snippet": "SARL HOLDING CEROV (société mère)",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2021-03-31",
+        "source": {
+          "inpi_id": "63d9d64bb8ed6f35f60ae62c",
+          "page": 21,
+          "bbox": [
+            0.0764,
+            0.1733,
+            0.9048,
+            0.3061
+          ],
+          "snippet": "Identité de la société mère consolidant les comptes\nDénomination sociale - Siège social Forme Capital social % détenu\nHOLDING CEROV SARL 332 000 100,00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2022-03-31",
+        "source": {
+          "inpi_id": "63d9d64bb8ed6f35f60ae62d",
+          "page": 21,
+          "bbox": null,
+          "snippet": "Identité de la société mère consolidant les comptes... HOLDING CEROV SARL ... % détenu 100,00",
+          "grounding_method": "none"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2023-03-31",
+        "source": {
+          "inpi_id": "65cc22ee1ff6221e070c2104",
+          "page": 22,
+          "bbox": [
+            0.0767,
+            0.1678,
+            0.9041,
+            0.3013
+          ],
+          "snippet": "Identité de la société mère consolidant les comptes\n.\nDénomination sociale - Siège social a E: Forme Capital social -il % détenu.\nHOLDING CEROV SARL 332 000 100,00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HOLDING CEROV",
+        "to": "CEROV FORMATION",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2025-03-31",
+        "source": {
+          "inpi_id": "6925c5064c0aef98020aeef6",
+          "page": 20,
+          "bbox": [
+            0.0749,
+            0.1708,
+            0.903,
+            0.3036
+          ],
+          "snippet": "Identité de la société mère consolidant les comptes\nDénomination sociale - Siège social Forme Capital social % détenu\nHOLDING CEROV SAS 166 000 100,00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "JACQUES BOCKEL SARL",
+        "to": "JACQUES BOCKEL & CO Strasbourg Sàrl",
+        "relation": "shareholder_of",
+        "pct": 95,
+        "as_of": "2017-06-30",
+        "source": {
+          "inpi_id": "63e2481b916269756a095428",
+          "page": 3,
+          "bbox": [
+            0.1318,
+            0.712,
+            0.8835,
+            0.7319
+          ],
+          "snippet": "JACQUES BOCKEL & CO Strasbourg Sàrl | 30/06/2017 | 95% | 15 000 | 1 102 002 | 103 724",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "JACQUES BOCKEL SARL",
+        "to": "JACQUES BOCKEL & CO Strasbourg Sàrl",
+        "relation": "shareholder_of",
+        "pct": 95,
+        "as_of": "2018-06-30",
+        "source": {
+          "inpi_id": "63e2481c916269756a09542a",
+          "page": 4,
+          "bbox": [
+            0.1529,
+            0.7485,
+            0.8947,
+            0.7727
+          ],
+          "snippet": "JACQUES BOCKEL & CO Strasbourg Sårl 30/06/2018 95% 15 000 1 795 697 158 662",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "JACQUES BOCKEL SARL",
+        "to": "JACQUES BOCKEL & CO Strasbourg Sàrl",
+        "relation": "shareholder_of",
+        "pct": 95,
+        "as_of": "2022-06-30",
+        "source": {
+          "inpi_id": "65a4095d5fd178b16b09b860",
+          "page": 4,
+          "bbox": [
+            0.1511,
+            0.7755,
+            0.9012,
+            0.7958
+          ],
+          "snippet": "JACQUES BOCKEL & CO Strasbourg Sàrl 30/06/2022 95% 15 000 2 000 323 214 811",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2008-06-27",
+        "source": {
+          "inpi_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 1,
+          "bbox": [
+            0.1243,
+            0.3301,
+            0.7383,
+            0.3873
+          ],
+          "snippet": "La société HADEAN, société par actions simplifiée au capital de 578.450 euros, sociétés de Montauban sous le numéro 499 979 540, Associée Unique de la TECHNOLOGIES",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2018-12-31",
+        "source": {
+          "inpi_id": "63e9593d8be6eb9f9d257ed2",
+          "page": 20,
+          "bbox": [
+            0.0452,
+            0.2413,
+            0.832,
+            0.2715
+          ],
+          "snippet": "Dénomination HADEAN N° SIREN (si société établie en France) 499979540 %de détention - 100.0000",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100.0,
+        "as_of": "2018-12-31",
+        "source": {
+          "inpi_id": "63e9593d8be6eb9f9d257ed2",
+          "page": 21,
+          "bbox": [
+            0.0529,
+            0.192,
+            0.6749,
+            0.2507
+          ],
+          "snippet": "Forme juridique SAS Dénomination ARCHEAN LABS\nN° SIREN (si sõciété établie en Fråñce) 843071218 % de détention R 100.00",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2008-04-30",
+        "source": {
+          "inpi_id": "63f0a89c7a07a2434c069137",
+          "page": 22,
+          "bbox": [
+            0.116,
+            0.8149,
+            0.9202,
+            0.8463
+          ],
+          "snippet": "Approbation de l'apport de titres de la société ARCHEAN TECHNOLOGIES consentie par Monsieur Michel CAPGRAS et de son évaluation",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "HADEAN",
+        "to": "ARCHEAN TECHNOLOGIES",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2008-05-29",
+        "source": {
+          "inpi_id": "63f0a89c7a07a2434c069137",
+          "page": 30,
+          "bbox": [
+            0.1069,
+            0.313,
+            0.8945,
+            0.4132
+          ],
+          "snippet": "Monsieur Michel CAPGRAS apporte à la société HADEAN, sous les garanties ordinaires et de droit, ce qui est accepté par ladite société, la totalité des DEUX CENT VINGT CINQ (225) titres qu'il détient dans le capital de la société ARCHEAN TECHNOLOGIES",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "CHANGE BY FIDSO",
+        "to": "HADEAN",
+        "relation": "shareholder_of",
+        "pct": 4.84,
+        "as_of": "2019-06-28",
+        "source": {
+          "inpi_id": "649cf63c032157154504a24e",
+          "page": 16,
+          "bbox": [
+            0.168,
+            0.5985,
+            0.9673,
+            0.6461
+          ],
+          "snippet": "La Société CHANGE BY FIDSO, 11 cours de l'Intendance 33000 BORDEAUX 1 120 1 120",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2019-11-04",
+        "source": {
+          "inpi_id": "63e00901f1cd45aa671d5287",
+          "page": 4,
+          "bbox": [
+            0.1194,
+            0.419,
+            0.8838,
+            0.6276
+          ],
+          "snippet": "LA SOUSSIGNEE : Société ARCHEAN TECHNOLOGIES... A établi ainsi qu'il suit les statuts d'une société par actions simplifiée (SAS) devant exister.",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2019-11-04",
+        "source": {
+          "inpi_id": "63e00901f1cd45aa671d5287",
+          "page": 6,
+          "bbox": [
+            0.1186,
+            0.1103,
+            0.8838,
+            0.1568
+          ],
+          "snippet": "Lors de la constitution, la soussignée ARCHEAN TECHNOLOGIES apporte à la Société, une somme en numéraire de mille euros (1 000 €) correspondant à 1 000 actions de numéraire, d'une valeur nominale d'un euro (1 €) chacune, souscrites en totalité et intégralement libérées.",
+          "grounding_method": "fuzzy"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": null,
+        "as_of": "2020-12-31",
+        "source": {
+          "inpi_id": "63e00902f1cd45aa671d528c",
+          "page": 27,
+          "bbox": [
+            0.1355,
+            0.1329,
+            0.8766,
+            0.1495
+          ],
+          "snippet": "SAS ARCHEAN TECHNOLOGIES, associée unique de la SASU ARCHEAN LABS",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2022-06-15",
+        "source": {
+          "inpi_id": "63e00903f1cd45aa671d528d",
+          "page": 13,
+          "bbox": [
+            0.1486,
+            0.1444,
+            0.8631,
+            0.1607
+          ],
+          "snippet": "SAS ARCHEAN TECHNOLOGIES, associée Unique de la SASU ARCHEAN LABS",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2022-12-31",
+        "source": {
+          "inpi_id": "65dd4a43c994f8bfd00a3daa",
+          "page": 30,
+          "bbox": [
+            0.1473,
+            0.1426,
+            0.8648,
+            0.1603
+          ],
+          "snippet": "SAS ARCHEAN TECHNOLOGIES, associée unique de la SASU ARCHEAN LABS",
+          "grounding_method": "exact"
+        }
+      },
+      {
+        "from": "ARCHEAN TECHNOLOGIES",
+        "to": "ARCHEAN LABS",
+        "relation": "shareholder_of",
+        "pct": 100,
+        "as_of": "2024-12-31",
+        "source": {
+          "inpi_id": "67c812d437b4ec8e0f0616a5",
+          "page": 26,
+          "bbox": [
+            0.1584,
+            0.1514,
+            0.8695,
+            0.1656
+          ],
+          "snippet": "SAS ARCHEAN TECHNOLOGIES, associée unique de la SASU ARCHEAN LABS",
+          "grounding_method": "exact"
+        }
+      }
+    ]
+  }
+}
