@@ -166,11 +166,6 @@
     <div id="events-wrap"></div>
   </div>
 
-  <div class="card">
-    <h2>Notes</h2>
-    <p class="desc">The submission's own <code>notes</code> field — contradictions, gaps, and what's not yet resolved.</p>
-    <div id="notes-wrap"></div>
-  </div>
 </div>
 
 <div id="tooltip" class="tooltip"></div>
@@ -237,22 +232,6 @@ async function main() {
   renderCapitalChart(timeline);
   renderTable(timeline);
   renderEvents(data.events || []);
-  renderNotes(data.notes);
-}
-
-function renderNotes(notes) {
-  const wrap = document.getElementById("notes-wrap");
-  if (!notes) {
-    wrap.innerHTML = `<p class="empty-state">No notes field in results.json.</p>`;
-    return;
-  }
-  const pre = document.createElement("pre");
-  pre.style.whiteSpace = "pre-wrap";
-  pre.style.font = "12.5px/1.6 -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
-  pre.style.color = "var(--text-secondary)";
-  pre.style.margin = "0";
-  pre.textContent = notes;
-  wrap.appendChild(pre);
 }
 
 function renderOwnershipChart(timeline) {
