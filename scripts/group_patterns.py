@@ -52,12 +52,6 @@ CERFA_ROW_RE = re.compile(
     re.IGNORECASE | re.DOTALL,
 )
 
-# A section is empty when its own "Néant" checkbox is marked — appears right after
-# the section header, before any row. Two full real examples in this corpus
-# (024057572, 504304205) have this; skip the page as a confirmed-empty result rather
-# than attempt a row match that would find nothing anyway.
-NEANT_RE = re.compile(r"\bN[ée]ant\b", re.IGNORECASE)
-
 # "EXERCICE CLOS LE" gives the bilan's own as_of anchor — OCR often mangles the
 # slashes into stray punctuation ("31.12.18", ".311218"), so match digit runs loosely
 # rather than requiring literal slashes.
@@ -118,13 +112,6 @@ FILIALE_ROW_RE = re.compile(
 )
 
 
-def parse_siren(raw: str | None) -> str | None:
-    if not raw:
-        return None
-    digits = re.sub(r"\D", "", raw)
-    return digits if len(digits) == 9 else None
-
-
 def parse_exercice_date(text: str) -> str | None:
     m = EXERCICE_CLOS_RE.search(text)
     if not m:
@@ -134,16 +121,3 @@ def parse_exercice_date(text: str) -> str | None:
     if not (1 <= d <= 31 and 1 <= mo <= 12):
         return None
     return f"{y:04d}-{mo:02d}-{d:02d}"
-
-
-def extract_cerfa_rows(text: str) -> list[dict]:
-    """All Cerfa-form shareholder/subsidiary rows on a page's flattened text."""
-    return [
-        {
-            "denomination": " ".join(m.group("denomination").split()),
-            "siren": parse_siren(m.group("siren")),
-            "pct": float(m.group("pct").replace(",", ".")),
-            "forme": m.group("forme"),
-        }
-        for m in CERFA_ROW_RE.finditer(text)
-    ]
