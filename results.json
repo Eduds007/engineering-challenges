@@ -4,11 +4,100 @@
     {
       "event_id": "evt_01",
       "event_code": "CAPITAL_INCREASE",
+      "event_date": "2005-01-05",
+      "payload": {
+        "amount_eur": 37000.0,
+        "capital_after_eur": 37000.0,
+        "method": "Numéraire"
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec5",
+        "page": 2,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Lors de la constitution, les associés font apports d'une somme en numéraire d'un montant total de TRENTE SEPT MILLE EUROS euros (37 000 euros), correspondant au montant du capital social et à TROIS CENT SOIXANTE DIX (370) actions"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Company constitution with 37,000 EUR capital contribution. Reconciles correctly (0 + 37,000 = 37,000). This is a real capital event (société constitution), not a routine profit allocation."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2005-01-05",
+      "payload": {
+        "holder_name": "Xavier AUMONT",
+        "shares": 155.0
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec5",
+        "page": 2,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Monsieur Xavier AUMONT 155 actions"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Initial shareholder entry (155 shares) as part of company constitution."
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2005-01-05",
+      "payload": {
+        "holder_name": "Antonio BLANCO MARINA",
+        "shares": 155.0
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec5",
+        "page": 2,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Monsieur Antonio BLANCO MARINA 155 actions"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Initial shareholder entry (155 shares) as part of company constitution."
+    },
+    {
+      "event_id": "evt_04",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2005-01-05",
+      "payload": {
+        "holder_name": "Franck GICQUEL",
+        "shares": 60.0
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec5",
+        "page": 2,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Monsieur Franck GICQUEL 60 actions"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Initial shareholder entry (60 shares) as part of company constitution. Total shares (370) matches capital increase."
+    },
+    {
+      "event_id": "evt_05",
+      "event_code": "CAPITAL_INCREASE",
       "event_date": "2005-05-17",
       "payload": {
         "amount_eur": 113000.0,
         "capital_after_eur": 150000.0,
-        "method": null
+        "method": "création de 1 130 actions nouvelles de numéraire de 100 euros"
       },
       "source": {
         "inpi_id": "63e9593b8be6eb9f9d257ec4",
@@ -21,7 +110,7 @@
         ],
         "snippet": "pport du Président, constate la réalisation définitive de l'augmentation de capital de 113 000 € par la création de 1 130 actions nouvelles de numéraire de 100 euros , pour porter le capital à 150 000 €. La rédaction de l'"
       },
-      "n_corroborations": 7,
+      "n_corroborations": 8,
       "alternate_sources": [
         {
           "doc_id": "63e9593a8be6eb9f9d257ebd",
@@ -59,10 +148,11 @@
           "event_date": "2005-05-17",
           "source_kind": "recap"
         }
-      ]
+      ],
+      "extraction_note": "Capital increase reconciles: 37,000 + 113,000 = 150,000 EUR. Snippet describes genuine capital increase (création de 1 130 actions nouvelles de 100 euros), not profit allocation."
     },
     {
-      "event_id": "evt_02",
+      "event_id": "evt_06",
       "event_code": "SHAREHOLDER_END",
       "event_date": "2005-08-16",
       "payload": {
@@ -79,10 +169,10 @@
         ],
         "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
       },
-      "n_corroborations": 1
+      "n_corroborations": 2
     },
     {
-      "event_id": "evt_03",
+      "event_id": "evt_07",
       "event_code": "SHAREHOLDER_END",
       "event_date": "2005-08-16",
       "payload": {
@@ -99,10 +189,10 @@
         ],
         "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
       },
-      "n_corroborations": 1
+      "n_corroborations": 2
     },
     {
-      "event_id": "evt_04",
+      "event_id": "evt_08",
       "event_code": "SHAREHOLDER_END",
       "event_date": "2005-08-16",
       "payload": {
@@ -119,17 +209,17 @@
         ],
         "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
       },
-      "n_corroborations": 1
+      "n_corroborations": 2
     },
     {
-      "event_id": "evt_05",
+      "event_id": "evt_09",
       "event_code": "CAPITAL_INCREASE",
       "event_date": "2006-10-20",
       "payload": {
         "amount_eur": 50000.0,
         "capital_after_eur": 200000.0,
         "capital_before_eur": 150000.0,
-        "method": null
+        "method": "Création de 500 actions nouvelles de 100 EUR nominal, réservées à Xavier AUMONT (330), Antonio BLANCO MARINA (150), Franck GICQUEL (20), payables par compensation avec créances certaines, liquides et exigibles"
       },
       "source": {
         "inpi_id": "63e9593b8be6eb9f9d257ec7",
@@ -142,7 +232,7 @@
         ],
         "snippet": "el de souscription, d'augmenter le capital social d'une somme de 50.000 euros, pour le porter de 150.000 euros à 200.000 euros, par création de 50"
       },
-      "n_corroborations": 6,
+      "n_corroborations": 7,
       "alternate_sources": [
         {
           "doc_id": "63e9593a8be6eb9f9d257ebe",
@@ -174,10 +264,58 @@
           "event_date": "2006-10-20",
           "source_kind": "recap"
         }
-      ]
+      ],
+      "extraction_note": "Valid capital increase. Explicit decision to augment capital social from 150,000 EUR to 200,000 EUR by 50,000 EUR (not routine allocation)."
     },
     {
-      "event_id": "evt_06",
+      "event_id": "evt_10",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "event_date": "2006-10-20",
+      "payload": {
+        "holder_name": "Michel CAPGRAS",
+        "holder_siren": null,
+        "shares": 225.0
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec7",
+        "page": 4,
+        "bbox": [
+          0.0493,
+          0.7257,
+          0.9472,
+          0.7745
+        ],
+        "snippet": "L'Assemblée Générale, après avoir pris connaissance du rapport du Président agrée à devenir actionnaire Monsieur Michel CAPGRAS, né te 16 juillet 1956, demeurant 161 rue Jean-Jacques Rousseau à Montauban (82ooo), célibataire, de nationalité Française."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder entry. Michel CAPGRAS documented as becoming shareholder; share count (225) consistent with transfer in v3."
+    },
+    {
+      "event_id": "evt_11",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2006-10-20",
+      "payload": {
+        "from_name": "Xavier AUMONT",
+        "to_name": "Michel CAPGRAS",
+        "shares": 225.0,
+        "price_eur": null
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec7",
+        "page": 5,
+        "bbox": [
+          0.0391,
+          0.042,
+          0.9468,
+          0.0874
+        ],
+        "snippet": "L'Assemblée Générale autorise Monsieur Xavier AUMONt à céder 225 actions à Monsieur Michel CAPGRAs."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder transfer. Explicit authorization for Xavier AUMONT to transfer 225 shares to Michel CAPGRAS."
+    },
+    {
+      "event_id": "evt_12",
       "event_code": "CAPITAL_DUAL_CLASS",
       "event_date": "2008-05-14",
       "payload": {
@@ -198,27 +336,33 @@
       "n_corroborations": 1
     },
     {
-      "event_id": "evt_07",
+      "event_id": "evt_13",
       "event_code": "CAPITAL_INCREASE",
       "event_date": "2008-06-27",
       "payload": {
         "amount_eur": 17241.0,
         "capital_after_eur": 217241.0,
-        "method": null
+        "method": "Issuance of 17,241 preference shares category A at €5.80/share"
       },
       "source": {
-        "inpi_id": "63e9593a8be6eb9f9d257ebd",
-        "page": 6,
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 2,
         "bbox": [
-          0.0972,
-          0.1998,
-          0.8273,
-          0.2306
+          0.1152,
+          0.9224,
+          0.8765,
+          0.9674
         ],
-        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 17.241 euros afin d’être porté à 217.241 euros. Aux termes de l'as"
+        "snippet": "DÉciDE d'augmenter le capital social de la Société d'un montant nominal de 17.241 euros, par l'émission de 17.241 Actions A (les « Actions A Nouvelles »), d'une valeur nominale de 1 euro chacune"
       },
-      "n_corroborations": 6,
+      "n_corroborations": 7,
       "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebd",
+          "page": 6,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
         {
           "doc_id": "63e9593a8be6eb9f9d257ebe",
           "page": 10,
@@ -228,12 +372,6 @@
         {
           "doc_id": "63e9593b8be6eb9f9d257ec0",
           "page": 7,
-          "event_date": "2008-06-27",
-          "source_kind": "recap"
-        },
-        {
-          "doc_id": "63e9593b8be6eb9f9d257ec3",
-          "page": 8,
           "event_date": "2008-06-27",
           "source_kind": "recap"
         },
@@ -249,30 +387,37 @@
           "event_date": "2008-06-27",
           "source_kind": "recap"
         }
-      ]
+      ],
+      "extraction_note": "Capital increase of €17,241 by issuing preference shares category A (€1 nominal per share). Reconciles perfectly: 200,000 + 17,241 = 217,241."
     },
     {
-      "event_id": "evt_08",
+      "event_id": "evt_14",
       "event_code": "CAPITAL_INCREASE",
       "event_date": "2008-06-27",
       "payload": {
         "amount_eur": 150861.0,
         "capital_after_eur": 368102.0,
-        "method": null
+        "method": "Issuance of 150,861 preference shares category B with convertible warrants at €5.80/share"
       },
       "source": {
-        "inpi_id": "63e9593a8be6eb9f9d257ebd",
-        "page": 6,
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 3,
         "bbox": [
-          0.0964,
-          0.2431,
-          0.8265,
-          0.2745
+          0.1173,
+          0.7778,
+          0.8807,
+          0.8385
         ],
-        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 150.861 euros afin d'être porté à 368.102 euros. ARTICLE 7 - CAPITA"
+        "snippet": "d'augmenter le capital social d'un montant nominal de 150.861 euros par l'émission de 150.861 Actions B nouvelles (les « Actions B Nouvelles ») d'une valeur nominale de 1 euro chacune, à chacune desquelles est attaché un bon de souscription d'obligations convertibles en Actions B"
       },
-      "n_corroborations": 6,
+      "n_corroborations": 7,
       "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebd",
+          "page": 6,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
         {
           "doc_id": "63e9593a8be6eb9f9d257ebe",
           "page": 10,
@@ -282,12 +427,6 @@
         {
           "doc_id": "63e9593b8be6eb9f9d257ec0",
           "page": 7,
-          "event_date": "2008-06-27",
-          "source_kind": "recap"
-        },
-        {
-          "doc_id": "63e9593b8be6eb9f9d257ec3",
-          "page": 8,
           "event_date": "2008-06-27",
           "source_kind": "recap"
         },
@@ -303,17 +442,172 @@
           "event_date": "2008-06-27",
           "source_kind": "recap"
         }
-      ]
+      ],
+      "extraction_note": "Capital increase of €150,861 by issuing preference shares category B with convertible warrants (€1 nominal per share). Capital_after (368,102) represents cumulative capital: 200,000 + 17,241 (v3) + 150,861 (v4) = 368,102. Sequential processing within same document (2008-06-27) explains apparent discrepancy against prior capital alone."
     },
     {
-      "event_id": "evt_09",
+      "event_id": "evt_15",
+      "event_code": "CAPITAL_DUAL_CLASS",
+      "event_date": "2008-06-27",
+      "payload": {
+        "class_name": "Actions de préférence de catégorie A, Actions de préférence de catégorie B, Actions de préférence de catégorie B', Actions de préférence de catégorie ",
+        "description": "Preference shares with preferential rights created under French Commercial Code articles L. 228-11 et seq."
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 2,
+        "bbox": [
+          0.1214,
+          0.5249,
+          0.8814,
+          0.5587
+        ],
+        "snippet": "DÉCIDE, conformément aux dispositions des articles L. 228-11 et suivants du Code de commerce, de créer des actions de préférence de catégorie A (ci-après les « Actions A »)"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid dual-class structure creation (Actions de préférence de catégorie A) under French Commercial Code L. 228-11 et seq. Creates new share class, not a capital amount change."
+    },
+    {
+      "event_id": "evt_16",
+      "event_code": "CAPITAL_DUAL_CLASS",
+      "event_date": "2011-05-20",
+      "payload": {
+        "class_name": "Catégories A et B",
+        "description": "Actions de préférence de catégorie A (217.241 actions) et catégorie B (150.861 actions), convertibles en actions ordinaires à la demande de leurs porteurs"
+      },
+      "source": {
+        "inpi_id": "63e9593c8be6eb9f9d257ecb",
+        "page": 5,
+        "bbox": [
+          0.1113,
+          0.3805,
+          0.8838,
+          0.4546
+        ],
+        "snippet": "Il est divisé en actions de préférence de catégorie A et en actions de préférence de catégorie B, à savoir : E 217.241 actions de préférence de catégorie A, E 150.861 actions de préférence de catégorie B."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Share reclassification into dual preference classes reconciles with known state: class A 217,241 + class B 150,861 = 368,102 total shares (matches known capital)"
+    },
+    {
+      "event_id": "evt_17",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2017-01-19",
+      "payload": {
+        "holder_name": "UNKNOWN (unallocated shares from tmp_05, 2008-06-27)",
+        "shares": 150861.0
+      },
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ebf",
+        "page": 3,
+        "bbox": [
+          0.1166,
+          0.7853,
+          0.8817,
+          0.8206
+        ],
+        "snippet": "par voie de rachat d'actions détenues par les associés minoritaires, en vue de leur annulation"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "SHAREHOLDER_END for UNKNOWN from tmp_05. Share count (150,861) exactly matches known holder from prior state; cancellation accounts for all remaining shares except HADEAN (200,000) + UNKNOWN tmp_04 (17,241) = 217,241 remaining."
+    },
+    {
+      "event_id": "evt_18",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2017-01-19",
+      "payload": {
+        "holder_name": "FPCI SECURITE",
+        "shares": 64655.0
+      },
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1125,
+          0.319,
+          0.7696,
+          0.3683
+        ],
+        "snippet": "à FPCI SECURITE 64 655 actions. Les actions rachetées sont annulées à compter de ce jour."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real shareholder-end for 64,655 shares; part of the 150,861-share buyback and cancellation matching the capital decrease"
+    },
+    {
+      "event_id": "evt_19",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2017-01-19",
+      "payload": {
+        "holder_name": "FIP GALIA PME",
+        "shares": 12931.0
+      },
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1125,
+          0.319,
+          0.7696,
+          0.3683
+        ],
+        "snippet": "à FIP GALIA PME 12 931 actions. Les actions rachetées sont annulées à compter de ce jour."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real shareholder-end for 12,931 shares; part of the 150,861-share buyback and cancellation matching the capital decrease"
+    },
+    {
+      "event_id": "evt_20",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2017-01-19",
+      "payload": {
+        "holder_name": "GALIA VENTURE",
+        "shares": 30172.0
+      },
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1125,
+          0.319,
+          0.7696,
+          0.3683
+        ],
+        "snippet": "à GALIA VENTURE 30 172 actions. Les actions rachetées sont annulées à compter de ce jour."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real shareholder-end for 30,172 shares; part of the 150,861-share buyback and cancellation matching the capital decrease"
+    },
+    {
+      "event_id": "evt_21",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2017-01-19",
+      "payload": {
+        "holder_name": "FPCI FINANCIERE DE BRIENNE",
+        "shares": 43103.0
+      },
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1125,
+          0.319,
+          0.8801,
+          0.4013
+        ],
+        "snippet": "à FPCI FINANCIERE DE BRIENNE 43 103 actions. Les actions rachetées sont annulées à compter de ce jour."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real shareholder-end for 43,103 shares; part of the 150,861-share buyback and cancellation matching the capital decrease"
+    },
+    {
+      "event_id": "evt_22",
       "event_code": "CAPITAL_DECREASE",
       "event_date": "2017-02-21",
       "payload": {
         "amount_eur": 150861.0,
         "capital_after_eur": 217241.0,
         "capital_before_eur": 368102.0,
-        "method": null,
+        "method": "Share buyback and cancellation",
         "buyback_shares": 150861.0,
         "buyback_price_eur": 2.72
       },
@@ -328,8 +622,20 @@
         ],
         "snippet": "sident constate que le capital social est réduit de 150 861 euros pour être ramené de 368 102 euros à 217 241 euros et divisé en 217 24"
       },
-      "n_corroborations": 4,
+      "n_corroborations": 6,
       "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 3,
+          "event_date": "2017-01-19",
+          "source_kind": "llm_fallback_contextual"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ebf",
+          "page": 3,
+          "event_date": "2017-01-19",
+          "source_kind": "llm_fallback_contextual"
+        },
         {
           "doc_id": "63e9593a8be6eb9f9d257ebe",
           "page": 3,
@@ -348,37 +654,74 @@
           "event_date": "2017-02-21",
           "source_kind": "recap"
         }
-      ]
+      ],
+      "extraction_note": "Real capital decrease with perfect reconciliation (368,102 - 150,861 = 217,241); no date provided in extraction"
     },
     {
-      "event_id": "evt_10",
+      "event_id": "evt_23",
       "event_code": "CAPITAL_INCREASE",
       "event_date": "2018-03-23",
       "payload": {
-        "amount_eur": 185759.0,
+        "amount_eur": 182759.0,
         "capital_after_eur": 400000.0,
-        "method": null
+        "method": "incorporation de réserves"
       },
       "source": {
         "inpi_id": "63e9593b8be6eb9f9d257ec0",
-        "page": 3,
+        "page": 2,
         "bbox": [
-          0.1194,
-          0.2212,
-          0.8914,
-          0.2745
+          0.1061,
+          0.673,
+          0.8781,
+          0.7385
         ],
-        "snippet": "te du 23 mars 2018, le capital social a été augmenté de 185 759 euros par incorporation de réserves pour être porté à 400 000 euros.\" Et l'article 7 es"
+        "snippet": "L'Associée Unique décide d'augmenter le capital social d'un montant de 182 759 euros par prélèvement sur le poste « Autres Réserves »."
       },
-      "n_corroborations": 1
+      "n_corroborations": 2,
+      "extraction_note": "Incorporation de réserves with explicit capital increase resolution ('augmenter le capital social'). Arithmetic reconciles perfectly: 217,241 + 182,759 = 400,000 EUR."
     }
   ],
   "capital_timeline": [
     {
-      "as_of": "2005-01-25",
-      "capital_eur": null,
-      "shares_total": 370.0,
+      "as_of": "2005-01-05",
+      "capital_eur": 37000.0,
+      "shares_total": null,
       "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Xavier AUMONT",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": null
+        },
+        {
+          "name": "Antonio BLANCO MARINA",
+          "kind": "PERSON",
+          "shares": 155.0,
+          "pct": null
+        },
+        {
+          "name": "Franck GICQUEL",
+          "kind": "PERSON",
+          "shares": 60.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02",
+        "evt_03",
+        "evt_04"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2005-01-25",
+      "capital_eur": 37000.0,
+      "shares_total": 370.0,
+      "nominal_eur": 100.0,
       "holders": [
         {
           "name": "Xavier AUMONT",
@@ -406,33 +749,39 @@
     {
       "as_of": "2005-05-17",
       "capital_eur": 150000.0,
-      "shares_total": null,
-      "nominal_eur": null,
+      "shares_total": 1500,
+      "nominal_eur": 100.0,
       "holders": [
+        {
+          "name": "UNKNOWN (unallocated shares from evt_05, 2005-05-17)",
+          "kind": "UNKNOWN",
+          "shares": 1130.0,
+          "pct": 75.3333
+        },
         {
           "name": "Xavier AUMONT",
           "kind": "PERSON",
           "shares": 155.0,
-          "pct": null
+          "pct": 10.3333
         },
         {
           "name": "Antonio BLANCO MARINA",
           "kind": "PERSON",
           "shares": 155.0,
-          "pct": null
+          "pct": 10.3333
         },
         {
           "name": "Franck GICQUEL",
           "kind": "PERSON",
           "shares": 60.0,
-          "pct": null
+          "pct": 4.0
         }
       ],
       "caused_by": [
-        "evt_01"
+        "evt_05"
       ],
       "notes": [
-        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+        "1130 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_05, 2005-05-17)'."
       ]
     },
     {
@@ -490,9 +839,9 @@
         }
       ],
       "caused_by": [
-        "evt_02",
-        "evt_03",
-        "evt_04"
+        "evt_06",
+        "evt_07",
+        "evt_08"
       ]
     },
     {
@@ -510,8 +859,14 @@
         {
           "name": "Xavier AUMONT",
           "kind": "PERSON",
-          "shares": 947.0,
-          "pct": 47.35
+          "shares": 722.0,
+          "pct": 36.1
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 225.0,
+          "pct": 11.25
         },
         {
           "name": "Franck GICQUEL",
@@ -521,7 +876,9 @@
         }
       ],
       "caused_by": [
-        "evt_05"
+        "evt_09",
+        "evt_10",
+        "evt_11"
       ],
       "notes": [
         "500 new shares allocated per the subscription table in 63e9593b8be6eb9f9d257ec7."
@@ -542,8 +899,14 @@
         {
           "name": "Xavier AUMONT",
           "kind": "PERSON",
-          "shares": 947.0,
-          "pct": 47.35
+          "shares": 722.0,
+          "pct": 36.1
+        },
+        {
+          "name": "Michel CAPGRAS",
+          "kind": "PERSON",
+          "shares": 225.0,
+          "pct": 11.25
         },
         {
           "name": "Franck GICQUEL",
@@ -553,7 +916,7 @@
         }
       ],
       "caused_by": [
-        "evt_06"
+        "evt_12"
       ]
     },
     {
@@ -588,7 +951,7 @@
           "pct": 8.1966
         },
         {
-          "name": "UNKNOWN (unallocated shares from evt_07, 2008-06-27)",
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
           "kind": "UNKNOWN",
           "shares": 17241,
           "pct": 4.6838
@@ -603,14 +966,102 @@
       "caused_by": [
         "nominal_split:63e9593b8be6eb9f9d257ec3:p1",
         "sole_holder_transition:63e9593b8be6eb9f9d257ec3:p1",
-        "evt_07",
-        "evt_08"
+        "evt_13",
+        "evt_14",
+        "evt_15"
       ],
       "notes": [
         "par-value split by 100: share counts multiplied, capital unchanged.",
-        "HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule.",
-        "17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_07, 2008-06-27)'.",
+        "HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL, Michel CAPGRAS (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule.",
+        "17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_13, 2008-06-27)'.",
         "150861 new shares allocated per the subscription table in 63e9593a8be6eb9f9d257ebe."
+      ]
+    },
+    {
+      "as_of": "2011-05-20",
+      "capital_eur": 368102.0,
+      "shares_total": 368102,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 54.3328,
+          "siren": "499979540"
+        },
+        {
+          "name": "FPCI SECURITE",
+          "kind": "COMPANY",
+          "shares": 64655.0,
+          "pct": 17.5644
+        },
+        {
+          "name": "FPCI FINANCIERE DE BRIENNE",
+          "kind": "COMPANY",
+          "shares": 43103.0,
+          "pct": 11.7095
+        },
+        {
+          "name": "GALIA VENTURE",
+          "kind": "COMPANY",
+          "shares": 30172.0,
+          "pct": 8.1966
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.6838
+        },
+        {
+          "name": "FIP GALIA PME 4",
+          "kind": "COMPANY",
+          "shares": 12931.0,
+          "pct": 3.5129
+        }
+      ],
+      "caused_by": [
+        "evt_16"
+      ]
+    },
+    {
+      "as_of": "2017-01-19",
+      "capital_eur": 368102.0,
+      "shares_total": 368102,
+      "nominal_eur": 1.0,
+      "holders": [
+        {
+          "name": "HADEAN",
+          "kind": "COMPANY",
+          "shares": 200000.0,
+          "pct": 54.3328,
+          "siren": "499979540"
+        },
+        {
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
+          "kind": "UNKNOWN",
+          "shares": 17241,
+          "pct": 4.6838
+        },
+        {
+          "name": "FIP GALIA PME 4",
+          "kind": "COMPANY",
+          "shares": 12931.0,
+          "pct": 3.5129
+        }
+      ],
+      "caused_by": [
+        "evt_17",
+        "evt_18",
+        "evt_19",
+        "evt_20",
+        "evt_21"
+      ],
+      "notes": [
+        "FPCI SECURITE recorded as exiting, but still shows 64655 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap.",
+        "GALIA VENTURE recorded as exiting, but still shows 30172 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap.",
+        "FPCI FINANCIERE DE BRIENNE recorded as exiting, but still shows 43103 shares in the replayed state — their prior holding was never captured (no snapshot/allocation names them before this point); treat as a known gap."
       ]
     },
     {
@@ -627,21 +1078,18 @@
           "siren": "499979540"
         },
         {
-          "name": "UNKNOWN (unallocated shares from evt_07, 2008-06-27)",
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
           "kind": "UNKNOWN",
           "shares": 17241,
           "pct": 7.9363
         }
       ],
       "caused_by": [
-        "evt_09"
+        "evt_22"
       ],
       "notes": [
-        "buyback applied by name per the list in 63e9593a8be6eb9f9d257ebe: FPCI SECURITE (64655); FIP GALIA PME 4 (12931); GALIA VENTURE (30172); FPCI FINANCIERE DE BRIENNE (43103)",
-        "FPCI SECURITE reached 0 shares and was dropped from the cap table.",
-        "FIP GALIA PME 4 reached 0 shares and was dropped from the cap table.",
-        "GALIA VENTURE reached 0 shares and was dropped from the cap table.",
-        "FPCI FINANCIERE DE BRIENNE reached 0 shares and was dropped from the cap table."
+        "buyback applied by name per the list in 63e9593a8be6eb9f9d257ebe: FIP GALIA PME 4 (12931)",
+        "FIP GALIA PME 4 reached 0 shares and was dropped from the cap table."
       ]
     },
     {
@@ -653,29 +1101,22 @@
         {
           "name": "HADEAN",
           "kind": "COMPANY",
-          "shares": 200000.0,
-          "pct": 50.0,
+          "shares": 368254.61,
+          "pct": 92.0637,
           "siren": "499979540"
         },
         {
-          "name": "UNKNOWN (unallocated shares from evt_10, 2018-03-23)",
+          "name": "UNKNOWN (unallocated shares from evt_13, 2008-06-27)",
           "kind": "UNKNOWN",
-          "shares": 182759,
-          "pct": 45.6897
-        },
-        {
-          "name": "UNKNOWN (unallocated shares from evt_07, 2008-06-27)",
-          "kind": "UNKNOWN",
-          "shares": 17241,
-          "pct": 4.3102
+          "shares": 31745.39,
+          "pct": 7.9363
         }
       ],
       "caused_by": [
-        "evt_10"
+        "evt_23"
       ],
       "notes": [
-        "amount_eur (185759) does not reconcile with capital before/after (217241 -> 400000, expected 182759) — left as-is, corpus/OCR inconsistency.",
-        "182759 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from evt_10, 2018-03-23)'."
+        "182759 new shares from incorporation of reserves — distributed pro-rata to existing holders."
       ]
     }
   ],

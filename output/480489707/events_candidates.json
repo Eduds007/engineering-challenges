@@ -2,7 +2,7 @@
   "siren": "480489707",
   "mode": "chronological_context_aware",
   "n_documents": 17,
-  "n_raw_candidates": 75,
+  "n_raw_candidates": 80,
   "n_events": 23,
   "events": [
     {
@@ -610,27 +610,35 @@
       ]
     },
     {
-      "doc_id": "63e9593a8be6eb9f9d257ebd",
-      "page": 6,
-      "pattern": "recap_increase",
+      "doc_id": "63e9593b8be6eb9f9d257ec3",
+      "page": 2,
+      "pattern": "llm_fallback_contextual",
       "event_code": "CAPITAL_INCREASE",
       "payload": {
         "amount_eur": 17241.0,
         "capital_after_eur": 217241.0,
-        "method": null
+        "method": "Issuance of 17,241 preference shares category A at €5.80/share"
       },
       "event_date": "2008-06-27",
-      "source_kind": "recap",
-      "snippet": "aire du 27/06/2008, le capital social a été augmenté de 17.241 euros afin d’être porté à 217.241 euros. Aux termes de l'as",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "borrowed_from_alternate",
+      "snippet": "DÉciDE d'augmenter le capital social de la Société d'un montant nominal de 17.241 euros, par l'émission de 17.241 Actions A (les « Actions A Nouvelles »), d'une valeur nominale de 1 euro chacune",
       "bbox_norm": [
-        0.0972,
-        0.1998,
-        0.8273,
-        0.2306
+        0.1152,
+        0.9224,
+        0.8765,
+        0.9674
       ],
-      "date_confidence": "local",
-      "n_corroborations": 6,
+      "llm_valid": true,
+      "llm_note": "Capital increase of €17,241 by issuing preference shares category A (€1 nominal per share). Reconciles perfectly: 200,000 + 17,241 = 217,241.",
+      "n_corroborations": 7,
       "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebd",
+          "page": 6,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
         {
           "doc_id": "63e9593a8be6eb9f9d257ebe",
           "page": 10,
@@ -640,12 +648,6 @@
         {
           "doc_id": "63e9593b8be6eb9f9d257ec0",
           "page": 7,
-          "event_date": "2008-06-27",
-          "source_kind": "recap"
-        },
-        {
-          "doc_id": "63e9593b8be6eb9f9d257ec3",
-          "page": 8,
           "event_date": "2008-06-27",
           "source_kind": "recap"
         },
@@ -664,20 +666,24 @@
       ],
       "event_id": "evt_13",
       "source": {
-        "inpi_id": "63e9593a8be6eb9f9d257ebd",
-        "page": 6,
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 2,
         "bbox": [
-          0.0972,
-          0.1998,
-          0.8273,
-          0.2306
+          0.1152,
+          0.9224,
+          0.8765,
+          0.9674
         ],
-        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 17.241 euros afin d’être porté à 217.241 euros. Aux termes de l'as"
+        "snippet": "DÉciDE d'augmenter le capital social de la Société d'un montant nominal de 17.241 euros, par l'émission de 17.241 Actions A (les « Actions A Nouvelles »), d'une valeur nominale de 1 euro chacune"
       },
       "meta_hint": [
         {
-          "typeActe": "Décision(s) du président",
-          "decision": "1899 avenue d'Italie 82000 Montauban "
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Transfert du siège 20 PLACE PRAX PARIS NOVALIA 82 - 82000 MONTAUBAN "
         },
         {
           "typeActe": "Statuts mis à jour"
@@ -685,27 +691,35 @@
       ]
     },
     {
-      "doc_id": "63e9593a8be6eb9f9d257ebd",
-      "page": 6,
-      "pattern": "recap_increase",
+      "doc_id": "63e9593b8be6eb9f9d257ec3",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
       "event_code": "CAPITAL_INCREASE",
       "payload": {
         "amount_eur": 150861.0,
         "capital_after_eur": 368102.0,
-        "method": null
+        "method": "Issuance of 150,861 preference shares category B with convertible warrants at €5.80/share"
       },
       "event_date": "2008-06-27",
-      "source_kind": "recap",
-      "snippet": "aire du 27/06/2008, le capital social a été augmenté de 150.861 euros afin d'être porté à 368.102 euros. ARTICLE 7 - CAPITA",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "borrowed_from_alternate",
+      "snippet": "d'augmenter le capital social d'un montant nominal de 150.861 euros par l'émission de 150.861 Actions B nouvelles (les « Actions B Nouvelles ») d'une valeur nominale de 1 euro chacune, à chacune desquelles est attaché un bon de souscription d'obligations convertibles en Actions B",
       "bbox_norm": [
-        0.0964,
-        0.2431,
-        0.8265,
-        0.2745
+        0.1173,
+        0.7778,
+        0.8807,
+        0.8385
       ],
-      "date_confidence": "local",
-      "n_corroborations": 6,
+      "llm_valid": true,
+      "llm_note": "Capital increase of €150,861 by issuing preference shares category B with convertible warrants (€1 nominal per share). Capital_after (368,102) represents cumulative capital: 200,000 + 17,241 (v3) + 150,861 (v4) = 368,102. Sequential processing within same document (2008-06-27) explains apparent discrepancy against prior capital alone.",
+      "n_corroborations": 7,
       "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebd",
+          "page": 6,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
         {
           "doc_id": "63e9593a8be6eb9f9d257ebe",
           "page": 10,
@@ -715,12 +729,6 @@
         {
           "doc_id": "63e9593b8be6eb9f9d257ec0",
           "page": 7,
-          "event_date": "2008-06-27",
-          "source_kind": "recap"
-        },
-        {
-          "doc_id": "63e9593b8be6eb9f9d257ec3",
-          "page": 8,
           "event_date": "2008-06-27",
           "source_kind": "recap"
         },
@@ -739,20 +747,24 @@
       ],
       "event_id": "evt_14",
       "source": {
-        "inpi_id": "63e9593a8be6eb9f9d257ebd",
-        "page": 6,
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 3,
         "bbox": [
-          0.0964,
-          0.2431,
-          0.8265,
-          0.2745
+          0.1173,
+          0.7778,
+          0.8807,
+          0.8385
         ],
-        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 150.861 euros afin d'être porté à 368.102 euros. ARTICLE 7 - CAPITA"
+        "snippet": "d'augmenter le capital social d'un montant nominal de 150.861 euros par l'émission de 150.861 Actions B nouvelles (les « Actions B Nouvelles ») d'une valeur nominale de 1 euro chacune, à chacune desquelles est attaché un bon de souscription d'obligations convertibles en Actions B"
       },
       "meta_hint": [
         {
-          "typeActe": "Décision(s) du président",
-          "decision": "1899 avenue d'Italie 82000 Montauban "
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Transfert du siège 20 PLACE PRAX PARIS NOVALIA 82 - 82000 MONTAUBAN "
         },
         {
           "typeActe": "Statuts mis à jour"
@@ -760,44 +772,51 @@
       ]
     },
     {
-      "doc_id": "63e9593b8be6eb9f9d257ec1",
+      "doc_id": "63e9593b8be6eb9f9d257ec3",
       "page": 2,
       "pattern": "llm_fallback_contextual",
       "event_code": "CAPITAL_DUAL_CLASS",
       "payload": {
-        "class_name": "Catégories A, B et B'",
-        "description": "Actions de préférence: Catégorie A avec droits à dividende prioritaire (maximum 35 000€ annuel jusqu'à 245 000€ cumulé) et conversion obligatoire en actions ordinaires en cas de cotation, cession totale, ou après atteinte de 160 000€ de dividendes; Catégories B et B' avec droit d'information renforcé (budgets trimestriels et données mensuelles), droit d'audit, représentation à 2 sièges du Comité de Suivi, droit de veto qualifié sur décisions majeures, et droit de liquidation préférentielle."
+        "class_name": "Actions de préférence de catégorie A, Actions de préférence de catégorie B, Actions de préférence de catégorie B', Actions de préférence de catégorie ",
+        "description": "Preference shares with preferential rights created under French Commercial Code articles L. 228-11 et seq."
       },
       "event_date": "2008-06-27",
       "source_kind": "llm_fallback_contextual",
       "date_confidence": "llm_fallback_contextual",
-      "snippet": "Cette opération consiste en la création d'actions de préférence dites de catégorie « A » et de catégorie « B » et « B' », bénéficiant des droits particuliers suivants :",
+      "snippet": "DÉCIDE, conformément aux dispositions des articles L. 228-11 et suivants du Code de commerce, de créer des actions de préférence de catégorie A (ci-après les « Actions A »)",
       "bbox_norm": [
-        0.0945,
-        0.3306,
-        0.8882,
-        0.397
+        0.1214,
+        0.5249,
+        0.8814,
+        0.5587
       ],
       "llm_valid": true,
-      "llm_note": "Real corporate action (creation of preference share classes with specific rights). Event does not claim or specify a change to capital_eur amount — it describes a structural capital reorganization (introduction of dual-class share structure with categories A, B, B'). No monetary reconciliation applicable; differs from routine profit allocation. Validates as a documented capital event.",
+      "llm_note": "Valid dual-class structure creation (Actions de préférence de catégorie A) under French Commercial Code L. 228-11 et seq. Creates new share class, not a capital amount change.",
       "n_corroborations": 1,
       "alternate_sources": [],
       "event_id": "evt_15",
       "source": {
-        "inpi_id": "63e9593b8be6eb9f9d257ec1",
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
         "page": 2,
         "bbox": [
-          0.0945,
-          0.3306,
-          0.8882,
-          0.397
+          0.1214,
+          0.5249,
+          0.8814,
+          0.5587
         ],
-        "snippet": "Cette opération consiste en la création d'actions de préférence dites de catégorie « A » et de catégorie « B » et « B' », bénéficiant des droits particuliers suivants :"
+        "snippet": "DÉCIDE, conformément aux dispositions des articles L. 228-11 et suivants du Code de commerce, de créer des actions de préférence de catégorie A (ci-après les « Actions A »)"
       },
       "meta_hint": [
         {
-          "typeActe": "Rapport du commissaire aux comptes",
-          "decision": "Rapport complémentaire à celui déposé le 23 juin 2008. "
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Transfert du siège 20 PLACE PRAX PARIS NOVALIA 82 - 82000 MONTAUBAN "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
         }
       ]
     },
@@ -1455,7 +1474,7 @@
           }
         ]
       },
-      "event_date": "2017-03-28",
+      "event_date": "2017-02-21",
       "source_kind": "unknown",
       "snippet": "- à FPCI SECURITE 64 655 actions - à FIP GALIA PME 4 12 931 actions - à GALIA VENTURE 30 172 actions - à FPCI FINANCIERE DE BRIENNE 43 103 actions",
       "bbox_norm": [
@@ -1552,12 +1571,12 @@
       "dateDepot": "2008-07-15",
       "context_given": "Known state as of 2006-10-20 (from 11 events found in earlier-filed documents):\n- Capital social (total share capital): 200000.0 EUR\n- Division of shares (total shares outstanding): 2000\n- Value per share (nominal): 100.0 EUR/share\n- Sócios/shareholders known, with their share of the division: Antonio BLANCO MARINA (PERSON, 973.0 shares, 48.65%); Xavier AUMONT (PERSON, 722.0 shares, 36.1%); Michel CAPGRAS (PERSON, 225.0 shares, 11.25%); Franck GICQUEL (PERSON, 80.0 shares, 4.0%)\n- Open gaps/uncertainties flagged so far: 2005-01-05: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2005-05-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2006-10-20: 500 new shares allocated per the subscription table in 63e9593b8be6eb9f9d257ec7.",
       "n_rule_scored": 8,
-      "n_llm_fallback": 0
+      "n_llm_fallback": 5
     },
     {
       "doc_id": "63e9593b8be6eb9f9d257ec1",
       "dateDepot": "2008-09-08",
-      "context_given": "Known state as of 2008-06-27 (from 14 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_05, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL, Michel CAPGRAS (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_05, 2008-06-27)'.",
+      "context_given": "Known state as of 2008-06-27 (from 15 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_05, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL, Michel CAPGRAS (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_05, 2008-06-27)'.",
       "n_rule_scored": 0,
       "n_llm_fallback": 1
     },
