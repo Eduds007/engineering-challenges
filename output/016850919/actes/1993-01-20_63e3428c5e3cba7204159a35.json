@@ -1,0 +1,962 @@
+{
+  "doc_id": "63e3428c5e3cba7204159a35",
+  "pdf": "acte_1993-01-20_63e3428c5e3cba7204159a35.pdf",
+  "n_pages": 3,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Duplicata\nGREFFE\nDU\nTRIBUNAL DE COMMERCE\nDE DIJON\nRECEPISSEDEDEPOT\nBP 69\n21072 DIJON CEDEX\nPOUR TOUS RENSEIGNEMENTS REGISTRE DU COMMERCE - FAILLITES -\nBILANS : MINITEL 36.29.11.22.\nJURISTES ASSOCIES D'ILE DE FRANCE\n34 A BD DE LA MARNE\n21000\nDIJON\nV/REF :\nN/REF : 68 B 91 / A-151\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DIJON CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 20/01/93, SOUS LE NUMERO A-151,\nP.V. DU CONSEIL D'ADMINISTRATION DU 28/09/92\nMODIFICATION DE LA COMPOSITION DU CONSEIL D'ADMINISTRATION\n. . CONCERNANT LA SOCIETE\nETABLISSEMENTS JACQUENET MALIN\nSOCIETE ANONYME\nTOUILLON\n21500 MONTBARD\nR.C.S DIJON B 016 850 919 (68 B 91)\n*",
+      "lines": [
+        {
+          "text": "Duplicata",
+          "bbox_norm": [
+            0.016,
+            0.0317,
+            0.082,
+            0.0439
+          ]
+        },
+        {
+          "text": "GREFFE",
+          "bbox_norm": [
+            0.0845,
+            0.0438,
+            0.135,
+            0.0598
+          ]
+        },
+        {
+          "text": "DU",
+          "bbox_norm": [
+            0.0986,
+            0.0615,
+            0.1194,
+            0.0737
+          ]
+        },
+        {
+          "text": "TRIBUNAL DE COMMERCE",
+          "bbox_norm": [
+            0.0347,
+            0.0752,
+            0.1833,
+            0.0879
+          ]
+        },
+        {
+          "text": "DE DIJON",
+          "bbox_norm": [
+            0.0778,
+            0.0899,
+            0.1402,
+            0.1015
+          ]
+        },
+        {
+          "text": "RECEPISSEDEDEPOT",
+          "bbox_norm": [
+            0.3944,
+            0.104,
+            0.8272,
+            0.1191
+          ]
+        },
+        {
+          "text": "BP 69",
+          "bbox_norm": [
+            0.0216,
+            0.1182,
+            0.0625,
+            0.1304
+          ]
+        },
+        {
+          "text": "21072 DIJON CEDEX",
+          "bbox_norm": [
+            0.0214,
+            0.1323,
+            0.148,
+            0.1451
+          ]
+        },
+        {
+          "text": "POUR TOUS RENSEIGNEMENTS REGISTRE DU COMMERCE - FAILLITES -",
+          "bbox_norm": [
+            0.0208,
+            0.1464,
+            0.4528,
+            0.1602
+          ]
+        },
+        {
+          "text": "BILANS : MINITEL 36.29.11.22.",
+          "bbox_norm": [
+            0.0208,
+            0.1611,
+            0.2355,
+            0.1738
+          ]
+        },
+        {
+          "text": "JURISTES ASSOCIES D'ILE DE FRANCE",
+          "bbox_norm": [
+            0.5195,
+            0.2343,
+            0.923,
+            0.2495
+          ]
+        },
+        {
+          "text": "34 A BD DE LA MARNE",
+          "bbox_norm": [
+            0.52,
+            0.2632,
+            0.7535,
+            0.2778
+          ]
+        },
+        {
+          "text": "21000",
+          "bbox_norm": [
+            0.5202,
+            0.292,
+            0.5841,
+            0.3062
+          ]
+        },
+        {
+          "text": "DIJON",
+          "bbox_norm": [
+            0.5195,
+            0.3071,
+            0.5847,
+            0.3208
+          ]
+        },
+        {
+          "text": "V/REF :",
+          "bbox_norm": [
+            0.227,
+            0.3324,
+            0.3182,
+            0.3487
+          ]
+        },
+        {
+          "text": "N/REF : 68 B 91 / A-151",
+          "bbox_norm": [
+            0.2278,
+            0.3476,
+            0.5112,
+            0.3648
+          ]
+        },
+        {
+          "text": "LE GREFFIER DU TRIBUNAL DE COMMERCE DE DIJON CERTIFIE",
+          "bbox_norm": [
+            0.068,
+            0.3911,
+            0.7203,
+            0.4093
+          ]
+        },
+        {
+          "text": "QU'IL LUI A ETE DEPOSE A LA DATE DU 20/01/93, SOUS LE NUMERO A-151,",
+          "bbox_norm": [
+            0.07,
+            0.4058,
+            0.8862,
+            0.4253
+          ]
+        },
+        {
+          "text": "P.V. DU CONSEIL D'ADMINISTRATION DU 28/09/92",
+          "bbox_norm": [
+            0.07,
+            0.4355,
+            0.609,
+            0.4513
+          ]
+        },
+        {
+          "text": "MODIFICATION DE LA COMPOSITION DU CONSEIL D'ADMINISTRATION",
+          "bbox_norm": [
+            0.07,
+            0.4639,
+            0.78,
+            0.481
+          ]
+        },
+        {
+          "text": ". . CONCERNANT LA SOCIETE",
+          "bbox_norm": [
+            0.0833,
+            0.4931,
+            0.3785,
+            0.5069
+          ]
+        },
+        {
+          "text": "ETABLISSEMENTS JACQUENET MALIN",
+          "bbox_norm": [
+            0.1319,
+            0.5073,
+            0.5008,
+            0.523
+          ]
+        },
+        {
+          "text": "SOCIETE ANONYME",
+          "bbox_norm": [
+            0.1319,
+            0.5215,
+            0.3182,
+            0.5361
+          ]
+        },
+        {
+          "text": "TOUILLON",
+          "bbox_norm": [
+            0.1319,
+            0.5367,
+            0.2333,
+            0.5498
+          ]
+        },
+        {
+          "text": "21500 MONTBARD",
+          "bbox_norm": [
+            0.1325,
+            0.5498,
+            0.307,
+            0.5645
+          ]
+        },
+        {
+          "text": "R.C.S",
+          "bbox_norm": [
+            0.1311,
+            0.578,
+            0.1981,
+            0.5929
+          ]
+        },
+        {
+          "text": "DIJON",
+          "bbox_norm": [
+            0.2174,
+            0.5796,
+            0.2847,
+            0.5932
+          ]
+        },
+        {
+          "text": "B",
+          "bbox_norm": [
+            0.3001,
+            0.5793,
+            0.323,
+            0.5936
+          ]
+        },
+        {
+          "text": "016 850 919",
+          "bbox_norm": [
+            0.3367,
+            0.5785,
+            0.4785,
+            0.5948
+          ]
+        },
+        {
+          "text": "(68 B 91)",
+          "bbox_norm": [
+            0.4965,
+            0.5796,
+            0.6092,
+            0.5978
+          ]
+        },
+        {
+          "text": "*",
+          "bbox_norm": [
+            0.7743,
+            0.6426,
+            0.7924,
+            0.6524
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "A\nt. [ ETABLISSEMENTS JACQUENET MALIN\nSociété Anonyme au capital de 680.000 Francs,\nSiège Social : TOUILLON\n21500 MONTBARD\nRCS : DIJON B 016 850 919 (68 B 91)\nPROCES VERBAL DU CONSEIL D'ADMINISTRATION\nL'an mil neuf cent quatre vingt douze\nle vingt huit septembre\nà neuf heures\nLes administrateurs de la société ETABLISSEMENTS JACQUENET MALIN, Société\nAnonyme au capital de 680.O00 Francs, dont le siège social est à MONTBARD\n(21500), TOuILLON, se sont réunis au siège social sur convocation de leur\nPrésident.\nEtaient présents et ont signé le registre de présence :\nMonsieur Bruno JACQUENET\nMonsieur Bernard JACQUENET\nMadame Odile BOISSEAU\nMonsieur Jean-Paul JACQUENET\nEtant absents excusés\nMonsieur Gaston JACQUENET\nMadame Marie-Louise FROIDUROT\nLa séance est présidée par Monsieur Bruno JAcQUENET en sa qualité de\nPrésident du conseil d'administration.\nLe Président constate que, conformément à l'article 100, Alinéa 1 de la loi\ndu 24 juillet 1966, le Conseil d'Administration peut valablement siéger\ncompte tenu de la présence de la moitié au moins des membres du Conseil.\nPuis le Président rappelle que le présent Conseil est appelé à délibérer\nsur l'ordre du jour suivant :\nModifications à apporter à la composition du bureau du conseil\nd'administration.\nMonsieur le Président expose aux administrateurs, que Monsieur Bernard\nJAcQuENET, Directeur Général et administrateur a été mis à la retraite et\nqu'en conséquence il y a lieu de se prononcer quant à son remplacement au\nposte de Directeur Général à compter du ler janvier 1993.\nMonsieur le Président précise gue Monsieur Bernard JAcQUENET sera maintenu\ndans ses fonctions d'administrateur et qu'à ce titre il ne perçoit et ne\npercevra aucune rémunération.\nAprès discussion et échanges de vues, les résolutions suivantes sont mises\naux voix.",
+      "lines": [
+        {
+          "text": "A",
+          "bbox_norm": [
+            0.0625,
+            0.0073,
+            0.0702,
+            0.0113
+          ]
+        },
+        {
+          "text": "t.",
+          "bbox_norm": [
+            0.0451,
+            0.0395,
+            0.0514,
+            0.0439
+          ]
+        },
+        {
+          "text": "[",
+          "bbox_norm": [
+            0.1362,
+            0.0425,
+            0.1424,
+            0.0464
+          ]
+        },
+        {
+          "text": "ETABLISSEMENTS JACQUENET MALIN",
+          "bbox_norm": [
+            0.4028,
+            0.0346,
+            0.7083,
+            0.0488
+          ]
+        },
+        {
+          "text": "Société Anonyme au capital de 680.000 Francs,",
+          "bbox_norm": [
+            0.3201,
+            0.0468,
+            0.7772,
+            0.066
+          ]
+        },
+        {
+          "text": "Siège Social : TOUILLON",
+          "bbox_norm": [
+            0.4327,
+            0.0635,
+            0.6674,
+            0.0777
+          ]
+        },
+        {
+          "text": "21500 MONTBARD",
+          "bbox_norm": [
+            0.4833,
+            0.0781,
+            0.6278,
+            0.0929
+          ]
+        },
+        {
+          "text": "RCS : DIJON B 016 850 919 (68 B 91)",
+          "bbox_norm": [
+            0.3715,
+            0.0913,
+            0.7264,
+            0.108
+          ]
+        },
+        {
+          "text": "PROCES VERBAL DU CONSEIL D'ADMINISTRATION",
+          "bbox_norm": [
+            0.3514,
+            0.1357,
+            0.7695,
+            0.1514
+          ]
+        },
+        {
+          "text": "L'an mil neuf cent quatre vingt douze",
+          "bbox_norm": [
+            0.1784,
+            0.1782,
+            0.5578,
+            0.1964
+          ]
+        },
+        {
+          "text": "le vingt huit septembre",
+          "bbox_norm": [
+            0.1797,
+            0.1933,
+            0.4161,
+            0.2095
+          ]
+        },
+        {
+          "text": "à neuf heures",
+          "bbox_norm": [
+            0.1791,
+            0.2079,
+            0.3154,
+            0.2232
+          ]
+        },
+        {
+          "text": "Les administrateurs de la société ETABLISSEMENTS JACQUENET MALIN, Société",
+          "bbox_norm": [
+            0.1791,
+            0.2363,
+            0.9418,
+            0.2554
+          ]
+        },
+        {
+          "text": "Anonyme au capital de 680.O00 Francs, dont le siège social est à MONTBARD",
+          "bbox_norm": [
+            0.1799,
+            0.2515,
+            0.9418,
+            0.2691
+          ]
+        },
+        {
+          "text": "(21500), TOuILLON, se sont réunis au siège social sur convocation de leur",
+          "bbox_norm": [
+            0.1812,
+            0.2646,
+            0.9425,
+            0.2847
+          ]
+        },
+        {
+          "text": "Président.",
+          "bbox_norm": [
+            0.1784,
+            0.2787,
+            0.2828,
+            0.2941
+          ]
+        },
+        {
+          "text": "Etaient présents et ont signé le registre de présence :",
+          "bbox_norm": [
+            0.1791,
+            0.3075,
+            0.7389,
+            0.3268
+          ]
+        },
+        {
+          "text": "Monsieur Bruno JACQUENET",
+          "bbox_norm": [
+            0.1791,
+            0.3374,
+            0.4266,
+            0.3531
+          ]
+        },
+        {
+          "text": "Monsieur Bernard JACQUENET",
+          "bbox_norm": [
+            0.1784,
+            0.352,
+            0.4467,
+            0.3673
+          ]
+        },
+        {
+          "text": "Madame Odile BOISSEAU",
+          "bbox_norm": [
+            0.1791,
+            0.3667,
+            0.3966,
+            0.3814
+          ]
+        },
+        {
+          "text": "Monsieur Jean-Paul JACQUENET",
+          "bbox_norm": [
+            0.1791,
+            0.3814,
+            0.4667,
+            0.3966
+          ]
+        },
+        {
+          "text": "Etant absents excusés",
+          "bbox_norm": [
+            0.1799,
+            0.4101,
+            0.396,
+            0.4258
+          ]
+        },
+        {
+          "text": "Monsieur Gaston JACQUENET",
+          "bbox_norm": [
+            0.1791,
+            0.4389,
+            0.4362,
+            0.4536
+          ]
+        },
+        {
+          "text": "Madame Marie-Louise FROIDUROT",
+          "bbox_norm": [
+            0.1799,
+            0.4536,
+            0.4771,
+            0.4683
+          ]
+        },
+        {
+          "text": "La séance est présidée par Monsieur Bruno JAcQUENET en sa qualité de",
+          "bbox_norm": [
+            0.1777,
+            0.4819,
+            0.9446,
+            0.5015
+          ]
+        },
+        {
+          "text": "Président du conseil d'administration.",
+          "bbox_norm": [
+            0.1791,
+            0.4965,
+            0.5653,
+            0.5133
+          ]
+        },
+        {
+          "text": "Le Président constate que, conformément à l'article 100, Alinéa 1 de la loi",
+          "bbox_norm": [
+            0.1791,
+            0.5249,
+            0.9431,
+            0.5445
+          ]
+        },
+        {
+          "text": "du 24 juillet 1966, le Conseil d'Administration peut valablement siéger",
+          "bbox_norm": [
+            0.1791,
+            0.5396,
+            0.9431,
+            0.5596
+          ]
+        },
+        {
+          "text": "compte tenu de la présence de la moitié au moins des membres du Conseil.",
+          "bbox_norm": [
+            0.1799,
+            0.5547,
+            0.9098,
+            0.5733
+          ]
+        },
+        {
+          "text": "Puis le Président rappelle que le présent Conseil est appelé à délibérer",
+          "bbox_norm": [
+            0.1791,
+            0.583,
+            0.9431,
+            0.6031
+          ]
+        },
+        {
+          "text": "sur l'ordre du jour suivant :",
+          "bbox_norm": [
+            0.1804,
+            0.5981,
+            0.4758,
+            0.6138
+          ]
+        },
+        {
+          "text": "Modifications à apporter à la composition du bureau du conseil",
+          "bbox_norm": [
+            0.2034,
+            0.6264,
+            0.9425,
+            0.6466
+          ]
+        },
+        {
+          "text": "d'administration.",
+          "bbox_norm": [
+            0.2005,
+            0.6411,
+            0.3744,
+            0.6563
+          ]
+        },
+        {
+          "text": "Monsieur le Président expose aux administrateurs, que Monsieur Bernard",
+          "bbox_norm": [
+            0.1784,
+            0.6689,
+            0.9438,
+            0.6895
+          ]
+        },
+        {
+          "text": "JAcQuENET, Directeur Général et administrateur a été mis à la retraite et",
+          "bbox_norm": [
+            0.1804,
+            0.684,
+            0.9431,
+            0.7031
+          ]
+        },
+        {
+          "text": "qu'en conséquence il y a lieu de se prononcer quant à son remplacement au",
+          "bbox_norm": [
+            0.1791,
+            0.6987,
+            0.9446,
+            0.7189
+          ]
+        },
+        {
+          "text": "poste de Directeur Général à compter du ler janvier 1993.",
+          "bbox_norm": [
+            0.1791,
+            0.7134,
+            0.7584,
+            0.732
+          ]
+        },
+        {
+          "text": "Monsieur le Président précise gue Monsieur Bernard JAcQUENET sera maintenu",
+          "bbox_norm": [
+            0.1791,
+            0.7421,
+            0.9431,
+            0.7608
+          ]
+        },
+        {
+          "text": "dans ses fonctions d'administrateur et qu'à ce titre il ne perçoit et ne",
+          "bbox_norm": [
+            0.1804,
+            0.7568,
+            0.9431,
+            0.7759
+          ]
+        },
+        {
+          "text": "percevra aucune rémunération.",
+          "bbox_norm": [
+            0.1799,
+            0.7724,
+            0.475,
+            0.7871
+          ]
+        },
+        {
+          "text": "Après discussion et échanges de vues, les résolutions suivantes sont mises",
+          "bbox_norm": [
+            0.1804,
+            0.7997,
+            0.9431,
+            0.8194
+          ]
+        },
+        {
+          "text": "aux voix.",
+          "bbox_norm": [
+            0.1813,
+            0.8164,
+            0.2729,
+            0.8282
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": ".\n-\n: PREMIERE RESOLUTION\nLe Conseil prend acte que Monsieur Bernard JACQUENET a été mis à la retraite et qu'en conséquence il y a lieu de se prononcer quant à son remplacement au poste de Directeur Général à compter du ler janvier 1993.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nDEUXIEME RESOLUTION\nLe Conseil d'Administration décide de ne pas procéder au remplacement de Monsieur Bernard JAcQuENET au poste de Directeur Général, étant précisé que Monsieur Bernard JAcQUENET sera maintenu dans ses fonctions\nd'administrateur au titre desquelles il ne perçoit et ne percevra aucune rémunération.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nTROISIEME RESOLUTION\nl'accomplissement des formalités de dépôt au Greffe du Tribunal de d'un extrait du procès verbal de cette délibération en vue de Commerce. Le conseil d'administration confère tous pouvoirs au porteur d'une copie ou\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nAucun Administrateur ne demandant plus la parole et tous les points de 1'ordre du jour ayant été évoqués, le Président déclare la séance levée.\nDe tout ce qui précède, il a été dressé le présent procès-verbal qui, après lecture, sera signé par le Président et un Administrateur.\nLE PRESIDENT UN ADMINISTRATEUR\nf",
+      "lines": [
+        {
+          "text": ".",
+          "bbox_norm": [
+            0.0632,
+            0.0083,
+            0.0667,
+            0.0108
+          ]
+        },
+        {
+          "text": "-",
+          "bbox_norm": [
+            0.0855,
+            0.0215,
+            0.0923,
+            0.0259
+          ]
+        },
+        {
+          "text": ":",
+          "bbox_norm": [
+            0.1327,
+            0.0415,
+            0.1389,
+            0.0464
+          ]
+        },
+        {
+          "text": "PREMIERE RESOLUTION",
+          "bbox_norm": [
+            0.1777,
+            0.0345,
+            0.3746,
+            0.0519
+          ]
+        },
+        {
+          "text": "Le Conseil prend acte que Monsieur Bernard JACQUENET a été mis à la",
+          "bbox_norm": [
+            0.1748,
+            0.0629,
+            0.9399,
+            0.0944
+          ]
+        },
+        {
+          "text": "retraite et qu'en conséquence il y a lieu de se prononcer quant à son",
+          "bbox_norm": [
+            0.1762,
+            0.0785,
+            0.9384,
+            0.1086
+          ]
+        },
+        {
+          "text": "remplacement au poste de Directeur Général à compter du ler janvier 1993.",
+          "bbox_norm": [
+            0.1769,
+            0.0941,
+            0.9141,
+            0.1212
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.1749,
+            0.1215,
+            0.7558,
+            0.1466
+          ]
+        },
+        {
+          "text": "DEUXIEME",
+          "bbox_norm": [
+            0.1742,
+            0.1513,
+            0.2828,
+            0.1661
+          ]
+        },
+        {
+          "text": "RESOLUTION",
+          "bbox_norm": [
+            0.272,
+            0.1522,
+            0.3821,
+            0.1687
+          ]
+        },
+        {
+          "text": "Le Conseil d'Administration décide de ne pas procéder au remplacement de",
+          "bbox_norm": [
+            0.172,
+            0.1795,
+            0.937,
+            0.2096
+          ]
+        },
+        {
+          "text": "Monsieur Bernard JAcQuENET au poste de Directeur Général, étant précisé que",
+          "bbox_norm": [
+            0.172,
+            0.1952,
+            0.9363,
+            0.2232
+          ]
+        },
+        {
+          "text": "Monsieur",
+          "bbox_norm": [
+            0.1727,
+            0.2103,
+            0.2668,
+            0.2247
+          ]
+        },
+        {
+          "text": "Bernard",
+          "bbox_norm": [
+            0.2873,
+            0.2118,
+            0.3829,
+            0.2272
+          ]
+        },
+        {
+          "text": "JAcQUENET sera maintenu dans ses fonctions",
+          "bbox_norm": [
+            0.3901,
+            0.2137,
+            0.9357,
+            0.2384
+          ]
+        },
+        {
+          "text": "d'administrateur au titre desquelles il ne perçoit et ne percevra aucune",
+          "bbox_norm": [
+            0.1713,
+            0.2235,
+            0.937,
+            0.2546
+          ]
+        },
+        {
+          "text": "rémunération.",
+          "bbox_norm": [
+            0.172,
+            0.2392,
+            0.3064,
+            0.2555
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.1714,
+            0.267,
+            0.7536,
+            0.2931
+          ]
+        },
+        {
+          "text": "TROISIEME RESOLUTION",
+          "bbox_norm": [
+            0.1714,
+            0.2957,
+            0.3786,
+            0.3136
+          ]
+        },
+        {
+          "text": "l'accomplissement des formalités de dépôt au Greffe du Tribunal de",
+          "bbox_norm": [
+            0.1679,
+            0.3529,
+            0.9364,
+            0.3839
+          ]
+        },
+        {
+          "text": "d'un extrait du procès verbal de cette délibération en vue de",
+          "bbox_norm": [
+            0.1685,
+            0.3382,
+            0.9357,
+            0.3688
+          ]
+        },
+        {
+          "text": "Commerce.",
+          "bbox_norm": [
+            0.1685,
+            0.3685,
+            0.2627,
+            0.385
+          ]
+        },
+        {
+          "text": "Le conseil d'administration confère tous pouvoirs au porteur d'une copie ou",
+          "bbox_norm": [
+            0.1692,
+            0.3241,
+            0.935,
+            0.3547
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.1679,
+            0.3969,
+            0.7509,
+            0.4234
+          ]
+        },
+        {
+          "text": "Aucun Administrateur ne demandant plus la parole et tous les points de",
+          "bbox_norm": [
+            0.1665,
+            0.4408,
+            0.9315,
+            0.4704
+          ]
+        },
+        {
+          "text": "1'ordre du jour ayant été évoqués, le Président déclare la séance levée.",
+          "bbox_norm": [
+            0.1665,
+            0.455,
+            0.8975,
+            0.4845
+          ]
+        },
+        {
+          "text": "De tout ce qui précède, il a été dressé le présent procès-verbal qui, après",
+          "bbox_norm": [
+            0.1657,
+            0.4837,
+            0.9294,
+            0.5133
+          ]
+        },
+        {
+          "text": "lecture, sera signé par le Président et un Administrateur.",
+          "bbox_norm": [
+            0.1657,
+            0.4979,
+            0.7551,
+            0.5246
+          ]
+        },
+        {
+          "text": "LE PRESIDENT",
+          "bbox_norm": [
+            0.245,
+            0.5282,
+            0.3738,
+            0.5456
+          ]
+        },
+        {
+          "text": "UN ADMINISTRATEUR",
+          "bbox_norm": [
+            0.661,
+            0.537,
+            0.8371,
+            0.5538
+          ]
+        },
+        {
+          "text": "f",
+          "bbox_norm": [
+            0.268,
+            0.5629,
+            0.3549,
+            0.5865
+          ]
+        }
+      ]
+    }
+  ],
+  "full_text": "[PAGE 1]\nDuplicata\nGREFFE\nDU\nTRIBUNAL DE COMMERCE\nDE DIJON\nRECEPISSEDEDEPOT\nBP 69\n21072 DIJON CEDEX\nPOUR TOUS RENSEIGNEMENTS REGISTRE DU COMMERCE - FAILLITES -\nBILANS : MINITEL 36.29.11.22.\nJURISTES ASSOCIES D'ILE DE FRANCE\n34 A BD DE LA MARNE\n21000\nDIJON\nV/REF :\nN/REF : 68 B 91 / A-151\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DIJON CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 20/01/93, SOUS LE NUMERO A-151,\nP.V. DU CONSEIL D'ADMINISTRATION DU 28/09/92\nMODIFICATION DE LA COMPOSITION DU CONSEIL D'ADMINISTRATION\n. . CONCERNANT LA SOCIETE\nETABLISSEMENTS JACQUENET MALIN\nSOCIETE ANONYME\nTOUILLON\n21500 MONTBARD\nR.C.S DIJON B 016 850 919 (68 B 91)\n*\n\n[PAGE 2]\nA\nt. [ ETABLISSEMENTS JACQUENET MALIN\nSociété Anonyme au capital de 680.000 Francs,\nSiège Social : TOUILLON\n21500 MONTBARD\nRCS : DIJON B 016 850 919 (68 B 91)\nPROCES VERBAL DU CONSEIL D'ADMINISTRATION\nL'an mil neuf cent quatre vingt douze\nle vingt huit septembre\nà neuf heures\nLes administrateurs de la société ETABLISSEMENTS JACQUENET MALIN, Société\nAnonyme au capital de 680.O00 Francs, dont le siège social est à MONTBARD\n(21500), TOuILLON, se sont réunis au siège social sur convocation de leur\nPrésident.\nEtaient présents et ont signé le registre de présence :\nMonsieur Bruno JACQUENET\nMonsieur Bernard JACQUENET\nMadame Odile BOISSEAU\nMonsieur Jean-Paul JACQUENET\nEtant absents excusés\nMonsieur Gaston JACQUENET\nMadame Marie-Louise FROIDUROT\nLa séance est présidée par Monsieur Bruno JAcQUENET en sa qualité de\nPrésident du conseil d'administration.\nLe Président constate que, conformément à l'article 100, Alinéa 1 de la loi\ndu 24 juillet 1966, le Conseil d'Administration peut valablement siéger\ncompte tenu de la présence de la moitié au moins des membres du Conseil.\nPuis le Président rappelle que le présent Conseil est appelé à délibérer\nsur l'ordre du jour suivant :\nModifications à apporter à la composition du bureau du conseil\nd'administration.\nMonsieur le Président expose aux administrateurs, que Monsieur Bernard\nJAcQuENET, Directeur Général et administrateur a été mis à la retraite et\nqu'en conséquence il y a lieu de se prononcer quant à son remplacement au\nposte de Directeur Général à compter du ler janvier 1993.\nMonsieur le Président précise gue Monsieur Bernard JAcQUENET sera maintenu\ndans ses fonctions d'administrateur et qu'à ce titre il ne perçoit et ne\npercevra aucune rémunération.\nAprès discussion et échanges de vues, les résolutions suivantes sont mises\naux voix.\n\n[PAGE 3]\n.\n-\n: PREMIERE RESOLUTION\nLe Conseil prend acte que Monsieur Bernard JACQUENET a été mis à la retraite et qu'en conséquence il y a lieu de se prononcer quant à son remplacement au poste de Directeur Général à compter du ler janvier 1993.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nDEUXIEME RESOLUTION\nLe Conseil d'Administration décide de ne pas procéder au remplacement de Monsieur Bernard JAcQuENET au poste de Directeur Général, étant précisé que Monsieur Bernard JAcQUENET sera maintenu dans ses fonctions\nd'administrateur au titre desquelles il ne perçoit et ne percevra aucune rémunération.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nTROISIEME RESOLUTION\nl'accomplissement des formalités de dépôt au Greffe du Tribunal de d'un extrait du procès verbal de cette délibération en vue de Commerce. Le conseil d'administration confère tous pouvoirs au porteur d'une copie ou\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nAucun Administrateur ne demandant plus la parole et tous les points de 1'ordre du jour ayant été évoqués, le Président déclare la séance levée.\nDe tout ce qui précède, il a été dressé le présent procès-verbal qui, après lecture, sera signé par le Président et un Administrateur.\nLE PRESIDENT UN ADMINISTRATEUR\nf"
+}

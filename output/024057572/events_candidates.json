@@ -1,0 +1,161 @@
+{
+  "siren": "024057572",
+  "mode": "chronological_context_aware",
+  "n_documents": 1,
+  "n_raw_candidates": 3,
+  "n_events": 3,
+  "events": [
+    {
+      "doc_id": "63e3429404dafca7f210aa7c",
+      "page": 6,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "S.K2.R.",
+        "holder_siren": "498662329",
+        "shares": 800
+      },
+      "event_date": "2007-06-26",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Il est divisé en huit cent (800) parts de dix (10) euros chacune, numérotées de 1 à 800, entièrement souscrites et intégralement libérées et attribuées en totalité à l'associée unique, savoir: La société S.K2.R., A concurrence de huit cent parts sociales",
+      "bbox_norm": [
+        0.1173,
+        0.1967,
+        0.8835,
+        0.2626
+      ],
+      "llm_valid": true,
+      "llm_note": "S.K2.R. becomes sole shareholder with 800 shares × €10 = €8,000 capital. Snippet confirms valid shareholder entry describing capital structure after contribution.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63e3429404dafca7f210aa7c",
+        "page": 6,
+        "bbox": [
+          0.1173,
+          0.1967,
+          0.8835,
+          0.2626
+        ],
+        "snippet": "Il est divisé en huit cent (800) parts de dix (10) euros chacune, numérotées de 1 à 800, entièrement souscrites et intégralement libérées et attribuées en totalité à l'associée unique, savoir: La société S.K2.R., A concurrence de huit cent parts sociales"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Décision(s) de l'associé unique",
+          "decision": " Modification des statuts"
+        },
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": " Modification des statuts"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e3429404dafca7f210aa7c",
+      "page": 2,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Al KALFANE",
+        "shares": 200
+      },
+      "event_date": "2007-06-26",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Selon traité d'apport en date du 2 avril 2007 et rapport du Commissaire aux apports en date du 16 avril 2007, les Sieurs Al et Mo KALFANE ont apporté à la société S.K2.R, la totalité des titres leur appartenant dans le capital de CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN",
+      "bbox_norm": [
+        0.121,
+        0.4702,
+        0.9089,
+        0.5326
+      ],
+      "llm_valid": true,
+      "llm_note": "Al KALFANE ceases shareholding (200 shares × €10 = €2,000). Valid exit as part of documented contribution of CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN shares to S.K2.R. dated April 2, 2007 (ratified June 26).",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63e3429404dafca7f210aa7c",
+        "page": 2,
+        "bbox": [
+          0.121,
+          0.4702,
+          0.9089,
+          0.5326
+        ],
+        "snippet": "Selon traité d'apport en date du 2 avril 2007 et rapport du Commissaire aux apports en date du 16 avril 2007, les Sieurs Al et Mo KALFANE ont apporté à la société S.K2.R, la totalité des titres leur appartenant dans le capital de CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Décision(s) de l'associé unique",
+          "decision": " Modification des statuts"
+        },
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": " Modification des statuts"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e3429404dafca7f210aa7c",
+      "page": 2,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Mo KALFANE"
+      },
+      "event_date": "2007-06-26",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Selon traité d'apport en date du 2 avril 2007 et rapport du Commissaire aux apports en date du 16 avril 2007, les Sieurs Al et Mo KALFANE ont apporté à la société S.K2.R, la totalité des titres leur appartenant dans le capital de CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN",
+      "bbox_norm": [
+        0.121,
+        0.4702,
+        0.9089,
+        0.5326
+      ],
+      "llm_valid": true,
+      "llm_note": "Mo KALFANE ceases shareholding. Valid exit as co-contributor alongside Al KALFANE. Payload omits share count, but snippet confirms participation in April 2 apport agreement; reconciles as ~600 shares (€6,000) to complete €8,000 total transferred to S.K2.R.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63e3429404dafca7f210aa7c",
+        "page": 2,
+        "bbox": [
+          0.121,
+          0.4702,
+          0.9089,
+          0.5326
+        ],
+        "snippet": "Selon traité d'apport en date du 2 avril 2007 et rapport du Commissaire aux apports en date du 16 avril 2007, les Sieurs Al et Mo KALFANE ont apporté à la société S.K2.R, la totalité des titres leur appartenant dans le capital de CONSEIL ET AUDIT MAYOTTE OCEAN INDIEN"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Décision(s) de l'associé unique",
+          "decision": " Modification des statuts"
+        },
+        {
+          "typeActe": "Statuts mis à jour",
+          "decision": " Modification des statuts"
+        }
+      ]
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63e3429404dafca7f210aa7c",
+      "dateDepot": "2021-04-01",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 3
+    }
+  ]
+}

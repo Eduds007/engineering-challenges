@@ -1,0 +1,4958 @@
+{
+  "doc_id": "63e8ebb854febda17c19ee6b",
+  "pdf": "acte_2000-02-03_63e8ebb854febda17c19ee6b.pdf",
+  "n_pages": 15,
+  "pages": [
+    {
+      "page": 1,
+      "text": "#\n* GREFFE DU TRIBUNAL DATE :03/02/00\nDE COMMERCE N° DE DEPOT : 2265\nDE LYON R.C.S. LYON :328 024 377\nN° DE GESTION:83 B.01173\n;:\n' ::\nBORDEREAU − INPI DEPOT D ACTES DE SOCIETE\nW\n: : :\n::.\n:\n------Nom et adresse de la Société\nBERNACHON SA\n42 ROOSEVELT (COURS FRANK\n69006 LYON\n.\nH..\nNous soussigné greffier du Tribunal de Commerce de LYoN avons déposé à la date ci-dessus au rang de nos minutes :\nTrois pièces\nconcernant la Société désignée ci-dessus et dont l'objet est le suivant:\nDIRIGEANTS/ORGANES DE CONTROLE\nDélibération/Acte\nL’ORIGINAL DÉLIVRÉ PAR LE GREFFE DU TRIBUNAL DE COMMERCE EST ÉTABLI SUR PAPIER TRAMÉ",
+      "lines": [
+        {
+          "text": "#",
+          "bbox_norm": [
+            0.338,
+            0.021,
+            0.3486,
+            0.0278
+          ]
+        },
+        {
+          "text": "*",
+          "bbox_norm": [
+            0.0354,
+            0.0445,
+            0.0417,
+            0.0508
+          ]
+        },
+        {
+          "text": "GREFFE DU TRIBUNAL",
+          "bbox_norm": [
+            0.0494,
+            0.0352,
+            0.2681,
+            0.0469
+          ]
+        },
+        {
+          "text": "DATE",
+          "bbox_norm": [
+            0.5937,
+            0.0347,
+            0.6472,
+            0.0483
+          ]
+        },
+        {
+          "text": ":03/02/00",
+          "bbox_norm": [
+            0.755,
+            0.0347,
+            0.8639,
+            0.0498
+          ]
+        },
+        {
+          "text": "DE COMMERCE",
+          "bbox_norm": [
+            0.0722,
+            0.0489,
+            0.209,
+            0.062
+          ]
+        },
+        {
+          "text": "N° DE DEPOT",
+          "bbox_norm": [
+            0.593,
+            0.0483,
+            0.7321,
+            0.063
+          ]
+        },
+        {
+          "text": ": 2265",
+          "bbox_norm": [
+            0.755,
+            0.0498,
+            0.8278,
+            0.062
+          ]
+        },
+        {
+          "text": "DE LYON",
+          "bbox_norm": [
+            0.0966,
+            0.0634,
+            0.1861,
+            0.0767
+          ]
+        },
+        {
+          "text": "R.C.S. LYON",
+          "bbox_norm": [
+            0.5937,
+            0.064,
+            0.7319,
+            0.0771
+          ]
+        },
+        {
+          "text": ":328 024 377",
+          "bbox_norm": [
+            0.755,
+            0.064,
+            0.8994,
+            0.0771
+          ]
+        },
+        {
+          "text": "N° DE GESTION:83 B.01173",
+          "bbox_norm": [
+            0.6173,
+            0.0766,
+            0.9147,
+            0.0928
+          ]
+        },
+        {
+          "text": ";:",
+          "bbox_norm": [
+            0.084,
+            0.0981,
+            0.0945,
+            0.104
+          ]
+        },
+        {
+          "text": "'",
+          "bbox_norm": [
+            0.6952,
+            0.1025,
+            0.7014,
+            0.1065
+          ]
+        },
+        {
+          "text": "::",
+          "bbox_norm": [
+            0.7452,
+            0.1025,
+            0.7688,
+            0.1079
+          ]
+        },
+        {
+          "text": "BORDEREAU",
+          "bbox_norm": [
+            0.0617,
+            0.106,
+            0.2549,
+            0.1207
+          ]
+        },
+        {
+          "text": "−",
+          "bbox_norm": [
+            0.2591,
+            0.1106,
+            0.2656,
+            0.1153
+          ]
+        },
+        {
+          "text": "INPI",
+          "bbox_norm": [
+            0.2618,
+            0.1065,
+            0.3466,
+            0.1202
+          ]
+        },
+        {
+          "text": "DEPOT D ACTES DE SOCIETE",
+          "bbox_norm": [
+            0.3617,
+            0.1044,
+            0.8736,
+            0.1226
+          ]
+        },
+        {
+          "text": "W",
+          "bbox_norm": [
+            0.6348,
+            0.1391,
+            0.6569,
+            0.1445
+          ]
+        },
+        {
+          "text": ": :",
+          "bbox_norm": [
+            0.6903,
+            0.1601,
+            0.6945,
+            0.1626
+          ]
+        },
+        {
+          "text": ":",
+          "bbox_norm": [
+            0.6976,
+            0.1584,
+            0.7075,
+            0.1643
+          ]
+        },
+        {
+          "text": "::.",
+          "bbox_norm": [
+            0.125,
+            0.1694,
+            0.1292,
+            0.1719
+          ]
+        },
+        {
+          "text": ":",
+          "bbox_norm": [
+            0.7507,
+            0.1763,
+            0.7555,
+            0.1797
+          ]
+        },
+        {
+          "text": "------Nom et adresse de la Société",
+          "bbox_norm": [
+            0.598,
+            0.1802,
+            0.8458,
+            0.192
+          ]
+        },
+        {
+          "text": "BERNACHON SA",
+          "bbox_norm": [
+            0.6194,
+            0.1938,
+            0.7682,
+            0.2071
+          ]
+        },
+        {
+          "text": "42",
+          "bbox_norm": [
+            0.6188,
+            0.2212,
+            0.6494,
+            0.2368
+          ]
+        },
+        {
+          "text": "ROOSEVELT (COURS FRANK",
+          "bbox_norm": [
+            0.7159,
+            0.2222,
+            0.9855,
+            0.2363
+          ]
+        },
+        {
+          "text": "69006",
+          "bbox_norm": [
+            0.6201,
+            0.2368,
+            0.6848,
+            0.2505
+          ]
+        },
+        {
+          "text": "LYON",
+          "bbox_norm": [
+            0.7028,
+            0.2368,
+            0.7577,
+            0.2505
+          ]
+        },
+        {
+          "text": ".",
+          "bbox_norm": [
+            0.6306,
+            0.2705,
+            0.6341,
+            0.2729
+          ]
+        },
+        {
+          "text": "H..",
+          "bbox_norm": [
+            0.3562,
+            0.2724,
+            0.3647,
+            0.2759
+          ]
+        },
+        {
+          "text": "Nous soussigné greffier du Tribunal de Commerce de LYoN avons déposé à la date ci-dessus au rang de nos minutes :",
+          "bbox_norm": [
+            0.0735,
+            0.2784,
+            0.8972,
+            0.2945
+          ]
+        },
+        {
+          "text": "Trois pièces",
+          "bbox_norm": [
+            0.1104,
+            0.3066,
+            0.2598,
+            0.3228
+          ]
+        },
+        {
+          "text": "concernant la Société désignée ci-dessus et dont l'objet est le suivant:",
+          "bbox_norm": [
+            0.073,
+            0.4795,
+            0.5993,
+            0.4947
+          ]
+        },
+        {
+          "text": "DIRIGEANTS/ORGANES DE CONTROLE",
+          "bbox_norm": [
+            0.1132,
+            0.5089,
+            0.4799,
+            0.522
+          ]
+        },
+        {
+          "text": "Délibération/Acte",
+          "bbox_norm": [
+            0.1485,
+            0.5224,
+            0.3577,
+            0.5372
+          ]
+        },
+        {
+          "text": "L’ORIGINAL DÉLIVRÉ PAR LE GREFFE DU TRIBUNAL DE COMMERCE EST ÉTABLI SUR PAPIER TRAMÉ",
+          "bbox_norm": [
+            0.1076,
+            0.9522,
+            0.891,
+            0.9684
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "BERNACHON SA\nSociété anonyme\nCapital s0cial : 1.000.000 Frs Siège s0cial : LYON (69006) 42, cours Franklin Roosevelt COPIE\n328 024 377 R.C.S. LYON\nPROCES-VERBAL DES DELIBERATIONS DE L'ASSEMBLEE GENERALE\nORDINAIRE DU 28 QCTOBRE 1999\nLe 28 octobre 1999 à 10 heures 30, au siège social, les actionnaires se sont réunis\nen ASSEMBLEE GENERALE ORDINAIRE sur la convocation qui leur a été faite dans\nles délais réglementaires.\nLes membres de l'assemblée ont émargé la feuille de présence en entrant en séance,\ntant en leur nom qu'au nom des actionnaires qu'ils représentent.\nL'assemblée est présidée par Monsieur Jean-Jacques BERNACHON, Directeur\nGénéral.\nSont scrutateurs de l'assemblée les deux membres disposant du plus grand nombre\nde voix et acceptant cette fonction, savoir :\n- Madame Françoise BERNACHON\n- Madame Raymonde BOCUSE\nLe Bureau de l'assemblée désigne comme secrétaire :\n- Madame Françoise BERNACHON\nMonsieur Gérard FAYSSE, Commissaire aux comptes, régulièrement convoqué, est\nabsent.\nLa feuille de présence est vérifiée puis arrêtée par le Bureau de l'Assemblée qui\nconstate que les actionnaires présents ou représentés possèdent plus du quart des actions\ncomposant le capital social et jouissant du droit de vote sur toutes les questions à l'ordre du\njour autres que celles relatives à l'approbation des conventions réglementées. En\nconséquence, Monsieur le Président déclare l'assemblée régulièrement constituée et apte à\ndélibérer valablement,\nMonsieur le Président met à la disposition des membres de l'assemblée :\n- Un exemplaire des statuts de la société.\n- Une copie de la lettre de convocation adressée à chaque actionnaire.\n- La copie de la lettre de convocation du Commissaire aux comptes.\n- La feuille de présence.",
+      "lines": [
+        {
+          "text": "BERNACHON SA",
+          "bbox_norm": [
+            0.1895,
+            0.0815,
+            0.3556,
+            0.0972
+          ]
+        },
+        {
+          "text": "Société anonyme",
+          "bbox_norm": [
+            0.1887,
+            0.0961,
+            0.3342,
+            0.1129
+          ]
+        },
+        {
+          "text": "Capital s0cial : 1.000.000 Frs",
+          "bbox_norm": [
+            0.1896,
+            0.1114,
+            0.4319,
+            0.126
+          ]
+        },
+        {
+          "text": "Siège s0cial : LYON (69006)",
+          "bbox_norm": [
+            0.1896,
+            0.126,
+            0.4319,
+            0.1412
+          ]
+        },
+        {
+          "text": "42, cours Franklin Roosevelt",
+          "bbox_norm": [
+            0.1896,
+            0.1396,
+            0.4292,
+            0.1543
+          ]
+        },
+        {
+          "text": "COPIE",
+          "bbox_norm": [
+            0.7723,
+            0.099,
+            0.9216,
+            0.1573
+          ]
+        },
+        {
+          "text": "328 024 377 R.C.S. LYON",
+          "bbox_norm": [
+            0.1903,
+            0.1548,
+            0.4139,
+            0.168
+          ]
+        },
+        {
+          "text": "PROCES-VERBAL DES DELIBERATIONS DE L'ASSEMBLEE GENERALE",
+          "bbox_norm": [
+            0.2125,
+            0.2109,
+            0.9042,
+            0.2276
+          ]
+        },
+        {
+          "text": "ORDINAIRE DU 28 QCTOBRE 1999",
+          "bbox_norm": [
+            0.3966,
+            0.2402,
+            0.7264,
+            0.2549
+          ]
+        },
+        {
+          "text": "Le 28 octobre 1999 à 10 heures 30, au siège social, les actionnaires se sont réunis",
+          "bbox_norm": [
+            0.25,
+            0.2827,
+            0.9363,
+            0.3004
+          ]
+        },
+        {
+          "text": "en ASSEMBLEE GENERALE ORDINAIRE sur la convocation qui leur a été faite dans",
+          "bbox_norm": [
+            0.1896,
+            0.2973,
+            0.9341,
+            0.315
+          ]
+        },
+        {
+          "text": "les délais réglementaires.",
+          "bbox_norm": [
+            0.1903,
+            0.3125,
+            0.3973,
+            0.3272
+          ]
+        },
+        {
+          "text": "Les membres de l'assemblée ont émargé la feuille de présence en entrant en séance,",
+          "bbox_norm": [
+            0.2493,
+            0.3393,
+            0.9368,
+            0.3589
+          ]
+        },
+        {
+          "text": "tant en leur nom qu'au nom des actionnaires qu'ils représentent.",
+          "bbox_norm": [
+            0.1909,
+            0.3555,
+            0.7126,
+            0.3717
+          ]
+        },
+        {
+          "text": "L'assemblée est présidée par Monsieur Jean-Jacques BERNACHON, Directeur",
+          "bbox_norm": [
+            0.2506,
+            0.3833,
+            0.93,
+            0.401
+          ]
+        },
+        {
+          "text": "Général.",
+          "bbox_norm": [
+            0.1902,
+            0.3969,
+            0.2655,
+            0.4132
+          ]
+        },
+        {
+          "text": "Sont scrutateurs de l'assemblée les deux membres disposant du plus grand nombre",
+          "bbox_norm": [
+            0.25,
+            0.4258,
+            0.9361,
+            0.4439
+          ]
+        },
+        {
+          "text": "de voix et acceptant cette fonction, savoir :",
+          "bbox_norm": [
+            0.1917,
+            0.4409,
+            0.541,
+            0.4571
+          ]
+        },
+        {
+          "text": "- Madame Françoise BERNACHON",
+          "bbox_norm": [
+            0.2528,
+            0.4702,
+            0.55,
+            0.4849
+          ]
+        },
+        {
+          "text": "- Madame Raymonde BOCUSE",
+          "bbox_norm": [
+            0.2535,
+            0.4986,
+            0.5132,
+            0.5138
+          ]
+        },
+        {
+          "text": "Le Bureau de l'assemblée désigne comme secrétaire :",
+          "bbox_norm": [
+            0.2506,
+            0.5264,
+            0.6862,
+            0.5441
+          ]
+        },
+        {
+          "text": "- Madame Françoise BERNACHON",
+          "bbox_norm": [
+            0.2535,
+            0.5562,
+            0.5508,
+            0.5709
+          ]
+        },
+        {
+          "text": "Monsieur Gérard FAYSSE, Commissaire aux comptes, régulièrement convoqué, est",
+          "bbox_norm": [
+            0.2521,
+            0.585,
+            0.9383,
+            0.6031
+          ]
+        },
+        {
+          "text": "absent.",
+          "bbox_norm": [
+            0.1915,
+            0.602,
+            0.253,
+            0.6174
+          ]
+        },
+        {
+          "text": "La feuille de présence est vérifiée puis arrêtée par le Bureau de l'Assemblée qui",
+          "bbox_norm": [
+            0.2521,
+            0.6299,
+            0.9389,
+            0.6461
+          ]
+        },
+        {
+          "text": "constate que les actionnaires présents ou représentés possèdent plus du quart des actions",
+          "bbox_norm": [
+            0.1931,
+            0.6455,
+            0.9389,
+            0.6602
+          ]
+        },
+        {
+          "text": "composant le capital social et jouissant du droit de vote sur toutes les questions à l'ordre du",
+          "bbox_norm": [
+            0.1924,
+            0.6587,
+            0.9389,
+            0.6744
+          ]
+        },
+        {
+          "text": "jour autres que celles relatives à l'approbation des conventions réglementées. En",
+          "bbox_norm": [
+            0.1924,
+            0.6739,
+            0.9396,
+            0.689
+          ]
+        },
+        {
+          "text": "conséquence, Monsieur le Président déclare l'assemblée régulièrement constituée et apte à",
+          "bbox_norm": [
+            0.1924,
+            0.6881,
+            0.9411,
+            0.7032
+          ]
+        },
+        {
+          "text": "délibérer valablement,",
+          "bbox_norm": [
+            0.193,
+            0.7016,
+            0.3772,
+            0.7164
+          ]
+        },
+        {
+          "text": "Monsieur le Président met à la disposition des membres de l'assemblée :",
+          "bbox_norm": [
+            0.2549,
+            0.7305,
+            0.841,
+            0.7452
+          ]
+        },
+        {
+          "text": "- Un exemplaire des statuts de la société.",
+          "bbox_norm": [
+            0.2549,
+            0.7584,
+            0.5847,
+            0.774
+          ]
+        },
+        {
+          "text": "- Une copie de la lettre de convocation adressée à chaque actionnaire.",
+          "bbox_norm": [
+            0.2556,
+            0.7871,
+            0.8187,
+            0.8033
+          ]
+        },
+        {
+          "text": "- La copie de la lettre de convocation du Commissaire aux comptes.",
+          "bbox_norm": [
+            0.2556,
+            0.8165,
+            0.8069,
+            0.8321
+          ]
+        },
+        {
+          "text": "- La feuille de présence.",
+          "bbox_norm": [
+            0.2556,
+            0.8442,
+            0.4507,
+            0.8605
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "- 2 -\n- Ainsi que le dossier complet des documents et renseignements communiqués et\nmis à la disposition des actionnaires en application du droit d'information prescrit par la loi,\nsavoir :\n. Le rapport du Conseil d'Administration.\n. Le texte des résolutions proposées par le Conseil d'Administration.\n. Le tableau de composition du Conseil d'Administration.\n. La liste des actionnaires.\n. La fiche de renseignements sur la candidature au poste d'administrateur de la\nsociété.\nMonsieur le Président rappelle que les documents énumérés ci-dessus et plus\ngénéralement les documents et renseignements prescrits par la loi pour l'information\npréalable des actionnaires ont été tenus à la disposition de ceux-ci au lieu et dans les délais\nprévus par la réglementation en vigueur.\nMonsieur le Président rappelle l'ordre du jour :\n- Nomination d'un nouvel administrateur en remplacement d'un administrateur\ndécédé.\n- Questions diverses.\nIl est ensuite donné lecture du rapport du Conseil d'Administration.\nCette lecture faite, Monsieur le Président invite les membres de l'assemblée à poser\nles questions qu'ils souhaitent sur les points en rapport avec l'ordre du jour et, s'ils le\ndésirent, à expliquer leur vote à venir.\nConstatant que personne ne demande à intervenir, Monsieur le Président met aux\nvoix les résolutions suivantes figurant à l'ordre du jour :\nPREMIERE RESOLUTION\nL'assemblée générale donne acte à son Président de ses déclarations relatives à la\nconvocation des actionnaires et à la mise à leur disposition des documents et\nrenseignements prescrits par la réglementation en vigueur et utiles à leur information\npréalable.\nCette résolution est adoptée à l'unanimité.\nDEUXIEME RESOLUTION\nL'assemblée générale, après avoir entendu la lecture du rapport du conseil\nd'administration, prend acte du décès de Monsieur Maurice BERNACHON en date du 16\nseptémbre 1999 et nomme en qualité d'administrateur, à compter de ce jour :\n- Madame Stéphanie LE ROUX, née le 9 janvier 1974 à LYON (69006),\ndemeurant à LYON (69006) 139, rue Duguesclin,",
+      "lines": [
+        {
+          "text": "- 2 -",
+          "bbox_norm": [
+            0.4764,
+            0.0327,
+            0.5132,
+            0.0478
+          ]
+        },
+        {
+          "text": "- Ainsi que le dossier complet des documents et renseignements communiqués et",
+          "bbox_norm": [
+            0.2611,
+            0.0727,
+            0.9341,
+            0.0899
+          ]
+        },
+        {
+          "text": "mis à la disposition des actionnaires en application du droit d'information prescrit par la loi,",
+          "bbox_norm": [
+            0.2021,
+            0.0879,
+            0.9376,
+            0.104
+          ]
+        },
+        {
+          "text": "savoir :",
+          "bbox_norm": [
+            0.2007,
+            0.103,
+            0.2653,
+            0.1167
+          ]
+        },
+        {
+          "text": ". Le rapport du Conseil d'Administration.",
+          "bbox_norm": [
+            0.2618,
+            0.1304,
+            0.5897,
+            0.1461
+          ]
+        },
+        {
+          "text": ". Le texte des résolutions proposées par le Conseil d'Administration.",
+          "bbox_norm": [
+            0.2626,
+            0.1597,
+            0.8069,
+            0.1743
+          ]
+        },
+        {
+          "text": ". Le tableau de composition du Conseil d'Administration.",
+          "bbox_norm": [
+            0.2618,
+            0.188,
+            0.7188,
+            0.2027
+          ]
+        },
+        {
+          "text": ". La liste des actionnaires.",
+          "bbox_norm": [
+            0.2618,
+            0.2163,
+            0.4708,
+            0.231
+          ]
+        },
+        {
+          "text": ". La fiche de renseignements sur la candidature au poste d'administrateur de la",
+          "bbox_norm": [
+            0.2618,
+            0.2446,
+            0.9368,
+            0.2608
+          ]
+        },
+        {
+          "text": "société.",
+          "bbox_norm": [
+            0.1998,
+            0.2582,
+            0.2662,
+            0.2751
+          ]
+        },
+        {
+          "text": "Monsieur le Président rappelle que les documents énumérés ci-dessus et plus",
+          "bbox_norm": [
+            0.2604,
+            0.2876,
+            0.9328,
+            0.3037
+          ]
+        },
+        {
+          "text": "généralement les documents et renseignements prescrits par la loi pour l'information",
+          "bbox_norm": [
+            0.2007,
+            0.3022,
+            0.9383,
+            0.3188
+          ]
+        },
+        {
+          "text": "préalable des actionnaires ont été tenus à la disposition de ceux-ci au lieu et dans les délais",
+          "bbox_norm": [
+            0.2021,
+            0.3174,
+            0.9333,
+            0.3321
+          ]
+        },
+        {
+          "text": "prévus par la réglementation en vigueur.",
+          "bbox_norm": [
+            0.2021,
+            0.3321,
+            0.5257,
+            0.3467
+          ]
+        },
+        {
+          "text": "Monsieur le Président rappelle l'ordre du jour :",
+          "bbox_norm": [
+            0.2611,
+            0.3604,
+            0.6354,
+            0.375
+          ]
+        },
+        {
+          "text": "- Nomination d'un nouvel administrateur en remplacement d'un administrateur",
+          "bbox_norm": [
+            0.2604,
+            0.3882,
+            0.9333,
+            0.4034
+          ]
+        },
+        {
+          "text": "décédé.",
+          "bbox_norm": [
+            0.2021,
+            0.4029,
+            0.2659,
+            0.4171
+          ]
+        },
+        {
+          "text": "- Questions diverses.",
+          "bbox_norm": [
+            0.2611,
+            0.4317,
+            0.4306,
+            0.4463
+          ]
+        },
+        {
+          "text": "Il est ensuite donné lecture du rapport du Conseil d'Administration.",
+          "bbox_norm": [
+            0.2604,
+            0.46,
+            0.7986,
+            0.4747
+          ]
+        },
+        {
+          "text": "Cette lecture faite, Monsieur le Président invite les membres de l'assemblée à poser",
+          "bbox_norm": [
+            0.2604,
+            0.4879,
+            0.9376,
+            0.5035
+          ]
+        },
+        {
+          "text": "les questions qu'ils souhaitent sur les points en rapport avec l'ordre du jour et, s'ils le",
+          "bbox_norm": [
+            0.2027,
+            0.5035,
+            0.9361,
+            0.5181
+          ]
+        },
+        {
+          "text": "désirent, à expliquer leur vote à venir.",
+          "bbox_norm": [
+            0.2021,
+            0.5171,
+            0.5069,
+            0.5323
+          ]
+        },
+        {
+          "text": "Constatant que personne ne demande à intervenir, Monsieur le Président met aux",
+          "bbox_norm": [
+            0.2618,
+            0.5464,
+            0.9368,
+            0.5611
+          ]
+        },
+        {
+          "text": "voix les résolutions suivantes figurant à l'ordre du jour :",
+          "bbox_norm": [
+            0.2021,
+            0.5601,
+            0.6494,
+            0.5758
+          ]
+        },
+        {
+          "text": "PREMIERE RESOLUTION",
+          "bbox_norm": [
+            0.4437,
+            0.6021,
+            0.691,
+            0.6182
+          ]
+        },
+        {
+          "text": "L'assemblée générale donne acte à son Président de ses déclarations relatives à la",
+          "bbox_norm": [
+            0.2604,
+            0.6314,
+            0.9376,
+            0.6471
+          ]
+        },
+        {
+          "text": "convocation des actionnaires et à la mise à leur disposition des documents et",
+          "bbox_norm": [
+            0.2014,
+            0.6461,
+            0.9383,
+            0.6617
+          ]
+        },
+        {
+          "text": "renseignements prescrits par la réglementation en vigueur et utiles à leur information",
+          "bbox_norm": [
+            0.2014,
+            0.6597,
+            0.9383,
+            0.6769
+          ]
+        },
+        {
+          "text": "préalable.",
+          "bbox_norm": [
+            0.2005,
+            0.6743,
+            0.2835,
+            0.691
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2604,
+            0.7037,
+            0.5959,
+            0.7193
+          ]
+        },
+        {
+          "text": "DEUXIEME RESOLUTION",
+          "bbox_norm": [
+            0.4437,
+            0.7471,
+            0.6923,
+            0.7618
+          ]
+        },
+        {
+          "text": "L'assemblée générale, après avoir entendu la lecture du rapport du conseil",
+          "bbox_norm": [
+            0.2604,
+            0.7755,
+            0.9368,
+            0.7911
+          ]
+        },
+        {
+          "text": "d'administration, prend acte du décès de Monsieur Maurice BERNACHON en date du 16",
+          "bbox_norm": [
+            0.2021,
+            0.7901,
+            0.9368,
+            0.8053
+          ]
+        },
+        {
+          "text": "septémbre 1999 et nomme en qualité d'administrateur, à compter de ce jour :",
+          "bbox_norm": [
+            0.2021,
+            0.8042,
+            0.8167,
+            0.8209
+          ]
+        },
+        {
+          "text": "- Madame Stéphanie LE ROUX, née le 9 janvier 1974 à LYON (69006),",
+          "bbox_norm": [
+            0.2632,
+            0.834,
+            0.9293,
+            0.8472
+          ]
+        },
+        {
+          "text": "demeurant à LYON (69006) 139, rue Duguesclin,",
+          "bbox_norm": [
+            0.2042,
+            0.8487,
+            0.6015,
+            0.8619
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "- 3 -\npour la durée restant à courir du mandat de son prédécesseur, soit jusqu'à l'issue de\nl'assemblée générale qui statuera en 2004 sur les comptes de l'exercice écoulé.\nCette résolution est adoptée à l'unanimité.\nMadame Stéphanie LE ROUX nommée en qualité d'administrateur de la société\nBERNACHON S.A., déclare accepter sa nomination, n'exercer aucune fonction, n'être\nfrappée d'aucune mesure susceptible de lui interdire d'exercer cette fonction et être déjà\nactionnaire de la société à titre personnel.\nTRQISIEME RESOLUTION\nL'assemblée générale donne tous pouvoirs à Monsieur Jean-Jacques\nBERNACHON, avec faculté de se substituer toute personne de son choix, à l'effet\nd'effectuer ou de faire effectuer les formalités afférentes aux résolutions qui précèdent.\nCette résolution est adoptée à l'unanimité.\nMonsieur le Président constate que toutes les résolutions à l'ordre du jour ont été\nvotées. Après avoir redonné la parole aux membres de l'assemblée et constaté que personne\nne demande à intervenir, il déclare la séance levée.\nEt de tout ce que dessus, il a été dressé le présent procès-verbal qui a été signé par\nles membres du bureau et le secrétaire.\nCUPIE CLRIITCLE CUURML\nLe Président du C. A,\nLe Président Le Secrétaire\nJean-Jacques BERNACHON Françoise BERNACHON\nLes Scrutateurs\nFrançoise BERNACHON Raymonde BOCUSE\nStéphanie LE ROUX\n\"Bon pour acceptation des fonctions d'administrateur\"",
+      "lines": [
+        {
+          "text": "- 3 -",
+          "bbox_norm": [
+            0.455,
+            0.0278,
+            0.4911,
+            0.0429
+          ]
+        },
+        {
+          "text": "pour la durée restant à courir du mandat de son prédécesseur, soit jusqu'à l'issue de",
+          "bbox_norm": [
+            0.2368,
+            0.064,
+            0.923,
+            0.086
+          ]
+        },
+        {
+          "text": "l'assemblée générale qui statuera en 2004 sur les comptes de l'exercice écoulé.",
+          "bbox_norm": [
+            0.1784,
+            0.0801,
+            0.8147,
+            0.1007
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2396,
+            0.1093,
+            0.5793,
+            0.128
+          ]
+        },
+        {
+          "text": "Madame Stéphanie LE ROUX nommée en qualité d'administrateur de la société",
+          "bbox_norm": [
+            0.2396,
+            0.1357,
+            0.9258,
+            0.1564
+          ]
+        },
+        {
+          "text": "BERNACHON S.A., déclare accepter sa nomination, n'exercer aucune fonction, n'être",
+          "bbox_norm": [
+            0.1804,
+            0.1509,
+            0.9252,
+            0.1715
+          ]
+        },
+        {
+          "text": "frappée d'aucune mesure susceptible de lui interdire d'exercer cette fonction et être déjà",
+          "bbox_norm": [
+            0.1812,
+            0.1645,
+            0.9265,
+            0.1871
+          ]
+        },
+        {
+          "text": "actionnaire de la société à titre personnel.",
+          "bbox_norm": [
+            0.1812,
+            0.1826,
+            0.5182,
+            0.2012
+          ]
+        },
+        {
+          "text": "TRQISIEME RESOLUTION",
+          "bbox_norm": [
+            0.4229,
+            0.2236,
+            0.6821,
+            0.2408
+          ]
+        },
+        {
+          "text": "L'assemblée générale donne tous pouvoirs à Monsieur Jean-Jacques",
+          "bbox_norm": [
+            0.2416,
+            0.25,
+            0.9223,
+            0.272
+          ]
+        },
+        {
+          "text": "BERNACHON, avec faculté de se substituer toute personne de son choix, à l'effet",
+          "bbox_norm": [
+            0.1839,
+            0.2651,
+            0.9265,
+            0.2862
+          ]
+        },
+        {
+          "text": "d'effectuer ou de faire effectuer les formalités afférentes aux résolutions qui précèdent.",
+          "bbox_norm": [
+            0.1839,
+            0.2798,
+            0.8869,
+            0.3004
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2451,
+            0.31,
+            0.5841,
+            0.3292
+          ]
+        },
+        {
+          "text": "Monsieur le Président constate que toutes les résolutions à l'ordre du jour ont été",
+          "bbox_norm": [
+            0.2457,
+            0.3501,
+            0.93,
+            0.3717
+          ]
+        },
+        {
+          "text": "votées. Après avoir redonné la parole aux membres de l'assemblée et constaté que personne",
+          "bbox_norm": [
+            0.1867,
+            0.3647,
+            0.9307,
+            0.3868
+          ]
+        },
+        {
+          "text": "ne demande à intervenir, il déclare la séance levée.",
+          "bbox_norm": [
+            0.1874,
+            0.3818,
+            0.6001,
+            0.401
+          ]
+        },
+        {
+          "text": "Et de tout ce que dessus, il a été dressé le présent procès-verbal qui a été signé par",
+          "bbox_norm": [
+            0.2471,
+            0.4082,
+            0.9272,
+            0.4288
+          ]
+        },
+        {
+          "text": "les membres du bureau et le secrétaire.",
+          "bbox_norm": [
+            0.1874,
+            0.4257,
+            0.5043,
+            0.4445
+          ]
+        },
+        {
+          "text": "CUPIE CLRIITCLE CUURML",
+          "bbox_norm": [
+            0.2563,
+            0.4727,
+            0.6098,
+            0.4859
+          ]
+        },
+        {
+          "text": "Le Président du C. A,",
+          "bbox_norm": [
+            0.3153,
+            0.4922,
+            0.5514,
+            0.5054
+          ]
+        },
+        {
+          "text": "Le Président",
+          "bbox_norm": [
+            0.3166,
+            0.5121,
+            0.4293,
+            0.5274
+          ]
+        },
+        {
+          "text": "Le Secrétaire",
+          "bbox_norm": [
+            0.7367,
+            0.5072,
+            0.8578,
+            0.5241
+          ]
+        },
+        {
+          "text": "Jean-Jacques BERNACHON",
+          "bbox_norm": [
+            0.2444,
+            0.5258,
+            0.4973,
+            0.5441
+          ]
+        },
+        {
+          "text": "Françoise BERNACHON",
+          "bbox_norm": [
+            0.6791,
+            0.5205,
+            0.9044,
+            0.5393
+          ]
+        },
+        {
+          "text": "Les Scrutateurs",
+          "bbox_norm": [
+            0.4951,
+            0.625,
+            0.6348,
+            0.6397
+          ]
+        },
+        {
+          "text": "Françoise BERNACHON",
+          "bbox_norm": [
+            0.2645,
+            0.6396,
+            0.4884,
+            0.6579
+          ]
+        },
+        {
+          "text": "Raymonde BOCUSE",
+          "bbox_norm": [
+            0.6833,
+            0.6367,
+            0.8535,
+            0.6534
+          ]
+        },
+        {
+          "text": "Stéphanie LE ROUX",
+          "bbox_norm": [
+            0.5055,
+            0.7367,
+            0.6904,
+            0.7551
+          ]
+        },
+        {
+          "text": "\"Bon pour acceptation des fonctions d'administrateur\"",
+          "bbox_norm": [
+            0.37,
+            0.7505,
+            0.8321,
+            0.7711
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Société anonyme BERNACHON SA COPIE\nCapital s0cial : 1.000.000 Frs\nSiège s0cial : LYON (69006)\n42, cours Franklin Roosevelt\n328 024 377 R.C.S. LYON\nCONSEIL D'ADMINISTRATION\nSEANCE DU 28 OCTOBRE 1999\nLes administrateurs se sont réunis au siège social à l'issue de l'assemblée générale\nde ce jour, qui a procédé à la nomination d'un nouvel administrateur en remplacement d'un\nadministrateur décédé pour délibérer sur l'ordre du jour suivant :\n- Renouvellement du bureau du conseil d'administration.\n- Examen et arrêté des comptes annuels de l'exercice clos le 30 juin 1999.\n- Etablissement du rapport de gestion.\n- Conversion du capital en euros.\n- Convocation de l'assemblée générale annuelle des actionnaires.\n- Rédaction du projet de résolutions à soumettre à l'approbation de ladite\nassemblée.\n- Questions diverses.\nIl résulte du registre de présence, signé par les administrateurs à leur entrée en\nséance, que :\nSONT PRESENTS :\n- Monsieur Jean-Jacques BERNACHON\n- Madame Françoise BERNACHON\n- Madame Stéphanie LE ROUX\nMonsieur Gérard FAYSSE, Commissaire aux comptes, convoqué suivant lettre\nrecommandée avec avis de réception adressée le 22 octobre 1999, est absent excusé.\nLa séance est ouverte sous la présidence de Monsieur Jean-Jacques\nBERNACHON, doyen d'âge.\nMonsieur le Président constate et déclare :",
+      "lines": [
+        {
+          "text": "Société anonyme",
+          "bbox_norm": [
+            0.1867,
+            0.1083,
+            0.332,
+            0.1245
+          ]
+        },
+        {
+          "text": "BERNACHON SA",
+          "bbox_norm": [
+            0.1882,
+            0.0948,
+            0.3534,
+            0.1079
+          ]
+        },
+        {
+          "text": "COPIE",
+          "bbox_norm": [
+            0.72,
+            0.063,
+            0.8655,
+            0.1265
+          ]
+        },
+        {
+          "text": "Capital s0cial : 1.000.000 Frs",
+          "bbox_norm": [
+            0.1874,
+            0.123,
+            0.4299,
+            0.1392
+          ]
+        },
+        {
+          "text": "Siège s0cial : LYON (69006)",
+          "bbox_norm": [
+            0.1882,
+            0.1377,
+            0.4284,
+            0.1529
+          ]
+        },
+        {
+          "text": "42, cours Franklin Roosevelt",
+          "bbox_norm": [
+            0.1889,
+            0.1529,
+            0.4257,
+            0.1661
+          ]
+        },
+        {
+          "text": "328 024 377 R.C.S. LYON",
+          "bbox_norm": [
+            0.1889,
+            0.167,
+            0.4118,
+            0.1802
+          ]
+        },
+        {
+          "text": "CONSEIL D'ADMINISTRATION",
+          "bbox_norm": [
+            0.4091,
+            0.2295,
+            0.7118,
+            0.2437
+          ]
+        },
+        {
+          "text": "SEANCE DU 28 OCTOBRE 1999",
+          "bbox_norm": [
+            0.4126,
+            0.2607,
+            0.7076,
+            0.2759
+          ]
+        },
+        {
+          "text": "Les administrateurs se sont réunis au siège social à l'issue de l'assemblée générale",
+          "bbox_norm": [
+            0.2479,
+            0.292,
+            0.9355,
+            0.3092
+          ]
+        },
+        {
+          "text": "de ce jour, qui a procédé à la nomination d'un nouvel administrateur en remplacement d'un",
+          "bbox_norm": [
+            0.1889,
+            0.3081,
+            0.9355,
+            0.3248
+          ]
+        },
+        {
+          "text": "administrateur décédé pour délibérer sur l'ordre du jour suivant :",
+          "bbox_norm": [
+            0.1889,
+            0.3242,
+            0.7139,
+            0.3399
+          ]
+        },
+        {
+          "text": "- Renouvellement du bureau du conseil d'administration.",
+          "bbox_norm": [
+            0.25,
+            0.3555,
+            0.7098,
+            0.3712
+          ]
+        },
+        {
+          "text": "- Examen et arrêté des comptes annuels de l'exercice clos le 30 juin 1999.",
+          "bbox_norm": [
+            0.25,
+            0.3863,
+            0.8486,
+            0.4034
+          ]
+        },
+        {
+          "text": "- Etablissement du rapport de gestion.",
+          "bbox_norm": [
+            0.2499,
+            0.4175,
+            0.5591,
+            0.4356
+          ]
+        },
+        {
+          "text": "- Conversion du capital en euros.",
+          "bbox_norm": [
+            0.2514,
+            0.4502,
+            0.5187,
+            0.4654
+          ]
+        },
+        {
+          "text": "- Convocation de l'assemblée générale annuelle des actionnaires.",
+          "bbox_norm": [
+            0.2514,
+            0.4805,
+            0.7758,
+            0.4971
+          ]
+        },
+        {
+          "text": "- Rédaction du projet de résolutions à soumettre à l'approbation de ladite",
+          "bbox_norm": [
+            0.2493,
+            0.5122,
+            0.9306,
+            0.5304
+          ]
+        },
+        {
+          "text": "assemblée.",
+          "bbox_norm": [
+            0.1903,
+            0.5299,
+            0.2812,
+            0.5435
+          ]
+        },
+        {
+          "text": "- Questions diverses.",
+          "bbox_norm": [
+            0.2514,
+            0.5601,
+            0.4216,
+            0.5753
+          ]
+        },
+        {
+          "text": "Il résulte du registre de présence, signé par les administrateurs à leur entrée en",
+          "bbox_norm": [
+            0.2486,
+            0.5904,
+            0.9376,
+            0.6085
+          ]
+        },
+        {
+          "text": "séance, que :",
+          "bbox_norm": [
+            0.1895,
+            0.6074,
+            0.3001,
+            0.6241
+          ]
+        },
+        {
+          "text": "SONT PRESENTS :",
+          "bbox_norm": [
+            0.2508,
+            0.6397,
+            0.4284,
+            0.6543
+          ]
+        },
+        {
+          "text": "- Monsieur Jean-Jacques BERNACHON",
+          "bbox_norm": [
+            0.2514,
+            0.6704,
+            0.5841,
+            0.6861
+          ]
+        },
+        {
+          "text": "- Madame Françoise BERNACHON",
+          "bbox_norm": [
+            0.2528,
+            0.7023,
+            0.5514,
+            0.7168
+          ]
+        },
+        {
+          "text": "- Madame Stéphanie LE ROUX",
+          "bbox_norm": [
+            0.2528,
+            0.733,
+            0.5139,
+            0.7482
+          ]
+        },
+        {
+          "text": "Monsieur Gérard FAYSSE, Commissaire aux comptes, convoqué suivant lettre",
+          "bbox_norm": [
+            0.2528,
+            0.7643,
+            0.9368,
+            0.7799
+          ]
+        },
+        {
+          "text": "recommandée avec avis de réception adressée le 22 octobre 1999, est absent excusé.",
+          "bbox_norm": [
+            0.1931,
+            0.7813,
+            0.8779,
+            0.796
+          ]
+        },
+        {
+          "text": "La séance est ouverte sous la présidence de Monsieur Jean-Jacques",
+          "bbox_norm": [
+            0.2506,
+            0.8116,
+            0.9333,
+            0.8291
+          ]
+        },
+        {
+          "text": "BERNACHON, doyen d'âge.",
+          "bbox_norm": [
+            0.1924,
+            0.8277,
+            0.4327,
+            0.8443
+          ]
+        },
+        {
+          "text": "Monsieur le Président constate et déclare :",
+          "bbox_norm": [
+            0.2534,
+            0.8589,
+            0.5987,
+            0.8746
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "- 2 -\n- Que le nombre d'administrateurs requis pour la validité des délibérations étant\natteint, le conseil, par application de l'article 100 de la loi du 24 Juillet 1966, peut\nvalablement délibérer.\n- Que le récépissé postal et l'avis de réception afférents à la lettre adressée au\nCommissaire aux comptes demeureront dans les archives de la société.\nMonsieur le Président donne lecture du procès-verbal de la dernière réunion, lequel\nest adopté à l'unanimité.\nRENOUVELLEMENT DU BUREAU\nI - DESIGNATION DU PRESIDENT DU CONSEIL D'ADMINISTRATION\nLes administrateurs nomment Monsieur Jean-Jacques BERNACHON en qualité et\naux fonctions de Président du conseil d'administration. Monsieur Jean-Jacques\nBERNACHON est nommé pour la durée de soni mandat d'administrateur. Il restera en\nfonction jusqu'à décision contraire du conseil d'administration ou démission et, au plus\ntard, jusqu'à cessation de son mandat d'administrateur.\nEn sa qualité de Président du conseil d'administration, il exercera les pouvoirs qui\nlui sont conférés par la loi et les statuts, et, notamment, il assumera, sous sa responsabilité,\nla direction générale de la société.\nMonsieur Jean-Jacques BERNACHON accepte les fonctions qui viennent de lui\nêtre conférées et, en remerciant ses collègues de la confiance qu'ils lui témoignent, déclare,\nen outre, qu'il n'exerce simultanément pas plus de deux mandats de Président du conseil\nd'administration ou de membre du directoire ou de directeur général unique de sociétés\nanonymes ayant leur siège social en France métropolitaine, ce dont le conseil prend acte.\nMonsieur Jean-Jacques BERNACHON s'engage à attester à tout moment, pendant sa\nprésidence, sous la foi du serment, que cette condition demeure remplie.\nII - POUVOIRS DU PRESIDENT\nMonsieur Jean-Jacques BERNACHON, en sa qualité de Président du conseil\nd'administration assumant la direction générale de la société, représente la société dans ses\nrapports avec les tiers.\nSous réserve des pouvoirs que la loi attribue expressément aux assemblées\nd'actionnaires ainsi que des pouvoirs qu'elle réserve de façon spéciale au conseil\nd'administration, et dans la limite de l'objet social, le Président est investi des pouvoirs les\nplus étendus pour agir en toute circonstance au nom de la société.\nLes dispositions des statuts ou les décisions du conseil d'administration limitant ses\npouvoirs sont inopposables aux tiers.",
+      "lines": [
+        {
+          "text": "- 2 -",
+          "bbox_norm": [
+            0.475,
+            0.0273,
+            0.5152,
+            0.044
+          ]
+        },
+        {
+          "text": "- Que le nombre d'administrateurs requis pour la validité des délibérations étant",
+          "bbox_norm": [
+            0.2617,
+            0.0683,
+            0.9348,
+            0.087
+          ]
+        },
+        {
+          "text": "atteint, le conseil, par application de l'article 100 de la loi du 24 Juillet 1966, peut",
+          "bbox_norm": [
+            0.2014,
+            0.0834,
+            0.939,
+            0.104
+          ]
+        },
+        {
+          "text": "valablement délibérer.",
+          "bbox_norm": [
+            0.202,
+            0.1006,
+            0.3827,
+            0.1147
+          ]
+        },
+        {
+          "text": "- Que le récépissé postal et l'avis de réception afférents à la lettre adressée au",
+          "bbox_norm": [
+            0.2604,
+            0.1313,
+            0.9341,
+            0.1504
+          ]
+        },
+        {
+          "text": "Commissaire aux comptes demeureront dans les archives de la société.",
+          "bbox_norm": [
+            0.2027,
+            0.1475,
+            0.7681,
+            0.1641
+          ]
+        },
+        {
+          "text": "Monsieur le Président donne lecture du procès-verbal de la dernière réunion, lequel",
+          "bbox_norm": [
+            0.2589,
+            0.1782,
+            0.9328,
+            0.1988
+          ]
+        },
+        {
+          "text": "est adopté à l'unanimité.",
+          "bbox_norm": [
+            0.2014,
+            0.1948,
+            0.3973,
+            0.211
+          ]
+        },
+        {
+          "text": "RENOUVELLEMENT DU BUREAU",
+          "bbox_norm": [
+            0.4034,
+            0.2495,
+            0.7271,
+            0.2647
+          ]
+        },
+        {
+          "text": "I - DESIGNATION DU PRESIDENT DU CONSEIL D'ADMINISTRATION",
+          "bbox_norm": [
+            0.2591,
+            0.3037,
+            0.9153,
+            0.3194
+          ]
+        },
+        {
+          "text": "Les administrateurs nomment Monsieur Jean-Jacques BERNACHON en qualité et",
+          "bbox_norm": [
+            0.2583,
+            0.3344,
+            0.9313,
+            0.3521
+          ]
+        },
+        {
+          "text": "aux",
+          "bbox_norm": [
+            0.2007,
+            0.353,
+            0.2327,
+            0.3643
+          ]
+        },
+        {
+          "text": "fonctions de Président du conseil d'administration. Monsieur Jean-Jacques",
+          "bbox_norm": [
+            0.2451,
+            0.3501,
+            0.9313,
+            0.3687
+          ]
+        },
+        {
+          "text": "BERNACHON est nommé pour la durée de soni mandat d'administrateur. Il restera en",
+          "bbox_norm": [
+            0.2,
+            0.3662,
+            0.9363,
+            0.3838
+          ]
+        },
+        {
+          "text": "fonction jusqu'à décision contraire du conseil d'administration ou démission et, au plus",
+          "bbox_norm": [
+            0.2,
+            0.3824,
+            0.9361,
+            0.3994
+          ]
+        },
+        {
+          "text": "tard, jusqu'à cessation de son mandat d'administrateur.",
+          "bbox_norm": [
+            0.2,
+            0.398,
+            0.6361,
+            0.4141
+          ]
+        },
+        {
+          "text": "En sa qualité de Président du conseil d'administration, il exercera les pouvoirs qui",
+          "bbox_norm": [
+            0.2583,
+            0.4292,
+            0.9363,
+            0.4469
+          ]
+        },
+        {
+          "text": "lui sont conférés par la loi et les statuts, et, notamment, il assumera, sous sa responsabilité,",
+          "bbox_norm": [
+            0.1992,
+            0.4453,
+            0.9363,
+            0.4625
+          ]
+        },
+        {
+          "text": "la direction générale de la société.",
+          "bbox_norm": [
+            0.2007,
+            0.4625,
+            0.4736,
+            0.4756
+          ]
+        },
+        {
+          "text": "Monsieur Jean-Jacques BERNACHON accepte les fonctions qui viennent de lui",
+          "bbox_norm": [
+            0.2589,
+            0.4922,
+            0.9306,
+            0.5094
+          ]
+        },
+        {
+          "text": "être conférées et, en remerciant ses collègues de la confiance qu'ils lui témoignent, déclare,",
+          "bbox_norm": [
+            0.1992,
+            0.5084,
+            0.9361,
+            0.525
+          ]
+        },
+        {
+          "text": "en outre, qu'il n'exerce simultanément pas plus de deux mandats de Président du conseil",
+          "bbox_norm": [
+            0.2007,
+            0.5259,
+            0.9348,
+            0.5392
+          ]
+        },
+        {
+          "text": "d'administration ou de membre du directoire ou de directeur général unique de sociétés",
+          "bbox_norm": [
+            0.1994,
+            0.5401,
+            0.9361,
+            0.5562
+          ]
+        },
+        {
+          "text": "anonymes ayant leur siège social en France métropolitaine, ce dont le conseil prend acte.",
+          "bbox_norm": [
+            0.1994,
+            0.5567,
+            0.9361,
+            0.5718
+          ]
+        },
+        {
+          "text": "Monsieur Jean-Jacques BERNACHON s'engage à attester à tout moment, pendant sa",
+          "bbox_norm": [
+            0.1992,
+            0.5713,
+            0.93,
+            0.5879
+          ]
+        },
+        {
+          "text": "présidence, sous la foi du serment, que cette condition demeure remplie.",
+          "bbox_norm": [
+            0.2,
+            0.5879,
+            0.7778,
+            0.6031
+          ]
+        },
+        {
+          "text": "II - POUVOIRS DU PRESIDENT",
+          "bbox_norm": [
+            0.2583,
+            0.6182,
+            0.5487,
+            0.6329
+          ]
+        },
+        {
+          "text": "Monsieur Jean-Jacques BERNACHON, en sa qualité de Président du conseil",
+          "bbox_norm": [
+            0.2583,
+            0.6499,
+            0.9299,
+            0.6651
+          ]
+        },
+        {
+          "text": "d'administration assumant la direction générale de la société, représente la société dans ses",
+          "bbox_norm": [
+            0.1992,
+            0.6655,
+            0.9361,
+            0.6818
+          ]
+        },
+        {
+          "text": "rapports avec les tiers.",
+          "bbox_norm": [
+            0.1992,
+            0.6816,
+            0.3807,
+            0.6979
+          ]
+        },
+        {
+          "text": "Sous réserve des pouvoirs que la loi attribue expressément aux assemblées",
+          "bbox_norm": [
+            0.2576,
+            0.7125,
+            0.9341,
+            0.7286
+          ]
+        },
+        {
+          "text": "d'actionnaires ainsi que des pouvoirs qu'elle réserve de façon spéciale au conseil",
+          "bbox_norm": [
+            0.1994,
+            0.7286,
+            0.9348,
+            0.7438
+          ]
+        },
+        {
+          "text": "d'administration, et dans la limite de l'objet social, le Président est investi des pouvoirs les",
+          "bbox_norm": [
+            0.1994,
+            0.7442,
+            0.9355,
+            0.7599
+          ]
+        },
+        {
+          "text": "plus étendus pour agir en toute circonstance au nom de la société.",
+          "bbox_norm": [
+            0.1994,
+            0.7603,
+            0.7244,
+            0.776
+          ]
+        },
+        {
+          "text": "Les dispositions des statuts ou les décisions du conseil d'administration limitant ses",
+          "bbox_norm": [
+            0.2591,
+            0.792,
+            0.9348,
+            0.8062
+          ]
+        },
+        {
+          "text": "pouvoirs sont inopposables aux tiers.",
+          "bbox_norm": [
+            0.2,
+            0.8072,
+            0.4966,
+            0.8233
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "- 3 -\nCependant, le Président du conseil d'administration ne pourra donner, sans\nautorisation spéciale du conseil d'administration conférée dans les limites de montant, de\nnature et de durée qu'il fixerait, des cautions, avals ou garanties au nom de la société. Cette\nclause est opposable aux tiers.\nIII - REMUNERATION DU PRESIDENT\nMonsieur Jean-Jacques BERNACHON aura droit :\n- à une rémunération de QUARANTE CINQ MILLE FRANCS (45.000 Frs), à\ncompter de ce jour,\n- à une rémunération proportionnelle au chiffre d'affaires hors taxes réalisé par la\nsociété, décidée lors du conseil d'administration du 30 juin 1983,\net continuera à être remboursé sur justificatifs de ses frais de représentation et de\ndéplacement engagés pour le comtpe de la société.\nIV - REMUNERATIONS AUXQUELLES AURAIENT DROIT LE\nPRESIDENT EMPECHE ET L'ADMINISTRATEUR QUI SERAIT\nTEMPORAIREMENT DELEGUE DANS LES FONCTIONS DE PRESIDENT\nEn cas d'empêchement ou de décès du Président, l'administrateur délégué dans ces\nfonctions en vertu de l'article 112 de la loi du 24 juillet 1966, aurait droit à une\nrémunération fixée par le conseil d'administration, et, en outre, sur justification, au\nremboursement de ses frais de représentation et de déplacement\nEn ce qui concerne le Président empêché, le conseil déciderait en considération de\nla durée et des circonstances de l'empêchement s'il y a lieu de réduire sa rémunération et,\ndans l'affirmative, fixerait le montant et les modalités de cette réduction.\nEXAMEN ET ARRETE DES COMPTES DE L'EXERCICE\nCLOS LE 30 JUIN 1999\nMonsieur le Président soumet au conseil l'inventaire, le bilan, le compte de résultat\nde l'exercice clos le 30 juin 1999 et l'annexe établis par les services comptables de la\nsociété et donne toutes précisions sur les résultats dudit exercice.\nIl expose au conseil que l'exercice écoulé se traduit par un bénéfice de\n1.177.802 Frs qui pourrait être affecté de la manière suivante :\n- Aux actionnaires, à titre de dividende,\nla somme de 1.000.000 Frs\n- Le solde au compte \"Autres Réserves\",\nsoit la somme de 177.802 Frs\nTotal égal au bénéfice de l'exercice\nclos le 30 juin 1999 1.177.802 Frs",
+      "lines": [
+        {
+          "text": "- 3 -",
+          "bbox_norm": [
+            0.4716,
+            0.0435,
+            0.5014,
+            0.0552
+          ]
+        },
+        {
+          "text": "Cependant, le Président du conseil d'administration ne pourra donner, sans",
+          "bbox_norm": [
+            0.2486,
+            0.0825,
+            0.9341,
+            0.1021
+          ]
+        },
+        {
+          "text": "autorisation spéciale du conseil d'administration conférée dans les limites de montant, de",
+          "bbox_norm": [
+            0.1882,
+            0.0986,
+            0.9341,
+            0.1168
+          ]
+        },
+        {
+          "text": "nature et de durée qu'il fixerait, des cautions, avals ou garanties au nom de la société. Cette",
+          "bbox_norm": [
+            0.1874,
+            0.1147,
+            0.9348,
+            0.1324
+          ]
+        },
+        {
+          "text": "clause est opposable aux tiers.",
+          "bbox_norm": [
+            0.1889,
+            0.1314,
+            0.4362,
+            0.146
+          ]
+        },
+        {
+          "text": "III - REMUNERATION DU PRESIDENT",
+          "bbox_norm": [
+            0.2486,
+            0.1616,
+            0.6153,
+            0.1778
+          ]
+        },
+        {
+          "text": "Monsieur Jean-Jacques BERNACHON aura droit :",
+          "bbox_norm": [
+            0.2493,
+            0.1934,
+            0.6626,
+            0.2095
+          ]
+        },
+        {
+          "text": "- à une rémunération de QUARANTE CINQ MILLE FRANCS (45.000 Frs), à",
+          "bbox_norm": [
+            0.2486,
+            0.2241,
+            0.9265,
+            0.2428
+          ]
+        },
+        {
+          "text": "compter de ce jour,",
+          "bbox_norm": [
+            0.1896,
+            0.2417,
+            0.3486,
+            0.2568
+          ]
+        },
+        {
+          "text": "- à une rémunération proportionnelle au chiffre d'affaires hors taxes réalisé par la",
+          "bbox_norm": [
+            0.2493,
+            0.2719,
+            0.9285,
+            0.2896
+          ]
+        },
+        {
+          "text": "société, décidée lors du conseil d'administration du 30 juin 1983,",
+          "bbox_norm": [
+            0.1889,
+            0.288,
+            0.7153,
+            0.3043
+          ]
+        },
+        {
+          "text": "et continuera à être remboursé sur justificatifs de ses frais de représentation et de",
+          "bbox_norm": [
+            0.2493,
+            0.3199,
+            0.9341,
+            0.3365
+          ]
+        },
+        {
+          "text": "déplacement engagés pour le comtpe de la société.",
+          "bbox_norm": [
+            0.1896,
+            0.336,
+            0.5987,
+            0.3506
+          ]
+        },
+        {
+          "text": "IV - REMUNERATIONS AUXQUELLES AURAIENT DROIT LE",
+          "bbox_norm": [
+            0.2473,
+            0.3658,
+            0.9258,
+            0.3829
+          ]
+        },
+        {
+          "text": "PRESIDENT",
+          "bbox_norm": [
+            0.1909,
+            0.3838,
+            0.3173,
+            0.3955
+          ]
+        },
+        {
+          "text": "EMPECHE",
+          "bbox_norm": [
+            0.3396,
+            0.3838,
+            0.4452,
+            0.3955
+          ]
+        },
+        {
+          "text": "ET",
+          "bbox_norm": [
+            0.475,
+            0.3833,
+            0.5069,
+            0.3961
+          ]
+        },
+        {
+          "text": "L'ADMINISTRATEUR",
+          "bbox_norm": [
+            0.5333,
+            0.3823,
+            0.7487,
+            0.3971
+          ]
+        },
+        {
+          "text": "QUI",
+          "bbox_norm": [
+            0.7764,
+            0.3843,
+            0.8215,
+            0.397
+          ]
+        },
+        {
+          "text": "SERAIT",
+          "bbox_norm": [
+            0.8514,
+            0.3848,
+            0.9285,
+            0.397
+          ]
+        },
+        {
+          "text": "TEMPORAIREMENT DELEGUE DANS LES FONCTIONS DE PRESIDENT",
+          "bbox_norm": [
+            0.1896,
+            0.3985,
+            0.8771,
+            0.4131
+          ]
+        },
+        {
+          "text": "En cas d'empêchement ou de décès du Président, l'administrateur délégué dans ces",
+          "bbox_norm": [
+            0.2493,
+            0.4297,
+            0.9341,
+            0.4463
+          ]
+        },
+        {
+          "text": "fonctions en vertu de l'article 112 de la loi du 24 juillet 1966, aurait droit à une",
+          "bbox_norm": [
+            0.1896,
+            0.4448,
+            0.9348,
+            0.4619
+          ]
+        },
+        {
+          "text": "rémunération fixée par le conseil d'administration, et, en outre, sur justification, au",
+          "bbox_norm": [
+            0.1903,
+            0.4619,
+            0.9355,
+            0.4781
+          ]
+        },
+        {
+          "text": "remboursement de ses frais de représentation et de déplacement",
+          "bbox_norm": [
+            0.1896,
+            0.4781,
+            0.7126,
+            0.4937
+          ]
+        },
+        {
+          "text": "En ce qui concerne le Président empêché, le conseil déciderait en considération de",
+          "bbox_norm": [
+            0.25,
+            0.5089,
+            0.9348,
+            0.525
+          ]
+        },
+        {
+          "text": "la durée et des circonstances de l'empêchement s'il y a lieu de réduire sa rémunération et,",
+          "bbox_norm": [
+            0.1902,
+            0.524,
+            0.9348,
+            0.5406
+          ]
+        },
+        {
+          "text": "dans l'affirmative, fixerait le montant et les modalités de cette réduction.",
+          "bbox_norm": [
+            0.1909,
+            0.5406,
+            0.7785,
+            0.5553
+          ]
+        },
+        {
+          "text": "EXAMEN ET ARRETE DES COMPTES DE L'EXERCICE",
+          "bbox_norm": [
+            0.2993,
+            0.5938,
+            0.8237,
+            0.608
+          ]
+        },
+        {
+          "text": "CLOS LE 30 JUIN 1999",
+          "bbox_norm": [
+            0.457,
+            0.6109,
+            0.6674,
+            0.6241
+          ]
+        },
+        {
+          "text": "Monsieur le Président soumet au conseil l'inventaire, le bilan, le compte de résultat",
+          "bbox_norm": [
+            0.2521,
+            0.6646,
+            0.9376,
+            0.6797
+          ]
+        },
+        {
+          "text": "de l'exercice clos le 30 juin 1999 et l'annexe établis par les services comptables de la",
+          "bbox_norm": [
+            0.1931,
+            0.6807,
+            0.9368,
+            0.6954
+          ]
+        },
+        {
+          "text": "société et donne toutes précisions sur les résultats dudit exercice.",
+          "bbox_norm": [
+            0.1937,
+            0.6974,
+            0.7181,
+            0.7105
+          ]
+        },
+        {
+          "text": "Il expose au conseil que l'exercice écoulé se traduit par un bénéfice de",
+          "bbox_norm": [
+            0.2506,
+            0.7266,
+            0.9376,
+            0.7433
+          ]
+        },
+        {
+          "text": "1.177.802 Frs qui pourrait être affecté de la manière suivante :",
+          "bbox_norm": [
+            0.1944,
+            0.7438,
+            0.7,
+            0.7584
+          ]
+        },
+        {
+          "text": "- Aux actionnaires, à titre de dividende,",
+          "bbox_norm": [
+            0.2535,
+            0.775,
+            0.5722,
+            0.7897
+          ]
+        },
+        {
+          "text": "la somme de",
+          "bbox_norm": [
+            0.2639,
+            0.7911,
+            0.3687,
+            0.8048
+          ]
+        },
+        {
+          "text": "1.000.000 Frs",
+          "bbox_norm": [
+            0.718,
+            0.7896,
+            0.8334,
+            0.8058
+          ]
+        },
+        {
+          "text": "- Le solde au compte \"Autres Réserves\",",
+          "bbox_norm": [
+            0.2549,
+            0.8223,
+            0.5812,
+            0.837
+          ]
+        },
+        {
+          "text": "soit la somme de",
+          "bbox_norm": [
+            0.2646,
+            0.8384,
+            0.4028,
+            0.8521
+          ]
+        },
+        {
+          "text": "177.802 Frs",
+          "bbox_norm": [
+            0.734,
+            0.8364,
+            0.8349,
+            0.8527
+          ]
+        },
+        {
+          "text": "Total égal au bénéfice de l'exercice",
+          "bbox_norm": [
+            0.2556,
+            0.8701,
+            0.539,
+            0.8834
+          ]
+        },
+        {
+          "text": "clos le 30 juin 1999",
+          "bbox_norm": [
+            0.2541,
+            0.8843,
+            0.4167,
+            0.9
+          ]
+        },
+        {
+          "text": "1.177.802 Frs",
+          "bbox_norm": [
+            0.7187,
+            0.8838,
+            0.8355,
+            0.9
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "text": "2:\nLe dividende unitaire serait ainsi fixé à 400 Frs par action et qui, compte tenu d'un\navoir fiscal unitaire de 200 Frs, procurerait un revenu global unitaire de 600 Frs.\nCe dividende sera payé à partir du 18 novembre 1999, au siège social.\nLe conseil, à l'unanimité, arrête définitivement les comptes selon le projet présenté\npar son Président et se range à sa proposition d'affectation du résultat.\nEXAMEN DES MANDATS\nLe conseil examine ensuite la situation du mandat des Commissaires aux comptes et\ndes administrateurs et constate qu'aucun mandat n'arrive à expiration à l'issue de la\nprochaine assemblée.\nToutefois, il est proposé de nommer Monsieur Pierre-Yves PETIT ayant ses\nbureaux à LYON (69009) 2, rue de la Claire en qualité de Commissaire aux Comptes\nsuppléant en remplacement de Monsieur Gabriel BALAY, démissionnaire à compter du 31\ndécembre 1998.\nCONVERSION DU CAPITAL EN EUROS\nMonsieur le Président rappelle que depuis le 1er janvier 1999 l'euro est devenu la\nmonnaie légale de la plupart des états membres de l'Union Européenne et que cette date\nmarque l'ouverture d'une période transitoire qui s'achèvera le 31 décembre 2001, pendant\nlaquelle l'euro et le franc coexisteront\nMonsieur le Président poursuit en indiquant que le passage de la comptabilité en\neuros devra être réalisé au cours de cette période transitoire.\nEn ce qui concerne le capital social, Monsieur le Président précise que sa\nconversion sera automatique lors du basculement de la comptabilité en euros sans qu'une\ndécision préalable de l'assemblée générale soit obligatoire.\nToutefois, Monsieur le Président évoquant ensuite les différentes méthodes de\nconversion du capital, constate que le résultat de la conversion conduira inévitablement à\nun montant de capital social ou à une valeur nominale comportant plusieurs décimales.\nDans ces circonstances, il sera sans doute nécessaire de procéder, avant la\nconversion, à un ajustement du montant du capital exprimé en francs, soit par voie\nd'augmentation, soit par voie de réduction du capital.\nDans cette perspective, Monsieur le Président indique qu'il pourrait être proposé à\nl'assemblée générale des actionnaires de déléguer au conseil d'administration le pouvoir de\nprocéder, lorsqu'il le jugera opportun, à cette conversion et à l'ajustement du capital, soit\npar augmentation, soit par réduction, de constater la réalisation de cette opération et de\nprocéder à la modification corrélative des statuts.",
+      "lines": [
+        {
+          "text": "2:",
+          "bbox_norm": [
+            0.4979,
+            0.0391,
+            0.5062,
+            0.0435
+          ]
+        },
+        {
+          "text": "Le dividende unitaire serait ainsi fixé à 400 Frs par action et qui, compte tenu d'un",
+          "bbox_norm": [
+            0.2659,
+            0.0888,
+            0.9425,
+            0.1084
+          ]
+        },
+        {
+          "text": "avoir fiscal unitaire de 200 Frs, procurerait un revenu global unitaire de 600 Frs.",
+          "bbox_norm": [
+            0.2069,
+            0.1044,
+            0.8515,
+            0.1236
+          ]
+        },
+        {
+          "text": "Ce dividende sera payé à partir du 18 novembre 1999, au siège social.",
+          "bbox_norm": [
+            0.2659,
+            0.1362,
+            0.8257,
+            0.1548
+          ]
+        },
+        {
+          "text": "Le conseil, à l'unanimité, arrête définitivement les comptes selon le projet présenté",
+          "bbox_norm": [
+            0.2639,
+            0.167,
+            0.9431,
+            0.1881
+          ]
+        },
+        {
+          "text": "par son Président et se range à sa proposition d'affectation du résultat.",
+          "bbox_norm": [
+            0.2062,
+            0.1841,
+            0.7667,
+            0.2022
+          ]
+        },
+        {
+          "text": "EXAMEN DES MANDATS",
+          "bbox_norm": [
+            0.452,
+            0.2378,
+            0.6917,
+            0.2555
+          ]
+        },
+        {
+          "text": "Le conseil examine ensuite la situation du mandat des Commissaires aux comptes et",
+          "bbox_norm": [
+            0.2632,
+            0.2924,
+            0.9425,
+            0.3116
+          ]
+        },
+        {
+          "text": "des administrateurs et constate qu'aucun mandat n'arrive à expiration à l'issue de la",
+          "bbox_norm": [
+            0.2042,
+            0.3081,
+            0.9418,
+            0.3277
+          ]
+        },
+        {
+          "text": "prochaine assemblée.",
+          "bbox_norm": [
+            0.2056,
+            0.3248,
+            0.3785,
+            0.3399
+          ]
+        },
+        {
+          "text": "Toutefois, il est proposé de nommer Monsieur Pierre-Yves PETIT ayant ses",
+          "bbox_norm": [
+            0.2639,
+            0.356,
+            0.9348,
+            0.3741
+          ]
+        },
+        {
+          "text": "bureaux à LYON (69009) 2, rue de la Claire en qualité de Commissaire aux Comptes",
+          "bbox_norm": [
+            0.2048,
+            0.3716,
+            0.9396,
+            0.3907
+          ]
+        },
+        {
+          "text": "suppléant en remplacement de Monsieur Gabriel BALAY, démissionnaire à compter du 31",
+          "bbox_norm": [
+            0.2049,
+            0.3882,
+            0.9389,
+            0.4048
+          ]
+        },
+        {
+          "text": "décembre 1998.",
+          "bbox_norm": [
+            0.2056,
+            0.4038,
+            0.3348,
+            0.4175
+          ]
+        },
+        {
+          "text": "CONVERSION DU CAPITAL EN EUROS",
+          "bbox_norm": [
+            0.3848,
+            0.4581,
+            0.7557,
+            0.4728
+          ]
+        },
+        {
+          "text": "Monsieur le Président rappelle que depuis le 1er janvier 1999 l'euro est devenu la",
+          "bbox_norm": [
+            0.2624,
+            0.5078,
+            0.939,
+            0.525
+          ]
+        },
+        {
+          "text": "monnaie légale de la plupart des états membres de l'Union Européenne et que cette date",
+          "bbox_norm": [
+            0.2042,
+            0.5225,
+            0.9396,
+            0.5397
+          ]
+        },
+        {
+          "text": "marque l'ouverture d'une période transitoire qui s'achèvera le 31 décembre 2001, pendant",
+          "bbox_norm": [
+            0.2034,
+            0.5366,
+            0.939,
+            0.5537
+          ]
+        },
+        {
+          "text": "laquelle l'euro et le franc coexisteront",
+          "bbox_norm": [
+            0.2034,
+            0.5513,
+            0.5104,
+            0.5665
+          ]
+        },
+        {
+          "text": "Monsieur le Président poursuit en indiquant que le passage de la comptabilité en",
+          "bbox_norm": [
+            0.2624,
+            0.5791,
+            0.9383,
+            0.5963
+          ]
+        },
+        {
+          "text": "euros devra être réalisé au cours de cette période transitoire.",
+          "bbox_norm": [
+            0.2034,
+            0.5933,
+            0.684,
+            0.6099
+          ]
+        },
+        {
+          "text": "En ce qui concerne le capital social, Monsieur le Président précise que sa",
+          "bbox_norm": [
+            0.2604,
+            0.6221,
+            0.9396,
+            0.6402
+          ]
+        },
+        {
+          "text": "conversion sera automatique lors du basculement de la comptabilité en euros sans qu'une",
+          "bbox_norm": [
+            0.202,
+            0.6368,
+            0.9383,
+            0.6539
+          ]
+        },
+        {
+          "text": "décision préalable de l'assemblée générale soit obligatoire.",
+          "bbox_norm": [
+            0.2034,
+            0.6509,
+            0.673,
+            0.6681
+          ]
+        },
+        {
+          "text": "Toutefois, Monsieur le Président évoquant ensuite les différentes méthodes de",
+          "bbox_norm": [
+            0.2611,
+            0.6792,
+            0.9383,
+            0.6968
+          ]
+        },
+        {
+          "text": "conversion du capital, constate que le résultat de la conversion conduira inévitablement à",
+          "bbox_norm": [
+            0.2027,
+            0.6944,
+            0.9396,
+            0.71
+          ]
+        },
+        {
+          "text": "un montant de capital social ou à une valeur nominale comportant plusieurs décimales.",
+          "bbox_norm": [
+            0.2027,
+            0.709,
+            0.8994,
+            0.7252
+          ]
+        },
+        {
+          "text": "Dans ces circonstances, il sera sans doute nécessaire de procéder, avant la",
+          "bbox_norm": [
+            0.2611,
+            0.7368,
+            0.9376,
+            0.7535
+          ]
+        },
+        {
+          "text": "conversion, à un ajustement du montant du capital exprimé en francs, soit par voie",
+          "bbox_norm": [
+            0.202,
+            0.751,
+            0.9376,
+            0.7681
+          ]
+        },
+        {
+          "text": "d'augmentation, soit par voie de réduction du capital.",
+          "bbox_norm": [
+            0.2027,
+            0.7657,
+            0.6285,
+            0.7818
+          ]
+        },
+        {
+          "text": "Dans cette perspective, Monsieur le Président indique qu'il pourrait être proposé à",
+          "bbox_norm": [
+            0.2611,
+            0.7939,
+            0.939,
+            0.8111
+          ]
+        },
+        {
+          "text": "l'assemblée générale des actionnaires de déléguer au conseil d'administration le pouvoir de",
+          "bbox_norm": [
+            0.202,
+            0.8081,
+            0.9383,
+            0.8258
+          ]
+        },
+        {
+          "text": "procéder, lorsqu'il le jugera opportun, à cette conversion et à l'ajustement du capital, soit",
+          "bbox_norm": [
+            0.2021,
+            0.8233,
+            0.9389,
+            0.8394
+          ]
+        },
+        {
+          "text": "par augmentation, soit par réduction, de constater la réalisation de cette opération et de",
+          "bbox_norm": [
+            0.2021,
+            0.8379,
+            0.9383,
+            0.8541
+          ]
+        },
+        {
+          "text": "procéder à la modification corrélative des statuts.",
+          "bbox_norm": [
+            0.2027,
+            0.8521,
+            0.598,
+            0.8673
+          ]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "text": "- 5 -\nMonsieur le Président précise enfin que cette autorisation ne serait valable que pour\nune durée de vingt six mois, conformément à la loi sur les sociétés commerciales.\nLe conseil d'administration, après en avoir délibéré, décide à l'unanimité de\nsoumettre à l'assemblée générale des actionnaires une proposition conforme à celle\névoquée par Monsieur le Président en vue de faciliter la conversion du capital social en\neuros.\nCONVOCATION DE L'ASSEMBLEE GENERALE\nET FIXATION DE SON ORDRE DU JOUR\nPuis, Monsieur le Président indique au conseil que, par application de l'article 157\nde la loi du 24 Juillet 1966, il y a lieu de convoquer l'assemblée générale des actionnaires\ndans les six mois de la clôture de l'exercice.\nAprès en avoir délibéré, le conseil, à l'unanimité, décide de soumettre les comptes\narrêtés ainsi que les propositions sus-exposées, à l'approbation de l'Assemblée Générale à\ncaractère Mixte qui se tiendra au siège social, le 18 novembre 1999 à 16 heures, avec\nl'ordre du jour suivant :\nI - ORDRE DU JOUR RELEVANT DE LA COMPETENCE DE L'ASSEMBLEE\nGENERALE ORDINAIRE\n- Rapport de gestion du Conseil d'Administration sur l'activité de la société et de\nses filiales, au cours de l'exercice clos le 30 juin 1999 et présentation des comnptes annuels\ndudit exercice.\n- Rapports du Commissaire aux comptes sur l'exécution de sa mission et sur les\nconventions visées aux articles 101 à 105 de la loi sur les sociétés commerciales.\n- Approbation des comptes.\n- Approbation et/ou ratification des conventions.\n- Affectation du résultat - Distribution de dividendes.\nNomination d'un Commissaire aux Comptes suppléant en remplacement de\nMonsieur Gabriel BALAY, démissionnaire.\n- Questions diverses.\nII - ORDRE DU JOUR RELEVANT DE LA COMPETENCE DE L'ASSEMBLEE\nGENERALE EXTRAORDINAIRE\n- Conversion du capital social en euros : délégation de pouvoirs au conseil\nd'administration à l'effet de réaliser les adaptations corrélatives.",
+      "lines": [
+        {
+          "text": "- 5 -",
+          "bbox_norm": [
+            0.464,
+            0.0401,
+            0.5029,
+            0.0547
+          ]
+        },
+        {
+          "text": "Monsieur le Président précise enfin que cette autorisation ne serait valable que pour",
+          "bbox_norm": [
+            0.2451,
+            0.0776,
+            0.9342,
+            0.0997
+          ]
+        },
+        {
+          "text": "une durée de vingt six mois, conformément à la loi sur les sociétés commerciales.",
+          "bbox_norm": [
+            0.1874,
+            0.0942,
+            0.8508,
+            0.1114
+          ]
+        },
+        {
+          "text": "Le conseil d'administration, après en avoir délibéré, décide à l'unanimité de",
+          "bbox_norm": [
+            0.2451,
+            0.1221,
+            0.9335,
+            0.1401
+          ]
+        },
+        {
+          "text": "soumettre à l'assemblée générale des actionnaires une proposition conforme à celle",
+          "bbox_norm": [
+            0.1861,
+            0.1367,
+            0.9335,
+            0.1548
+          ]
+        },
+        {
+          "text": "évoquée par Monsieur le Président en vue de faciliter la conversion du capital social en",
+          "bbox_norm": [
+            0.1861,
+            0.1514,
+            0.9333,
+            0.169
+          ]
+        },
+        {
+          "text": "euros.",
+          "bbox_norm": [
+            0.1861,
+            0.169,
+            0.2383,
+            0.1797
+          ]
+        },
+        {
+          "text": "CONVOCATION DE L'ASSEMBLEE GENERALE",
+          "bbox_norm": [
+            0.3291,
+            0.2188,
+            0.7848,
+            0.2335
+          ]
+        },
+        {
+          "text": "ET FIXATION DE SON ORDRE DU JOUR",
+          "bbox_norm": [
+            0.3632,
+            0.2349,
+            0.7494,
+            0.2491
+          ]
+        },
+        {
+          "text": "Puis, Monsieur le Président indique au conseil que, par application de l'article 157",
+          "bbox_norm": [
+            0.2458,
+            0.288,
+            0.9313,
+            0.3057
+          ]
+        },
+        {
+          "text": "de la loi du 24 Juillet 1966, il y a lieu de convoquer l'assemblée générale des actionnaires",
+          "bbox_norm": [
+            0.1867,
+            0.3037,
+            0.932,
+            0.3218
+          ]
+        },
+        {
+          "text": "dans les six mois de la clôture de l'exercice.",
+          "bbox_norm": [
+            0.1874,
+            0.3208,
+            0.541,
+            0.335
+          ]
+        },
+        {
+          "text": "Après en avoir délibéré, le conseil, à l'unanimité, décide de soumettre les comptes",
+          "bbox_norm": [
+            0.2471,
+            0.3516,
+            0.932,
+            0.3692
+          ]
+        },
+        {
+          "text": "arrêtés ainsi que les propositions sus-exposées, à l'approbation de l'Assemblée Générale à",
+          "bbox_norm": [
+            0.1874,
+            0.3672,
+            0.9278,
+            0.3843
+          ]
+        },
+        {
+          "text": "caractère Mixte qui se tiendra au siège social, le 18 novembre 1999 à 16 heures, avec",
+          "bbox_norm": [
+            0.1868,
+            0.3833,
+            0.932,
+            0.3999
+          ]
+        },
+        {
+          "text": "l'ordre du jour suivant :",
+          "bbox_norm": [
+            0.1867,
+            0.3999,
+            0.3785,
+            0.4146
+          ]
+        },
+        {
+          "text": "I - ORDRE DU JOUR RELEVANT DE LA COMPETENCE DE L'ASSEMBLEE",
+          "bbox_norm": [
+            0.1874,
+            0.4458,
+            0.9223,
+            0.4625
+          ]
+        },
+        {
+          "text": "GENERALE ORDINAIRE",
+          "bbox_norm": [
+            0.1882,
+            0.4625,
+            0.4264,
+            0.477
+          ]
+        },
+        {
+          "text": "- Rapport de gestion du Conseil d'Administration sur l'activité de la société et de",
+          "bbox_norm": [
+            0.2479,
+            0.4942,
+            0.9265,
+            0.5089
+          ]
+        },
+        {
+          "text": "ses filiales, au cours de l'exercice clos le 30 juin 1999 et présentation des comnptes annuels",
+          "bbox_norm": [
+            0.1868,
+            0.5093,
+            0.932,
+            0.5255
+          ]
+        },
+        {
+          "text": "dudit exercice.",
+          "bbox_norm": [
+            0.1882,
+            0.5249,
+            0.3092,
+            0.5397
+          ]
+        },
+        {
+          "text": "- Rapports du Commissaire aux comptes sur l'exécution de sa mission et sur les",
+          "bbox_norm": [
+            0.2493,
+            0.5411,
+            0.9271,
+            0.5562
+          ]
+        },
+        {
+          "text": "conventions visées aux articles 101 à 105 de la loi sur les sociétés commerciales.",
+          "bbox_norm": [
+            0.1889,
+            0.5576,
+            0.8438,
+            0.5709
+          ]
+        },
+        {
+          "text": "- Approbation des comptes.",
+          "bbox_norm": [
+            0.25,
+            0.5733,
+            0.4736,
+            0.5879
+          ]
+        },
+        {
+          "text": "- Approbation et/ou ratification des conventions.",
+          "bbox_norm": [
+            0.2514,
+            0.5894,
+            0.6424,
+            0.6026
+          ]
+        },
+        {
+          "text": "- Affectation du résultat - Distribution de dividendes.",
+          "bbox_norm": [
+            0.25,
+            0.604,
+            0.6792,
+            0.6177
+          ]
+        },
+        {
+          "text": "Nomination d'un Commissaire aux Comptes suppléant en remplacement de",
+          "bbox_norm": [
+            0.2632,
+            0.6196,
+            0.9278,
+            0.6348
+          ]
+        },
+        {
+          "text": "Monsieur Gabriel BALAY, démissionnaire.",
+          "bbox_norm": [
+            0.1896,
+            0.6358,
+            0.5452,
+            0.6499
+          ]
+        },
+        {
+          "text": "- Questions diverses.",
+          "bbox_norm": [
+            0.2514,
+            0.6524,
+            0.4188,
+            0.6655
+          ]
+        },
+        {
+          "text": "II - ORDRE DU JOUR RELEVANT DE LA COMPETENCE DE L'ASSEMBLEE",
+          "bbox_norm": [
+            0.1909,
+            0.6998,
+            0.9236,
+            0.7115
+          ]
+        },
+        {
+          "text": "GENERALE EXTRAORDINAIRE",
+          "bbox_norm": [
+            0.1903,
+            0.7149,
+            0.4966,
+            0.7281
+          ]
+        },
+        {
+          "text": "- Conversion du capital social en euros : délégation de pouvoirs au conseil",
+          "bbox_norm": [
+            0.25,
+            0.7457,
+            0.9293,
+            0.7608
+          ]
+        },
+        {
+          "text": "d'administration à l'effet de réaliser les adaptations corrélatives.",
+          "bbox_norm": [
+            0.1903,
+            0.7627,
+            0.7043,
+            0.7759
+          ]
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "text": "- 6 -\nETABLISSEMENT DU RAPPORT DE GESTION\nET DU PROJET DE TEXTE DES RESOLUTIONS\nLe conseil d'administration établit ensuite d'un commun accord le texte du rapport\nqui sera lu à l'assemblée générale et donne mission à Monsieur le Président d'en faire\nlecture à ladite assemblée.\nLe conseil arrête le texte des différentes résolutions à présenter à l'approbation de\nl'assemblée.\nCe texte sera modifié si des actionnaires remplissant les conditions légales\ndemandent l'inscription à l'ordre du jour de l'assemblée de projets de résolutions ; dans\ncette hypothèse, le conseil d'administration se réunira pour fixer l'ordre du jour définitif.\nLe conseil charge son Président de prendre toutes mesures utiles en vue de\nconvoquer les actionnaires et de leur assurer le plein exercice de leur droit de\ncommunication.\nL'ordre du jour étant épuisé et personne ne demandant la parole, Monsieur le\nPrésident décide de lever la séance.\nDe tout ce que dessus, il a été dressé le présent procès-verbal, signé après lecture,\npar les administrateurs présents.\nCOPIE CLRLL MCE CUNTURML\nLe President du C.A\nFrançoise BERNACHON Jean-Jaccues BERNACHON\nBon pougacceptgtion des\nfonctious de Président du\ngopseil d'administration\nStéphanie LE ROUX",
+      "lines": [
+        {
+          "text": "- 6 -",
+          "bbox_norm": [
+            0.4806,
+            0.0366,
+            0.5174,
+            0.0498
+          ]
+        },
+        {
+          "text": "ETABLISSEMENT DU RAPPORT DE GESTION",
+          "bbox_norm": [
+            0.3527,
+            0.0834,
+            0.7896,
+            0.1002
+          ]
+        },
+        {
+          "text": "ET DU PROJET DE TEXTE DES RESOLUTIONS",
+          "bbox_norm": [
+            0.3492,
+            0.0991,
+            0.7931,
+            0.1158
+          ]
+        },
+        {
+          "text": "Le conseil d'administration établit ensuite d'un commun accord le texte du rapport",
+          "bbox_norm": [
+            0.2639,
+            0.1528,
+            0.9411,
+            0.1724
+          ]
+        },
+        {
+          "text": "qui sera lu à l'assemblée générale et donne mission à Monsieur le Président d'en faire",
+          "bbox_norm": [
+            0.2034,
+            0.1694,
+            0.9403,
+            0.188
+          ]
+        },
+        {
+          "text": "lecture à ladite assemblée.",
+          "bbox_norm": [
+            0.2042,
+            0.1866,
+            0.4174,
+            0.2011
+          ]
+        },
+        {
+          "text": "Le conseil arrête le texte des différentes résolutions à présenter à l'approbation de",
+          "bbox_norm": [
+            0.2624,
+            0.2173,
+            0.939,
+            0.2359
+          ]
+        },
+        {
+          "text": "l'assemblée.",
+          "bbox_norm": [
+            0.2027,
+            0.2339,
+            0.3028,
+            0.2475
+          ]
+        },
+        {
+          "text": "Ce texte sera modifié si des actionnaires remplissant les conditions légales",
+          "bbox_norm": [
+            0.2611,
+            0.2637,
+            0.9398,
+            0.2832
+          ]
+        },
+        {
+          "text": "demandent l'inscription à l'ordre du jour de l'assemblée de projets de résolutions ; dans",
+          "bbox_norm": [
+            0.2027,
+            0.2803,
+            0.939,
+            0.2979
+          ]
+        },
+        {
+          "text": "cette hypothèse, le conseil d'administration se réunira pour fixer l'ordre du jour définitif.",
+          "bbox_norm": [
+            0.2027,
+            0.2964,
+            0.9105,
+            0.313
+          ]
+        },
+        {
+          "text": "Le conseil charge son Président de prendre toutes mesures utiles en vue de",
+          "bbox_norm": [
+            0.2618,
+            0.3276,
+            0.939,
+            0.3453
+          ]
+        },
+        {
+          "text": "convoquer les actionnaires et de leur assurer le plein exercice de leur droit de",
+          "bbox_norm": [
+            0.2021,
+            0.3437,
+            0.9396,
+            0.3604
+          ]
+        },
+        {
+          "text": "communication.",
+          "bbox_norm": [
+            0.2034,
+            0.3609,
+            0.3361,
+            0.374
+          ]
+        },
+        {
+          "text": "L'ordre du jour étant épuisé et personne ne demandant la parole, Monsieur le",
+          "bbox_norm": [
+            0.2618,
+            0.4057,
+            0.9376,
+            0.4234
+          ]
+        },
+        {
+          "text": "Président décide de lever la séance.",
+          "bbox_norm": [
+            0.2027,
+            0.4219,
+            0.4889,
+            0.4376
+          ]
+        },
+        {
+          "text": "De tout ce que dessus, il a été dressé le présent procès-verbal, signé après lecture,",
+          "bbox_norm": [
+            0.2618,
+            0.4532,
+            0.9328,
+            0.4712
+          ]
+        },
+        {
+          "text": "par les administrateurs présents.",
+          "bbox_norm": [
+            0.2042,
+            0.4702,
+            0.4611,
+            0.4849
+          ]
+        },
+        {
+          "text": "COPIE CLRLL MCE CUNTURML",
+          "bbox_norm": [
+            0.607,
+            0.4997,
+            0.9577,
+            0.5361
+          ]
+        },
+        {
+          "text": "Le President du C.A",
+          "bbox_norm": [
+            0.6619,
+            0.523,
+            0.8987,
+            0.5532
+          ]
+        },
+        {
+          "text": "Françoise BERNACHON",
+          "bbox_norm": [
+            0.2722,
+            0.5645,
+            0.4911,
+            0.5791
+          ]
+        },
+        {
+          "text": "Jean-Jaccues BERNACHON",
+          "bbox_norm": [
+            0.6743,
+            0.5645,
+            0.9258,
+            0.5791
+          ]
+        },
+        {
+          "text": "Bon pougacceptgtion des",
+          "bbox_norm": [
+            0.7139,
+            0.5821,
+            0.8904,
+            0.5953
+          ]
+        },
+        {
+          "text": "fonctious de Président du",
+          "bbox_norm": [
+            0.7098,
+            0.5972,
+            0.8904,
+            0.6119
+          ]
+        },
+        {
+          "text": "gopseil d'administration",
+          "bbox_norm": [
+            0.7167,
+            0.6138,
+            0.8847,
+            0.627
+          ]
+        },
+        {
+          "text": "Stéphanie LE ROUX",
+          "bbox_norm": [
+            0.4764,
+            0.7051,
+            0.6599,
+            0.7218
+          ]
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "text": "BERNACHON SA\nSociété anonyme Capital s0cial : 1.000.000 Frs Siège s0cial : LYON (69006) COPIE\n42, cours Franklin Roosevelt\n328 024 377 R.C.S. LYON\nPROÇES VERBAL DES DELIBERATIONS\nDE L'ASSEMBLEE GENERALE A CARACTERE MIXTE\nDU 18 NOVEMBRE 1999\nLe 18 NOVEMBRE 1999 à 16 heures, au siège social, les actionnaires se sont\nréunis en ASSEMBLEE GENERALE A CARACTERE MIXTE sur la convocation qui\nleur a été faite dans les délais réglementaires et dans la forme stipulée aux statuts.\nLes membres de l'assemblée ont émargé la feuille de présence en entrant en séance,\ntant en leur nom qu'au nom des actionnaires qu'ils représentent.\nL'assemblée est présidée par le Président du Conseil d'Administration, Monsieur\nJean-Jacques BERNACHON.\nSont scrutateurs de l'assemblée les deux membres disposant du plus grand nombre\nde voix et acceptant cette fonction, savoir :\n- Madame Françoise BERNACHON\n- Madame Stéphanie LE ROUX\nLe bureau de l'assemblée désigne comme secrétaire :\n- Madame Françoise BERNACHON\nMonsieur Gérard FAYSSE, Commissaire aux Comptes, régulièrement convoqué,\nest absent excusé.\nLa feuille de présence est vérifiée puis arrêtée par le Bureau de l'Assemblée qui\nconstate que les actionnaires présents ou représentés, possèdent plus du tiers des actions\ncomposant le capital social et jouissant du droit de vote sur toutes les questions à l'ordre du\njour autres que celles relatives à l'approbation des conventions réglementées. En\nconséquence, Monsieur le Président déclare l'assemblée régulièrement constituée et apte à\ndélibérer valablement.\nMonsieur le Président met à la disposition des membres de l'assemblée :\n- Un exemplaire des statuts de la société,\n- Une copie de la lettre de convocation adressée à chaque actionnaire et les\nattestations postales correspondantes,",
+      "lines": [
+        {
+          "text": "BERNACHON SA",
+          "bbox_norm": [
+            0.1681,
+            0.0825,
+            0.3348,
+            0.0972
+          ]
+        },
+        {
+          "text": "Société anonyme",
+          "bbox_norm": [
+            0.1681,
+            0.0966,
+            0.3133,
+            0.1128
+          ]
+        },
+        {
+          "text": "Capital s0cial : 1.000.000 Frs",
+          "bbox_norm": [
+            0.1701,
+            0.1118,
+            0.4126,
+            0.1265
+          ]
+        },
+        {
+          "text": "Siège s0cial : LYON (69006)",
+          "bbox_norm": [
+            0.1701,
+            0.1265,
+            0.4118,
+            0.1416
+          ]
+        },
+        {
+          "text": "COPIE",
+          "bbox_norm": [
+            0.7402,
+            0.0927,
+            0.8897,
+            0.1397
+          ]
+        },
+        {
+          "text": "42, cours Franklin Roosevelt",
+          "bbox_norm": [
+            0.1708,
+            0.1401,
+            0.4091,
+            0.1548
+          ]
+        },
+        {
+          "text": "328 024 377 R.C.S. LYON",
+          "bbox_norm": [
+            0.1708,
+            0.1543,
+            0.3945,
+            0.1685
+          ]
+        },
+        {
+          "text": "PROÇES VERBAL DES DELIBERATIONS",
+          "bbox_norm": [
+            0.3472,
+            0.1987,
+            0.741,
+            0.2134
+          ]
+        },
+        {
+          "text": "DE L'ASSEMBLEE GENERALE A CARACTERE MIXTE",
+          "bbox_norm": [
+            0.2819,
+            0.2285,
+            0.8077,
+            0.2456
+          ]
+        },
+        {
+          "text": "DU 18 NOVEMBRE 1999",
+          "bbox_norm": [
+            0.4319,
+            0.2617,
+            0.6584,
+            0.2749
+          ]
+        },
+        {
+          "text": "Le 18 NOVEMBRE 1999 à 16 heures, au siège social, les actionnaires se sont",
+          "bbox_norm": [
+            0.232,
+            0.2915,
+            0.9237,
+            0.3086
+          ]
+        },
+        {
+          "text": "réunis en ASSEMBLEE GENERALE A CARACTERE MIXTE sur la convocation qui",
+          "bbox_norm": [
+            0.1721,
+            0.3062,
+            0.9223,
+            0.3253
+          ]
+        },
+        {
+          "text": "leur a été faite dans les délais réglementaires et dans la forme stipulée aux statuts.",
+          "bbox_norm": [
+            0.1729,
+            0.3237,
+            0.8431,
+            0.3399
+          ]
+        },
+        {
+          "text": "Les membres de l'assemblée ont émargé la feuille de présence en entrant en séance,",
+          "bbox_norm": [
+            0.2326,
+            0.354,
+            0.925,
+            0.3726
+          ]
+        },
+        {
+          "text": "tant en leur nom qu'au nom des actionnaires qu'ils représentent.",
+          "bbox_norm": [
+            0.1743,
+            0.3707,
+            0.6917,
+            0.3863
+          ]
+        },
+        {
+          "text": "L'assemblée est présidée par le Président du Conseil d'Administration, Monsieur",
+          "bbox_norm": [
+            0.234,
+            0.4008,
+            0.925,
+            0.419
+          ]
+        },
+        {
+          "text": "Jean-Jacques BERNACHON.",
+          "bbox_norm": [
+            0.1743,
+            0.417,
+            0.4194,
+            0.4327
+          ]
+        },
+        {
+          "text": "Sont scrutateurs de l'assemblée les deux membres disposant du plus grand nombre",
+          "bbox_norm": [
+            0.2348,
+            0.4483,
+            0.925,
+            0.4649
+          ]
+        },
+        {
+          "text": "de voix et acceptant cette fonction, savoir :",
+          "bbox_norm": [
+            0.1764,
+            0.4644,
+            0.5285,
+            0.48
+          ]
+        },
+        {
+          "text": "- Madame Françoise BERNACHON",
+          "bbox_norm": [
+            0.2375,
+            0.4956,
+            0.5375,
+            0.5103
+          ]
+        },
+        {
+          "text": "- Madame Stéphanie LE ROUX",
+          "bbox_norm": [
+            0.2368,
+            0.5254,
+            0.5014,
+            0.5425
+          ]
+        },
+        {
+          "text": "Le bureau de l'assemblée désigne comme secrétaire :",
+          "bbox_norm": [
+            0.2368,
+            0.5567,
+            0.6702,
+            0.5738
+          ]
+        },
+        {
+          "text": "- Madame Françoise BERNACHON",
+          "bbox_norm": [
+            0.2396,
+            0.5884,
+            0.5396,
+            0.6035
+          ]
+        },
+        {
+          "text": "Monsieur Gérard FAYSSE, Commissaire aux Comptes, régulièrement convoqué,",
+          "bbox_norm": [
+            0.2383,
+            0.6187,
+            0.9271,
+            0.6368
+          ]
+        },
+        {
+          "text": "est absent excusé.",
+          "bbox_norm": [
+            0.1806,
+            0.6368,
+            0.3271,
+            0.6499
+          ]
+        },
+        {
+          "text": "La feuille de présence est vérifiée puis arrêtée par le Bureau de l'Assemblée qui",
+          "bbox_norm": [
+            0.2396,
+            0.6666,
+            0.9299,
+            0.6827
+          ]
+        },
+        {
+          "text": "constate que les actionnaires présents ou représentés, possèdent plus du tiers des actions",
+          "bbox_norm": [
+            0.1806,
+            0.6827,
+            0.9306,
+            0.6983
+          ]
+        },
+        {
+          "text": "composant le capital social et jouissant du droit de vote sur toutes les questions à l'ordre du",
+          "bbox_norm": [
+            0.1806,
+            0.6983,
+            0.9313,
+            0.714
+          ]
+        },
+        {
+          "text": "jour autres que celles relatives à l'approbation des conventions réglementées. En",
+          "bbox_norm": [
+            0.1806,
+            0.7149,
+            0.932,
+            0.7296
+          ]
+        },
+        {
+          "text": "conséquence, Monsieur le Président déclare l'assemblée régulièrement constituée et apte à",
+          "bbox_norm": [
+            0.1819,
+            0.7296,
+            0.9333,
+            0.7452
+          ]
+        },
+        {
+          "text": "délibérer valablement.",
+          "bbox_norm": [
+            0.1833,
+            0.7457,
+            0.366,
+            0.7589
+          ]
+        },
+        {
+          "text": "Monsieur le Président met à la disposition des membres de l'assemblée :",
+          "bbox_norm": [
+            0.2431,
+            0.7764,
+            0.8334,
+            0.7916
+          ]
+        },
+        {
+          "text": "- Un exemplaire des statuts de la société,",
+          "bbox_norm": [
+            0.2451,
+            0.8081,
+            0.5779,
+            0.8228
+          ]
+        },
+        {
+          "text": "- Une copie de la lettre de convocation adressée à chaque actionnaire et les",
+          "bbox_norm": [
+            0.2451,
+            0.8394,
+            0.9285,
+            0.8545
+          ]
+        },
+        {
+          "text": "attestations postales correspondantes,",
+          "bbox_norm": [
+            0.1839,
+            0.855,
+            0.4917,
+            0.8708
+          ]
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "text": ".\n+”•\n- 2 -\n- La copie de la lettre de convocation du Commissaire aux comptes avec l'accusé\nde réception,\n- La feuille de présence,\n- Ainsi que le dossier complet des documents et renseignements communiqués et\nmis à la disposition des actionnaires, en application du droit d'information prescrit par la\nloi, savoir :\n. Les comptes annuels de l'exercice écoulé et leurs annexes,\n. Le rapport de gestion du Conseil d'Administration et son annexe,\n. Les rapports du Commissaire aux comptes,\n. Le texte des résolutions proposées par le Conseil d'Administration,\n. Le tableau de composition du Conseil d'Administration,\n. L'état, certifié exact par le Commissaire aux comptes, des rémunérations versées\naux personnes les mieux rémunérées,\n. La liste des actionnaires.\nMonsieur le Président rappelle que les documents énumérés ci-dessus et plus\ngénéralement les documents et renseignements prescrits par la loi pour l'information\npréalable des actionnaires ont été tenus à la disposition de ceux-ci au lieu et dans les délais\nprévus par la réglementation en vigueur.\nMonsieur le Président rappelle l'ordre du jour :\n1 - ORDRE DU JOUR DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nORDINAIRE\n- Rapport de gestion du Conseil d'Administration sur l'activité de la société et de\nses filiales, au cours de l'exercice clos le 30 juin 1999 et présentation des comptes annuels\ndudit exercice.\n- Rapports du Commissaire aux comptes sur l'exécution de sa mission et sur les\nconventions visées aux articles 101 à 105 de la loi sur les sociétés commerciales.\n- Approbation des comptes.\n- Approbation et/ou ratification des conventions.\n- Affectation du résultat - Distribution de dividendes.\n- Nomination d'un Commissaire aux Comptes suppléant en remplacement de\nMonsieur Gabriel BALAY, démissionnaire.\n- Questions diverses.\nII - ORDRE DU JOUR DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nEXTRAORDINAIRE\n- Conversion du capital social en euros : délégation de pouvoirs au conseil\nd'administration à l'effet de réaliser les adaptations corrélatives.",
+      "lines": [
+        {
+          "text": ".",
+          "bbox_norm": [
+            0.9667,
+            0.0219,
+            0.973,
+            0.0284
+          ]
+        },
+        {
+          "text": "+”•",
+          "bbox_norm": [
+            0.9647,
+            0.038,
+            0.973,
+            0.0494
+          ]
+        },
+        {
+          "text": "- 2 -",
+          "bbox_norm": [
+            0.4424,
+            0.0483,
+            0.4813,
+            0.0634
+          ]
+        },
+        {
+          "text": "- La copie de la lettre de convocation du Commissaire aux comptes avec l'accusé",
+          "bbox_norm": [
+            0.2265,
+            0.0904,
+            0.909,
+            0.106
+          ]
+        },
+        {
+          "text": "de réception,",
+          "bbox_norm": [
+            0.1659,
+            0.1059,
+            0.2758,
+            0.1236
+          ]
+        },
+        {
+          "text": "- La feuille de présence,",
+          "bbox_norm": [
+            0.2278,
+            0.1377,
+            0.4236,
+            0.1524
+          ]
+        },
+        {
+          "text": "- Ainsi que le dossier complet des documents et renseignements communiqués et",
+          "bbox_norm": [
+            0.2285,
+            0.1689,
+            0.9105,
+            0.1846
+          ]
+        },
+        {
+          "text": "mis à la disposition des actionnaires, en application du droit d'information prescrit par la",
+          "bbox_norm": [
+            0.1694,
+            0.1846,
+            0.9147,
+            0.2007
+          ]
+        },
+        {
+          "text": "loi, savoir :",
+          "bbox_norm": [
+            0.1695,
+            0.2022,
+            0.2639,
+            0.2158
+          ]
+        },
+        {
+          "text": ". Les comptes annuels de l'exercice écoulé et leurs annexes,",
+          "bbox_norm": [
+            0.2298,
+            0.2314,
+            0.7139,
+            0.2475
+          ]
+        },
+        {
+          "text": ". Le rapport de gestion du Conseil d'Administration et son annexe,",
+          "bbox_norm": [
+            0.2305,
+            0.247,
+            0.7681,
+            0.2637
+          ]
+        },
+        {
+          "text": ". Les rapports du Commissaire aux comptes,",
+          "bbox_norm": [
+            0.2305,
+            0.2627,
+            0.591,
+            0.2789
+          ]
+        },
+        {
+          "text": ". Le texte des résolutions proposées par le Conseil d'Administration,",
+          "bbox_norm": [
+            0.2313,
+            0.2778,
+            0.7833,
+            0.294
+          ]
+        },
+        {
+          "text": ". Le tableau de composition du Conseil d'Administration,",
+          "bbox_norm": [
+            0.2313,
+            0.2934,
+            0.6938,
+            0.3092
+          ]
+        },
+        {
+          "text": ". L'état, certifié exact par le Commissaire aux comptes, des rémunérations versées",
+          "bbox_norm": [
+            0.2313,
+            0.3086,
+            0.9167,
+            0.3258
+          ]
+        },
+        {
+          "text": "aux personnes les mieux rémunérées,",
+          "bbox_norm": [
+            0.1714,
+            0.3252,
+            0.4745,
+            0.3428
+          ]
+        },
+        {
+          "text": ". La liste des actionnaires.",
+          "bbox_norm": [
+            0.2318,
+            0.3413,
+            0.4417,
+            0.356
+          ]
+        },
+        {
+          "text": "Monsieur le Président rappelle que les documents énumérés ci-dessus et plus",
+          "bbox_norm": [
+            0.232,
+            0.3711,
+            0.9125,
+            0.3882
+          ]
+        },
+        {
+          "text": "généralement les documents et renseignements prescrits par la loi pour l'information",
+          "bbox_norm": [
+            0.1729,
+            0.3868,
+            0.9175,
+            0.4048
+          ]
+        },
+        {
+          "text": "préalable des actionnaires ont été tenus à la disposition de ceux-ci au lieu et dans les délais",
+          "bbox_norm": [
+            0.1729,
+            0.4008,
+            0.9154,
+            0.4209
+          ]
+        },
+        {
+          "text": "prévus par la réglementation en vigueur.",
+          "bbox_norm": [
+            0.1736,
+            0.4199,
+            0.5007,
+            0.4361
+          ]
+        },
+        {
+          "text": "Monsieur le Président rappelle l'ordre du jour :",
+          "bbox_norm": [
+            0.2333,
+            0.4497,
+            0.6125,
+            0.4663
+          ]
+        },
+        {
+          "text": "1 - ORDRE DU JOUR DE LA COMPETENCE DE L'ASSEMBLEE GENERALE",
+          "bbox_norm": [
+            0.1721,
+            0.4795,
+            0.9105,
+            0.4971
+          ]
+        },
+        {
+          "text": "ORDINAIRE",
+          "bbox_norm": [
+            0.1736,
+            0.497,
+            0.2967,
+            0.5133
+          ]
+        },
+        {
+          "text": "- Rapport de gestion du Conseil d'Administration sur l'activité de la société et de",
+          "bbox_norm": [
+            0.2361,
+            0.5259,
+            0.9154,
+            0.5446
+          ]
+        },
+        {
+          "text": "ses filiales, au cours de l'exercice clos le 30 juin 1999 et présentation des comptes annuels",
+          "bbox_norm": [
+            0.1756,
+            0.542,
+            0.921,
+            0.5606
+          ]
+        },
+        {
+          "text": "dudit exercice.",
+          "bbox_norm": [
+            0.1764,
+            0.5616,
+            0.298,
+            0.5753
+          ]
+        },
+        {
+          "text": "- Rapports du Commissaire aux comptes sur l'exécution de sa mission et sur les",
+          "bbox_norm": [
+            0.2368,
+            0.5874,
+            0.9167,
+            0.6075
+          ]
+        },
+        {
+          "text": "conventions visées aux articles 101 à 105 de la loi sur les sociétés commerciales.",
+          "bbox_norm": [
+            0.1771,
+            0.604,
+            0.8327,
+            0.6227
+          ]
+        },
+        {
+          "text": "- Approbation des comptes.",
+          "bbox_norm": [
+            0.2368,
+            0.6372,
+            0.4625,
+            0.6549
+          ]
+        },
+        {
+          "text": "- Approbation et/ou ratification des conventions.",
+          "bbox_norm": [
+            0.2374,
+            0.6666,
+            0.6328,
+            0.6861
+          ]
+        },
+        {
+          "text": "- Affectation du résultat - Distribution de dividendes.",
+          "bbox_norm": [
+            0.2388,
+            0.6983,
+            0.6702,
+            0.7154
+          ]
+        },
+        {
+          "text": "- Nomination d'un Commissaire aux Comptes suppléant en remplacement de",
+          "bbox_norm": [
+            0.2388,
+            0.7286,
+            0.9202,
+            0.7476
+          ]
+        },
+        {
+          "text": "Monsieur Gabriel BALAY, démissionnaire.",
+          "bbox_norm": [
+            0.1799,
+            0.7466,
+            0.5375,
+            0.7628
+          ]
+        },
+        {
+          "text": "- Questions diverses.",
+          "bbox_norm": [
+            0.2403,
+            0.7778,
+            0.4118,
+            0.7941
+          ]
+        },
+        {
+          "text": "II - ORDRE DU JOUR DE LA COMPETENCE DE L'ASSEMBLEE GENERALE",
+          "bbox_norm": [
+            0.1812,
+            0.8072,
+            0.9175,
+            0.8253
+          ]
+        },
+        {
+          "text": "EXTRAORDINAIRE",
+          "bbox_norm": [
+            0.1826,
+            0.8257,
+            0.373,
+            0.8405
+          ]
+        },
+        {
+          "text": "- Conversion du capital social en euros : délégation de pouvoirs au conseil",
+          "bbox_norm": [
+            0.2416,
+            0.8535,
+            0.9217,
+            0.8736
+          ]
+        },
+        {
+          "text": "d'administration à l'effet de réaliser les adaptations corrélatives.",
+          "bbox_norm": [
+            0.1826,
+            0.8717,
+            0.6987,
+            0.8883
+          ]
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "text": "-3 -\nIl est ensuite donné lecture du rapport de gestion du Conseil d'Administration.\nCette lecture faite, Monsieur le Président analyse brièvement les comptes de\nl'exercice écoulé dont il souligne les données caractéristiques.\nLecture est enfin donnée des rapports du Commissaire aux comptes.\nCette lecture faite, Monsieur le Président invite les membres de l'assemblée à poser\nles questions qu'ils souhaitent sur les points en rapport avec l'ordre du jour et, s'ils le\ndésirent, à expliquer leur vote à venir.\nConstatant que personne ne demande à intervenir, Monsieur le Président met aux\nvoix les résolutions suivantes figurant à l'ordre du jour :\nI - RESOLUTIONS DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nORDINAIRE\nPREMIERE RESOLUTION\nL'assemblée générale donne acte à son Président de ses déclarations relatives à la\nconvocation des actionnaires et à la mise à leur disposition des documents et\nrenseignements prescrits par la réglementation en vigueur et utiles à leur information\npréalable.\nL'assemblée générale, après avoir entendu la lecture du rapport de gestion du\nConseil d'Administration et du rapport général du Commissaire aux comptes sur l'exercice\nclos le 30 juin 1999, approuve les comptes annuels de cet exercice, dans toutes leurs\ncomposantes, tels qu'ils ont été présentés, lesdits comptes annuels se soldant par un\nbénéfice dé 1.177.802 Frs.\nElle approuve également les opérations traduites dans ces comptes annuels ou\nrésumées dans le rapport de gestion.\nL'assemblée générale donne en conséquence aux administrateurs quitus de\nl'exécution de leur mandat pour l'exercice dont elle vient d'approuver les comptes.\nCette résolution est adoptée à l'unanimité.\nDEUXIEME RESOLUTION\nAprès avoir entendu la lecture du rapport spécial du Commissaire aux comptes sur\nla situation de la société au regard des conventions visées à l'article 101 de la loi sur les\nsociétés commerciales, l'assemblée générale approuve l'exécution, aux conditions fixées,\ndes conventions antérieurement approuvées qui se sont poursuivies sans modification au\ncours dudit exercice.\nCette résolution est adoptée à l'unanimité des voix attachées aux actions jouissant\ndu droit de vote pour chacune des approbations qui en font l'objet.",
+      "lines": [
+        {
+          "text": "-3 -",
+          "bbox_norm": [
+            0.4535,
+            0.0371,
+            0.4944,
+            0.0538
+          ]
+        },
+        {
+          "text": "Il est ensuite donné lecture du rapport de gestion du Conseil d'Administration.",
+          "bbox_norm": [
+            0.2333,
+            0.0927,
+            0.8716,
+            0.1119
+          ]
+        },
+        {
+          "text": "Cette lecture faite, Monsieur le Président analyse brièvement les comptes de",
+          "bbox_norm": [
+            0.2346,
+            0.1235,
+            0.9237,
+            0.1441
+          ]
+        },
+        {
+          "text": "l'exercice écoulé dont il souligne les données caractéristiques.",
+          "bbox_norm": [
+            0.1736,
+            0.1391,
+            0.68,
+            0.1578
+          ]
+        },
+        {
+          "text": "Lecture est enfin donnée des rapports du Commissaire aux comptes.",
+          "bbox_norm": [
+            0.234,
+            0.1703,
+            0.7898,
+            0.1895
+          ]
+        },
+        {
+          "text": "Cette lecture faite, Monsieur le Président invite les membres de l'assemblée à poser",
+          "bbox_norm": [
+            0.2346,
+            0.2011,
+            0.9237,
+            0.2212
+          ]
+        },
+        {
+          "text": "les questions qu'ils souhaitent sur les points en rapport avec l'ordre du jour et, s'ils le",
+          "bbox_norm": [
+            0.1743,
+            0.2167,
+            0.9223,
+            0.2364
+          ]
+        },
+        {
+          "text": "désirent, à expliquer leur vote à venir.",
+          "bbox_norm": [
+            0.1749,
+            0.2319,
+            0.4876,
+            0.2496
+          ]
+        },
+        {
+          "text": "Constatant que personne ne demande à intervenir, Monsieur le Président met aux",
+          "bbox_norm": [
+            0.2346,
+            0.2637,
+            0.9237,
+            0.2832
+          ]
+        },
+        {
+          "text": "voix les résolutions suivantes figurant à l'ordre du jour :",
+          "bbox_norm": [
+            0.1743,
+            0.2798,
+            0.632,
+            0.2969
+          ]
+        },
+        {
+          "text": "I - RESOLUTIONS DE LA COMPETENCE DE L'ASSEMBLEE GENERALE",
+          "bbox_norm": [
+            0.1736,
+            0.311,
+            0.9147,
+            0.3282
+          ]
+        },
+        {
+          "text": "ORDINAIRE",
+          "bbox_norm": [
+            0.1749,
+            0.3266,
+            0.2987,
+            0.3414
+          ]
+        },
+        {
+          "text": "PREMIERE RESOLUTION",
+          "bbox_norm": [
+            0.4244,
+            0.3594,
+            0.6744,
+            0.3731
+          ]
+        },
+        {
+          "text": "L'assemblée générale donne acte à son Président de ses déclarations relatives à la",
+          "bbox_norm": [
+            0.2368,
+            0.3892,
+            0.925,
+            0.4053
+          ]
+        },
+        {
+          "text": "convocation des actionnaires et à la mise à leur disposition des documents et",
+          "bbox_norm": [
+            0.1756,
+            0.4043,
+            0.9265,
+            0.422
+          ]
+        },
+        {
+          "text": "renseignements prescrits par la réglementation en vigueur et utiles à leur information",
+          "bbox_norm": [
+            0.1764,
+            0.4209,
+            0.9258,
+            0.4376
+          ]
+        },
+        {
+          "text": "préalable.",
+          "bbox_norm": [
+            0.1756,
+            0.4356,
+            0.2618,
+            0.4527
+          ]
+        },
+        {
+          "text": "L'assemblée générale, après avoir entendu la lecture du rapport de gestion du",
+          "bbox_norm": [
+            0.2368,
+            0.4668,
+            0.925,
+            0.484
+          ]
+        },
+        {
+          "text": "Conseil d'Administration et du rapport général du Commissaire aux comptes sur l'exercice",
+          "bbox_norm": [
+            0.1771,
+            0.4824,
+            0.925,
+            0.4996
+          ]
+        },
+        {
+          "text": "clos le 30 juin 1999, approuve les comptes annuels de cet exercice, dans toutes leurs",
+          "bbox_norm": [
+            0.1771,
+            0.4981,
+            0.9258,
+            0.5147
+          ]
+        },
+        {
+          "text": "composantes, tels qu'ils ont été présentés, lesdits comptes annuels se soldant par un",
+          "bbox_norm": [
+            0.1771,
+            0.5142,
+            0.9258,
+            0.5308
+          ]
+        },
+        {
+          "text": "bénéfice dé 1.177.802 Frs.",
+          "bbox_norm": [
+            0.1771,
+            0.5294,
+            0.3993,
+            0.544
+          ]
+        },
+        {
+          "text": "Elle approuve également les opérations traduites dans ces comptes annuels ou",
+          "bbox_norm": [
+            0.2383,
+            0.5596,
+            0.9271,
+            0.5767
+          ]
+        },
+        {
+          "text": "résumées dans le rapport de gestion.",
+          "bbox_norm": [
+            0.1778,
+            0.5757,
+            0.4771,
+            0.5919
+          ]
+        },
+        {
+          "text": "L'assemblée générale donne en conséquence aux administrateurs quitus de",
+          "bbox_norm": [
+            0.2381,
+            0.6065,
+            0.9278,
+            0.6246
+          ]
+        },
+        {
+          "text": "l'exécution de leur mandat pour l'exercice dont elle vient d'approuver les comptes.",
+          "bbox_norm": [
+            0.1784,
+            0.6226,
+            0.848,
+            0.6392
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2403,
+            0.6538,
+            0.5819,
+            0.6695
+          ]
+        },
+        {
+          "text": "DEUXIEME RESOLUTION",
+          "bbox_norm": [
+            0.4284,
+            0.6861,
+            0.6785,
+            0.6993
+          ]
+        },
+        {
+          "text": "Après avoir entendu la lecture du rapport spécial du Commissaire aux comptes sur",
+          "bbox_norm": [
+            0.2403,
+            0.7154,
+            0.93,
+            0.7335
+          ]
+        },
+        {
+          "text": "la situation de la société au regard des conventions visées à l'article 101 de la loi sur les",
+          "bbox_norm": [
+            0.1799,
+            0.7315,
+            0.9299,
+            0.7476
+          ]
+        },
+        {
+          "text": "sociétés commerciales, l'assemblée générale approuve l'exécution, aux conditions fixées,",
+          "bbox_norm": [
+            0.1799,
+            0.7471,
+            0.93,
+            0.7638
+          ]
+        },
+        {
+          "text": "des conventions antérieurement approuvées qui se sont poursuivies sans modification au",
+          "bbox_norm": [
+            0.1791,
+            0.7622,
+            0.9306,
+            0.7809
+          ]
+        },
+        {
+          "text": "cours dudit exercice.",
+          "bbox_norm": [
+            0.1806,
+            0.7799,
+            0.3534,
+            0.793
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité des voix attachées aux actions jouissant",
+          "bbox_norm": [
+            0.2423,
+            0.8106,
+            0.9299,
+            0.8253
+          ]
+        },
+        {
+          "text": "du droit de vote pour chacune des approbations qui en font l'objet.",
+          "bbox_norm": [
+            0.1812,
+            0.8253,
+            0.7209,
+            0.8419
+          ]
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "text": "É\n- 4 -\nTRQISIEME RESOLUTION\nL'assemblée générale ratifie une convention de bail relevant de l'article 105 en\nraison de la communauté des associés de la S.C.I. 42, cours Franklin Roosevelt et des\nadministrateurs de Ia S.A. BERNACHON et, en conséquence, couvre la nullité susceptible\nde frapper les conventions dont s'agit.\nCette résolution est adoptée à l'unanimité des voix attachées aux actions jouissant\ndu droit de vote pour chacune des approbations qui en font l'objet.\nQUATRIEME RESOLUTION\nI - L'assemblée générale, sur la proposition du Conseil d'Administration, décide de\nd'affecter le bénéfice de l'exercice approuvé, soit 1.177.802 Frs, de la façon suivante :\n- Aux actionnaires, à titre de dividende,\nla somme de 1.000.000 Frs\n- Le solde au compte \"Autres Réserves\",\nsoit la somme de 177.802 Frs\nTotal égal au bénéfice de l'exercice\nclos le 30 juin 1999 1.177.802 Frs\nLe dividende unitaire serait ainsi fixé à 400 Frs par action et qui, compte tenu d'un\navoir fiscal unitaire de 200 Frs, procurerait un revenu global unitaire de 600 Frs.\nCe dividende sera payé à partir du 18 novembre 1999, au siège social.\nII - L'assemblée Générale reconnaît, en outre, conformément aux dispositions de\nl'article 243 Bis du C.G.I., que les rapports présentés mentionnent que le dividende mis en\ndistribution au titre des trois exercices précédents et celui de l'avoir fiscal correspondant\nont été les suivants :\nExercice Dividendes Avoir fiscal\n1995/1996 400 Frs 200 Frs\n1996/1997 400 Frs 200 Frs\n1997/1998 400 Frs 200 Frs\nCette résolution est adoptée à l'unanimité.\nCINQUIEME RESOLUTION\nL'assemblée générale nomme en qualité de Commissaire aux Comptes suppléant,\npour la durée restant à courir du mandat de son prédécesseur, Monsieur Pierre-Yves\nPETIT ayant ses bureaux à LYON (69009) 2, rue de la Claire, en remplacement de\nMonsieur Gabriel BALAY, démissionnaire à compter du 31 décembre 1998.\nCette résolution est adoptée à l'unanimité.",
+      "lines": [
+        {
+          "text": "É",
+          "bbox_norm": [
+            0.9682,
+            0.0191,
+            0.9737,
+            0.024
+          ]
+        },
+        {
+          "text": "- 4 -",
+          "bbox_norm": [
+            0.473,
+            0.0435,
+            0.5097,
+            0.0562
+          ]
+        },
+        {
+          "text": "TRQISIEME RESOLUTION",
+          "bbox_norm": [
+            0.4347,
+            0.0825,
+            0.6917,
+            0.0991
+          ]
+        },
+        {
+          "text": "L'assemblée générale ratifie une convention de bail relevant de l'article 105 en",
+          "bbox_norm": [
+            0.2554,
+            0.1108,
+            0.9348,
+            0.1314
+          ]
+        },
+        {
+          "text": "raison de la communauté des associés de la S.C.I. 42, cours Franklin Roosevelt et des",
+          "bbox_norm": [
+            0.1965,
+            0.1244,
+            0.9335,
+            0.1456
+          ]
+        },
+        {
+          "text": "administrateurs de Ia S.A. BERNACHON et, en conséquence, couvre la nullité susceptible",
+          "bbox_norm": [
+            0.1957,
+            0.1386,
+            0.9328,
+            0.1602
+          ]
+        },
+        {
+          "text": "de frapper les conventions dont s'agit.",
+          "bbox_norm": [
+            0.1957,
+            0.1533,
+            0.5016,
+            0.1715
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité des voix attachées aux actions jouissant",
+          "bbox_norm": [
+            0.2554,
+            0.1816,
+            0.9342,
+            0.2023
+          ]
+        },
+        {
+          "text": "du droit de vote pour chacune des approbations qui en font l'objet.",
+          "bbox_norm": [
+            0.1957,
+            0.1952,
+            0.7266,
+            0.2154
+          ]
+        },
+        {
+          "text": "QUATRIEME RESOLUTION",
+          "bbox_norm": [
+            0.4292,
+            0.2265,
+            0.6952,
+            0.2433
+          ]
+        },
+        {
+          "text": "I - L'assemblée générale, sur la proposition du Conseil d'Administration, décide de",
+          "bbox_norm": [
+            0.2527,
+            0.2568,
+            0.928,
+            0.2764
+          ]
+        },
+        {
+          "text": "d'affecter le bénéfice de l'exercice approuvé, soit 1.177.802 Frs, de la façon suivante :",
+          "bbox_norm": [
+            0.1944,
+            0.2714,
+            0.8841,
+            0.2921
+          ]
+        },
+        {
+          "text": "- Aux actionnaires, à titre de dividende,",
+          "bbox_norm": [
+            0.2541,
+            0.3027,
+            0.5731,
+            0.3209
+          ]
+        },
+        {
+          "text": "la somme de",
+          "bbox_norm": [
+            0.2632,
+            0.3198,
+            0.3689,
+            0.3346
+          ]
+        },
+        {
+          "text": "1.000.000 Frs",
+          "bbox_norm": [
+            0.7152,
+            0.3222,
+            0.8279,
+            0.3375
+          ]
+        },
+        {
+          "text": "- Le solde au compte \"Autres Réserves\",",
+          "bbox_norm": [
+            0.2541,
+            0.3501,
+            0.58,
+            0.3682
+          ]
+        },
+        {
+          "text": "soit la somme de",
+          "bbox_norm": [
+            0.2632,
+            0.3662,
+            0.4028,
+            0.3824
+          ]
+        },
+        {
+          "text": "177.802 Frs",
+          "bbox_norm": [
+            0.7298,
+            0.369,
+            0.8279,
+            0.3849
+          ]
+        },
+        {
+          "text": "Total égal au bénéfice de l'exercice",
+          "bbox_norm": [
+            0.2541,
+            0.397,
+            0.5383,
+            0.4146
+          ]
+        },
+        {
+          "text": "clos le 30 juin 1999",
+          "bbox_norm": [
+            0.2534,
+            0.4126,
+            0.4153,
+            0.4288
+          ]
+        },
+        {
+          "text": "1.177.802 Frs",
+          "bbox_norm": [
+            0.7145,
+            0.4155,
+            0.8272,
+            0.4307
+          ]
+        },
+        {
+          "text": "Le dividende unitaire serait ainsi fixé à 400 Frs par action et qui, compte tenu d'un",
+          "bbox_norm": [
+            0.2534,
+            0.4434,
+            0.932,
+            0.463
+          ]
+        },
+        {
+          "text": "avoir fiscal unitaire de 200 Frs, procurerait un revenu global unitaire de 600 Frs.",
+          "bbox_norm": [
+            0.193,
+            0.458,
+            0.8404,
+            0.4782
+          ]
+        },
+        {
+          "text": "Ce dividende sera payé à partir du 18 novembre 1999, au siège social.",
+          "bbox_norm": [
+            0.2527,
+            0.4897,
+            0.8141,
+            0.5099
+          ]
+        },
+        {
+          "text": "II - L'assemblée Générale reconnaît, en outre, conformément aux dispositions de",
+          "bbox_norm": [
+            0.2521,
+            0.52,
+            0.9265,
+            0.5392
+          ]
+        },
+        {
+          "text": "l'article 243 Bis du C.G.I., que les rapports présentés mentionnent que le dividende mis en",
+          "bbox_norm": [
+            0.1909,
+            0.5332,
+            0.9313,
+            0.5548
+          ]
+        },
+        {
+          "text": "distribution au titre des trois exercices précédents et celui de l'avoir fiscal correspondant",
+          "bbox_norm": [
+            0.1922,
+            0.5478,
+            0.932,
+            0.5679
+          ]
+        },
+        {
+          "text": "ont été les suivants :",
+          "bbox_norm": [
+            0.1922,
+            0.563,
+            0.3599,
+            0.5782
+          ]
+        },
+        {
+          "text": "Exercice",
+          "bbox_norm": [
+            0.22,
+            0.5918,
+            0.2987,
+            0.6071
+          ]
+        },
+        {
+          "text": "Dividendes",
+          "bbox_norm": [
+            0.504,
+            0.5927,
+            0.6036,
+            0.609
+          ]
+        },
+        {
+          "text": "Avoir fiscal",
+          "bbox_norm": [
+            0.7416,
+            0.5942,
+            0.846,
+            0.6105
+          ]
+        },
+        {
+          "text": "1995/1996",
+          "bbox_norm": [
+            0.2167,
+            0.6226,
+            0.307,
+            0.6378
+          ]
+        },
+        {
+          "text": "400 Frs",
+          "bbox_norm": [
+            0.5192,
+            0.6234,
+            0.587,
+            0.6408
+          ]
+        },
+        {
+          "text": "200 Frs",
+          "bbox_norm": [
+            0.7587,
+            0.6244,
+            0.8273,
+            0.6419
+          ]
+        },
+        {
+          "text": "1996/1997",
+          "bbox_norm": [
+            0.2166,
+            0.6386,
+            0.3057,
+            0.6539
+          ]
+        },
+        {
+          "text": "400 Frs",
+          "bbox_norm": [
+            0.5192,
+            0.639,
+            0.587,
+            0.6565
+          ]
+        },
+        {
+          "text": "200 Frs",
+          "bbox_norm": [
+            0.7587,
+            0.6405,
+            0.8267,
+            0.658
+          ]
+        },
+        {
+          "text": "1997/1998",
+          "bbox_norm": [
+            0.2131,
+            0.6538,
+            0.3044,
+            0.6705
+          ]
+        },
+        {
+          "text": "400 Frs",
+          "bbox_norm": [
+            0.5192,
+            0.6546,
+            0.5865,
+            0.6721
+          ]
+        },
+        {
+          "text": "200 Frs",
+          "bbox_norm": [
+            0.7587,
+            0.6561,
+            0.826,
+            0.6736
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2521,
+            0.6846,
+            0.5876,
+            0.7012
+          ]
+        },
+        {
+          "text": "CINQUIEME RESOLUTION",
+          "bbox_norm": [
+            0.4284,
+            0.7144,
+            0.6897,
+            0.731
+          ]
+        },
+        {
+          "text": "L'assemblée générale nomme en qualité de Commissaire aux Comptes suppléant,",
+          "bbox_norm": [
+            0.2514,
+            0.7447,
+            0.93,
+            0.7643
+          ]
+        },
+        {
+          "text": "pour la durée restant à courir du mandat de son prédécesseur, Monsieur Pierre-Yves",
+          "bbox_norm": [
+            0.1917,
+            0.7608,
+            0.925,
+            0.7789
+          ]
+        },
+        {
+          "text": "PETIT ayant ses bureaux à LYON (69009) 2, rue de la Claire, en remplacement de",
+          "bbox_norm": [
+            0.1917,
+            0.7759,
+            0.9285,
+            0.7946
+          ]
+        },
+        {
+          "text": "Monsieur Gabriel BALAY, démissionnaire à compter du 31 décembre 1998.",
+          "bbox_norm": [
+            0.1909,
+            0.7906,
+            0.8091,
+            0.8102
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2514,
+            0.8228,
+            0.5876,
+            0.8389
+          ]
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "text": "5 -\nII - RESOLUTIONS DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nEXTRAORDINAIRE\nSIXIEME RESOLUTION\nL'assemblée générale, après avoir entendu la lecture du rapport de gestion :\n* autorise le conseil d'administration à décider au moment et selon les conditions et\nmodalités qu'il jugera opportun, la conversion du capital social en euros, en conservant ou\nnon une valeur nominale aux actions,\n* délègue tous pouvoirs au conseil d'administration à l'effet de convertir et exprimer\nle capital social en euros, au moyen :\n- soit d'une augmentation de capital par incorporation de primes et réserves\ndisponibles, dans la limite de leur montant,\n- soit d'une réduction de capital par arrondi à l'unité inférieure du résultat de\nla conversion globale du capital ou, le cas échéant, de la conversion par titrc et affectation\nde l'écart de réduction à un compte de réserves indisponible.\nLa présente délégation de pouvoirs est consentie pour une durée de vingt six mois.\nLe conseil d'administration est, en outre, habilité à modifier les statuts ensuite de\nl'opération réalisée et à accomplir toutes les formalités préalables et postérieures à la\nréalisation de la conversion du capital social.\nCette résolution est adoptée à l'unanimité.\nSEPTIEME RESOLUTION\nL'assemblée générale confère tous pouvoirs au porteur de l'original, d'un extrait ou\nd'une copie des présentes à l'effet d'accomplir toutes formalités de publicité, de dépôt et\nautres qu'il appartiendra.\nCette résolution est adoptée à l'unanimité.\nMonsieur le Président constate que toutes les résolutions à l'ordre du jour ont été\nvotées. Après avoir redonné la parole aux membres de l'assemblée et constaté que personne\nne demande à intervenir, il déclare la séance levée.\nEt de tout ce que dessus, il a été dressé le présent procès-verbal qui a été signé par\nles membres, s dupreu et le segrétaire CONTURME\nLe Président du C.A\nLe Président Le Secrétaire\nJean-Jacques-BERAACHON Françoise BERNACHON\nLes Scrutateurs\nStéphanie LE ROUX Françoise BERNACHON",
+      "lines": [
+        {
+          "text": "5 -",
+          "bbox_norm": [
+            0.4785,
+            0.0342,
+            0.5056,
+            0.0459
+          ]
+        },
+        {
+          "text": "II - RESOLUTIONS DE LA COMPETENCE DE L'ASSEMBLEE GENERALE",
+          "bbox_norm": [
+            0.1917,
+            0.0888,
+            0.9272,
+            0.107
+          ]
+        },
+        {
+          "text": "EXTRAORDINAIRE",
+          "bbox_norm": [
+            0.1924,
+            0.105,
+            0.3848,
+            0.1196
+          ]
+        },
+        {
+          "text": "SIXIEME RESOLUTION",
+          "bbox_norm": [
+            0.4485,
+            0.1358,
+            0.6765,
+            0.1499
+          ]
+        },
+        {
+          "text": "L'assemblée générale, après avoir entendu la lecture du rapport de gestion :",
+          "bbox_norm": [
+            0.2514,
+            0.1621,
+            0.8626,
+            0.1827
+          ]
+        },
+        {
+          "text": "* autorise le conseil d'administration à décider au moment et selon les conditions et",
+          "bbox_norm": [
+            0.2514,
+            0.1908,
+            0.9376,
+            0.211
+          ]
+        },
+        {
+          "text": "modalités qu'il jugera opportun, la conversion du capital social en euros, en conservant ou",
+          "bbox_norm": [
+            0.1924,
+            0.2065,
+            0.9363,
+            0.2251
+          ]
+        },
+        {
+          "text": "non une valeur nominale aux actions,",
+          "bbox_norm": [
+            0.1917,
+            0.2211,
+            0.4966,
+            0.2373
+          ]
+        },
+        {
+          "text": "*",
+          "bbox_norm": [
+            0.2556,
+            0.251,
+            0.2653,
+            0.2593
+          ]
+        },
+        {
+          "text": "délègue tous pouvoirs au conseil d'administration à l'effet de convertir et exprimer",
+          "bbox_norm": [
+            0.2667,
+            0.2495,
+            0.9348,
+            0.2682
+          ]
+        },
+        {
+          "text": "le capital social en euros, au moyen :",
+          "bbox_norm": [
+            0.1917,
+            0.2642,
+            0.4946,
+            0.2808
+          ]
+        },
+        {
+          "text": "- soit d'une augmentation de capital par incorporation de primes et réserves",
+          "bbox_norm": [
+            0.3125,
+            0.292,
+            0.9293,
+            0.3106
+          ]
+        },
+        {
+          "text": "disponibles, dans la limite de leur montant,",
+          "bbox_norm": [
+            0.193,
+            0.3066,
+            0.5425,
+            0.3233
+          ]
+        },
+        {
+          "text": "- soit d'une réduction de capital par arrondi à l'unité inférieure du résultat de",
+          "bbox_norm": [
+            0.3125,
+            0.335,
+            0.9306,
+            0.3526
+          ]
+        },
+        {
+          "text": "la conversion globale du capital ou, le cas échéant, de la conversion par titrc et affectation",
+          "bbox_norm": [
+            0.1931,
+            0.3502,
+            0.9355,
+            0.3668
+          ]
+        },
+        {
+          "text": "de l'écart de réduction à un compte de réserves indisponible.",
+          "bbox_norm": [
+            0.1931,
+            0.3638,
+            0.6813,
+            0.3805
+          ]
+        },
+        {
+          "text": "La présente délégation de pouvoirs est consentie pour une durée de vingt six mois.",
+          "bbox_norm": [
+            0.2528,
+            0.3921,
+            0.9195,
+            0.4102
+          ]
+        },
+        {
+          "text": "Le conseil d'administration est, en outre, habilité à modifier les statuts ensuite de",
+          "bbox_norm": [
+            0.2521,
+            0.4209,
+            0.9363,
+            0.4381
+          ]
+        },
+        {
+          "text": "l'opération réalisée et à accomplir toutes les formalités préalables et postérieures à la",
+          "bbox_norm": [
+            0.1931,
+            0.4355,
+            0.9361,
+            0.4522
+          ]
+        },
+        {
+          "text": "réalisation de la conversion du capital social.",
+          "bbox_norm": [
+            0.193,
+            0.4492,
+            0.5578,
+            0.4659
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2541,
+            0.4781,
+            0.5917,
+            0.4937
+          ]
+        },
+        {
+          "text": "SEPTIEME RESOLUTION",
+          "bbox_norm": [
+            0.4417,
+            0.5078,
+            0.6855,
+            0.521
+          ]
+        },
+        {
+          "text": "L'assemblée générale confère tous pouvoirs au porteur de l'original, d'un extrait ou",
+          "bbox_norm": [
+            0.2541,
+            0.5352,
+            0.9355,
+            0.5523
+          ]
+        },
+        {
+          "text": "d'une copie des présentes à l'effet d'accomplir toutes formalités de publicité, de dépôt et",
+          "bbox_norm": [
+            0.1944,
+            0.5504,
+            0.9361,
+            0.5665
+          ]
+        },
+        {
+          "text": "autres qu'il appartiendra.",
+          "bbox_norm": [
+            0.1951,
+            0.565,
+            0.3966,
+            0.5797
+          ]
+        },
+        {
+          "text": "Cette résolution est adoptée à l'unanimité.",
+          "bbox_norm": [
+            0.2549,
+            0.5933,
+            0.5924,
+            0.6084
+          ]
+        },
+        {
+          "text": "Monsieur le Président constate que toutes les résolutions à l'ordre du jour ont été",
+          "bbox_norm": [
+            0.2541,
+            0.6226,
+            0.9368,
+            0.6387
+          ]
+        },
+        {
+          "text": "votées. Après avoir redonné la parole aux membres de l'assemblée et constaté que personne",
+          "bbox_norm": [
+            0.1951,
+            0.6387,
+            0.9368,
+            0.6553
+          ]
+        },
+        {
+          "text": "ne demande à intervenir, il déclare la séance levée.",
+          "bbox_norm": [
+            0.1937,
+            0.6538,
+            0.6063,
+            0.6695
+          ]
+        },
+        {
+          "text": "Et de tout ce que dessus, il a été dressé le présent procès-verbal qui a été signé par",
+          "bbox_norm": [
+            0.2549,
+            0.6851,
+            0.9328,
+            0.7023
+          ]
+        },
+        {
+          "text": "les membres,",
+          "bbox_norm": [
+            0.1966,
+            0.7027,
+            0.3055,
+            0.7163
+          ]
+        },
+        {
+          "text": "s dupreu et le segrétaire",
+          "bbox_norm": [
+            0.291,
+            0.6998,
+            0.5152,
+            0.7252
+          ]
+        },
+        {
+          "text": "CONTURME",
+          "bbox_norm": [
+            0.5208,
+            0.7046,
+            0.6564,
+            0.7208
+          ]
+        },
+        {
+          "text": "Le Président du C.A",
+          "bbox_norm": [
+            0.3597,
+            0.7256,
+            0.598,
+            0.7418
+          ]
+        },
+        {
+          "text": "Le Président",
+          "bbox_norm": [
+            0.3223,
+            0.7486,
+            0.434,
+            0.7622
+          ]
+        },
+        {
+          "text": "Le Secrétaire",
+          "bbox_norm": [
+            0.7417,
+            0.7496,
+            0.8598,
+            0.7632
+          ]
+        },
+        {
+          "text": "Jean-Jacques-BERAACHON",
+          "bbox_norm": [
+            0.2486,
+            0.7643,
+            0.5007,
+            0.7789
+          ]
+        },
+        {
+          "text": "Françoise BERNACHON",
+          "bbox_norm": [
+            0.684,
+            0.7647,
+            0.9063,
+            0.7794
+          ]
+        },
+        {
+          "text": "Les Scrutateurs",
+          "bbox_norm": [
+            0.4957,
+            0.8589,
+            0.6348,
+            0.8741
+          ]
+        },
+        {
+          "text": "Stéphanie LE ROUX",
+          "bbox_norm": [
+            0.2924,
+            0.879,
+            0.4673,
+            0.8936
+          ]
+        },
+        {
+          "text": "Françoise BERNACHON",
+          "bbox_norm": [
+            0.6903,
+            0.8771,
+            0.9118,
+            0.8902
+          ]
+        }
+      ]
+    }
+  ],
+  "full_text": "[PAGE 1]\n#\n* GREFFE DU TRIBUNAL DATE :03/02/00\nDE COMMERCE N° DE DEPOT : 2265\nDE LYON R.C.S. LYON :328 024 377\nN° DE GESTION:83 B.01173\n;:\n' ::\nBORDEREAU − INPI DEPOT D ACTES DE SOCIETE\nW\n: : :\n::.\n:\n------Nom et adresse de la Société\nBERNACHON SA\n42 ROOSEVELT (COURS FRANK\n69006 LYON\n.\nH..\nNous soussigné greffier du Tribunal de Commerce de LYoN avons déposé à la date ci-dessus au rang de nos minutes :\nTrois pièces\nconcernant la Société désignée ci-dessus et dont l'objet est le suivant:\nDIRIGEANTS/ORGANES DE CONTROLE\nDélibération/Acte\nL’ORIGINAL DÉLIVRÉ PAR LE GREFFE DU TRIBUNAL DE COMMERCE EST ÉTABLI SUR PAPIER TRAMÉ\n\n[PAGE 2]\nBERNACHON SA\nSociété anonyme\nCapital s0cial : 1.000.000 Frs Siège s0cial : LYON (69006) 42, cours Franklin Roosevelt COPIE\n328 024 377 R.C.S. LYON\nPROCES-VERBAL DES DELIBERATIONS DE L'ASSEMBLEE GENERALE\nORDINAIRE DU 28 QCTOBRE 1999\nLe 28 octobre 1999 à 10 heures 30, au siège social, les actionnaires se sont réunis\nen ASSEMBLEE GENERALE ORDINAIRE sur la convocation qui leur a été faite dans\nles délais réglementaires.\nLes membres de l'assemblée ont émargé la feuille de présence en entrant en séance,\ntant en leur nom qu'au nom des actionnaires qu'ils représentent.\nL'assemblée est présidée par Monsieur Jean-Jacques BERNACHON, Directeur\nGénéral.\nSont scrutateurs de l'assemblée les deux membres disposant du plus grand nombre\nde voix et acceptant cette fonction, savoir :\n- Madame Françoise BERNACHON\n- Madame Raymonde BOCUSE\nLe Bureau de l'assemblée désigne comme secrétaire :\n- Madame Françoise BERNACHON\nMonsieur Gérard FAYSSE, Commissaire aux comptes, régulièrement convoqué, est\nabsent.\nLa feuille de présence est vérifiée puis arrêtée par le Bureau de l'Assemblée qui\nconstate que les actionnaires présents ou représentés possèdent plus du quart des actions\ncomposant le capital social et jouissant du droit de vote sur toutes les questions à l'ordre du\njour autres que celles relatives à l'approbation des conventions réglementées. En\nconséquence, Monsieur le Président déclare l'assemblée régulièrement constituée et apte à\ndélibérer valablement,\nMonsieur le Président met à la disposition des membres de l'assemblée :\n- Un exemplaire des statuts de la société.\n- Une copie de la lettre de convocation adressée à chaque actionnaire.\n- La copie de la lettre de convocation du Commissaire aux comptes.\n- La feuille de présence.\n\n[PAGE 3]\n- 2 -\n- Ainsi que le dossier complet des documents et renseignements communiqués et\nmis à la disposition des actionnaires en application du droit d'information prescrit par la loi,\nsavoir :\n. Le rapport du Conseil d'Administration.\n. Le texte des résolutions proposées par le Conseil d'Administration.\n. Le tableau de composition du Conseil d'Administration.\n. La liste des actionnaires.\n. La fiche de renseignements sur la candidature au poste d'administrateur de la\nsociété.\nMonsieur le Président rappelle que les documents énumérés ci-dessus et plus\ngénéralement les documents et renseignements prescrits par la loi pour l'information\npréalable des actionnaires ont été tenus à la disposition de ceux-ci au lieu et dans les délais\nprévus par la réglementation en vigueur.\nMonsieur le Président rappelle l'ordre du jour :\n- Nomination d'un nouvel administrateur en remplacement d'un administrateur\ndécédé.\n- Questions diverses.\nIl est ensuite donné lecture du rapport du Conseil d'Administration.\nCette lecture faite, Monsieur le Président invite les membres de l'assemblée à poser\nles questions qu'ils souhaitent sur les points en rapport avec l'ordre du jour et, s'ils le\ndésirent, à expliquer leur vote à venir.\nConstatant que personne ne demande à intervenir, Monsieur le Président met aux\nvoix les résolutions suivantes figurant à l'ordre du jour :\nPREMIERE RESOLUTION\nL'assemblée générale donne acte à son Président de ses déclarations relatives à la\nconvocation des actionnaires et à la mise à leur disposition des documents et\nrenseignements prescrits par la réglementation en vigueur et utiles à leur information\npréalable.\nCette résolution est adoptée à l'unanimité.\nDEUXIEME RESOLUTION\nL'assemblée générale, après avoir entendu la lecture du rapport du conseil\nd'administration, prend acte du décès de Monsieur Maurice BERNACHON en date du 16\nseptémbre 1999 et nomme en qualité d'administrateur, à compter de ce jour :\n- Madame Stéphanie LE ROUX, née le 9 janvier 1974 à LYON (69006),\ndemeurant à LYON (69006) 139, rue Duguesclin,\n\n[PAGE 4]\n- 3 -\npour la durée restant à courir du mandat de son prédécesseur, soit jusqu'à l'issue de\nl'assemblée générale qui statuera en 2004 sur les comptes de l'exercice écoulé.\nCette résolution est adoptée à l'unanimité.\nMadame Stéphanie LE ROUX nommée en qualité d'administrateur de la société\nBERNACHON S.A., déclare accepter sa nomination, n'exercer aucune fonction, n'être\nfrappée d'aucune mesure susceptible de lui interdire d'exercer cette fonction et être déjà\nactionnaire de la société à titre personnel.\nTRQISIEME RESOLUTION\nL'assemblée générale donne tous pouvoirs à Monsieur Jean-Jacques\nBERNACHON, avec faculté de se substituer toute personne de son choix, à l'effet\nd'effectuer ou de faire effectuer les formalités afférentes aux résolutions qui précèdent.\nCette résolution est adoptée à l'unanimité.\nMonsieur le Président constate que toutes les résolutions à l'ordre du jour ont été\nvotées. Après avoir redonné la parole aux membres de l'assemblée et constaté que personne\nne demande à intervenir, il déclare la séance levée.\nEt de tout ce que dessus, il a été dressé le présent procès-verbal qui a été signé par\nles membres du bureau et le secrétaire.\nCUPIE CLRIITCLE CUURML\nLe Président du C. A,\nLe Président Le Secrétaire\nJean-Jacques BERNACHON Françoise BERNACHON\nLes Scrutateurs\nFrançoise BERNACHON Raymonde BOCUSE\nStéphanie LE ROUX\n\"Bon pour acceptation des fonctions d'administrateur\"\n\n[PAGE 5]\nSociété anonyme BERNACHON SA COPIE\nCapital s0cial : 1.000.000 Frs\nSiège s0cial : LYON (69006)\n42, cours Franklin Roosevelt\n328 024 377 R.C.S. LYON\nCONSEIL D'ADMINISTRATION\nSEANCE DU 28 OCTOBRE 1999\nLes administrateurs se sont réunis au siège social à l'issue de l'assemblée générale\nde ce jour, qui a procédé à la nomination d'un nouvel administrateur en remplacement d'un\nadministrateur décédé pour délibérer sur l'ordre du jour suivant :\n- Renouvellement du bureau du conseil d'administration.\n- Examen et arrêté des comptes annuels de l'exercice clos le 30 juin 1999.\n- Etablissement du rapport de gestion.\n- Conversion du capital en euros.\n- Convocation de l'assemblée générale annuelle des actionnaires.\n- Rédaction du projet de résolutions à soumettre à l'approbation de ladite\nassemblée.\n- Questions diverses.\nIl résulte du registre de présence, signé par les administrateurs à leur entrée en\nséance, que :\nSONT PRESENTS :\n- Monsieur Jean-Jacques BERNACHON\n- Madame Françoise BERNACHON\n- Madame Stéphanie LE ROUX\nMonsieur Gérard FAYSSE, Commissaire aux comptes, convoqué suivant lettre\nrecommandée avec avis de réception adressée le 22 octobre 1999, est absent excusé.\nLa séance est ouverte sous la présidence de Monsieur Jean-Jacques\nBERNACHON, doyen d'âge.\nMonsieur le Président constate et déclare :\n\n[PAGE 6]\n- 2 -\n- Que le nombre d'administrateurs requis pour la validité des délibérations étant\natteint, le conseil, par application de l'article 100 de la loi du 24 Juillet 1966, peut\nvalablement délibérer.\n- Que le récépissé postal et l'avis de réception afférents à la lettre adressée au\nCommissaire aux comptes demeureront dans les archives de la société.\nMonsieur le Président donne lecture du procès-verbal de la dernière réunion, lequel\nest adopté à l'unanimité.\nRENOUVELLEMENT DU BUREAU\nI - DESIGNATION DU PRESIDENT DU CONSEIL D'ADMINISTRATION\nLes administrateurs nomment Monsieur Jean-Jacques BERNACHON en qualité et\naux fonctions de Président du conseil d'administration. Monsieur Jean-Jacques\nBERNACHON est nommé pour la durée de soni mandat d'administrateur. Il restera en\nfonction jusqu'à décision contraire du conseil d'administration ou démission et, au plus\ntard, jusqu'à cessation de son mandat d'administrateur.\nEn sa qualité de Président du conseil d'administration, il exercera les pouvoirs qui\nlui sont conférés par la loi et les statuts, et, notamment, il assumera, sous sa responsabilité,\nla direction générale de la société.\nMonsieur Jean-Jacques BERNACHON accepte les fonctions qui viennent de lui\nêtre conférées et, en remerciant ses collègues de la confiance qu'ils lui témoignent, déclare,\nen outre, qu'il n'exerce simultanément pas plus de deux mandats de Président du conseil\nd'administration ou de membre du directoire ou de directeur général unique de sociétés\nanonymes ayant leur siège social en France métropolitaine, ce dont le conseil prend acte.\nMonsieur Jean-Jacques BERNACHON s'engage à attester à tout moment, pendant sa\nprésidence, sous la foi du serment, que cette condition demeure remplie.\nII - POUVOIRS DU PRESIDENT\nMonsieur Jean-Jacques BERNACHON, en sa qualité de Président du conseil\nd'administration assumant la direction générale de la société, représente la société dans ses\nrapports avec les tiers.\nSous réserve des pouvoirs que la loi attribue expressément aux assemblées\nd'actionnaires ainsi que des pouvoirs qu'elle réserve de façon spéciale au conseil\nd'administration, et dans la limite de l'objet social, le Président est investi des pouvoirs les\nplus étendus pour agir en toute circonstance au nom de la société.\nLes dispositions des statuts ou les décisions du conseil d'administration limitant ses\npouvoirs sont inopposables aux tiers.\n\n[PAGE 7]\n- 3 -\nCependant, le Président du conseil d'administration ne pourra donner, sans\nautorisation spéciale du conseil d'administration conférée dans les limites de montant, de\nnature et de durée qu'il fixerait, des cautions, avals ou garanties au nom de la société. Cette\nclause est opposable aux tiers.\nIII - REMUNERATION DU PRESIDENT\nMonsieur Jean-Jacques BERNACHON aura droit :\n- à une rémunération de QUARANTE CINQ MILLE FRANCS (45.000 Frs), à\ncompter de ce jour,\n- à une rémunération proportionnelle au chiffre d'affaires hors taxes réalisé par la\nsociété, décidée lors du conseil d'administration du 30 juin 1983,\net continuera à être remboursé sur justificatifs de ses frais de représentation et de\ndéplacement engagés pour le comtpe de la société.\nIV - REMUNERATIONS AUXQUELLES AURAIENT DROIT LE\nPRESIDENT EMPECHE ET L'ADMINISTRATEUR QUI SERAIT\nTEMPORAIREMENT DELEGUE DANS LES FONCTIONS DE PRESIDENT\nEn cas d'empêchement ou de décès du Président, l'administrateur délégué dans ces\nfonctions en vertu de l'article 112 de la loi du 24 juillet 1966, aurait droit à une\nrémunération fixée par le conseil d'administration, et, en outre, sur justification, au\nremboursement de ses frais de représentation et de déplacement\nEn ce qui concerne le Président empêché, le conseil déciderait en considération de\nla durée et des circonstances de l'empêchement s'il y a lieu de réduire sa rémunération et,\ndans l'affirmative, fixerait le montant et les modalités de cette réduction.\nEXAMEN ET ARRETE DES COMPTES DE L'EXERCICE\nCLOS LE 30 JUIN 1999\nMonsieur le Président soumet au conseil l'inventaire, le bilan, le compte de résultat\nde l'exercice clos le 30 juin 1999 et l'annexe établis par les services comptables de la\nsociété et donne toutes précisions sur les résultats dudit exercice.\nIl expose au conseil que l'exercice écoulé se traduit par un bénéfice de\n1.177.802 Frs qui pourrait être affecté de la manière suivante :\n- Aux actionnaires, à titre de dividende,\nla somme de 1.000.000 Frs\n- Le solde au compte \"Autres Réserves\",\nsoit la somme de 177.802 Frs\nTotal égal au bénéfice de l'exercice\nclos le 30 juin 1999 1.177.802 Frs\n\n[PAGE 8]\n2:\nLe dividende unitaire serait ainsi fixé à 400 Frs par action et qui, compte tenu d'un\navoir fiscal unitaire de 200 Frs, procurerait un revenu global unitaire de 600 Frs.\nCe dividende sera payé à partir du 18 novembre 1999, au siège social.\nLe conseil, à l'unanimité, arrête définitivement les comptes selon le projet présenté\npar son Président et se range à sa proposition d'affectation du résultat.\nEXAMEN DES MANDATS\nLe conseil examine ensuite la situation du mandat des Commissaires aux comptes et\ndes administrateurs et constate qu'aucun mandat n'arrive à expiration à l'issue de la\nprochaine assemblée.\nToutefois, il est proposé de nommer Monsieur Pierre-Yves PETIT ayant ses\nbureaux à LYON (69009) 2, rue de la Claire en qualité de Commissaire aux Comptes\nsuppléant en remplacement de Monsieur Gabriel BALAY, démissionnaire à compter du 31\ndécembre 1998.\nCONVERSION DU CAPITAL EN EUROS\nMonsieur le Président rappelle que depuis le 1er janvier 1999 l'euro est devenu la\nmonnaie légale de la plupart des états membres de l'Union Européenne et que cette date\nmarque l'ouverture d'une période transitoire qui s'achèvera le 31 décembre 2001, pendant\nlaquelle l'euro et le franc coexisteront\nMonsieur le Président poursuit en indiquant que le passage de la comptabilité en\neuros devra être réalisé au cours de cette période transitoire.\nEn ce qui concerne le capital social, Monsieur le Président précise que sa\nconversion sera automatique lors du basculement de la comptabilité en euros sans qu'une\ndécision préalable de l'assemblée générale soit obligatoire.\nToutefois, Monsieur le Président évoquant ensuite les différentes méthodes de\nconversion du capital, constate que le résultat de la conversion conduira inévitablement à\nun montant de capital social ou à une valeur nominale comportant plusieurs décimales.\nDans ces circonstances, il sera sans doute nécessaire de procéder, avant la\nconversion, à un ajustement du montant du capital exprimé en francs, soit par voie\nd'augmentation, soit par voie de réduction du capital.\nDans cette perspective, Monsieur le Président indique qu'il pourrait être proposé à\nl'assemblée générale des actionnaires de déléguer au conseil d'administration le pouvoir de\nprocéder, lorsqu'il le jugera opportun, à cette conversion et à l'ajustement du capital, soit\npar augmentation, soit par réduction, de constater la réalisation de cette opération et de\nprocéder à la modification corrélative des statuts.\n\n[PAGE 9]\n- 5 -\nMonsieur le Président précise enfin que cette autorisation ne serait valable que pour\nune durée de vingt six mois, conformément à la loi sur les sociétés commerciales.\nLe conseil d'administration, après en avoir délibéré, décide à l'unanimité de\nsoumettre à l'assemblée générale des actionnaires une proposition conforme à celle\névoquée par Monsieur le Président en vue de faciliter la conversion du capital social en\neuros.\nCONVOCATION DE L'ASSEMBLEE GENERALE\nET FIXATION DE SON ORDRE DU JOUR\nPuis, Monsieur le Président indique au conseil que, par application de l'article 157\nde la loi du 24 Juillet 1966, il y a lieu de convoquer l'assemblée générale des actionnaires\ndans les six mois de la clôture de l'exercice.\nAprès en avoir délibéré, le conseil, à l'unanimité, décide de soumettre les comptes\narrêtés ainsi que les propositions sus-exposées, à l'approbation de l'Assemblée Générale à\ncaractère Mixte qui se tiendra au siège social, le 18 novembre 1999 à 16 heures, avec\nl'ordre du jour suivant :\nI - ORDRE DU JOUR RELEVANT DE LA COMPETENCE DE L'ASSEMBLEE\nGENERALE ORDINAIRE\n- Rapport de gestion du Conseil d'Administration sur l'activité de la société et de\nses filiales, au cours de l'exercice clos le 30 juin 1999 et présentation des comnptes annuels\ndudit exercice.\n- Rapports du Commissaire aux comptes sur l'exécution de sa mission et sur les\nconventions visées aux articles 101 à 105 de la loi sur les sociétés commerciales.\n- Approbation des comptes.\n- Approbation et/ou ratification des conventions.\n- Affectation du résultat - Distribution de dividendes.\nNomination d'un Commissaire aux Comptes suppléant en remplacement de\nMonsieur Gabriel BALAY, démissionnaire.\n- Questions diverses.\nII - ORDRE DU JOUR RELEVANT DE LA COMPETENCE DE L'ASSEMBLEE\nGENERALE EXTRAORDINAIRE\n- Conversion du capital social en euros : délégation de pouvoirs au conseil\nd'administration à l'effet de réaliser les adaptations corrélatives.\n\n[PAGE 10]\n- 6 -\nETABLISSEMENT DU RAPPORT DE GESTION\nET DU PROJET DE TEXTE DES RESOLUTIONS\nLe conseil d'administration établit ensuite d'un commun accord le texte du rapport\nqui sera lu à l'assemblée générale et donne mission à Monsieur le Président d'en faire\nlecture à ladite assemblée.\nLe conseil arrête le texte des différentes résolutions à présenter à l'approbation de\nl'assemblée.\nCe texte sera modifié si des actionnaires remplissant les conditions légales\ndemandent l'inscription à l'ordre du jour de l'assemblée de projets de résolutions ; dans\ncette hypothèse, le conseil d'administration se réunira pour fixer l'ordre du jour définitif.\nLe conseil charge son Président de prendre toutes mesures utiles en vue de\nconvoquer les actionnaires et de leur assurer le plein exercice de leur droit de\ncommunication.\nL'ordre du jour étant épuisé et personne ne demandant la parole, Monsieur le\nPrésident décide de lever la séance.\nDe tout ce que dessus, il a été dressé le présent procès-verbal, signé après lecture,\npar les administrateurs présents.\nCOPIE CLRLL MCE CUNTURML\nLe President du C.A\nFrançoise BERNACHON Jean-Jaccues BERNACHON\nBon pougacceptgtion des\nfonctious de Président du\ngopseil d'administration\nStéphanie LE ROUX\n\n[PAGE 11]\nBERNACHON SA\nSociété anonyme Capital s0cial : 1.000.000 Frs Siège s0cial : LYON (69006) COPIE\n42, cours Franklin Roosevelt\n328 024 377 R.C.S. LYON\nPROÇES VERBAL DES DELIBERATIONS\nDE L'ASSEMBLEE GENERALE A CARACTERE MIXTE\nDU 18 NOVEMBRE 1999\nLe 18 NOVEMBRE 1999 à 16 heures, au siège social, les actionnaires se sont\nréunis en ASSEMBLEE GENERALE A CARACTERE MIXTE sur la convocation qui\nleur a été faite dans les délais réglementaires et dans la forme stipulée aux statuts.\nLes membres de l'assemblée ont émargé la feuille de présence en entrant en séance,\ntant en leur nom qu'au nom des actionnaires qu'ils représentent.\nL'assemblée est présidée par le Président du Conseil d'Administration, Monsieur\nJean-Jacques BERNACHON.\nSont scrutateurs de l'assemblée les deux membres disposant du plus grand nombre\nde voix et acceptant cette fonction, savoir :\n- Madame Françoise BERNACHON\n- Madame Stéphanie LE ROUX\nLe bureau de l'assemblée désigne comme secrétaire :\n- Madame Françoise BERNACHON\nMonsieur Gérard FAYSSE, Commissaire aux Comptes, régulièrement convoqué,\nest absent excusé.\nLa feuille de présence est vérifiée puis arrêtée par le Bureau de l'Assemblée qui\nconstate que les actionnaires présents ou représentés, possèdent plus du tiers des actions\ncomposant le capital social et jouissant du droit de vote sur toutes les questions à l'ordre du\njour autres que celles relatives à l'approbation des conventions réglementées. En\nconséquence, Monsieur le Président déclare l'assemblée régulièrement constituée et apte à\ndélibérer valablement.\nMonsieur le Président met à la disposition des membres de l'assemblée :\n- Un exemplaire des statuts de la société,\n- Une copie de la lettre de convocation adressée à chaque actionnaire et les\nattestations postales correspondantes,\n\n[PAGE 12]\n.\n+”•\n- 2 -\n- La copie de la lettre de convocation du Commissaire aux comptes avec l'accusé\nde réception,\n- La feuille de présence,\n- Ainsi que le dossier complet des documents et renseignements communiqués et\nmis à la disposition des actionnaires, en application du droit d'information prescrit par la\nloi, savoir :\n. Les comptes annuels de l'exercice écoulé et leurs annexes,\n. Le rapport de gestion du Conseil d'Administration et son annexe,\n. Les rapports du Commissaire aux comptes,\n. Le texte des résolutions proposées par le Conseil d'Administration,\n. Le tableau de composition du Conseil d'Administration,\n. L'état, certifié exact par le Commissaire aux comptes, des rémunérations versées\naux personnes les mieux rémunérées,\n. La liste des actionnaires.\nMonsieur le Président rappelle que les documents énumérés ci-dessus et plus\ngénéralement les documents et renseignements prescrits par la loi pour l'information\npréalable des actionnaires ont été tenus à la disposition de ceux-ci au lieu et dans les délais\nprévus par la réglementation en vigueur.\nMonsieur le Président rappelle l'ordre du jour :\n1 - ORDRE DU JOUR DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nORDINAIRE\n- Rapport de gestion du Conseil d'Administration sur l'activité de la société et de\nses filiales, au cours de l'exercice clos le 30 juin 1999 et présentation des comptes annuels\ndudit exercice.\n- Rapports du Commissaire aux comptes sur l'exécution de sa mission et sur les\nconventions visées aux articles 101 à 105 de la loi sur les sociétés commerciales.\n- Approbation des comptes.\n- Approbation et/ou ratification des conventions.\n- Affectation du résultat - Distribution de dividendes.\n- Nomination d'un Commissaire aux Comptes suppléant en remplacement de\nMonsieur Gabriel BALAY, démissionnaire.\n- Questions diverses.\nII - ORDRE DU JOUR DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nEXTRAORDINAIRE\n- Conversion du capital social en euros : délégation de pouvoirs au conseil\nd'administration à l'effet de réaliser les adaptations corrélatives.\n\n[PAGE 13]\n-3 -\nIl est ensuite donné lecture du rapport de gestion du Conseil d'Administration.\nCette lecture faite, Monsieur le Président analyse brièvement les comptes de\nl'exercice écoulé dont il souligne les données caractéristiques.\nLecture est enfin donnée des rapports du Commissaire aux comptes.\nCette lecture faite, Monsieur le Président invite les membres de l'assemblée à poser\nles questions qu'ils souhaitent sur les points en rapport avec l'ordre du jour et, s'ils le\ndésirent, à expliquer leur vote à venir.\nConstatant que personne ne demande à intervenir, Monsieur le Président met aux\nvoix les résolutions suivantes figurant à l'ordre du jour :\nI - RESOLUTIONS DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nORDINAIRE\nPREMIERE RESOLUTION\nL'assemblée générale donne acte à son Président de ses déclarations relatives à la\nconvocation des actionnaires et à la mise à leur disposition des documents et\nrenseignements prescrits par la réglementation en vigueur et utiles à leur information\npréalable.\nL'assemblée générale, après avoir entendu la lecture du rapport de gestion du\nConseil d'Administration et du rapport général du Commissaire aux comptes sur l'exercice\nclos le 30 juin 1999, approuve les comptes annuels de cet exercice, dans toutes leurs\ncomposantes, tels qu'ils ont été présentés, lesdits comptes annuels se soldant par un\nbénéfice dé 1.177.802 Frs.\nElle approuve également les opérations traduites dans ces comptes annuels ou\nrésumées dans le rapport de gestion.\nL'assemblée générale donne en conséquence aux administrateurs quitus de\nl'exécution de leur mandat pour l'exercice dont elle vient d'approuver les comptes.\nCette résolution est adoptée à l'unanimité.\nDEUXIEME RESOLUTION\nAprès avoir entendu la lecture du rapport spécial du Commissaire aux comptes sur\nla situation de la société au regard des conventions visées à l'article 101 de la loi sur les\nsociétés commerciales, l'assemblée générale approuve l'exécution, aux conditions fixées,\ndes conventions antérieurement approuvées qui se sont poursuivies sans modification au\ncours dudit exercice.\nCette résolution est adoptée à l'unanimité des voix attachées aux actions jouissant\ndu droit de vote pour chacune des approbations qui en font l'objet.\n\n[PAGE 14]\nÉ\n- 4 -\nTRQISIEME RESOLUTION\nL'assemblée générale ratifie une convention de bail relevant de l'article 105 en\nraison de la communauté des associés de la S.C.I. 42, cours Franklin Roosevelt et des\nadministrateurs de Ia S.A. BERNACHON et, en conséquence, couvre la nullité susceptible\nde frapper les conventions dont s'agit.\nCette résolution est adoptée à l'unanimité des voix attachées aux actions jouissant\ndu droit de vote pour chacune des approbations qui en font l'objet.\nQUATRIEME RESOLUTION\nI - L'assemblée générale, sur la proposition du Conseil d'Administration, décide de\nd'affecter le bénéfice de l'exercice approuvé, soit 1.177.802 Frs, de la façon suivante :\n- Aux actionnaires, à titre de dividende,\nla somme de 1.000.000 Frs\n- Le solde au compte \"Autres Réserves\",\nsoit la somme de 177.802 Frs\nTotal égal au bénéfice de l'exercice\nclos le 30 juin 1999 1.177.802 Frs\nLe dividende unitaire serait ainsi fixé à 400 Frs par action et qui, compte tenu d'un\navoir fiscal unitaire de 200 Frs, procurerait un revenu global unitaire de 600 Frs.\nCe dividende sera payé à partir du 18 novembre 1999, au siège social.\nII - L'assemblée Générale reconnaît, en outre, conformément aux dispositions de\nl'article 243 Bis du C.G.I., que les rapports présentés mentionnent que le dividende mis en\ndistribution au titre des trois exercices précédents et celui de l'avoir fiscal correspondant\nont été les suivants :\nExercice Dividendes Avoir fiscal\n1995/1996 400 Frs 200 Frs\n1996/1997 400 Frs 200 Frs\n1997/1998 400 Frs 200 Frs\nCette résolution est adoptée à l'unanimité.\nCINQUIEME RESOLUTION\nL'assemblée générale nomme en qualité de Commissaire aux Comptes suppléant,\npour la durée restant à courir du mandat de son prédécesseur, Monsieur Pierre-Yves\nPETIT ayant ses bureaux à LYON (69009) 2, rue de la Claire, en remplacement de\nMonsieur Gabriel BALAY, démissionnaire à compter du 31 décembre 1998.\nCette résolution est adoptée à l'unanimité.\n\n[PAGE 15]\n5 -\nII - RESOLUTIONS DE LA COMPETENCE DE L'ASSEMBLEE GENERALE\nEXTRAORDINAIRE\nSIXIEME RESOLUTION\nL'assemblée générale, après avoir entendu la lecture du rapport de gestion :\n* autorise le conseil d'administration à décider au moment et selon les conditions et\nmodalités qu'il jugera opportun, la conversion du capital social en euros, en conservant ou\nnon une valeur nominale aux actions,\n* délègue tous pouvoirs au conseil d'administration à l'effet de convertir et exprimer\nle capital social en euros, au moyen :\n- soit d'une augmentation de capital par incorporation de primes et réserves\ndisponibles, dans la limite de leur montant,\n- soit d'une réduction de capital par arrondi à l'unité inférieure du résultat de\nla conversion globale du capital ou, le cas échéant, de la conversion par titrc et affectation\nde l'écart de réduction à un compte de réserves indisponible.\nLa présente délégation de pouvoirs est consentie pour une durée de vingt six mois.\nLe conseil d'administration est, en outre, habilité à modifier les statuts ensuite de\nl'opération réalisée et à accomplir toutes les formalités préalables et postérieures à la\nréalisation de la conversion du capital social.\nCette résolution est adoptée à l'unanimité.\nSEPTIEME RESOLUTION\nL'assemblée générale confère tous pouvoirs au porteur de l'original, d'un extrait ou\nd'une copie des présentes à l'effet d'accomplir toutes formalités de publicité, de dépôt et\nautres qu'il appartiendra.\nCette résolution est adoptée à l'unanimité.\nMonsieur le Président constate que toutes les résolutions à l'ordre du jour ont été\nvotées. Après avoir redonné la parole aux membres de l'assemblée et constaté que personne\nne demande à intervenir, il déclare la séance levée.\nEt de tout ce que dessus, il a été dressé le présent procès-verbal qui a été signé par\nles membres, s dupreu et le segrétaire CONTURME\nLe Président du C.A\nLe Président Le Secrétaire\nJean-Jacques-BERAACHON Françoise BERNACHON\nLes Scrutateurs\nStéphanie LE ROUX Françoise BERNACHON"
+}

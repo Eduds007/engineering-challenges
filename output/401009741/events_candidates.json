@@ -1,0 +1,343 @@
+{
+  "siren": "401009741",
+  "mode": "chronological_context_aware",
+  "n_documents": 12,
+  "n_raw_candidates": 8,
+  "n_events": 6,
+  "events": [
+    {
+      "doc_id": "63e881148be6eb9f9d1ff96a",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "SILVAIN Philippe",
+        "shares": 25.0
+      },
+      "event_date": "1995-04-10",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Monsieur SILVAIN Philippe à concurrence de 25 parts sociales portant les numéros 1 à 25, ci . 25",
+      "bbox_norm": [
+        0.2032,
+        0.5396,
+        0.8784,
+        0.5836
+      ],
+      "llm_valid": true,
+      "llm_note": "Initial shareholder entry; clear holder name, share count (25), and sequential numbering (1–25)",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63e881148be6eb9f9d1ff96a",
+        "page": 7,
+        "bbox": [
+          0.2032,
+          0.5396,
+          0.8784,
+          0.5836
+        ],
+        "snippet": "Monsieur SILVAIN Philippe à concurrence de 25 parts sociales portant les numéros 1 à 25, ci . 25"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63e881148be6eb9f9d1ff96a",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "SILVAIN Pierre",
+        "shares": 25.0
+      },
+      "event_date": "1995-04-10",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Monsieur SILVAIN Pierre à concurrence de 25 parts sociales portant les numéros 26 à 50, ci .. 25",
+      "bbox_norm": [
+        0.2037,
+        0.5992,
+        0.8792,
+        0.6417
+      ],
+      "llm_valid": true,
+      "llm_note": "Initial shareholder entry; clear holder name, share count (25), and sequential numbering (26–50)",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63e881148be6eb9f9d1ff96a",
+        "page": 7,
+        "bbox": [
+          0.2037,
+          0.5992,
+          0.8792,
+          0.6417
+        ],
+        "snippet": "Monsieur SILVAIN Pierre à concurrence de 25 parts sociales portant les numéros 26 à 50, ci .. 25"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63e881148be6eb9f9d1ff966",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 26150.0,
+        "capital_after_eur": 30000.0,
+        "method": "Augmentation prélevée sur le compte Report à nouveau"
+      },
+      "event_date": "2017-05-31",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Augmentation du capital social d'une somme de 26.150 euros prélevée sur le compte « Report à nouveau » et élévation de la valeur nominale des actions existantes",
+      "bbox_norm": [
+        0.0827,
+        0.1528,
+        0.9068,
+        0.1998
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital increase via incorporation de réserves (capitalization of Report à nouveau reserves into capital social). Snippet explicitly states 'Augmentation du capital social' and 'élévation de la valeur nominale' — not routine profit allocation. Numbers reconcile: 3,850 + 26,150 = 30,000 EUR.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63e881148be6eb9f9d1ff966",
+        "page": 3,
+        "bbox": [
+          0.0827,
+          0.1528,
+          0.9068,
+          0.1998
+        ],
+        "snippet": "Augmentation du capital social d'une somme de 26.150 euros prélevée sur le compte « Report à nouveau » et élévation de la valeur nominale des actions existantes"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Statuts mis à jour"
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Augmentation du capital social "
+        }
+      ]
+    },
+    {
+      "doc_id": "6732c92047b0879dcb0db0de",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_DECREASE",
+      "payload": {
+        "amount_eur": 5400.0,
+        "capital_after_eur": 24600.0,
+        "method": "Rachat et annulation de 450 actions de 12 euros de nominal chacune"
+      },
+      "event_date": "2024-10-31",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "L'Assemblée Générale, après avoir entendu la lecture du rapport du Président, décide de réduire le capital de 5.400 euros, pour le ramener de 30.000 euros à 24.600 euros, par voie de rachat de 450 actions de 12 euros de nominal chacune, appartenant à Monsieur Philippe SILVAiN, ce qui est expressément accepté par ce dernier, au prix de 480 euros par action, soit un prix global de 216.000 euros.",
+      "bbox_norm": [
+        0.1464,
+        0.4457,
+        0.8431,
+        0.517
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital decrease decision: shares repurchased and canceled. Math verified: 450 × 12 EUR = 5,400 EUR; 30,000 EUR - 5,400 EUR = 24,600 EUR. Reconciles correctly with known prior capital.",
+      "n_corroborations": 2,
+      "alternate_sources": [
+        {
+          "doc_id": "676b78dbe816b0b1d20447dd",
+          "page": 3,
+          "event_date": "2024-10-31",
+          "source_kind": "llm_fallback_contextual"
+        }
+      ],
+      "event_id": "evt_04",
+      "source": {
+        "inpi_id": "6732c92047b0879dcb0db0de",
+        "page": 3,
+        "bbox": [
+          0.1464,
+          0.4457,
+          0.8431,
+          0.517
+        ],
+        "snippet": "L'Assemblée Générale, après avoir entendu la lecture du rapport du Président, décide de réduire le capital de 5.400 euros, pour le ramener de 30.000 euros à 24.600 euros, par voie de rachat de 450 actions de 12 euros de nominal chacune, appartenant à Monsieur Philippe SILVAiN, ce qui est expressément accepté par ce dernier, au prix de 480 euros par action, soit un prix global de 216.000 euros."
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "6732c92047b0879dcb0db0de",
+      "page": 3,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "Philippe SILVAIN",
+        "to_name": "CREAMANDE",
+        "shares": 450.0,
+        "price_eur": 216000.0
+      },
+      "event_date": "2024-10-31",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "par voie de rachat de 450 actions de 12 euros de nominal chacune, appartenant à Monsieur Philippe SILVAiN, ce qui est expressément accepté par ce dernier, au prix de 480 euros par action, soit un prix global de 216.000 euros.",
+      "bbox_norm": [
+        0.1464,
+        0.4611,
+        0.8431,
+        0.517
+      ],
+      "llm_valid": true,
+      "llm_note": "Share transfer from Philippe SILVAIN, same transaction as v0 buy-back. Price verified: 450 shares × 480 EUR/share = 216,000 EUR. Matches snippet exactly.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_05",
+      "source": {
+        "inpi_id": "6732c92047b0879dcb0db0de",
+        "page": 3,
+        "bbox": [
+          0.1464,
+          0.4611,
+          0.8431,
+          0.517
+        ],
+        "snippet": "par voie de rachat de 450 actions de 12 euros de nominal chacune, appartenant à Monsieur Philippe SILVAiN, ce qui est expressément accepté par ce dernier, au prix de 480 euros par action, soit un prix global de 216.000 euros."
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "676b78dbe816b0b1d20447dd",
+      "page": 2,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "payload": {
+        "from_name": "SILVAIN Philippe",
+        "to_name": "CREAMANDE",
+        "shares": 450.0,
+        "price_eur": 216000.0
+      },
+      "event_date": "2024-10-31",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Le Président constate que la demande reçue porte sur le rachat de 450 actions détenues en pleine propriété par Monsieur Philippe SILVAIN qu'il détient dans le capital de la Société, d'une valeur nominale de 12 euros chacune, pour un prix de rachat par action de 480 euros, soit un prix total de rachat de 216.000 euros.",
+      "bbox_norm": [
+        0.1278,
+        0.7953,
+        0.894,
+        0.8922
+      ],
+      "llm_valid": true,
+      "llm_note": "Real share transfer event (rachat et annulation). Amounts reconcile: 450 shares × 12 EUR nominal = 5400 EUR capital effect (matches v0); 450 shares × 480 EUR/share = 216000 EUR purchase price. Caveat: known state lists Philippe with only 25 shares, not 450—suggests either known state omits pre-event holdings or there are unlisted shareholders; the context explicitly flags shareholder data as provisional and unadjusted for the 5400 decrease.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_06",
+      "source": {
+        "inpi_id": "676b78dbe816b0b1d20447dd",
+        "page": 2,
+        "bbox": [
+          0.1278,
+          0.7953,
+          0.894,
+          0.8922
+        ],
+        "snippet": "Le Président constate que la demande reçue porte sur le rachat de 450 actions détenues en pleine propriété par Monsieur Philippe SILVAIN qu'il détient dans le capital de la Société, d'une valeur nominale de 12 euros chacune, pour un prix de rachat par action de 480 euros, soit un prix total de rachat de 216.000 euros."
+      },
+      "meta_hint": null
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63e881148be6eb9f9d1ff96a",
+      "dateDepot": "1995-05-18",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "63e881148be6eb9f9d1ff96c",
+      "dateDepot": "2004-01-16",
+      "context_given": "Known state as of 1995-04-10 (from 2 events found in earlier-filed documents):\n- Capital social: not yet established\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e881138be6eb9f9d1ff964",
+      "dateDepot": "2015-01-23",
+      "context_given": "Known state as of 1995-04-10 (from 2 events found in earlier-filed documents):\n- Capital social: not yet established\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e881148be6eb9f9d1ff967",
+      "dateDepot": "2015-04-15",
+      "context_given": "Known state as of 1995-04-10 (from 2 events found in earlier-filed documents):\n- Capital social: not yet established\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e881148be6eb9f9d1ff968",
+      "dateDepot": "2017-06-06",
+      "context_given": "Known state as of 1995-04-10 (from 2 events found in earlier-filed documents):\n- Capital social: not yet established\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e881148be6eb9f9d1ff966",
+      "dateDepot": "2017-07-05",
+      "context_given": "Known state as of 1995-04-10 (from 2 events found in earlier-filed documents):\n- Capital social: not yet established\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 1
+    },
+    {
+      "doc_id": "63e881148be6eb9f9d1ff969",
+      "dateDepot": "2019-03-04",
+      "context_given": "Known state as of 2017-05-31 (from 3 events found in earlier-filed documents):\n- Capital social (total share capital): 30000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2017-05-31: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "653d476c43618e043e05ad4c",
+      "dateDepot": "2023-08-31",
+      "context_given": "Known state as of 2017-05-31 (from 3 events found in earlier-filed documents):\n- Capital social (total share capital): 30000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2017-05-31: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "6732c92047b0879dcb0db0de",
+      "dateDepot": "2024-11-04",
+      "context_given": "Known state as of 2017-05-31 (from 3 events found in earlier-filed documents):\n- Capital social (total share capital): 30000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2017-05-31: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "676b78dbe816b0b1d20447dd",
+      "dateDepot": "2024-12-17",
+      "context_given": "Known state as of 2024-10-31 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 24600.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: CREAMANDE (COMPANY, 450.0 shares, None%); SILVAIN Philippe (PERSON, 25.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2017-05-31: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2024-10-31: 5400-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "69088df0168bb152c00aaf23",
+      "dateDepot": "2025-10-29",
+      "context_given": "Known state as of 2024-10-31 (from 6 events found in earlier-filed documents):\n- Capital social (total share capital): 24600.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: CREAMANDE (COMPANY, 900.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2017-05-31: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2024-10-31: 5400-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot. | 2024-10-31: SILVAIN Philippe reached -425 shares and was dropped from the cap table.",
+      "n_rule_scored": -1,
+      "n_llm_fallback": 1
+    },
+    {
+      "doc_id": "69088df0168bb152c00aaf24",
+      "dateDepot": "2025-10-29",
+      "context_given": "Known state as of 2024-10-31 (from 6 events found in earlier-filed documents):\n- Capital social (total share capital): 24600.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: CREAMANDE (COMPANY, 900.0 shares, None%); SILVAIN Pierre (PERSON, 25.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2017-05-31: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2024-10-31: 5400-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot. | 2024-10-31: SILVAIN Philippe reached -425 shares and was dropped from the cap table.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

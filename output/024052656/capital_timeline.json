@@ -1,0 +1,22 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2016-12-25",
+      "capital_eur": 51211.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": [
+    "2016-12-25: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+  ],
+  "graph_nodes": 1,
+  "graph_edges": 0
+}

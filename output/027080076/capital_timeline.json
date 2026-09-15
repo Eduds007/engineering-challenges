@@ -1,0 +1,25 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2024-04-08",
+      "capital_eur": 2778230,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": [
+    "2024-04-08: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+    "2024-04-08: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+  ],
+  "graph_nodes": 1,
+  "graph_edges": 0
+}

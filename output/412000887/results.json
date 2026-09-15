@@ -1,0 +1,254 @@
+{
+  "siren": "412000887",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2001-09-17",
+      "payload": {
+        "amount_eur": 377.55,
+        "capital_after_eur": 8000.0,
+        "method": "Arrondissage de la valeur nominale des parts de 15,24 euros à 16 euros par prélèvement sur le compte « autres réserves »"
+      },
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae626",
+        "page": 2,
+        "bbox": [
+          0.1711,
+          0.8315,
+          0.8936,
+          0.8902
+        ],
+        "snippet": "La collectivité des associés décide en conséquence d'augmenter le capital social d'un montant de 377,55 euros (2.476,56 Francs) pour le porter de 7.622,45 euros à 8.000 euros, par prélèvement de pareille somme de 2.476,56 Francs sur le compte « autres réserves »"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Legitimate capital increase via incorporation of reserves (arrondissage de valeur nominale des parts). Arithmetic verified: 7,622.45 + 377.55 = 8,000.00 EUR."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2002-03-06",
+      "payload": {
+        "from_name": "Jean-Marie PREAULT",
+        "to_name": "Sylvie RAMBAUD",
+        "shares": 46.0,
+        "price_eur": null
+      },
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.2784,
+          0.3062,
+          0.8362,
+          0.3213
+        ],
+        "snippet": "46 parts numérotées 1 à 46 à Madame Sylvie RAMBAUD-PREAULT"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder share transfer: 46 shares from Jean-Marie PREAULT to Sylvie RAMBAUD-PREAULT via donation entre vifs"
+    },
+    {
+      "event_id": "evt_03",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2002-03-06",
+      "payload": {
+        "from_name": "Jean-Marie PREAULT",
+        "to_name": "Christophe PREAULT",
+        "shares": 46.0,
+        "price_eur": null
+      },
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.2792,
+          0.3213,
+          0.7938,
+          0.336
+        ],
+        "snippet": "46 parts numérotées 47 à 92 à Monsieur Christophe PREAULT"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder share transfer: 46 shares from Jean-Marie PREAULT to Christophe PREAULT via donation entre vifs"
+    },
+    {
+      "event_id": "evt_04",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2002-03-06",
+      "payload": {
+        "from_name": "Jean-Marie PREAULT",
+        "to_name": "Sébastien PREAULT",
+        "shares": 46.0,
+        "price_eur": null
+      },
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.2784,
+          0.335,
+          0.7994,
+          0.3502
+        ],
+        "snippet": "46 parts numérotées 93 à 138 à Monsieur Sébastien PREAULT"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder share transfer: 46 shares from Jean-Marie PREAULT to Sébastien PREAULT via donation entre vifs"
+    },
+    {
+      "event_id": "evt_05",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2002-03-06",
+      "payload": {
+        "holder_name": "Jean-Marie PREAULT",
+        "holder_siren": null,
+        "shares": 138.0
+      },
+      "source": {
+        "inpi_id": "63d9d64bb8ed6f35f60ae627",
+        "page": 5,
+        "bbox": [
+          0.1833,
+          0.247,
+          0.9098,
+          0.293
+        ],
+        "snippet": "Monsieur Jean-Marie PREAULT a fait donation entre vifs en avancement d'hoirie de la totalité des 138 parts sociales lui appartenant"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder end: Jean-Marie PREAULT donated all 138 shares (46+46+46) to heirs as gift in advancement of inheritance"
+    },
+    {
+      "event_id": "evt_06",
+      "event_code": "SHAREHOLDER_SHARE_TRANSFER",
+      "event_date": "2015-03-17",
+      "payload": {
+        "from_name": "Roseline PREAULT",
+        "to_name": "HOLDING CEROV",
+        "shares": 2.0,
+        "price_eur": 2000.0
+      },
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae622",
+        "page": 2,
+        "bbox": [
+          0.1613,
+          0.5983,
+          0.8809,
+          0.6557
+        ],
+        "snippet": "L'associée unique, connaissance prise d'un acte en date du 17 mars 2015 portant cession par Madame Roseline PREAULT, des deux (2) parts sociales numérotées 274 et 275 lui appartenant au capital de la société, moyennant le prix total de 2.000 € pour l'ensemble des 2 parts cédées, au profit de la SARL « HOLDING CEROV »"
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid share transfer: Roseline PREAULT transferred 2 shares (numérotées 274 et 275) to HOLDING CEROV on 2015-03-17 at 2000 EUR total. All details match snippet."
+    },
+    {
+      "event_id": "evt_07",
+      "event_code": "SHAREHOLDER_END",
+      "event_date": "2015-03-17",
+      "payload": {
+        "holder_name": "Roseline PREAULT",
+        "holder_siren": null,
+        "shares": 2.0
+      },
+      "source": {
+        "inpi_id": "63d9d64ab8ed6f35f60ae622",
+        "page": 4,
+        "bbox": [
+          0.1647,
+          0.2135,
+          0.8823,
+          0.2691
+        ],
+        "snippet": "Aux termes d'un acte sous-seing-privé en date au CHATEAU D'OLONNE (Vendée) du 17 mars 2015, Madame Roseline PREAULT a cédé les 2 parts sociales numérotées 274 et 275 lui appartenant au capital de la société, au profit de la société « HOLDING CEROV »."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Valid shareholder exit: records end of Roseline PREAULT's 2-share membership via cession on 2015-03-17. Consistent with v0 transfer event."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2001-09-17",
+      "capital_eur": 8000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    },
+    {
+      "as_of": "2002-03-06",
+      "capital_eur": 8000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Sylvie RAMBAUD",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Christophe PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Sébastien PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_02",
+        "evt_03",
+        "evt_04",
+        "evt_05"
+      ]
+    },
+    {
+      "as_of": "2015-03-17",
+      "capital_eur": 8000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Sylvie RAMBAUD",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Christophe PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "Sébastien PREAULT",
+          "kind": "PERSON",
+          "shares": 46.0,
+          "pct": null
+        },
+        {
+          "name": "HOLDING CEROV",
+          "kind": "COMPANY",
+          "shares": 2.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_06",
+        "evt_07"
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 412000887 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

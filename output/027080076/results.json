@@ -1,0 +1,69 @@
+{
+  "siren": "027080076",
+  "events": [
+    {
+      "event_id": "evt_01",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2024-04-08",
+      "payload": {
+        "amount_eur": 118580,
+        "capital_after_eur": 2490845,
+        "method": "Apport en nature"
+      },
+      "source": {
+        "inpi_id": "66739509ea3633ddee02c192",
+        "page": 4,
+        "bbox": [
+          0.1561,
+          0.25,
+          0.8531,
+          0.3054
+        ],
+        "snippet": "d'augmenter le capital social de 118 580 € pour le porter de 2 372 265 € à 2 490 845 €, au moyen de la création de 3 388 actions nouvelles de 35 € chacune, entièrement libérées, et attribuées à LA VILLE DE NIORT en rémunération de son apport."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real capital increase decision (apport en nature). Internal math verified: 2,372,265 + 118,580 = 2,490,845. Share issuance consistent (3,388 × 35€ = 118,580€)."
+    },
+    {
+      "event_id": "evt_02",
+      "event_code": "CAPITAL_INCREASE",
+      "event_date": "2024-04-08",
+      "payload": {
+        "amount_eur": 287385,
+        "capital_after_eur": 2778230,
+        "method": "Émission d'actions de numéraire"
+      },
+      "source": {
+        "inpi_id": "66739509ea3633ddee02c192",
+        "page": 5,
+        "bbox": [
+          0.1662,
+          0.2223,
+          0.8628,
+          0.2623
+        ],
+        "snippet": "décide d'augmenter le capital social de 287 385 € pour le porter à 2 778 230 €, par l'émission de 8 211 actions nouvelles de numéraire de 35 € de nominal chacune."
+      },
+      "n_corroborations": 1,
+      "extraction_note": "Real capital increase decision (cash emission). Internal math verified: 2,490,845 + 287,385 = 2,778,230 (v1 follows v0 same date). Share issuance consistent (8,211 × 35€ = 287,385€)."
+    }
+  ],
+  "capital_timeline": [
+    {
+      "as_of": "2024-04-08",
+      "capital_eur": 2778230,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": "Exploratory run for SIREN 027080076 — same pipeline as the ARCHEAN TECHNOLOGIES (480489707) submission, not itself a challenge deliverable."
+}

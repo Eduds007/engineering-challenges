@@ -1,0 +1,1052 @@
+{
+  "siren": "480489707",
+  "mode": "chronological_context_aware",
+  "n_documents": 17,
+  "n_raw_candidates": 53,
+  "n_events": 10,
+  "events": [
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec4",
+      "page": 2,
+      "pattern": "direct_increase",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 113000.0,
+        "capital_after_eur": 150000.0,
+        "method": null
+      },
+      "event_date": "2005-05-17",
+      "source_kind": "resolution",
+      "snippet": "pport du Président, constate la réalisation définitive de l'augmentation de capital de 113 000 € par la création de 1 130 actions nouvelles de numéraire de 100 euros , pour porter le capital à 150 000 €. La rédaction de l'",
+      "bbox_norm": [
+        0.1209,
+        0.7672,
+        0.8896,
+        0.817
+      ],
+      "date_confidence": "borrowed_from_alternate",
+      "n_corroborations": 7,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebd",
+          "page": 5,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 9,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 6,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 3,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 4,
+          "event_date": "2005-05-17",
+          "source_kind": "recap"
+        }
+      ],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec4",
+        "page": 2,
+        "bbox": [
+          0.1209,
+          0.7672,
+          0.8896,
+          0.817
+        ],
+        "snippet": "pport du Président, constate la réalisation définitive de l'augmentation de capital de 113 000 € par la création de 1 130 actions nouvelles de numéraire de 100 euros , pour porter le capital à 150 000 €. La rédaction de l'"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec2",
+      "page": 6,
+      "pattern": "cession_totalite",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Malik GUELLATI"
+      },
+      "event_date": "2005-08-16",
+      "source_kind": "unknown",
+      "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG",
+      "bbox_norm": [
+        0.1052,
+        0.6538,
+        0.8721,
+        0.6988
+      ],
+      "date_confidence": "local",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec2",
+        "page": 6,
+        "bbox": [
+          0.1052,
+          0.6538,
+          0.8721,
+          0.6988
+        ],
+        "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Modifications relatives au conseil d'administration "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "NOMINATION D UN NOUVEAU PRESIDENT "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "DEMISSION DU PRESIDENT "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec2",
+      "page": 6,
+      "pattern": "cession_totalite",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Christophe LEROUX"
+      },
+      "event_date": "2005-08-16",
+      "source_kind": "unknown",
+      "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG",
+      "bbox_norm": [
+        0.1052,
+        0.6538,
+        0.8721,
+        0.6988
+      ],
+      "date_confidence": "local",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec2",
+        "page": 6,
+        "bbox": [
+          0.1052,
+          0.6538,
+          0.8721,
+          0.6988
+        ],
+        "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Modifications relatives au conseil d'administration "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "NOMINATION D UN NOUVEAU PRESIDENT "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "DEMISSION DU PRESIDENT "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec2",
+      "page": 6,
+      "pattern": "cession_totalite",
+      "event_code": "SHAREHOLDER_END",
+      "payload": {
+        "holder_name": "Marielle ROUJEAN"
+      },
+      "event_date": "2005-08-16",
+      "source_kind": "unknown",
+      "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG",
+      "bbox_norm": [
+        0.1052,
+        0.6538,
+        0.8721,
+        0.6988
+      ],
+      "date_confidence": "local",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_04",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec2",
+        "page": 6,
+        "bbox": [
+          0.1052,
+          0.6538,
+          0.8721,
+          0.6988
+        ],
+        "snippet": "e d’un protocole de cession de la totalité des actions détenues par Messieurs Malik GUELLATI, Christophe LEROUX et Madame Marielle ROUJEAN, associés d'ARCHEAN TECHNOLOG"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Modifications relatives au conseil d'administration "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "NOMINATION D UN NOUVEAU PRESIDENT "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "DEMISSION DU PRESIDENT "
+        },
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec7",
+      "page": 3,
+      "pattern": "decide_increase",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 50000.0,
+        "capital_after_eur": 200000.0,
+        "capital_before_eur": 150000.0,
+        "method": null
+      },
+      "event_date": "2006-10-20",
+      "source_kind": "resolution",
+      "snippet": "el de souscription, d'augmenter le capital social d'une somme de 50.000 euros, pour le porter de 150.000 euros à 200.000 euros, par création de 50",
+      "bbox_norm": [
+        0.0479,
+        0.1685,
+        0.9479,
+        0.2007
+      ],
+      "date_confidence": "borrowed_from_alternate",
+      "n_corroborations": 6,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 9,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 6,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 4,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 5,
+          "event_date": "2006-10-20",
+          "source_kind": "recap"
+        }
+      ],
+      "event_id": "evt_05",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec7",
+        "page": 3,
+        "bbox": [
+          0.0479,
+          0.1685,
+          0.9479,
+          0.2007
+        ],
+        "snippet": "el de souscription, d'augmenter le capital social d'une somme de 50.000 euros, pour le porter de 150.000 euros à 200.000 euros, par création de 50"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec3",
+      "page": 2,
+      "pattern": "dual_class",
+      "event_code": "CAPITAL_DUAL_CLASS",
+      "payload": {
+        "class_name": "A, A, A, A, A, A, A, A, A, A, A, A, B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B', B et B'",
+        "description": "Création d’actions de préférence de catégorie A L'Associée Unique, après avoir entendu la lecture du rappor"
+      },
+      "event_date": "2008-05-14",
+      "source_kind": "unknown",
+      "snippet": "al. 6EME RESOLUTION Création d’actions de préférence de catégorie A L'Associée Unique,",
+      "bbox_norm": [
+        0.3228,
+        0.3901,
+        0.685,
+        0.4083
+      ],
+      "date_confidence": "local",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_06",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 2,
+        "bbox": [
+          0.3228,
+          0.3901,
+          0.685,
+          0.4083
+        ],
+        "snippet": "al. 6EME RESOLUTION Création d’actions de préférence de catégorie A L'Associée Unique,"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Extrait de décision(s) de l'associé unique",
+          "decision": "Transfert du siège 20 PLACE PRAX PARIS NOVALIA 82 - 82000 MONTAUBAN "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593a8be6eb9f9d257ebd",
+      "page": 6,
+      "pattern": "recap_increase",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 17241.0,
+        "capital_after_eur": 217241.0,
+        "method": null
+      },
+      "event_date": "2008-06-27",
+      "source_kind": "recap",
+      "snippet": "aire du 27/06/2008, le capital social a été augmenté de 17.241 euros afin d’être porté à 217.241 euros. Aux termes de l'as",
+      "bbox_norm": [
+        0.0972,
+        0.1998,
+        0.8273,
+        0.2306
+      ],
+      "date_confidence": "local",
+      "n_corroborations": 6,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 10,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 7,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 4,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 5,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        }
+      ],
+      "event_id": "evt_07",
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebd",
+        "page": 6,
+        "bbox": [
+          0.0972,
+          0.1998,
+          0.8273,
+          0.2306
+        ],
+        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 17.241 euros afin d’être porté à 217.241 euros. Aux termes de l'as"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Décision(s) du président",
+          "decision": "1899 avenue d'Italie 82000 Montauban "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593a8be6eb9f9d257ebd",
+      "page": 6,
+      "pattern": "recap_increase",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 150861.0,
+        "capital_after_eur": 368102.0,
+        "method": null
+      },
+      "event_date": "2008-06-27",
+      "source_kind": "recap",
+      "snippet": "aire du 27/06/2008, le capital social a été augmenté de 150.861 euros afin d'être porté à 368.102 euros. ARTICLE 7 - CAPITA",
+      "bbox_norm": [
+        0.0964,
+        0.2431,
+        0.8265,
+        0.2745
+      ],
+      "date_confidence": "local",
+      "n_corroborations": 6,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 10,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 7,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec3",
+          "page": 8,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec9",
+          "page": 4,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593c8be6eb9f9d257ecb",
+          "page": 5,
+          "event_date": "2008-06-27",
+          "source_kind": "recap"
+        }
+      ],
+      "event_id": "evt_08",
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebd",
+        "page": 6,
+        "bbox": [
+          0.0964,
+          0.2431,
+          0.8265,
+          0.2745
+        ],
+        "snippet": "aire du 27/06/2008, le capital social a été augmenté de 150.861 euros afin d'être porté à 368.102 euros. ARTICLE 7 - CAPITA"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Décision(s) du président",
+          "decision": "1899 avenue d'Italie 82000 Montauban "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593a8be6eb9f9d257ebe",
+      "page": 3,
+      "pattern": "recap_decrease",
+      "event_code": "CAPITAL_DECREASE",
+      "payload": {
+        "amount_eur": 150861.0,
+        "capital_after_eur": 217241.0,
+        "capital_before_eur": 368102.0,
+        "method": null,
+        "buyback_shares": 150861.0,
+        "buyback_price_eur": 2.72
+      },
+      "event_date": "2017-02-21",
+      "source_kind": "resolution",
+      "snippet": "sident constate que le capital social est réduit de 150 861 euros pour être ramené de 368 102 euros à 217 241 euros et divisé en 217 24",
+      "bbox_norm": [
+        0.1133,
+        0.3834,
+        0.8801,
+        0.4176
+      ],
+      "date_confidence": "borrowed_from_alternate",
+      "n_corroborations": 4,
+      "alternate_sources": [
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 3,
+          "event_date": "2017-02-21",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593a8be6eb9f9d257ebe",
+          "page": 10,
+          "event_date": "2017-02-21",
+          "source_kind": "recap"
+        },
+        {
+          "doc_id": "63e9593b8be6eb9f9d257ec0",
+          "page": 7,
+          "event_date": "2017-02-21",
+          "source_kind": "recap"
+        }
+      ],
+      "event_id": "evt_09",
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1133,
+          0.3834,
+          0.8801,
+          0.4176
+        ],
+        "snippet": "sident constate que le capital social est réduit de 150 861 euros pour être ramené de 368 102 euros à 217 241 euros et divisé en 217 24"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Décision(s) du président",
+          "decision": "Réduction du capital social "
+        },
+        {
+          "typeActe": "Rapport du commissaire aux comptes"
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec0",
+      "page": 3,
+      "pattern": "recap_increase",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 185759.0,
+        "capital_after_eur": 400000.0,
+        "method": null
+      },
+      "event_date": "2018-03-23",
+      "source_kind": "recap",
+      "snippet": "te du 23 mars 2018, le capital social a été augmenté de 185 759 euros par incorporation de réserves pour être porté à 400 000 euros.\" Et l'article 7 es",
+      "bbox_norm": [
+        0.1194,
+        0.2212,
+        0.8914,
+        0.2745
+      ],
+      "date_confidence": "local",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_10",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec0",
+        "page": 3,
+        "bbox": [
+          0.1194,
+          0.2212,
+          0.8914,
+          0.2745
+        ],
+        "snippet": "te du 23 mars 2018, le capital social a été augmenté de 185 759 euros par incorporation de réserves pour être porté à 400 000 euros.\" Et l'article 7 es"
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Décision(s) de l'associé unique",
+          "decision": "Augmentation du capital social "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    }
+  ],
+  "cap_table_snapshots": [
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec5",
+      "page": 3,
+      "pattern": "repartition_table",
+      "event_code": "CAP_TABLE_SNAPSHOT",
+      "payload": {
+        "holders": [
+          {
+            "name": "Monsieur Xavier AUMONT",
+            "shares": 155.0,
+            "pct": null
+          },
+          {
+            "name": "Monsieur Antonio BLANCO MARINA",
+            "shares": 155.0,
+            "pct": null
+          },
+          {
+            "name": "Monsieur Franck GICQUEL",
+            "shares": 60.0,
+            "pct": null
+          }
+        ]
+      },
+      "event_date": "2005-01-25",
+      "source_kind": "unknown",
+      "snippet": "Monsieur Xavier AUMONT 155 actions = Monsieur Antonio BLANCO MARINA 155 actions Monsieur Franck GICQUEL 60 actions",
+      "bbox_norm": [
+        0.1521,
+        0.4439,
+        0.5987,
+        0.4864
+      ],
+      "date_confidence": "fallback_deposit_date",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec5",
+        "page": 3,
+        "bbox": [
+          0.1521,
+          0.4439,
+          0.5987,
+          0.4864
+        ],
+        "snippet": "Monsieur Xavier AUMONT 155 actions = Monsieur Antonio BLANCO MARINA 155 actions Monsieur Franck GICQUEL 60 actions"
+      }
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec2",
+      "page": 6,
+      "pattern": "repartition_table",
+      "event_code": "CAP_TABLE_SNAPSHOT",
+      "payload": {
+        "holders": [
+          {
+            "name": "Antonio BLANCO",
+            "shares": 823.0,
+            "pct": 54.87
+          },
+          {
+            "name": "Xavier AUMONT",
+            "shares": 617.0,
+            "pct": 41.13
+          },
+          {
+            "name": "Franck GICQUEL",
+            "shares": 60.0,
+            "pct": 6.0
+          }
+        ]
+      },
+      "event_date": "2005-08-08",
+      "source_kind": "unknown",
+      "snippet": "Antonio BLANCO 823 actions 54,87 % Xavier AUMONT 617 actions 41,13 % Franck GICQUEL 60 actions 6,00 %",
+      "bbox_norm": [
+        0.1505,
+        0.7877,
+        0.6259,
+        0.8322
+      ],
+      "date_confidence": "inferred_from_pv_header",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec2",
+        "page": 6,
+        "bbox": [
+          0.1505,
+          0.7877,
+          0.6259,
+          0.8322
+        ],
+        "snippet": "Antonio BLANCO 823 actions 54,87 % Xavier AUMONT 617 actions 41,13 % Franck GICQUEL 60 actions 6,00 %"
+      }
+    }
+  ],
+  "cap_table_allocations": [
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec7",
+      "page": 3,
+      "pattern": "subscription_table",
+      "event_code": "CAP_TABLE_ALLOCATION",
+      "payload": {
+        "allocations": [
+          {
+            "name": "Xavier AuMONT",
+            "new_shares": 330.0
+          },
+          {
+            "name": "Antonio BLANCO MARINA",
+            "new_shares": 150.0
+          },
+          {
+            "name": "Franck GICQUEL",
+            "new_shares": 20.0
+          }
+        ]
+      },
+      "event_date": "2006-10-20",
+      "source_kind": "unknown",
+      "snippet": "Monsieur Xavier AuMONT Pour 330 actions né le 7 février 1966 à Caen (14), demeurant 721 avenue de Beausoleil à Montauban (82000), Marié sous le régime de la séparation des biens, de nationalité Française Monsieur Antonio BLANCO MARINA Pour 150 actions né le.. demeurant.. Monsieur Franck GICQUEL Pour 20 actions",
+      "bbox_norm": [
+        0.0483,
+        0.4878,
+        0.6036,
+        0.6519
+      ],
+      "date_confidence": "inferred_from_pv_header",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec7",
+        "page": 3,
+        "bbox": [
+          0.0483,
+          0.4878,
+          0.6036,
+          0.6519
+        ],
+        "snippet": "Monsieur Xavier AuMONT Pour 330 actions né le 7 février 1966 à Caen (14), demeurant 721 avenue de Beausoleil à Montauban (82000), Marié sous le régime de la séparation des biens, de nationalité Française Monsieur Antonio BLANCO MARINA Pour 150 actions né le.. demeurant.. Monsieur Franck GICQUEL Pour 20 actions"
+      }
+    },
+    {
+      "doc_id": "63e9593a8be6eb9f9d257ebe",
+      "page": 3,
+      "pattern": "subscription_table",
+      "event_code": "CAP_TABLE_ALLOCATION",
+      "payload": {
+        "allocations": [
+          {
+            "name": "FPCI SECURITE",
+            "new_shares": 64655.0
+          },
+          {
+            "name": "FIP GALIA PME 4",
+            "new_shares": 12931.0
+          },
+          {
+            "name": "GALIA VENTURE",
+            "new_shares": 30172.0
+          },
+          {
+            "name": "FPCI FINANCIERE DE BRIENNE",
+            "new_shares": 43103.0
+          }
+        ]
+      },
+      "event_date": "2008-06-27",
+      "source_kind": "inferred_from_later_buyback_list",
+      "date_confidence": "inferred_retroactive",
+      "snippet": "- à FPCI SECURITE 64 655 actions - à FIP GALIA PME 4 12 931 actions - à GALIA VENTURE 30 172 actions - à FPCI FINANCIERE DE BRIENNE 43 103 actions",
+      "bbox_norm": [
+        0.1847,
+        0.2691,
+        0.772,
+        0.3346
+      ],
+      "note": "Names not stated in the 2008-06-27 increase's own filing — inferred from the buyback list in 63e9593a8be6eb9f9d257ebe (2017-03-28), whose total (150861) matches this increase's share delta exactly.",
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1847,
+          0.2691,
+          0.772,
+          0.3346
+        ],
+        "snippet": "- à FPCI SECURITE 64 655 actions - à FIP GALIA PME 4 12 931 actions - à GALIA VENTURE 30 172 actions - à FPCI FINANCIERE DE BRIENNE 43 103 actions"
+      }
+    }
+  ],
+  "nominal_splits": [
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec3",
+      "page": 1,
+      "pattern": "nominal_split",
+      "event_code": "CAPITAL_NOMINAL_SPLIT",
+      "payload": {
+        "factor": 100
+      },
+      "event_date": "2008-06-27",
+      "source_kind": "resolution",
+      "snippet": "résident, DÉcIDE de diviser la valeur nominale des actions par 100, chaque associé rec",
+      "bbox_norm": [
+        0.1222,
+        0.5337,
+        0.8821,
+        0.5543
+      ],
+      "date_confidence": "local",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 1,
+        "bbox": [
+          0.1222,
+          0.5337,
+          0.8821,
+          0.5543
+        ],
+        "snippet": "résident, DÉcIDE de diviser la valeur nominale des actions par 100, chaque associé rec"
+      }
+    }
+  ],
+  "buyback_lists": [
+    {
+      "doc_id": "63e9593a8be6eb9f9d257ebe",
+      "page": 3,
+      "pattern": "buyback_list",
+      "event_code": "CAP_TABLE_BUYBACK_LIST",
+      "payload": {
+        "holders": [
+          {
+            "name": "FPCI SECURITE",
+            "shares": 64655.0
+          },
+          {
+            "name": "FIP GALIA PME 4",
+            "shares": 12931.0
+          },
+          {
+            "name": "GALIA VENTURE",
+            "shares": 30172.0
+          },
+          {
+            "name": "FPCI FINANCIERE DE BRIENNE",
+            "shares": 43103.0
+          }
+        ]
+      },
+      "event_date": "2017-02-21",
+      "source_kind": "unknown",
+      "snippet": "- à FPCI SECURITE 64 655 actions - à FIP GALIA PME 4 12 931 actions - à GALIA VENTURE 30 172 actions - à FPCI FINANCIERE DE BRIENNE 43 103 actions",
+      "bbox_norm": [
+        0.1847,
+        0.2691,
+        0.772,
+        0.3346
+      ],
+      "date_confidence": "fallback_deposit_date",
+      "source": {
+        "inpi_id": "63e9593a8be6eb9f9d257ebe",
+        "page": 3,
+        "bbox": [
+          0.1847,
+          0.2691,
+          0.772,
+          0.3346
+        ],
+        "snippet": "- à FPCI SECURITE 64 655 actions - à FIP GALIA PME 4 12 931 actions - à GALIA VENTURE 30 172 actions - à FPCI FINANCIERE DE BRIENNE 43 103 actions"
+      }
+    }
+  ],
+  "sole_holder_transitions": [
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec3",
+      "page": 1,
+      "pattern": "sole_holder_transition",
+      "event_code": "OWNERSHIP_TRANSITION_TO_SOLE",
+      "payload": {
+        "new_sole_holder_name": "HADEAN",
+        "new_sole_holder_siren": "499979540"
+      },
+      "event_date": "2008-06-27",
+      "source_kind": "unknown",
+      "snippet": "uin, A 9 heures 30, La société HADEAN, société par actions simplifiée au capital de 578.450 euros, sociétés de Montauban sous le numéro 499 979 540, Associée Unique de la TECHNOLOGIES",
+      "bbox_norm": [
+        0.1243,
+        0.3301,
+        0.7383,
+        0.3731
+      ],
+      "date_confidence": "inferred_from_pv_header",
+      "source": {
+        "inpi_id": "63e9593b8be6eb9f9d257ec3",
+        "page": 1,
+        "bbox": [
+          0.1243,
+          0.3301,
+          0.7383,
+          0.3731
+        ],
+        "snippet": "uin, A 9 heures 30, La société HADEAN, société par actions simplifiée au capital de 578.450 euros, sociétés de Montauban sous le numéro 499 979 540, Associée Unique de la TECHNOLOGIES"
+      }
+    }
+  ],
+  "processing_log": [
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec5",
+      "dateDepot": "2005-01-25",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec4",
+      "dateDepot": "2006-01-03",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 1,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec2",
+      "dateDepot": "2006-01-04",
+      "context_given": "Known state as of 2005-05-17 (from 1 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 2005-05-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 3,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec7",
+      "dateDepot": "2007-02-20",
+      "context_given": "Known state as of 2005-08-16 (from 4 events found in earlier-filed documents):\n- Capital social (total share capital): 150000.0 EUR\n- Division of shares (total shares outstanding): 1500.0\n- Value per share (nominal): 100.0 EUR/share\n- Sócios/shareholders known, with their share of the division: Antonio BLANCO MARINA (PERSON, 823.0 shares, 54.8667%); Xavier AUMONT (PERSON, 617.0 shares, 41.1333%); Franck GICQUEL (PERSON, 60.0 shares, 4.0%)\n- Open gaps/uncertainties flagged so far: 2005-05-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 1,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec6",
+      "dateDepot": "2008-06-23",
+      "context_given": "Known state as of 2006-10-20 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 200000.0 EUR\n- Division of shares (total shares outstanding): 2000\n- Value per share (nominal): 100.0 EUR/share\n- Sócios/shareholders known, with their share of the division: Antonio BLANCO MARINA (PERSON, 973.0 shares, 48.65%); Xavier AUMONT (PERSON, 947.0 shares, 47.35%); Franck GICQUEL (PERSON, 80.0 shares, 4.0%)\n- Open gaps/uncertainties flagged so far: 2005-05-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2006-10-20: 500 new shares allocated per the subscription table in 63e9593b8be6eb9f9d257ec7.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec3",
+      "dateDepot": "2008-07-15",
+      "context_given": "Known state as of 2006-10-20 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 200000.0 EUR\n- Division of shares (total shares outstanding): 2000\n- Value per share (nominal): 100.0 EUR/share\n- Sócios/shareholders known, with their share of the division: Antonio BLANCO MARINA (PERSON, 973.0 shares, 48.65%); Xavier AUMONT (PERSON, 947.0 shares, 47.35%); Franck GICQUEL (PERSON, 80.0 shares, 4.0%)\n- Open gaps/uncertainties flagged so far: 2005-05-17: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 2006-10-20: 500 new shares allocated per the subscription table in 63e9593b8be6eb9f9d257ec7.",
+      "n_rule_scored": 8,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec1",
+      "dateDepot": "2008-09-08",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec8",
+      "dateDepot": "2010-12-08",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec9",
+      "dateDepot": "2010-12-08",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 4,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593c8be6eb9f9d257eca",
+      "dateDepot": "2011-07-11",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593c8be6eb9f9d257ecb",
+      "dateDepot": "2011-07-11",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 4,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593a8be6eb9f9d257ebd",
+      "dateDepot": "2013-02-12",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 3,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ebf",
+      "dateDepot": "2017-01-20",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593a8be6eb9f9d257ebe",
+      "dateDepot": "2017-03-28",
+      "context_given": "Known state as of 2008-06-27 (from 8 events found in earlier-filed documents):\n- Capital social (total share capital): 368102.0 EUR\n- Division of shares (total shares outstanding): 368102\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 54.3328%); UNKNOWN (unallocated shares from tmp_04, 2008-06-27) (UNKNOWN, 150861 shares, 40.9835%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.6838%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: HADEAN (SIREN 499979540) recorded as sole shareholder, replacing Antonio BLANCO MARINA, Xavier AUMONT, Franck GICQUEL (200000 shares total) — the transfer/apport document itself is not in this corpus; reconstructed by diffing the cap table before/after this filing, same as SHAREHOLDER_END's documented inference rule. | 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'.",
+      "n_rule_scored": 7,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593b8be6eb9f9d257ec0",
+      "dateDepot": "2018-05-30",
+      "context_given": "Known state as of 2017-02-21 (from 9 events found in earlier-filed documents):\n- Capital social (total share capital): 217241.0 EUR\n- Division of shares (total shares outstanding): 217241\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 92.0637%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 7.9363%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2008-06-27: 17241 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_03, 2008-06-27)'. | 2008-06-27: 150861 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)'. | 2017-02-21: 150861-share decrease matches the unallocated tranche 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)' exactly — cancelled against it rather than a named holder (the decrease exactly reverses this unallocated tranche).",
+      "n_rule_scored": 6,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e9593c8be6eb9f9d257ecc",
+      "dateDepot": "2018-11-02",
+      "context_given": "Known state as of 2018-03-23 (from 10 events found in earlier-filed documents):\n- Capital social (total share capital): 400000.0 EUR\n- Division of shares (total shares outstanding): 400000\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 50.0%); UNKNOWN (unallocated shares from tmp_06, 2018-03-23) (UNKNOWN, 182759 shares, 45.6897%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.3102%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2017-02-21: 150861-share decrease matches the unallocated tranche 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)' exactly — cancelled against it rather than a named holder (the decrease exactly reverses this unallocated tranche). | 2018-03-23: amount_eur (185759) does not reconcile with capital before/after (217241 -> 400000, expected 182759) — left as-is, corpus/OCR inconsistency. | 2018-03-23: 182759 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_06, 2018-03-23)'.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "6936b4160bb493b0e4098925",
+      "dateDepot": "2025-12-02",
+      "context_given": "Known state as of 2018-03-23 (from 10 events found in earlier-filed documents):\n- Capital social (total share capital): 400000.0 EUR\n- Division of shares (total shares outstanding): 400000\n- Value per share (nominal): 1.0 EUR/share\n- Sócios/shareholders known, with their share of the division: HADEAN (COMPANY, 200000.0 shares, 50.0%); UNKNOWN (unallocated shares from tmp_06, 2018-03-23) (UNKNOWN, 182759 shares, 45.6897%); UNKNOWN (unallocated shares from tmp_03, 2008-06-27) (UNKNOWN, 17241 shares, 4.3102%)\n- A par-value split has occurred (factor x100) — share counts were multiplied and nominal value divided accordingly; the figures above already reflect it.\n- Open gaps/uncertainties flagged so far: 2017-02-21: 150861-share decrease matches the unallocated tranche 'UNKNOWN (unallocated shares from tmp_04, 2008-06-27)' exactly — cancelled against it rather than a named holder (the decrease exactly reverses this unallocated tranche). | 2018-03-23: amount_eur (185759) does not reconcile with capital before/after (217241 -> 400000, expected 182759) — left as-is, corpus/OCR inconsistency. | 2018-03-23: 182759 new shares issued — no subscription record found in the corpus for this tranche; recorded against 'UNKNOWN (unallocated shares from tmp_06, 2018-03-23)'.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

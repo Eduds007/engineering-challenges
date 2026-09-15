@@ -1,0 +1,290 @@
+{
+  "siren": "035550318",
+  "mode": "chronological_context_aware",
+  "n_documents": 12,
+  "n_raw_candidates": 5,
+  "n_events": 5,
+  "events": [
+    {
+      "doc_id": "63ebd08aede2a73e4f0a8148",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 100366.6,
+        "capital_after_eur": 252815.62,
+        "method": "apport-fusion"
+      },
+      "event_date": "1996-12-20",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "En conséquence, elle décide d'augmenter le capital social de 658 400 F pour le porter de 1 000 000 F à 1 658 400 F par création de 6 584 actions nouvelles de 100 F nominal chacune, entièrement libérées",
+      "bbox_norm": [
+        0.178,
+        0.1474,
+        0.8779,
+        0.1934
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital increase (augmenter le capital social). Snippet states prior capital 1,000,000 F → 1,658,400 F via 658,400 F increase. Conversions match: 1,000,000 F ≈ 152,449 EUR, increase ≈ 100,366.56 EUR, outcome ≈ 252,815.62 EUR. Reconciliation verified.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63ebd08aede2a73e4f0a8148",
+        "page": 7,
+        "bbox": [
+          0.178,
+          0.1474,
+          0.8779,
+          0.1934
+        ],
+        "snippet": "En conséquence, elle décide d'augmenter le capital social de 658 400 F pour le porter de 1 000 000 F à 1 658 400 F par création de 6 584 actions nouvelles de 100 F nominal chacune, entièrement libérées"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a8148",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_DECREASE",
+      "payload": {
+        "amount_eur": 152375.5,
+        "capital_after_eur": 100433.4,
+        "method": "annulation d'actions et réduction de capital"
+      },
+      "event_date": "1996-12-20",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "l'Assemblée Générale, après avoir entendu la lecture du rapport du Conseil d'Administration et du rapport du Commissaire à la fusion, constatant que parmi les biens transmis par la société LES VIGNES figurent 9 994 de ses propres actions, décide l'annulation desdites actions et la réduction corrélative de son capital d'une somme de 999 400 F, ledit capital étant ainsi ramené à 659 000 F",
+      "bbox_norm": [
+        0.1841,
+        0.5728,
+        0.8833,
+        0.7194
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital decrease (annulation de propres actions, réduction de capital). Snippet states reduction of 999,400 F, capital ramené to 659,000 F. Franc amounts reconcile exactly: 1,658,400 - 999,400 = 659,000 F. Euro conversions correct for stated amounts; small discrepancy (6.7 EUR) with v0 outcome likely rounding artifact from independent franc-to-EUR conversions.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63ebd08aede2a73e4f0a8148",
+        "page": 7,
+        "bbox": [
+          0.1841,
+          0.5728,
+          0.8833,
+          0.7194
+        ],
+        "snippet": "l'Assemblée Générale, après avoir entendu la lecture du rapport du Conseil d'Administration et du rapport du Commissaire à la fusion, constatant que parmi les biens transmis par la société LES VIGNES figurent 9 994 de ses propres actions, décide l'annulation desdites actions et la réduction corrélative de son capital d'une somme de 999 400 F, ledit capital étant ainsi ramené à 659 000 F"
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a814c",
+      "page": 5,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 64316.6,
+        "capital_after_eur": 164750,
+        "method": "incorporation de réserves"
+      },
+      "event_date": "2000-12-22",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "L'Assemblée Générale, après avoir entendu la lecture du rapport du Conseil d'Administration, décide d'augmenter le capital social s'élevant actuellement à 659 000 F et divisé en 6 590 actions de 100 F de nominal chacune, d'une somme de 421 689,16 F pour le porter à 1 080 689,16 F par l'incorporation directe au capital d'une somme de 146 608 F prélevée sur le compte \"réserve spéciale\" de l'article 219 I.f du C.G.I., − et d'une somme de 275 081,16 F prélevée sur le compte \"Autres réserves\"",
+      "bbox_norm": [
+        0.1966,
+        0.169,
+        0.8987,
+        0.3218
+      ],
+      "llm_valid": true,
+      "llm_note": "Genuine capital increase via incorporation of réserves spéciale; snippet explicitly shows 'augmenter le capital social' and incorporation decision. Amounts reconcile perfectly: 100433.4 + 64316.6 = 164750 EUR. Franc-to-EUR conversion verified (421689.16 F ÷ 6.55957 ≈ 64316.6 EUR).",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_03",
+      "source": {
+        "inpi_id": "63ebd08aede2a73e4f0a814c",
+        "page": 5,
+        "bbox": [
+          0.1966,
+          0.169,
+          0.8987,
+          0.3218
+        ],
+        "snippet": "L'Assemblée Générale, après avoir entendu la lecture du rapport du Conseil d'Administration, décide d'augmenter le capital social s'élevant actuellement à 659 000 F et divisé en 6 590 actions de 100 F de nominal chacune, d'une somme de 421 689,16 F pour le porter à 1 080 689,16 F par l'incorporation directe au capital d'une somme de 146 608 F prélevée sur le compte \"réserve spéciale\" de l'article "
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a8149",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_francs": 658400,
+        "capital_after_francs": 1658400,
+        "method": "Merger - creation of 6,584 new shares as consideration for absorption of Les Vignes"
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "La société OrtELLI procédera donc à la création de 6.584 actions de 100 Francs, soit une augmentation de capital de 658.400 Francs.",
+      "bbox_norm": [
+        0.0984,
+        0.687,
+        0.8677,
+        0.7203
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital increase via merger (6,584 shares × 100 = 658,400 Francs); internal math verified; earliest document, unable to reconcile capital_after against unknown prior state",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_04",
+      "source": {
+        "inpi_id": "63ebd08aede2a73e4f0a8149",
+        "page": 4,
+        "bbox": [
+          0.0984,
+          0.687,
+          0.8677,
+          0.7203
+        ],
+        "snippet": "La société OrtELLI procédera donc à la création de 6.584 actions de 100 Francs, soit une augmentation de capital de 658.400 Francs."
+      },
+      "meta_hint": null
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a8149",
+      "page": 4,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_DECREASE",
+      "payload": {
+        "amount_francs": 999400,
+        "capital_after_francs": 659000,
+        "method": "Cancellation of 9,994 treasury shares acquired through the merger"
+      },
+      "event_date": null,
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "elle procédera à une réduction de capital concomitante de 999.400 Francs, afin d'annuler ces actions.",
+      "bbox_norm": [
+        0.0964,
+        0.7467,
+        0.8697,
+        0.7784
+      ],
+      "llm_valid": true,
+      "llm_note": "Real capital decrease via treasury share cancellation (9,994 shares × 100 = 999,400 Francs); fully reconciled with prior event in same document: 1,658,400 − 999,400 = 659,000 ✓",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_05",
+      "source": {
+        "inpi_id": "63ebd08aede2a73e4f0a8149",
+        "page": 4,
+        "bbox": [
+          0.0964,
+          0.7467,
+          0.8697,
+          0.7784
+        ],
+        "snippet": "elle procédera à une réduction de capital concomitante de 999.400 Francs, afin d'annuler ces actions."
+      },
+      "meta_hint": null
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63ebd08aede2a73e4f0a814a",
+      "dateDepot": "1993-12-02",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a8147",
+      "dateDepot": "1994-02-16",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a8149",
+      "dateDepot": "1996-12-13",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a8148",
+      "dateDepot": "1997-03-14",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "63ebd08bede2a73e4f0a814d",
+      "dateDepot": "1997-07-03",
+      "context_given": "Known state as of 1996-12-20 (from 4 events found in earlier-filed documents):\n- Capital social (total share capital): 100433.4 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd08bede2a73e4f0a814e",
+      "dateDepot": "1999-01-13",
+      "context_given": "Known state as of 1996-12-20 (from 4 events found in earlier-filed documents):\n- Capital social (total share capital): 100433.4 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a814c",
+      "dateDepot": "2001-01-30",
+      "context_given": "Known state as of 1996-12-20 (from 4 events found in earlier-filed documents):\n- Capital social (total share capital): 100433.4 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 1
+    },
+    {
+      "doc_id": "63ebd08aede2a73e4f0a814b",
+      "dateDepot": "2003-01-21",
+      "context_given": "Known state as of 2000-12-22 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 164750 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot. | 2000-12-22: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd089ede2a73e4f0a8145",
+      "dateDepot": "2005-01-18",
+      "context_given": "Known state as of 2000-12-22 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 164750 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot. | 2000-12-22: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd08bede2a73e4f0a814f",
+      "dateDepot": "2011-01-18",
+      "context_given": "Known state as of 2000-12-22 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 164750 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot. | 2000-12-22: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd089ede2a73e4f0a8143",
+      "dateDepot": "2017-01-10",
+      "context_given": "Known state as of 2000-12-22 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 164750 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot. | 2000-12-22: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63ebd08bede2a73e4f0a8151",
+      "dateDepot": "2022-10-18",
+      "context_given": "Known state as of 2000-12-22 (from 5 events found in earlier-filed documents):\n- Capital social (total share capital): 164750 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders: none named yet\n- Open gaps/uncertainties flagged so far: 1996-12-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot. | 1996-12-20: 152376-share capital decrease could not be matched to a specific holder or unallocated tranche — cap table below is NOT adjusted for it; treat holder shares as provisional for this snapshot. | 2000-12-22: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

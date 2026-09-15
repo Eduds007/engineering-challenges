@@ -1,0 +1,36 @@
+{
+  "siren": "560801045",
+  "mode": "chronological_context_aware",
+  "n_documents": 3,
+  "n_raw_candidates": 0,
+  "n_events": 0,
+  "events": [],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63e31b64038f2816a117d0e8",
+      "dateDepot": "1997-06-19",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e31b64038f2816a117d0e6",
+      "dateDepot": "1999-08-05",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e31b64038f2816a117d0e7",
+      "dateDepot": "2019-07-24",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

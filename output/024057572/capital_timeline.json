@@ -1,0 +1,26 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2007-06-26",
+      "capital_eur": null,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "S.K2.R.",
+          "kind": "COMPANY",
+          "shares": 800,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02",
+        "evt_03"
+      ]
+    }
+  ],
+  "notes": [],
+  "graph_nodes": 2,
+  "graph_edges": 1
+}

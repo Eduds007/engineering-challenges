@@ -1,0 +1,59 @@
+{
+  "capital_timeline": [
+    {
+      "as_of": "2016-05-18",
+      "capital_eur": null,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Jonathan PAUTET",
+          "kind": "PERSON",
+          "shares": 510.0,
+          "pct": null
+        },
+        {
+          "name": "Sara HAPP",
+          "kind": "PERSON",
+          "shares": 490.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_01",
+        "evt_02"
+      ]
+    },
+    {
+      "as_of": "2022-01-20",
+      "capital_eur": 150000.0,
+      "shares_total": null,
+      "nominal_eur": null,
+      "holders": [
+        {
+          "name": "Jonathan PAUTET",
+          "kind": "PERSON",
+          "shares": 510.0,
+          "pct": null
+        },
+        {
+          "name": "Sara HAPP",
+          "kind": "PERSON",
+          "shares": 490.0,
+          "pct": null
+        }
+      ],
+      "caused_by": [
+        "evt_03"
+      ],
+      "notes": [
+        "shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+      ]
+    }
+  ],
+  "notes": [
+    "2022-01-20: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot."
+  ],
+  "graph_nodes": 3,
+  "graph_edges": 2
+}

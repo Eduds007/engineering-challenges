@@ -1,0 +1,124 @@
+{
+  "siren": "843071218",
+  "mode": "chronological_context_aware",
+  "n_documents": 3,
+  "n_raw_candidates": 2,
+  "n_events": 2,
+  "events": [
+    {
+      "doc_id": "63e00901f1cd45aa671d5287",
+      "page": 7,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "CAPITAL_INCREASE",
+      "payload": {
+        "amount_eur": 1000.0,
+        "capital_after_eur": 1000.0,
+        "method": "apport en numéraire"
+      },
+      "event_date": "2019-07-29",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Le capital social est fixé à la somme de mille euros (1 000 euros). Il est divisé en 1 000 actions de 1 euro chacune, entièrement libérées correspondant à des apports en numéraire exclusivement.",
+      "bbox_norm": null,
+      "llm_valid": true,
+      "llm_note": "Establishes the initial share capital at €1,000, divided into 1,000 fully-paid cash shares of €1 each. This is the foundational capital setting, not a subsequent increase; reconciles correctly with the known prior state (no prior capital) and the shareholder entry in v0.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_01",
+      "source": {
+        "inpi_id": "63e00901f1cd45aa671d5287",
+        "page": 7,
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "snippet": "Le capital social est fixé à la somme de mille euros (1 000 euros). Il est divisé en 1 000 actions de 1 euro chacune, entièrement libérées correspondant à des apports en numéraire exclusivement."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée générale extraordinaire",
+          "decision": "20 place Prax Paris 82000 MONTAUBAN "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    },
+    {
+      "doc_id": "63e00901f1cd45aa671d5287",
+      "page": 6,
+      "pattern": "llm_fallback_contextual",
+      "event_code": "SHAREHOLDER_ENTRY",
+      "payload": {
+        "holder_name": "ARCHEAN TECHNOLOGIES",
+        "holder_siren": "480 489 707",
+        "shares": 1000.0
+      },
+      "event_date": "2019-07-29",
+      "source_kind": "llm_fallback_contextual",
+      "date_confidence": "llm_fallback_contextual",
+      "snippet": "Lors de la constitution, la soussignée ARCHEAN TECHNOLOGIES apporte à la Société, une somme en numéraire de mille euros (1 000 €) correspondant à 1 000 actions de numéraire, d'une valeur nominale d'un euro (1 €) chacune, souscrites en totalité et intégralement libérées.",
+      "bbox_norm": [
+        0.1186,
+        0.1103,
+        0.8838,
+        0.1568
+      ],
+      "llm_valid": true,
+      "llm_note": "Initial shareholder entry at company incorporation; 1,000 fully-paid shares of €1 each contributed in cash by ARCHEAN TECHNOLOGIES. Consistent with the company's founding capital.",
+      "n_corroborations": 1,
+      "alternate_sources": [],
+      "event_id": "evt_02",
+      "source": {
+        "inpi_id": "63e00901f1cd45aa671d5287",
+        "page": 6,
+        "bbox": [
+          0.1186,
+          0.1103,
+          0.8838,
+          0.1568
+        ],
+        "snippet": "Lors de la constitution, la soussignée ARCHEAN TECHNOLOGIES apporte à la Société, une somme en numéraire de mille euros (1 000 €) correspondant à 1 000 actions de numéraire, d'une valeur nominale d'un euro (1 €) chacune, souscrites en totalité et intégralement libérées."
+      },
+      "meta_hint": [
+        {
+          "typeActe": "Procès-verbal d'assemblée générale extraordinaire",
+          "decision": "20 place Prax Paris 82000 MONTAUBAN "
+        },
+        {
+          "typeActe": "Statuts mis à jour"
+        }
+      ]
+    }
+  ],
+  "cap_table_snapshots": [],
+  "cap_table_allocations": [],
+  "nominal_splits": [],
+  "buyback_lists": [],
+  "sole_holder_transitions": [],
+  "processing_log": [
+    {
+      "doc_id": "63e00901f1cd45aa671d5286",
+      "dateDepot": "2018-10-16",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    },
+    {
+      "doc_id": "63e00901f1cd45aa671d5287",
+      "dateDepot": "2019-11-04",
+      "context_given": "No capital or shareholder information established yet — this is the earliest-filed document processed so far.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 2
+    },
+    {
+      "doc_id": "6936c0c5c6e78a95a30431b4",
+      "dateDepot": "2025-12-02",
+      "context_given": "Known state as of 2019-07-29 (from 2 events found in earlier-filed documents):\n- Capital social (total share capital): 1000.0 EUR\n- Total shares outstanding: not yet established\n- Value per share: not yet established\n- Sócios/shareholders known, with their share of the division: ARCHEAN TECHNOLOGIES (COMPANY, 1000.0 shares, None%)\n- Open gaps/uncertainties flagged so far: 2019-07-29: shares_total unknown at this point: capital changed but the nominal value per share was not yet established from a holder-level snapshot.",
+      "n_rule_scored": 0,
+      "n_llm_fallback": 0
+    }
+  ]
+}

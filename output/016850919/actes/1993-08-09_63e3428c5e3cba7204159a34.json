@@ -1,0 +1,1940 @@
+{
+  "doc_id": "63e3428c5e3cba7204159a34",
+  "pdf": "acte_1993-08-09_63e3428c5e3cba7204159a34.pdf",
+  "n_pages": 7,
+  "pages": [
+    {
+      "page": 1,
+      "text": ".\nDuplicata\nGREFFE\nDU\nTRIBUNAL DE COMMERCE\nDE DIJON\nRECEPISSEDE DEPOT\nBP 69 -\n21072 DIJON CEDEX\nPOUR TOUS RENSEIGNEMENTS REGISTRE DU COMMERCE - FAILLITES -\nBILANS : MINITEL 36.29.11.22.\nJURISTES ASSOCIES D'ILE DE FRANCE\n34 A BD DE LA MARNE\n21000\nDIJON\nV/REF :\nN/REF : 68 B 91 / A-1823\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DIJON CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 09/08/93, SOUS LE NUMERO A-1823,\nP.V. D'ASSEMBLEE DU 30/06/93\nMODIFICATION DE LA COMPOSITION DU CONSEIL D'ADMINISTRATION\nMODIFIÇATION.DE(S) CQMMISSAIRE(S) AUX COMPTES\nFM C F A\nCONCERNANT LA SOCIÉTE\nETABLISSEMENTS JACQUENET MALIN\nSOCIETE ANONYME\nTOUILLON\n21500 MONTBARD\nR.C.S DIJON B 016 850 919 (68 B 91)\nLE GREFFIER\nL'ORIGINAL DELIVRE PAR LE GREFFE DU TA *",
+      "lines": [
+        {
+          "text": ".",
+          "bbox_norm": [
+            0.9,
+            0.0034,
+            0.9181,
+            0.0088
+          ]
+        },
+        {
+          "text": "Duplicata",
+          "bbox_norm": [
+            0.0146,
+            0.0367,
+            0.082,
+            0.0488
+          ]
+        },
+        {
+          "text": "GREFFE",
+          "bbox_norm": [
+            0.0855,
+            0.0508,
+            0.1334,
+            0.063
+          ]
+        },
+        {
+          "text": "DU",
+          "bbox_norm": [
+            0.0993,
+            0.0659,
+            0.1201,
+            0.0782
+          ]
+        },
+        {
+          "text": "TRIBUNAL DE COMMERCE",
+          "bbox_norm": [
+            0.0347,
+            0.0796,
+            0.1833,
+            0.0923
+          ]
+        },
+        {
+          "text": "DE DIJON",
+          "bbox_norm": [
+            0.0708,
+            0.0947,
+            0.141,
+            0.1065
+          ]
+        },
+        {
+          "text": "RECEPISSEDE",
+          "bbox_norm": [
+            0.3944,
+            0.1083,
+            0.7022,
+            0.1231
+          ]
+        },
+        {
+          "text": "DEPOT",
+          "bbox_norm": [
+            0.6923,
+            0.1098,
+            0.8251,
+            0.1231
+          ]
+        },
+        {
+          "text": "BP 69",
+          "bbox_norm": [
+            0.0208,
+            0.123,
+            0.0632,
+            0.1353
+          ]
+        },
+        {
+          "text": "-",
+          "bbox_norm": [
+            0.1097,
+            0.128,
+            0.1187,
+            0.1319
+          ]
+        },
+        {
+          "text": "21072 DIJON CEDEX",
+          "bbox_norm": [
+            0.0236,
+            0.1386,
+            0.1487,
+            0.1489
+          ]
+        },
+        {
+          "text": "POUR TOUS RENSEIGNEMENTS REGISTRE DU COMMERCE - FAILLITES -",
+          "bbox_norm": [
+            0.0221,
+            0.1519,
+            0.4528,
+            0.1646
+          ]
+        },
+        {
+          "text": "BILANS : MINITEL 36.29.11.22.",
+          "bbox_norm": [
+            0.0236,
+            0.167,
+            0.2348,
+            0.1778
+          ]
+        },
+        {
+          "text": "JURISTES ASSOCIES D'ILE DE FRANCE",
+          "bbox_norm": [
+            0.5195,
+            0.2237,
+            0.923,
+            0.2378
+          ]
+        },
+        {
+          "text": "34 A BD DE LA MARNE",
+          "bbox_norm": [
+            0.5195,
+            0.2519,
+            0.7535,
+            0.2671
+          ]
+        },
+        {
+          "text": "21000",
+          "bbox_norm": [
+            0.5195,
+            0.2808,
+            0.5834,
+            0.2949
+          ]
+        },
+        {
+          "text": "DIJON",
+          "bbox_norm": [
+            0.5179,
+            0.2958,
+            0.5843,
+            0.3107
+          ]
+        },
+        {
+          "text": "V/REF :",
+          "bbox_norm": [
+            0.2269,
+            0.3222,
+            0.3169,
+            0.338
+          ]
+        },
+        {
+          "text": "N/REF : 68 B 91 / A-1823",
+          "bbox_norm": [
+            0.2278,
+            0.3374,
+            0.5222,
+            0.3526
+          ]
+        },
+        {
+          "text": "LE GREFFIER DU TRIBUNAL DE COMMERCE DE DIJON CERTIFIE",
+          "bbox_norm": [
+            0.0687,
+            0.3799,
+            0.7181,
+            0.397
+          ]
+        },
+        {
+          "text": "QU'IL LUI A ETE DEPOSE A LA DATE DU 09/08/93, SOUS LE NUMERO A-1823,",
+          "bbox_norm": [
+            0.0708,
+            0.3946,
+            0.8967,
+            0.4126
+          ]
+        },
+        {
+          "text": "P.V. D'ASSEMBLEE DU 30/06/93",
+          "bbox_norm": [
+            0.0708,
+            0.4243,
+            0.4146,
+            0.438
+          ]
+        },
+        {
+          "text": "MODIFICATION DE LA COMPOSITION DU CONSEIL D'ADMINISTRATION",
+          "bbox_norm": [
+            0.07,
+            0.4527,
+            0.7793,
+            0.4683
+          ]
+        },
+        {
+          "text": "MODIFIÇATION.DE(S) CQMMISSAIRE(S) AUX COMPTES",
+          "bbox_norm": [
+            0.0708,
+            0.4673,
+            0.621,
+            0.483
+          ]
+        },
+        {
+          "text": "FM",
+          "bbox_norm": [
+            0.1401,
+            0.4789,
+            0.2259,
+            0.4943
+          ]
+        },
+        {
+          "text": "C",
+          "bbox_norm": [
+            0.2834,
+            0.4853,
+            0.3146,
+            0.4942
+          ]
+        },
+        {
+          "text": "F",
+          "bbox_norm": [
+            0.3105,
+            0.4791,
+            0.3562,
+            0.4951
+          ]
+        },
+        {
+          "text": "A",
+          "bbox_norm": [
+            0.4137,
+            0.483,
+            0.4293,
+            0.4942
+          ]
+        },
+        {
+          "text": "CONCERNANT LA SOCIÉTE",
+          "bbox_norm": [
+            0.1201,
+            0.497,
+            0.3785,
+            0.5093
+          ]
+        },
+        {
+          "text": "ETABLISSEMENTS JACQUENET MALIN",
+          "bbox_norm": [
+            0.1333,
+            0.5107,
+            0.5007,
+            0.525
+          ]
+        },
+        {
+          "text": "SOCIETE ANONYME",
+          "bbox_norm": [
+            0.1333,
+            0.5254,
+            0.3181,
+            0.5381
+          ]
+        },
+        {
+          "text": "TOUILLON",
+          "bbox_norm": [
+            0.134,
+            0.5406,
+            0.2333,
+            0.5523
+          ]
+        },
+        {
+          "text": "21500 MONTBARD",
+          "bbox_norm": [
+            0.1333,
+            0.5527,
+            0.3077,
+            0.5675
+          ]
+        },
+        {
+          "text": "R.C.S",
+          "bbox_norm": [
+            0.1334,
+            0.5821,
+            0.1979,
+            0.5957
+          ]
+        },
+        {
+          "text": "DIJON",
+          "bbox_norm": [
+            0.2187,
+            0.583,
+            0.2867,
+            0.5952
+          ]
+        },
+        {
+          "text": "B",
+          "bbox_norm": [
+            0.3028,
+            0.584,
+            0.3208,
+            0.5952
+          ]
+        },
+        {
+          "text": "016 850 919",
+          "bbox_norm": [
+            0.3403,
+            0.583,
+            0.4785,
+            0.5967
+          ]
+        },
+        {
+          "text": "(68 B 91)",
+          "bbox_norm": [
+            0.493,
+            0.5825,
+            0.6084,
+            0.5992
+          ]
+        },
+        {
+          "text": "LE GREFFIER",
+          "bbox_norm": [
+            0.6186,
+            0.6255,
+            0.757,
+            0.6416
+          ]
+        },
+        {
+          "text": "L'ORIGINAL DELIVRE PAR LE GREFFE DU TA",
+          "bbox_norm": [
+            0.0035,
+            0.5537,
+            0.0223,
+            0.8004
+          ]
+        },
+        {
+          "text": "*",
+          "bbox_norm": [
+            0.7758,
+            0.645,
+            0.7911,
+            0.6534
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "ETABLISSEMENTS JACQUENET MALIN\nSociété Anonyme au capital de 680.000. 1\nSiège Social : TOUILLON\n21500 MONTBARD X\nRCS : DIJON B 016 850 919\nX AOUT 1993\nASSEMBLEE GENERALE ORDINAIRE\nANNUELLE\nL'an mil neuf cent quatre vingt treize\nle trente juin\nà quatorze heures trente\nLes actionnaires de la société ETABLISSEMENTS JACQUENET MALIN, société anonyme\nau capital de 680.000 francs, dont le siège est à TOUILLON, 21500 MONTBARD, se sont\nréunis en Assemblée Générale Ordinaire au siège social, sur convocation qui leur a été faite\npar lettre recommandée.\nIl a été dressé une feuille de présence qui a été émargée en entrant en séance, par tous les\nActionnaires présents et les mandataires des Actionnaires représentés dont les formulaires de\nvote par correspondance ou par procuration ont été annexés à la feuille de présence.\nLa séance est ouverte sous la présidence de Monsieur Bruno JACQUENET, Président du\nConseil d'Administration.\nMonsieur Bemard JACQUENET et Madame Odile BOISSEAU, tous deux présents et\nacceptants, représentant tant par eux-mêmes que comme mandataires, le plus grand nombre\nde voix, remplissent les fonctions de scrutateurs.\nMonsieur Jean-Paul JACQUENET est désigné comme secrétaire par l'Assemblée.\nLes membres du bureau ainsi constitué certifient exacte la feuille de présence et, constatant\nque l'Assemblée réunit le quorum requis, déclarent qu'elle peut valablement délibérer.\nMadame Colette PERRIN, Commissaire aux comptes a été règulièrement convoqué dans les\ndélais légaux par lettre recommandée avec accusé de réception.\nLe Président rappelle que l'Assemblée Générale est appelée à délibérer sur l'ordre du jour\nsuivant :\n. Lecture du rapport de gestion de l'exercice clos le 31 décembre 1992,\n. Lecture du rapport du Commissaire aux comptes sur les comptes annuels et de son rapport\nspécial sur les conventions visées aux articles 101 et 105 de la loi du 24 juillet 1966,\n. Approbation desdits comptes annuels et des rapports,\n. Quitus aux administrateurs,\n. Quitus au Commissaire aux Comptes,\n. Affectation des résultats,\n. Renouvellement du mandat de certains Administrateurs,\n. Renouvellement du mandat du Commissaire aux comptes Titulaire,\n. Renouvellement du mandat du Commissaire aux comptes Suppléant,\n. Questions diverses.",
+      "lines": [
+        {
+          "text": "ETABLISSEMENTS JACQUENET MALIN",
+          "bbox_norm": [
+            0.284,
+            0.0913,
+            0.6715,
+            0.1074
+          ]
+        },
+        {
+          "text": "Société Anonyme au capital de 680.000.",
+          "bbox_norm": [
+            0.2812,
+            0.1064,
+            0.6208,
+            0.1221
+          ]
+        },
+        {
+          "text": "1",
+          "bbox_norm": [
+            0.623,
+            0.1118,
+            0.6291,
+            0.1167
+          ]
+        },
+        {
+          "text": "Siège Social : TOUILLON",
+          "bbox_norm": [
+            0.3652,
+            0.1206,
+            0.5924,
+            0.1368
+          ]
+        },
+        {
+          "text": "21500 MONTBARD",
+          "bbox_norm": [
+            0.3903,
+            0.1367,
+            0.5667,
+            0.1499
+          ]
+        },
+        {
+          "text": "X",
+          "bbox_norm": [
+            0.6494,
+            0.1445,
+            0.6709,
+            0.1538
+          ]
+        },
+        {
+          "text": "RCS : DIJON B 016 850 919",
+          "bbox_norm": [
+            0.3562,
+            0.1503,
+            0.6007,
+            0.1646
+          ]
+        },
+        {
+          "text": "X",
+          "bbox_norm": [
+            0.6702,
+            0.1587,
+            0.6903,
+            0.1709
+          ]
+        },
+        {
+          "text": "AOUT 1993",
+          "bbox_norm": [
+            0.6976,
+            0.1574,
+            0.772,
+            0.179
+          ]
+        },
+        {
+          "text": "ASSEMBLEE GENERALE ORDINAIRE",
+          "bbox_norm": [
+            0.2965,
+            0.229,
+            0.6619,
+            0.2446
+          ]
+        },
+        {
+          "text": "ANNUELLE",
+          "bbox_norm": [
+            0.4229,
+            0.2451,
+            0.5368,
+            0.2588
+          ]
+        },
+        {
+          "text": "L'an mil neuf cent quatre vingt treize",
+          "bbox_norm": [
+            0.0986,
+            0.3111,
+            0.4014,
+            0.3258
+          ]
+        },
+        {
+          "text": "le trente juin",
+          "bbox_norm": [
+            0.0986,
+            0.3258,
+            0.2062,
+            0.3408
+          ]
+        },
+        {
+          "text": "à quatorze heures trente",
+          "bbox_norm": [
+            0.0971,
+            0.3393,
+            0.2959,
+            0.356
+          ]
+        },
+        {
+          "text": "Les actionnaires de la société ETABLISSEMENTS JACQUENET MALIN, société anonyme",
+          "bbox_norm": [
+            0.0986,
+            0.3667,
+            0.8646,
+            0.3843
+          ]
+        },
+        {
+          "text": "au capital de 680.000 francs, dont le siège est à TOUILLON, 21500 MONTBARD, se sont",
+          "bbox_norm": [
+            0.0979,
+            0.3813,
+            0.8653,
+            0.3995
+          ]
+        },
+        {
+          "text": "réunis en Assemblée Générale Ordinaire au siège social, sur convocation qui leur a été faite",
+          "bbox_norm": [
+            0.0986,
+            0.397,
+            0.8653,
+            0.4126
+          ]
+        },
+        {
+          "text": "par lettre recommandée.",
+          "bbox_norm": [
+            0.0992,
+            0.4116,
+            0.2994,
+            0.4288
+          ]
+        },
+        {
+          "text": "Il a été dressé une feuille de présence qui a été émargée en entrant en séance, par tous les",
+          "bbox_norm": [
+            0.0993,
+            0.4394,
+            0.8667,
+            0.4551
+          ]
+        },
+        {
+          "text": "Actionnaires présents et les mandataires des Actionnaires représentés dont les formulaires de",
+          "bbox_norm": [
+            0.0993,
+            0.4531,
+            0.8668,
+            0.4702
+          ]
+        },
+        {
+          "text": "vote par correspondance ou par procuration ont été annexés à la feuille de présence.",
+          "bbox_norm": [
+            0.0993,
+            0.4678,
+            0.78,
+            0.4864
+          ]
+        },
+        {
+          "text": "La séance est ouverte sous la présidence de Monsieur Bruno JACQUENET, Président du",
+          "bbox_norm": [
+            0.1,
+            0.4976,
+            0.8661,
+            0.5132
+          ]
+        },
+        {
+          "text": "Conseil d'Administration.",
+          "bbox_norm": [
+            0.1014,
+            0.5137,
+            0.3125,
+            0.5269
+          ]
+        },
+        {
+          "text": "Monsieur Bemard JACQUENET et Madame Odile BOISSEAU, tous deux présents et",
+          "bbox_norm": [
+            0.1,
+            0.5396,
+            0.8674,
+            0.5571
+          ]
+        },
+        {
+          "text": "acceptants, représentant tant par eux-mêmes que comme mandataires, le plus grand nombre",
+          "bbox_norm": [
+            0.1,
+            0.5547,
+            0.8701,
+            0.5728
+          ]
+        },
+        {
+          "text": "de voix, remplissent les fonctions de scrutateurs.",
+          "bbox_norm": [
+            0.1014,
+            0.5699,
+            0.4979,
+            0.5865
+          ]
+        },
+        {
+          "text": "Monsieur Jean-Paul JACQUENET est désigné comme secrétaire par l'Assemblée.",
+          "bbox_norm": [
+            0.1006,
+            0.5972,
+            0.7723,
+            0.6148
+          ]
+        },
+        {
+          "text": "Les membres du bureau ainsi constitué certifient exacte la feuille de présence et, constatant",
+          "bbox_norm": [
+            0.1014,
+            0.627,
+            0.8716,
+            0.6426
+          ]
+        },
+        {
+          "text": "que l'Assemblée réunit le quorum requis, déclarent qu'elle peut valablement délibérer.",
+          "bbox_norm": [
+            0.1014,
+            0.6401,
+            0.8008,
+            0.6588
+          ]
+        },
+        {
+          "text": "Madame Colette PERRIN, Commissaire aux comptes a été règulièrement convoqué dans les",
+          "bbox_norm": [
+            0.1028,
+            0.6704,
+            0.8701,
+            0.6865
+          ]
+        },
+        {
+          "text": "délais légaux par lettre recommandée avec accusé de réception.",
+          "bbox_norm": [
+            0.1041,
+            0.6865,
+            0.6181,
+            0.7012
+          ]
+        },
+        {
+          "text": "Le Président rappelle que l'Assemblée Générale est appelée à délibérer sur l'ordre du jour",
+          "bbox_norm": [
+            0.1041,
+            0.7149,
+            0.8709,
+            0.7296
+          ]
+        },
+        {
+          "text": "suivant :",
+          "bbox_norm": [
+            0.1027,
+            0.7294,
+            0.178,
+            0.7447
+          ]
+        },
+        {
+          "text": ". Lecture du rapport de gestion de l'exercice clos le 31 décembre 1992,",
+          "bbox_norm": [
+            0.1049,
+            0.7569,
+            0.6765,
+            0.7725
+          ]
+        },
+        {
+          "text": ". Lecture du rapport du Commissaire aux comptes sur les comptes annuels et de son rapport",
+          "bbox_norm": [
+            0.1056,
+            0.772,
+            0.8709,
+            0.7877
+          ]
+        },
+        {
+          "text": "spécial sur les conventions visées aux articles 101 et 105 de la loi du 24 juillet 1966,",
+          "bbox_norm": [
+            0.1284,
+            0.7866,
+            0.8132,
+            0.8013
+          ]
+        },
+        {
+          "text": ". Approbation desdits comptes annuels et des rapports,",
+          "bbox_norm": [
+            0.1063,
+            0.8013,
+            0.548,
+            0.8159
+          ]
+        },
+        {
+          "text": ". Quitus aux administrateurs,",
+          "bbox_norm": [
+            0.1063,
+            0.8155,
+            0.3431,
+            0.8301
+          ]
+        },
+        {
+          "text": ". Quitus au Commissaire aux Comptes,",
+          "bbox_norm": [
+            0.1063,
+            0.8297,
+            0.4244,
+            0.8443
+          ]
+        },
+        {
+          "text": ". Affectation des résultats,",
+          "bbox_norm": [
+            0.1069,
+            0.8437,
+            0.3216,
+            0.8584
+          ]
+        },
+        {
+          "text": ". Renouvellement du mandat de certains Administrateurs,",
+          "bbox_norm": [
+            0.1063,
+            0.8575,
+            0.5736,
+            0.8731
+          ]
+        },
+        {
+          "text": ". Renouvellement du mandat du Commissaire aux comptes Titulaire,",
+          "bbox_norm": [
+            0.1076,
+            0.8731,
+            0.6632,
+            0.8863
+          ]
+        },
+        {
+          "text": ". Renouvellement du mandat du Commissaire aux comptes Suppléant,",
+          "bbox_norm": [
+            0.1069,
+            0.8868,
+            0.6743,
+            0.9015
+          ]
+        },
+        {
+          "text": ". Questions diverses.",
+          "bbox_norm": [
+            0.1083,
+            0.9015,
+            0.2771,
+            0.9146
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "-",
+      "lines": [
+        {
+          "text": "-",
+          "bbox_norm": [
+            0.6028,
+            0.4878,
+            0.6063,
+            0.4903
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Puis le Président dépose sur le bureau et met à la disposition des membres de l'Assemblée :\nMA +.\n- les doubles et les récépissés postaux des lettres de convocation adressés à chacun des $ #\nactionnaires.\nun exemplaire de la lettre de convocation adressée au commissaire aux Comptes,\naccompagnée du récépissé d'envoi.\n- la feuille de présence à l'Assemblée à laquelle sont annexés les formulaires de vote par\ncorrespondance ou par procuration.\nl'inventaire des valeurs actives et passives de la Société au 31 décembre 1992, ainsi que les\ncomptes annuels et ses annexes,\nle rapport de gestion.\n- les rapports du Commissaire aux comptes.\nLe Président déclare ensuite :\n- Que les comptes annuels ont été établis conformément au nouveau plan comptable qui\nrésulte des dispositions de la loi n°83353 du 30 avril 1983 et du décrèt n°831020 du 29\nnovembre 1983 pris pour son application.\n- Que l'inventaire, les comptes annuels et les documents annexes, le rapport de gestion, les\nrapports du Commissaire aux Comptes, la liste des Actionnaires, le projet des résolutions,\nainsi que les autres documents et renseignements mentionnés aux articles 168 de la loi du\n24 juillet 1966, 133 et 135 du décret N° 67.236 du 23 mars 1967, ont été tenus à la\ndisposition des actionnaires dans les conditions prévues aux articles 138 et 139 dudit\ndécret.\n- Que les mêmes documents, à l'exclusion de l'inventaire ont été adressés dans les délais\nlégaux à ceux des actionnaires répondant aux conditions règlementaires requises qui en\navaient fait la demande.\n- Qu'aucune modification n'a été apportée au mode de présentation et aux méthodes\nd'évaluation suivis pendant l'exercice précédent pour l'établissement du bilan, du compte de\nrésultat et de l'annexe.\nL'Assemblée lui donne acte de ces déclarations.\nLe président donne alors lecture du rapport de gestion sur l'activité de la Société au cours de\nl'exercice écoulé.\nSont lus, ensuite, le rapport général du Commissaire aux Comptes sur l'exercice de sa mission\net le rapport spécial sur les conventions visées aux articles 101 et 105 de la loi du 24 juillet\n1966.\nCes lectures terminées, le Président déclare la discussion ouverte.\nPersonne n'ayant demandé la parole, le Président invite l'Assemblée à se prononcer sur les\nrésolutions préparées par le Conseil d'Administration, conformément à l'ordre du jour.",
+      "lines": [
+        {
+          "text": "Puis le Président dépose sur le bureau et met à la disposition des membres de l'Assemblée :",
+          "bbox_norm": [
+            0.0923,
+            0.0879,
+            0.832,
+            0.1055
+          ]
+        },
+        {
+          "text": "MA",
+          "bbox_norm": [
+            0.7132,
+            0.1113,
+            0.7619,
+            0.1173
+          ]
+        },
+        {
+          "text": "+.",
+          "bbox_norm": [
+            0.7625,
+            0.1074,
+            0.8543,
+            0.1187
+          ]
+        },
+        {
+          "text": "- les doubles et les récépissés postaux des lettres de convocation adressés à chacun des",
+          "bbox_norm": [
+            0.0881,
+            0.1157,
+            0.8605,
+            0.1377
+          ]
+        },
+        {
+          "text": "$",
+          "bbox_norm": [
+            0.6459,
+            0.1313,
+            0.6674,
+            0.1411
+          ]
+        },
+        {
+          "text": "#",
+          "bbox_norm": [
+            0.68,
+            0.1324,
+            0.6923,
+            0.1377
+          ]
+        },
+        {
+          "text": "actionnaires.",
+          "bbox_norm": [
+            0.1174,
+            0.1347,
+            0.2243,
+            0.148
+          ]
+        },
+        {
+          "text": "un exemplaire de la lettre de convocation adressée au commissaire aux Comptes,",
+          "bbox_norm": [
+            0.1132,
+            0.1445,
+            0.8611,
+            0.165
+          ]
+        },
+        {
+          "text": "accompagnée du récépissé d'envoi.",
+          "bbox_norm": [
+            0.1167,
+            0.1621,
+            0.4035,
+            0.1783
+          ]
+        },
+        {
+          "text": "- la feuille de présence à l'Assemblée à laquelle sont annexés les formulaires de vote par",
+          "bbox_norm": [
+            0.0938,
+            0.1748,
+            0.8626,
+            0.1944
+          ]
+        },
+        {
+          "text": "correspondance ou par procuration.",
+          "bbox_norm": [
+            0.1174,
+            0.1919,
+            0.407,
+            0.207
+          ]
+        },
+        {
+          "text": "l'inventaire des valeurs actives et passives de la Société au 31 décembre 1992, ainsi que les",
+          "bbox_norm": [
+            0.0938,
+            0.2051,
+            0.8618,
+            0.2232
+          ]
+        },
+        {
+          "text": "comptes annuels et ses annexes,",
+          "bbox_norm": [
+            0.1187,
+            0.2226,
+            0.38,
+            0.2359
+          ]
+        },
+        {
+          "text": "le rapport de gestion.",
+          "bbox_norm": [
+            0.0958,
+            0.2359,
+            0.2847,
+            0.2505
+          ]
+        },
+        {
+          "text": "- les rapports du Commissaire aux comptes.",
+          "bbox_norm": [
+            0.0951,
+            0.2496,
+            0.4563,
+            0.2652
+          ]
+        },
+        {
+          "text": "Le Président déclare ensuite :",
+          "bbox_norm": [
+            0.0951,
+            0.2788,
+            0.3376,
+            0.2935
+          ]
+        },
+        {
+          "text": "- Que les comptes annuels ont été établis conformément au nouveau plan comptable qui",
+          "bbox_norm": [
+            0.0944,
+            0.3066,
+            0.8626,
+            0.3242
+          ]
+        },
+        {
+          "text": "résulte des dispositions de la loi n°83353 du 30 avril 1983 et du décrèt n°831020 du 29",
+          "bbox_norm": [
+            0.1194,
+            0.3223,
+            0.8618,
+            0.3375
+          ]
+        },
+        {
+          "text": "novembre 1983 pris pour son application.",
+          "bbox_norm": [
+            0.1201,
+            0.3379,
+            0.4577,
+            0.3526
+          ]
+        },
+        {
+          "text": "- Que l'inventaire, les comptes annuels et les documents annexes, le rapport de gestion, les",
+          "bbox_norm": [
+            0.0951,
+            0.3657,
+            0.8618,
+            0.3818
+          ]
+        },
+        {
+          "text": "rapports du Commissaire aux Comptes, la liste des Actionnaires, le projet des résolutions,",
+          "bbox_norm": [
+            0.1194,
+            0.3809,
+            0.8626,
+            0.397
+          ]
+        },
+        {
+          "text": "ainsi que les autres documents et renseignements mentionnés aux articles 168 de la loi du",
+          "bbox_norm": [
+            0.1201,
+            0.3955,
+            0.8626,
+            0.4102
+          ]
+        },
+        {
+          "text": "24 juillet 1966, 133 et 135 du décret N° 67.236 du 23 mars 1967, ont été tenus à la",
+          "bbox_norm": [
+            0.1201,
+            0.4097,
+            0.8626,
+            0.4243
+          ]
+        },
+        {
+          "text": "disposition des actionnaires dans les conditions prévues aux articles 138 et 139 dudit",
+          "bbox_norm": [
+            0.1209,
+            0.4243,
+            0.8626,
+            0.439
+          ]
+        },
+        {
+          "text": "décret.",
+          "bbox_norm": [
+            0.1185,
+            0.4374,
+            0.18,
+            0.4542
+          ]
+        },
+        {
+          "text": "- Que les mêmes documents, à l'exclusion de l'inventaire ont été adressés dans les délais",
+          "bbox_norm": [
+            0.0958,
+            0.4669,
+            0.8639,
+            0.482
+          ]
+        },
+        {
+          "text": "légaux à ceux des actionnaires répondant aux conditions règlementaires requises qui en",
+          "bbox_norm": [
+            0.1187,
+            0.4805,
+            0.8646,
+            0.4981
+          ]
+        },
+        {
+          "text": "avaient fait la demande.",
+          "bbox_norm": [
+            0.1201,
+            0.4956,
+            0.316,
+            0.5103
+          ]
+        },
+        {
+          "text": "- Qu'aucune modification n'a été apportée au mode de présentation et aux méthodes",
+          "bbox_norm": [
+            0.0966,
+            0.5245,
+            0.8646,
+            0.5396
+          ]
+        },
+        {
+          "text": "d'évaluation suivis pendant l'exercice précédent pour l'établissement du bilan, du compte de",
+          "bbox_norm": [
+            0.1201,
+            0.5386,
+            0.8646,
+            0.5548
+          ]
+        },
+        {
+          "text": "résultat et de l'annexe.",
+          "bbox_norm": [
+            0.1215,
+            0.5537,
+            0.305,
+            0.5684
+          ]
+        },
+        {
+          "text": "L'Assemblée lui donne acte de ces déclarations.",
+          "bbox_norm": [
+            0.0979,
+            0.5821,
+            0.4854,
+            0.5967
+          ]
+        },
+        {
+          "text": "Le président donne alors lecture du rapport de gestion sur l'activité de la Société au cours de",
+          "bbox_norm": [
+            0.0973,
+            0.6108,
+            0.8661,
+            0.627
+          ]
+        },
+        {
+          "text": "l'exercice écoulé.",
+          "bbox_norm": [
+            0.0973,
+            0.626,
+            0.2403,
+            0.6392
+          ]
+        },
+        {
+          "text": "Sont lus, ensuite, le rapport général du Commissaire aux Comptes sur l'exercice de sa mission",
+          "bbox_norm": [
+            0.0986,
+            0.6548,
+            0.8661,
+            0.6695
+          ]
+        },
+        {
+          "text": "et le rapport spécial sur les conventions visées aux articles 101 et 105 de la loi du 24 juillet",
+          "bbox_norm": [
+            0.0993,
+            0.6695,
+            0.8661,
+            0.6842
+          ]
+        },
+        {
+          "text": "1966.",
+          "bbox_norm": [
+            0.0986,
+            0.6831,
+            0.1487,
+            0.6978
+          ]
+        },
+        {
+          "text": "Ces lectures terminées, le Président déclare la discussion ouverte.",
+          "bbox_norm": [
+            0.0993,
+            0.712,
+            0.6299,
+            0.7271
+          ]
+        },
+        {
+          "text": "Personne n'ayant demandé la parole, le Président invite l'Assemblée à se prononcer sur les",
+          "bbox_norm": [
+            0.0993,
+            0.7407,
+            0.8661,
+            0.7564
+          ]
+        },
+        {
+          "text": "résolutions préparées par le Conseil d'Administration, conformément à l'ordre du jour.",
+          "bbox_norm": [
+            0.0993,
+            0.7554,
+            0.7979,
+            0.771
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "H. L\nPREMIERE RESOLUTION\nL'Assemblée Générale, après avoir entendu :\n- la lecture du rapport de gestion du Conseil d'administration sur les comptes annuels arrêtés\nau 31 décembre 1992.\n- la lecture du rapport général du Commissaire aux Comptes sur l'exécution de sa mission au\ncours de cet exercice.\napprouve les comptes tels qu'ils lui sont présentés, ainsi que les opérations traduites dans les\ncomptes et résumées dans ces rapports.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nDEUXIEME RESOLUTION\nL'Assemblée Générale statuant sur le rapport spécial du Commissaire aux comptes, approuve\nles termes dudit rapport, les intéressés éventuellement concernés par les conventions ne\nprenant pas part au vote.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nTROISIEME RESOLUTION\nComme conséquence des résolutions qui précèdent, l'Assemblée Générale donne quitus aux\nadministrateurs de leur gestion au cours de l'exercice clos le 31 décembre 1992.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nQUATRIEME RESOLUTION\nL'assemblée générale donne également quitus de l'exécution de son mandat pendant le même\nexercice, au Commissaire aux Comptes.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nCINQUIEME RESOLUTION\nL'Assemblée Générale, constate que les comptes annuels font apparaître un bénéfice net\ncomptable d'un montant de 388.447 Francs.\nAdoptant la proposition du Conseil d'Administration, elle décide d'affecter le résultat de la\nmanière suivante :\n- au compte report à nouveau\nen atténuation des pertes antérieures .. .. 388.447 Francs\nConformément aux dispositions de l'article 243 bis du C.G.I., nous vous rappelons qu'il n'a été\ndistribué aucun dividende au cours des trois derniers exercices.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+      "lines": [
+        {
+          "text": "H.",
+          "bbox_norm": [
+            0.907,
+            0.0053,
+            0.9167,
+            0.0092
+          ]
+        },
+        {
+          "text": "L",
+          "bbox_norm": [
+            0.924,
+            0.0047,
+            0.9358,
+            0.01
+          ]
+        },
+        {
+          "text": "PREMIERE RESOLUTION",
+          "bbox_norm": [
+            0.0931,
+            0.0903,
+            0.3438,
+            0.107
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale, après avoir entendu :",
+          "bbox_norm": [
+            0.0903,
+            0.1191,
+            0.457,
+            0.1363
+          ]
+        },
+        {
+          "text": "- la lecture du rapport de gestion du Conseil d'administration sur les comptes annuels arrêtés",
+          "bbox_norm": [
+            0.0931,
+            0.1489,
+            0.8604,
+            0.165
+          ]
+        },
+        {
+          "text": "au 31 décembre 1992.",
+          "bbox_norm": [
+            0.1159,
+            0.1636,
+            0.2994,
+            0.1792
+          ]
+        },
+        {
+          "text": "- la lecture du rapport général du Commissaire aux Comptes sur l'exécution de sa mission au",
+          "bbox_norm": [
+            0.0938,
+            0.1929,
+            0.8611,
+            0.209
+          ]
+        },
+        {
+          "text": "cours de cet exercice.",
+          "bbox_norm": [
+            0.1174,
+            0.209,
+            0.2945,
+            0.2221
+          ]
+        },
+        {
+          "text": "approuve les comptes tels qu'ils lui sont présentés, ainsi que les opérations traduites dans les",
+          "bbox_norm": [
+            0.0923,
+            0.2344,
+            0.8626,
+            0.2549
+          ]
+        },
+        {
+          "text": "comptes et résumées dans ces rapports.",
+          "bbox_norm": [
+            0.0936,
+            0.2514,
+            0.4133,
+            0.2681
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.0951,
+            0.2797,
+            0.7459,
+            0.296
+          ]
+        },
+        {
+          "text": "DEUXIEME RESOLUTION",
+          "bbox_norm": [
+            0.0958,
+            0.3228,
+            0.3494,
+            0.3394
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale statuant sur le rapport spécial du Commissaire aux comptes, approuve",
+          "bbox_norm": [
+            0.0938,
+            0.3515,
+            0.8626,
+            0.3697
+          ]
+        },
+        {
+          "text": "les termes dudit rapport, les intéressés éventuellement concernés par les conventions ne",
+          "bbox_norm": [
+            0.0951,
+            0.3682,
+            0.8626,
+            0.3828
+          ]
+        },
+        {
+          "text": "prenant pas part au vote.",
+          "bbox_norm": [
+            0.0951,
+            0.3823,
+            0.2974,
+            0.399
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.0951,
+            0.4097,
+            0.7459,
+            0.4258
+          ]
+        },
+        {
+          "text": "TROISIEME RESOLUTION",
+          "bbox_norm": [
+            0.0958,
+            0.4531,
+            0.3564,
+            0.4693
+          ]
+        },
+        {
+          "text": "Comme conséquence des résolutions qui précèdent, l'Assemblée Générale donne quitus aux",
+          "bbox_norm": [
+            0.0966,
+            0.483,
+            0.8646,
+            0.499
+          ]
+        },
+        {
+          "text": "administrateurs de leur gestion au cours de l'exercice clos le 31 décembre 1992.",
+          "bbox_norm": [
+            0.0966,
+            0.4976,
+            0.7432,
+            0.5132
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.0973,
+            0.5259,
+            0.7487,
+            0.5415
+          ]
+        },
+        {
+          "text": "QUATRIEME RESOLUTION",
+          "bbox_norm": [
+            0.0979,
+            0.5683,
+            0.3674,
+            0.5851
+          ]
+        },
+        {
+          "text": "L'assemblée générale donne également quitus de l'exécution de son mandat pendant le même",
+          "bbox_norm": [
+            0.0979,
+            0.5982,
+            0.8661,
+            0.6143
+          ]
+        },
+        {
+          "text": "exercice, au Commissaire aux Comptes.",
+          "bbox_norm": [
+            0.0979,
+            0.6123,
+            0.4251,
+            0.6285
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.0993,
+            0.6422,
+            0.7493,
+            0.6567
+          ]
+        },
+        {
+          "text": "CINQUIEME RESOLUTION",
+          "bbox_norm": [
+            0.0986,
+            0.6841,
+            0.3632,
+            0.7008
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale, constate que les comptes annuels font apparaître un bénéfice net",
+          "bbox_norm": [
+            0.0993,
+            0.7144,
+            0.8667,
+            0.729
+          ]
+        },
+        {
+          "text": "comptable d'un montant de 388.447 Francs.",
+          "bbox_norm": [
+            0.0986,
+            0.728,
+            0.4555,
+            0.7437
+          ]
+        },
+        {
+          "text": "Adoptant la proposition du Conseil d'Administration, elle décide d'affecter le résultat de la",
+          "bbox_norm": [
+            0.0986,
+            0.7544,
+            0.8688,
+            0.773
+          ]
+        },
+        {
+          "text": "manière suivante :",
+          "bbox_norm": [
+            0.0993,
+            0.7715,
+            0.2521,
+            0.7862
+          ]
+        },
+        {
+          "text": "- au compte report à nouveau",
+          "bbox_norm": [
+            0.0999,
+            0.7993,
+            0.3446,
+            0.816
+          ]
+        },
+        {
+          "text": "en atténuation des pertes antérieures ..",
+          "bbox_norm": [
+            0.1089,
+            0.814,
+            0.4216,
+            0.8297
+          ]
+        },
+        {
+          "text": ".. 388.447 Francs",
+          "bbox_norm": [
+            0.6861,
+            0.814,
+            0.8265,
+            0.8287
+          ]
+        },
+        {
+          "text": "Conformément aux dispositions de l'article 243 bis du C.G.I., nous vous rappelons qu'il n'a été",
+          "bbox_norm": [
+            0.1014,
+            0.8433,
+            0.8681,
+            0.8579
+          ]
+        },
+        {
+          "text": "distribué aucun dividende au cours des trois derniers exercices.",
+          "bbox_norm": [
+            0.1021,
+            0.8579,
+            0.6125,
+            0.8712
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.1014,
+            0.8858,
+            0.7528,
+            0.9004
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "SIXIEME RESOLUTION\nL'Assemblée Générale prend acte que les comptes de l'exercice prennent en charge la somme\nde 9.558 Francs correspondant à un montant de charges non fiscalement déductibles en\napplication de l'article 394 du CGI.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nSEPTIEME RESOLUTION\nL'Assemblée Générale, constatant que le mandat des membres composant le conseil\nd'administration vient à expiration, renouvelle le mandat de :\nMonsieur Bruno JACQUENET\nadministrateur sortant, pour une durée de six années qui prendra fin à l'issue de l'assemblée\ngénérale appelée à statuer sur les comptes de l'exercice clos le 31 décembre 1998 et décide de\nne pas renouveler le mandat de Monsieur Gaston JACQUENET et de Madame Marie-Louise\nFROIDUROT.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nHUITIEME RESOLUTION\nL'Assemblée Générale, constatant que le mandat du Commissaire aux comptes Titulaire,\nMadme Colette PERRIN, est venu à expiration, décide de renouveler celui-ci pour une durée\nde six exercices, soit jusqu'à l'Assemblée Générale appelée à statuer sur les comptes de\nl'exercice clos le 31 décembre 1998.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nNEUVIEME RESOLUTION\nL'Assemblée Générale, constatant que le mandat du Commissaire aux comptes Suppléant,\nMonsieur Christian BUREAU, est venu à expiration, décide de ne pas renouveler celui-ci et\nde nommer en remplacement Monsieur Jean-François POINSIN, 34 rue Philippe le Bon à\nDIJON (21000) pour une durée de six exercices, soit jusqu'à l'Assemblée Générale appelée à\nstatuer sur les comptes de l'exercice clos le 31 décembre 1998.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nDIXIEME RESOLUTION\nL'Assemblée Générale prend acte que le montant des capitaux propres s'élèvent à 725.087\nFrancs, soit un montant supérieur à la moitié du capital social et charge en conséquence son\nPrésident, de procéder à une inscription modificative au Registre du Commerce et des\nSociétés afin de faire supprimer la mention relative à la perte de la moitié du capital social.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+      "lines": [
+        {
+          "text": "SIXIEME RESOLUTION",
+          "bbox_norm": [
+            0.0951,
+            0.102,
+            0.3258,
+            0.1182
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale prend acte que les comptes de l'exercice prennent en charge la somme",
+          "bbox_norm": [
+            0.0938,
+            0.1313,
+            0.8618,
+            0.1485
+          ]
+        },
+        {
+          "text": "de 9.558 Francs correspondant à un montant de charges non fiscalement déductibles en",
+          "bbox_norm": [
+            0.0951,
+            0.147,
+            0.8618,
+            0.1631
+          ]
+        },
+        {
+          "text": "application de l'article 394 du CGI.",
+          "bbox_norm": [
+            0.0951,
+            0.1606,
+            0.3952,
+            0.1788
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.0958,
+            0.19,
+            0.7459,
+            0.2061
+          ]
+        },
+        {
+          "text": "SEPTIEME RESOLUTION",
+          "bbox_norm": [
+            0.0971,
+            0.2349,
+            0.3431,
+            0.249
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale, constatant que le mandat des membres composant le conseil",
+          "bbox_norm": [
+            0.0973,
+            0.2637,
+            0.8626,
+            0.2783
+          ]
+        },
+        {
+          "text": "d'administration vient à expiration, renouvelle le mandat de :",
+          "bbox_norm": [
+            0.0973,
+            0.2774,
+            0.5904,
+            0.293
+          ]
+        },
+        {
+          "text": "Monsieur Bruno JACQUENET",
+          "bbox_norm": [
+            0.0971,
+            0.3061,
+            0.3556,
+            0.3218
+          ]
+        },
+        {
+          "text": "administrateur sortant, pour une durée de six années qui prendra fin à l'issue de l'assemblée",
+          "bbox_norm": [
+            0.0973,
+            0.3355,
+            0.8633,
+            0.3511
+          ]
+        },
+        {
+          "text": "générale appelée à statuer sur les comptes de l'exercice clos le 31 décembre 1998 et décide de",
+          "bbox_norm": [
+            0.0971,
+            0.3496,
+            0.8646,
+            0.3672
+          ]
+        },
+        {
+          "text": "ne pas renouveler le mandat de Monsieur Gaston JACQUENET et de Madame Marie-Louise",
+          "bbox_norm": [
+            0.0966,
+            0.3643,
+            0.8639,
+            0.3823
+          ]
+        },
+        {
+          "text": "FROIDUROT.",
+          "bbox_norm": [
+            0.0971,
+            0.3794,
+            0.2224,
+            0.3956
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.0979,
+            0.4077,
+            0.75,
+            0.4249
+          ]
+        },
+        {
+          "text": "HUITIEME RESOLUTION",
+          "bbox_norm": [
+            0.0986,
+            0.4502,
+            0.3473,
+            0.4669
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale, constatant que le mandat du Commissaire aux comptes Titulaire,",
+          "bbox_norm": [
+            0.0986,
+            0.4805,
+            0.8661,
+            0.4966
+          ]
+        },
+        {
+          "text": "Madme Colette PERRIN, est venu à expiration, décide de renouveler celui-ci pour une durée",
+          "bbox_norm": [
+            0.0979,
+            0.4942,
+            0.8661,
+            0.5108
+          ]
+        },
+        {
+          "text": "de six exercices, soit jusqu'à l'Assemblée Générale appelée à statuer sur les comptes de",
+          "bbox_norm": [
+            0.0986,
+            0.5093,
+            0.8653,
+            0.525
+          ]
+        },
+        {
+          "text": "l'exercice clos le 31 décembre 1998.",
+          "bbox_norm": [
+            0.0993,
+            0.5245,
+            0.3945,
+            0.5376
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.1,
+            0.5532,
+            0.75,
+            0.5679
+          ]
+        },
+        {
+          "text": "NEUVIEME RESOLUTION",
+          "bbox_norm": [
+            0.0999,
+            0.5947,
+            0.3542,
+            0.6109
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale, constatant que le mandat du Commissaire aux comptes Suppléant,",
+          "bbox_norm": [
+            0.0993,
+            0.6241,
+            0.8667,
+            0.6402
+          ]
+        },
+        {
+          "text": "Monsieur Christian BUREAU, est venu à expiration, décide de ne pas renouveler celui-ci et",
+          "bbox_norm": [
+            0.1006,
+            0.6387,
+            0.8674,
+            0.6534
+          ]
+        },
+        {
+          "text": "de nommer en remplacement Monsieur Jean-François POINSIN, 34 rue Philippe le Bon à",
+          "bbox_norm": [
+            0.1,
+            0.6534,
+            0.8674,
+            0.669
+          ]
+        },
+        {
+          "text": "DIJON (21000) pour une durée de six exercices, soit jusqu'à l'Assemblée Générale appelée à",
+          "bbox_norm": [
+            0.1006,
+            0.668,
+            0.8681,
+            0.6836
+          ]
+        },
+        {
+          "text": "statuer sur les comptes de l'exercice clos le 31 décembre 1998.",
+          "bbox_norm": [
+            0.1014,
+            0.6831,
+            0.6083,
+            0.6978
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.1006,
+            0.711,
+            0.7522,
+            0.7262
+          ]
+        },
+        {
+          "text": "DIXIEME RESOLUTION",
+          "bbox_norm": [
+            0.1014,
+            0.753,
+            0.3361,
+            0.7691
+          ]
+        },
+        {
+          "text": "L'Assemblée Générale prend acte que le montant des capitaux propres s'élèvent à 725.087",
+          "bbox_norm": [
+            0.1006,
+            0.7818,
+            0.8701,
+            0.7984
+          ]
+        },
+        {
+          "text": "Francs, soit un montant supérieur à la moitié du capital social et charge en conséquence son",
+          "bbox_norm": [
+            0.1014,
+            0.7974,
+            0.8701,
+            0.813
+          ]
+        },
+        {
+          "text": "Président, de procéder à une inscription modificative au Registre du Commerce et des",
+          "bbox_norm": [
+            0.1028,
+            0.8125,
+            0.8701,
+            0.8272
+          ]
+        },
+        {
+          "text": "Sociétés afin de faire supprimer la mention relative à la perte de la moitié du capital social.",
+          "bbox_norm": [
+            0.1014,
+            0.8257,
+            0.839,
+            0.8419
+          ]
+        },
+        {
+          "text": "MISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE",
+          "bbox_norm": [
+            0.1035,
+            0.8545,
+            0.7542,
+            0.8692
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": ".\nL'ordre du jour étant épuisé et personne ne demandant la parole, la séance est levée à quinze\nheures.\nDe tout ce que dessus, il a été dressé le présent procès verbal qui a été signé par les membres\ndu bureau, après lecture.\nLE PRESIDENT LE SECRETAIRE\nMonsieur Bruno JACQUENET Monsieur Jean-Paul JÁCQUENET\nLES SCRUTATEURS\nMonsieur Bernard JACQUENET Madame Odile BOISSEAU\n. Povisae\nw\n1\nT",
+      "lines": [
+        {
+          "text": ".",
+          "bbox_norm": [
+            0.0278,
+            0.0645,
+            0.0319,
+            0.0688
+          ]
+        },
+        {
+          "text": "L'ordre du jour étant épuisé et personne ne demandant la parole, la séance est levée à quinze",
+          "bbox_norm": [
+            0.091,
+            0.1026,
+            0.8591,
+            0.1186
+          ]
+        },
+        {
+          "text": "heures.",
+          "bbox_norm": [
+            0.0874,
+            0.1171,
+            0.1544,
+            0.1339
+          ]
+        },
+        {
+          "text": "De tout ce que dessus, il a été dressé le présent procès verbal qui a été signé par les membres",
+          "bbox_norm": [
+            0.091,
+            0.1455,
+            0.8598,
+            0.1626
+          ]
+        },
+        {
+          "text": "du bureau, après lecture.",
+          "bbox_norm": [
+            0.0916,
+            0.1611,
+            0.293,
+            0.1763
+          ]
+        },
+        {
+          "text": "LE PRESIDENT",
+          "bbox_norm": [
+            0.2569,
+            0.2046,
+            0.4069,
+            0.2182
+          ]
+        },
+        {
+          "text": "LE SECRETAIRE",
+          "bbox_norm": [
+            0.5285,
+            0.2036,
+            0.6945,
+            0.2182
+          ]
+        },
+        {
+          "text": "Monsieur Bruno JACQUENET",
+          "bbox_norm": [
+            0.125,
+            0.2324,
+            0.4021,
+            0.2496
+          ]
+        },
+        {
+          "text": "Monsieur Jean-Paul JÁCQUENET",
+          "bbox_norm": [
+            0.5125,
+            0.2315,
+            0.8237,
+            0.2496
+          ]
+        },
+        {
+          "text": "LES SCRUTATEURS",
+          "bbox_norm": [
+            0.38,
+            0.2916,
+            0.5744,
+            0.3061
+          ]
+        },
+        {
+          "text": "Monsieur Bernard JACQUENET",
+          "bbox_norm": [
+            0.143,
+            0.3213,
+            0.4354,
+            0.3364
+          ]
+        },
+        {
+          "text": "Madame Odile BOISSEAU",
+          "bbox_norm": [
+            0.5722,
+            0.3198,
+            0.8104,
+            0.3355
+          ]
+        },
+        {
+          "text": ". Povisae",
+          "bbox_norm": [
+            0.6366,
+            0.347,
+            0.7941,
+            0.3699
+          ]
+        },
+        {
+          "text": "w",
+          "bbox_norm": [
+            0.5195,
+            0.5249,
+            0.5265,
+            0.5298
+          ]
+        },
+        {
+          "text": "1",
+          "bbox_norm": [
+            0.0597,
+            0.7564,
+            0.066,
+            0.7618
+          ]
+        },
+        {
+          "text": "T",
+          "bbox_norm": [
+            0.073,
+            0.7808,
+            0.077,
+            0.7852
+          ]
+        }
+      ]
+    }
+  ],
+  "full_text": "[PAGE 1]\n.\nDuplicata\nGREFFE\nDU\nTRIBUNAL DE COMMERCE\nDE DIJON\nRECEPISSEDE DEPOT\nBP 69 -\n21072 DIJON CEDEX\nPOUR TOUS RENSEIGNEMENTS REGISTRE DU COMMERCE - FAILLITES -\nBILANS : MINITEL 36.29.11.22.\nJURISTES ASSOCIES D'ILE DE FRANCE\n34 A BD DE LA MARNE\n21000\nDIJON\nV/REF :\nN/REF : 68 B 91 / A-1823\nLE GREFFIER DU TRIBUNAL DE COMMERCE DE DIJON CERTIFIE\nQU'IL LUI A ETE DEPOSE A LA DATE DU 09/08/93, SOUS LE NUMERO A-1823,\nP.V. D'ASSEMBLEE DU 30/06/93\nMODIFICATION DE LA COMPOSITION DU CONSEIL D'ADMINISTRATION\nMODIFIÇATION.DE(S) CQMMISSAIRE(S) AUX COMPTES\nFM C F A\nCONCERNANT LA SOCIÉTE\nETABLISSEMENTS JACQUENET MALIN\nSOCIETE ANONYME\nTOUILLON\n21500 MONTBARD\nR.C.S DIJON B 016 850 919 (68 B 91)\nLE GREFFIER\nL'ORIGINAL DELIVRE PAR LE GREFFE DU TA *\n\n[PAGE 2]\nETABLISSEMENTS JACQUENET MALIN\nSociété Anonyme au capital de 680.000. 1\nSiège Social : TOUILLON\n21500 MONTBARD X\nRCS : DIJON B 016 850 919\nX AOUT 1993\nASSEMBLEE GENERALE ORDINAIRE\nANNUELLE\nL'an mil neuf cent quatre vingt treize\nle trente juin\nà quatorze heures trente\nLes actionnaires de la société ETABLISSEMENTS JACQUENET MALIN, société anonyme\nau capital de 680.000 francs, dont le siège est à TOUILLON, 21500 MONTBARD, se sont\nréunis en Assemblée Générale Ordinaire au siège social, sur convocation qui leur a été faite\npar lettre recommandée.\nIl a été dressé une feuille de présence qui a été émargée en entrant en séance, par tous les\nActionnaires présents et les mandataires des Actionnaires représentés dont les formulaires de\nvote par correspondance ou par procuration ont été annexés à la feuille de présence.\nLa séance est ouverte sous la présidence de Monsieur Bruno JACQUENET, Président du\nConseil d'Administration.\nMonsieur Bemard JACQUENET et Madame Odile BOISSEAU, tous deux présents et\nacceptants, représentant tant par eux-mêmes que comme mandataires, le plus grand nombre\nde voix, remplissent les fonctions de scrutateurs.\nMonsieur Jean-Paul JACQUENET est désigné comme secrétaire par l'Assemblée.\nLes membres du bureau ainsi constitué certifient exacte la feuille de présence et, constatant\nque l'Assemblée réunit le quorum requis, déclarent qu'elle peut valablement délibérer.\nMadame Colette PERRIN, Commissaire aux comptes a été règulièrement convoqué dans les\ndélais légaux par lettre recommandée avec accusé de réception.\nLe Président rappelle que l'Assemblée Générale est appelée à délibérer sur l'ordre du jour\nsuivant :\n. Lecture du rapport de gestion de l'exercice clos le 31 décembre 1992,\n. Lecture du rapport du Commissaire aux comptes sur les comptes annuels et de son rapport\nspécial sur les conventions visées aux articles 101 et 105 de la loi du 24 juillet 1966,\n. Approbation desdits comptes annuels et des rapports,\n. Quitus aux administrateurs,\n. Quitus au Commissaire aux Comptes,\n. Affectation des résultats,\n. Renouvellement du mandat de certains Administrateurs,\n. Renouvellement du mandat du Commissaire aux comptes Titulaire,\n. Renouvellement du mandat du Commissaire aux comptes Suppléant,\n. Questions diverses.\n\n[PAGE 3]\n-\n\n[PAGE 4]\nPuis le Président dépose sur le bureau et met à la disposition des membres de l'Assemblée :\nMA +.\n- les doubles et les récépissés postaux des lettres de convocation adressés à chacun des $ #\nactionnaires.\nun exemplaire de la lettre de convocation adressée au commissaire aux Comptes,\naccompagnée du récépissé d'envoi.\n- la feuille de présence à l'Assemblée à laquelle sont annexés les formulaires de vote par\ncorrespondance ou par procuration.\nl'inventaire des valeurs actives et passives de la Société au 31 décembre 1992, ainsi que les\ncomptes annuels et ses annexes,\nle rapport de gestion.\n- les rapports du Commissaire aux comptes.\nLe Président déclare ensuite :\n- Que les comptes annuels ont été établis conformément au nouveau plan comptable qui\nrésulte des dispositions de la loi n°83353 du 30 avril 1983 et du décrèt n°831020 du 29\nnovembre 1983 pris pour son application.\n- Que l'inventaire, les comptes annuels et les documents annexes, le rapport de gestion, les\nrapports du Commissaire aux Comptes, la liste des Actionnaires, le projet des résolutions,\nainsi que les autres documents et renseignements mentionnés aux articles 168 de la loi du\n24 juillet 1966, 133 et 135 du décret N° 67.236 du 23 mars 1967, ont été tenus à la\ndisposition des actionnaires dans les conditions prévues aux articles 138 et 139 dudit\ndécret.\n- Que les mêmes documents, à l'exclusion de l'inventaire ont été adressés dans les délais\nlégaux à ceux des actionnaires répondant aux conditions règlementaires requises qui en\navaient fait la demande.\n- Qu'aucune modification n'a été apportée au mode de présentation et aux méthodes\nd'évaluation suivis pendant l'exercice précédent pour l'établissement du bilan, du compte de\nrésultat et de l'annexe.\nL'Assemblée lui donne acte de ces déclarations.\nLe président donne alors lecture du rapport de gestion sur l'activité de la Société au cours de\nl'exercice écoulé.\nSont lus, ensuite, le rapport général du Commissaire aux Comptes sur l'exercice de sa mission\net le rapport spécial sur les conventions visées aux articles 101 et 105 de la loi du 24 juillet\n1966.\nCes lectures terminées, le Président déclare la discussion ouverte.\nPersonne n'ayant demandé la parole, le Président invite l'Assemblée à se prononcer sur les\nrésolutions préparées par le Conseil d'Administration, conformément à l'ordre du jour.\n\n[PAGE 5]\nH. L\nPREMIERE RESOLUTION\nL'Assemblée Générale, après avoir entendu :\n- la lecture du rapport de gestion du Conseil d'administration sur les comptes annuels arrêtés\nau 31 décembre 1992.\n- la lecture du rapport général du Commissaire aux Comptes sur l'exécution de sa mission au\ncours de cet exercice.\napprouve les comptes tels qu'ils lui sont présentés, ainsi que les opérations traduites dans les\ncomptes et résumées dans ces rapports.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nDEUXIEME RESOLUTION\nL'Assemblée Générale statuant sur le rapport spécial du Commissaire aux comptes, approuve\nles termes dudit rapport, les intéressés éventuellement concernés par les conventions ne\nprenant pas part au vote.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nTROISIEME RESOLUTION\nComme conséquence des résolutions qui précèdent, l'Assemblée Générale donne quitus aux\nadministrateurs de leur gestion au cours de l'exercice clos le 31 décembre 1992.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nQUATRIEME RESOLUTION\nL'assemblée générale donne également quitus de l'exécution de son mandat pendant le même\nexercice, au Commissaire aux Comptes.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nCINQUIEME RESOLUTION\nL'Assemblée Générale, constate que les comptes annuels font apparaître un bénéfice net\ncomptable d'un montant de 388.447 Francs.\nAdoptant la proposition du Conseil d'Administration, elle décide d'affecter le résultat de la\nmanière suivante :\n- au compte report à nouveau\nen atténuation des pertes antérieures .. .. 388.447 Francs\nConformément aux dispositions de l'article 243 bis du C.G.I., nous vous rappelons qu'il n'a été\ndistribué aucun dividende au cours des trois derniers exercices.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\n\n[PAGE 6]\nSIXIEME RESOLUTION\nL'Assemblée Générale prend acte que les comptes de l'exercice prennent en charge la somme\nde 9.558 Francs correspondant à un montant de charges non fiscalement déductibles en\napplication de l'article 394 du CGI.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nSEPTIEME RESOLUTION\nL'Assemblée Générale, constatant que le mandat des membres composant le conseil\nd'administration vient à expiration, renouvelle le mandat de :\nMonsieur Bruno JACQUENET\nadministrateur sortant, pour une durée de six années qui prendra fin à l'issue de l'assemblée\ngénérale appelée à statuer sur les comptes de l'exercice clos le 31 décembre 1998 et décide de\nne pas renouveler le mandat de Monsieur Gaston JACQUENET et de Madame Marie-Louise\nFROIDUROT.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nHUITIEME RESOLUTION\nL'Assemblée Générale, constatant que le mandat du Commissaire aux comptes Titulaire,\nMadme Colette PERRIN, est venu à expiration, décide de renouveler celui-ci pour une durée\nde six exercices, soit jusqu'à l'Assemblée Générale appelée à statuer sur les comptes de\nl'exercice clos le 31 décembre 1998.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nNEUVIEME RESOLUTION\nL'Assemblée Générale, constatant que le mandat du Commissaire aux comptes Suppléant,\nMonsieur Christian BUREAU, est venu à expiration, décide de ne pas renouveler celui-ci et\nde nommer en remplacement Monsieur Jean-François POINSIN, 34 rue Philippe le Bon à\nDIJON (21000) pour une durée de six exercices, soit jusqu'à l'Assemblée Générale appelée à\nstatuer sur les comptes de l'exercice clos le 31 décembre 1998.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\nDIXIEME RESOLUTION\nL'Assemblée Générale prend acte que le montant des capitaux propres s'élèvent à 725.087\nFrancs, soit un montant supérieur à la moitié du capital social et charge en conséquence son\nPrésident, de procéder à une inscription modificative au Registre du Commerce et des\nSociétés afin de faire supprimer la mention relative à la perte de la moitié du capital social.\nMISE AUX VOIX, CETTE RESOLUTION EST ADOPTEE A L'UNANIMITE\n\n[PAGE 7]\n.\nL'ordre du jour étant épuisé et personne ne demandant la parole, la séance est levée à quinze\nheures.\nDe tout ce que dessus, il a été dressé le présent procès verbal qui a été signé par les membres\ndu bureau, après lecture.\nLE PRESIDENT LE SECRETAIRE\nMonsieur Bruno JACQUENET Monsieur Jean-Paul JÁCQUENET\nLES SCRUTATEURS\nMonsieur Bernard JACQUENET Madame Odile BOISSEAU\n. Povisae\nw\n1\nT"
+}
